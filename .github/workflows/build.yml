@@ -1,11 +1,9 @@
 name: Scheduled Build
 on:
   push:
-    branches:
-      - master
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '0 4 * * *'
 
 jobs:
   scheduled:
