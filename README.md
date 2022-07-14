@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Horrific shredded litter, 14th July :- [https://www.fixmystreet.com/report/3675820](https://www.fixmystreet.com/report/3675820)
+- Water pouring from a broken upright pipe, 14th July :- [https://www.fixmystreet.com/report/3675787](https://www.fixmystreet.com/report/3675787)
+- Tree stump moving, 14th July :- [https://www.fixmystreet.com/report/3675374](https://www.fixmystreet.com/report/3675374)
+- Overhanging tree blocking pavement, 14th July :- [https://www.fixmystreet.com/report/3675364](https://www.fixmystreet.com/report/3675364)
 - Water leak on Gloucester Road near the junction of Libertus, 13th July :- [https://www.fixmystreet.com/report/3674642](https://www.fixmystreet.com/report/3674642)
 - Parts of car dumped, 13th July :- [https://www.fixmystreet.com/report/3674640](https://www.fixmystreet.com/report/3674640)
 - Very pronounced trip hazard, 13th July :- [https://www.fixmystreet.com/report/3673678](https://www.fixmystreet.com/report/3673678)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Water leak, 11th July :- [https://www.fixmystreet.com/report/3665775](https://www.fixmystreet.com/report/3665775)
 - Hole in pavement, 11th July :- [https://www.fixmystreet.com/report/3665743](https://www.fixmystreet.com/report/3665743)
 - Dangerous Road Surface, 10th July :- [https://www.fixmystreet.com/report/3665304](https://www.fixmystreet.com/report/3665304)
-- Single Track Road - Potholes along the Length in the Vehicle track positions, 10th July :- [https://www.fixmystreet.com/report/3664817](https://www.fixmystreet.com/report/3664817)
-- Abandoned Waitrose shopping trolley, 10th July :- [https://www.fixmystreet.com/report/3664582](https://www.fixmystreet.com/report/3664582)
-- Deteriorating bicycle unclaimed for circa 2 years, 10th July :- [https://www.fixmystreet.com/report/3664379](https://www.fixmystreet.com/report/3664379)
-- Street Lamp down, 10th July :- [https://www.fixmystreet.com/report/3664129](https://www.fixmystreet.com/report/3664129)
 
 <!-- fix_marker ends -->
