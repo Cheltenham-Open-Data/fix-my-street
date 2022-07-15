@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tip in Layby on Cleeve Common Road, 15th July :- [https://www.fixmystreet.com/report/3678375](https://www.fixmystreet.com/report/3678375)
+- Deep erosion at side of road where passing place is, 15th July :- [https://www.fixmystreet.com/report/3678353](https://www.fixmystreet.com/report/3678353)
 - Horrific shredded litter, 14th July :- [https://www.fixmystreet.com/report/3675820](https://www.fixmystreet.com/report/3675820)
 - Water pouring from a broken upright pipe, 14th July :- [https://www.fixmystreet.com/report/3675787](https://www.fixmystreet.com/report/3675787)
 - Tree stump moving, 14th July :- [https://www.fixmystreet.com/report/3675374](https://www.fixmystreet.com/report/3675374)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A lot of litter all along the verge of A40 (west bound), 11th July :- [https://www.fixmystreet.com/report/3667138](https://www.fixmystreet.com/report/3667138)
 - Dumped swivel chair, 11th July :- [https://www.fixmystreet.com/report/3666448](https://www.fixmystreet.com/report/3666448)
 - Water leak, 11th July :- [https://www.fixmystreet.com/report/3665775](https://www.fixmystreet.com/report/3665775)
-- Hole in pavement, 11th July :- [https://www.fixmystreet.com/report/3665743](https://www.fixmystreet.com/report/3665743)
-- Dangerous Road Surface, 10th July :- [https://www.fixmystreet.com/report/3665304](https://www.fixmystreet.com/report/3665304)
 
 <!-- fix_marker ends -->
