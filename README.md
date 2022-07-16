@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown hedges, 16th July :- [https://www.fixmystreet.com/report/3681078](https://www.fixmystreet.com/report/3681078)
+- Overgrown hedge, 16th July :- [https://www.fixmystreet.com/report/3681022](https://www.fixmystreet.com/report/3681022)
+- Overgrown Vegetation on Pedestrian/Cycle Path, 16th July :- [https://www.fixmystreet.com/report/3680904](https://www.fixmystreet.com/report/3680904)
+- Two very uneven flags presenting a trip hazard of 2 inches at junction of Edinburgh place and Brooklyn Road, 16th July :- [https://www.fixmystreet.com/report/3680642](https://www.fixmystreet.com/report/3680642)
+- Unclear road markings on junction with Abbots Close and Hawkswood Road, 16th July :- [https://www.fixmystreet.com/report/3680625](https://www.fixmystreet.com/report/3680625)
+- Unclear road markings on junction for Hawkswood Road/Woodlands Road, 16th July :- [https://www.fixmystreet.com/report/3680617](https://www.fixmystreet.com/report/3680617)
+- Graffiti in phone box, 16th July :- [https://www.fixmystreet.com/report/3680538](https://www.fixmystreet.com/report/3680538)
+- Drug paraphernalia and party items on the pitch, 16th July :- [https://www.fixmystreet.com/report/3680332](https://www.fixmystreet.com/report/3680332)
 - Fly tip in Layby on Cleeve Common Road, 15th July :- [https://www.fixmystreet.com/report/3678375](https://www.fixmystreet.com/report/3678375)
 - Deep erosion at side of road where passing place is, 15th July :- [https://www.fixmystreet.com/report/3678353](https://www.fixmystreet.com/report/3678353)
 - Horrific shredded litter, 14th July :- [https://www.fixmystreet.com/report/3675820](https://www.fixmystreet.com/report/3675820)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipping, 13th July :- [https://www.fixmystreet.com/report/3672934](https://www.fixmystreet.com/report/3672934)
 - Mud and gravel in road, 13th July :- [https://www.fixmystreet.com/report/3672923](https://www.fixmystreet.com/report/3672923)
 - Grasses obscuring view of road, 13th July :- [https://www.fixmystreet.com/report/3672917](https://www.fixmystreet.com/report/3672917)
-- Litter, 13th July :- [https://www.fixmystreet.com/report/3672912](https://www.fixmystreet.com/report/3672912)
-- Mattress and shopping trolley dumped., 12th July :- [https://www.fixmystreet.com/report/3671274](https://www.fixmystreet.com/report/3671274)
-- Traffic Lights need removing, 12th July :- [https://www.fixmystreet.com/report/3671178](https://www.fixmystreet.com/report/3671178)
-- Flytipping, 12th July :- [https://www.fixmystreet.com/report/3670992](https://www.fixmystreet.com/report/3670992)
-- Flytipping in Montpelier Street, 12th July :- [https://www.fixmystreet.com/report/3669637](https://www.fixmystreet.com/report/3669637)
-- A lot of litter all along the verge of A40 (west bound), 11th July :- [https://www.fixmystreet.com/report/3667138](https://www.fixmystreet.com/report/3667138)
-- Dumped swivel chair, 11th July :- [https://www.fixmystreet.com/report/3666448](https://www.fixmystreet.com/report/3666448)
-- Water leak, 11th July :- [https://www.fixmystreet.com/report/3665775](https://www.fixmystreet.com/report/3665775)
 
 <!-- fix_marker ends -->
