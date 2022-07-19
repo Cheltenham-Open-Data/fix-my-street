@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bins not collected, 18th July :- [https://www.fixmystreet.com/report/3685836](https://www.fixmystreet.com/report/3685836)
 - Graffiti on Electrical Substation, 17th July :- [https://www.fixmystreet.com/report/3682969](https://www.fixmystreet.com/report/3682969)
 - Smashed Domio jar in Evington Road car Park, 17th July :- [https://www.fixmystreet.com/report/3682465](https://www.fixmystreet.com/report/3682465)
 - Bicycle dumped in the planter at Edinburgh place shops, 17th July :- [https://www.fixmystreet.com/report/3681809](https://www.fixmystreet.com/report/3681809)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overhanging tree blocking pavement, 14th July :- [https://www.fixmystreet.com/report/3675364](https://www.fixmystreet.com/report/3675364)
 - Water leak on Gloucester Road near the junction of Libertus, 13th July :- [https://www.fixmystreet.com/report/3674642](https://www.fixmystreet.com/report/3674642)
 - Parts of car dumped, 13th July :- [https://www.fixmystreet.com/report/3674640](https://www.fixmystreet.com/report/3674640)
-- Very pronounced trip hazard, 13th July :- [https://www.fixmystreet.com/report/3673678](https://www.fixmystreet.com/report/3673678)
 
 <!-- fix_marker ends -->
