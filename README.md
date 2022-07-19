@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sign obscured and pointing in wrong direction, 19th July :- [https://www.fixmystreet.com/report/3687190](https://www.fixmystreet.com/report/3687190)
+- Obscured roadsign, 19th July :- [https://www.fixmystreet.com/report/3687173](https://www.fixmystreet.com/report/3687173)
 - Bins not collected, 18th July :- [https://www.fixmystreet.com/report/3685836](https://www.fixmystreet.com/report/3685836)
 - Graffiti on Electrical Substation, 17th July :- [https://www.fixmystreet.com/report/3682969](https://www.fixmystreet.com/report/3682969)
 - Smashed Domio jar in Evington Road car Park, 17th July :- [https://www.fixmystreet.com/report/3682465](https://www.fixmystreet.com/report/3682465)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Water pouring from a broken upright pipe, 14th July :- [https://www.fixmystreet.com/report/3675787](https://www.fixmystreet.com/report/3675787)
 - Tree stump moving, 14th July :- [https://www.fixmystreet.com/report/3675374](https://www.fixmystreet.com/report/3675374)
 - Overhanging tree blocking pavement, 14th July :- [https://www.fixmystreet.com/report/3675364](https://www.fixmystreet.com/report/3675364)
-- Water leak on Gloucester Road near the junction of Libertus, 13th July :- [https://www.fixmystreet.com/report/3674642](https://www.fixmystreet.com/report/3674642)
-- Parts of car dumped, 13th July :- [https://www.fixmystreet.com/report/3674640](https://www.fixmystreet.com/report/3674640)
 
 <!-- fix_marker ends -->
