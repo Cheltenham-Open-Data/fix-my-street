@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pelican crossing slow to change, 21st July :- [https://www.fixmystreet.com/report/3694976](https://www.fixmystreet.com/report/3694976)
+- Street light lit during daytime, 21st July :- [https://www.fixmystreet.com/report/3694614](https://www.fixmystreet.com/report/3694614)
+- Inadequate road hazzard warning, 21st July :- [https://www.fixmystreet.com/report/3694529](https://www.fixmystreet.com/report/3694529)
 - Sign obscured and pointing in wrong direction, 19th July :- [https://www.fixmystreet.com/report/3687190](https://www.fixmystreet.com/report/3687190)
 - Obscured roadsign, 19th July :- [https://www.fixmystreet.com/report/3687173](https://www.fixmystreet.com/report/3687173)
 - Bins not collected, 18th July :- [https://www.fixmystreet.com/report/3685836](https://www.fixmystreet.com/report/3685836)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tip in Layby on Cleeve Common Road, 15th July :- [https://www.fixmystreet.com/report/3678375](https://www.fixmystreet.com/report/3678375)
 - Deep erosion at side of road where passing place is, 15th July :- [https://www.fixmystreet.com/report/3678353](https://www.fixmystreet.com/report/3678353)
 - Horrific shredded litter, 14th July :- [https://www.fixmystreet.com/report/3675820](https://www.fixmystreet.com/report/3675820)
-- Water pouring from a broken upright pipe, 14th July :- [https://www.fixmystreet.com/report/3675787](https://www.fixmystreet.com/report/3675787)
-- Tree stump moving, 14th July :- [https://www.fixmystreet.com/report/3675374](https://www.fixmystreet.com/report/3675374)
-- Overhanging tree blocking pavement, 14th July :- [https://www.fixmystreet.com/report/3675364](https://www.fixmystreet.com/report/3675364)
 
 <!-- fix_marker ends -->
