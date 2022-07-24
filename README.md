@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lights not working, 24th July :- [https://www.fixmystreet.com/report/3701374](https://www.fixmystreet.com/report/3701374)
 - Flytipping of mattress, 23rd July :- [https://www.fixmystreet.com/report/3700772](https://www.fixmystreet.com/report/3700772)
 - Rubbish all over the floor, 23rd July :- [https://www.fixmystreet.com/report/3700530](https://www.fixmystreet.com/report/3700530)
 - Homeowner bush blocking path, 23rd July :- [https://www.fixmystreet.com/report/3700285](https://www.fixmystreet.com/report/3700285)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sign obscured and pointing in wrong direction, 19th July :- [https://www.fixmystreet.com/report/3687190](https://www.fixmystreet.com/report/3687190)
 - Obscured roadsign, 19th July :- [https://www.fixmystreet.com/report/3687173](https://www.fixmystreet.com/report/3687173)
 - Bins not collected, 18th July :- [https://www.fixmystreet.com/report/3685836](https://www.fixmystreet.com/report/3685836)
-- Graffiti on Electrical Substation, 17th July :- [https://www.fixmystreet.com/report/3682969](https://www.fixmystreet.com/report/3682969)
 
 <!-- fix_marker ends -->
