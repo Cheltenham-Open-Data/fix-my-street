@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- There's a huge hole., 24th July :- [https://www.fixmystreet.com/report/3702380](https://www.fixmystreet.com/report/3702380)
+- Road safety barrier missing a panel, 24th July :- [https://www.fixmystreet.com/report/3702269](https://www.fixmystreet.com/report/3702269)
+- Abandoned Vehicles, 24th July :- [https://www.fixmystreet.com/report/3701846](https://www.fixmystreet.com/report/3701846)
+- Possible bird flu a princess Elizabeth wait outside the police station police station, 24th July :- [https://www.fixmystreet.com/report/3701816](https://www.fixmystreet.com/report/3701816)
 - Street lights not working, 24th July :- [https://www.fixmystreet.com/report/3701374](https://www.fixmystreet.com/report/3701374)
 - Flytipping of mattress, 23rd July :- [https://www.fixmystreet.com/report/3700772](https://www.fixmystreet.com/report/3700772)
 - Rubbish all over the floor, 23rd July :- [https://www.fixmystreet.com/report/3700530](https://www.fixmystreet.com/report/3700530)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Cardboard fly tipped on Goldsmith Road, 22nd July :- [https://www.fixmystreet.com/report/3697362](https://www.fixmystreet.com/report/3697362)
 - Pelican crossing slow to change, 21st July :- [https://www.fixmystreet.com/report/3694976](https://www.fixmystreet.com/report/3694976)
 - Street light lit during daytime, 21st July :- [https://www.fixmystreet.com/report/3694614](https://www.fixmystreet.com/report/3694614)
-- Inadequate road hazzard warning, 21st July :- [https://www.fixmystreet.com/report/3694529](https://www.fixmystreet.com/report/3694529)
-- Sign obscured and pointing in wrong direction, 19th July :- [https://www.fixmystreet.com/report/3687190](https://www.fixmystreet.com/report/3687190)
-- Obscured roadsign, 19th July :- [https://www.fixmystreet.com/report/3687173](https://www.fixmystreet.com/report/3687173)
-- Bins not collected, 18th July :- [https://www.fixmystreet.com/report/3685836](https://www.fixmystreet.com/report/3685836)
 
 <!-- fix_marker ends -->
