@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipped has fire, 25th July :- [https://www.fixmystreet.com/report/3706114](https://www.fixmystreet.com/report/3706114)
+- Signs pushed over, 25th July :- [https://www.fixmystreet.com/report/3706110](https://www.fixmystreet.com/report/3706110)
+- Drain cover gone, 25th July :- [https://www.fixmystreet.com/report/3706098](https://www.fixmystreet.com/report/3706098)
 - There's a huge hole., 24th July :- [https://www.fixmystreet.com/report/3702380](https://www.fixmystreet.com/report/3702380)
 - Road safety barrier missing a panel, 24th July :- [https://www.fixmystreet.com/report/3702269](https://www.fixmystreet.com/report/3702269)
 - Abandoned Vehicles, 24th July :- [https://www.fixmystreet.com/report/3701846](https://www.fixmystreet.com/report/3701846)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Thee way traffic lights permanently stuck on red, 23rd July :- [https://www.fixmystreet.com/report/3699960](https://www.fixmystreet.com/report/3699960)
 - Pot holes and uneven road surface, 23rd July :- [https://www.fixmystreet.com/report/3699954](https://www.fixmystreet.com/report/3699954)
 - Thorn bushes overgrown into payh, 22nd July :- [https://www.fixmystreet.com/report/3699772](https://www.fixmystreet.com/report/3699772)
-- Cardboard fly tipped on Goldsmith Road, 22nd July :- [https://www.fixmystreet.com/report/3697362](https://www.fixmystreet.com/report/3697362)
-- Pelican crossing slow to change, 21st July :- [https://www.fixmystreet.com/report/3694976](https://www.fixmystreet.com/report/3694976)
-- Street light lit during daytime, 21st July :- [https://www.fixmystreet.com/report/3694614](https://www.fixmystreet.com/report/3694614)
 
 <!-- fix_marker ends -->
