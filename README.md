@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Temporary traffic lights stuck on red, 26th July :- [https://www.fixmystreet.com/report/3706834](https://www.fixmystreet.com/report/3706834)
+- Trees and brambles blocking footpath, 25th July :- [https://www.fixmystreet.com/report/3706494](https://www.fixmystreet.com/report/3706494)
 - Flytipped has fire, 25th July :- [https://www.fixmystreet.com/report/3706114](https://www.fixmystreet.com/report/3706114)
 - Signs pushed over, 25th July :- [https://www.fixmystreet.com/report/3706110](https://www.fixmystreet.com/report/3706110)
 - Drain cover gone, 25th July :- [https://www.fixmystreet.com/report/3706098](https://www.fixmystreet.com/report/3706098)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light out, 23rd July :- [https://www.fixmystreet.com/report/3700205](https://www.fixmystreet.com/report/3700205)
 - Uneven road surface/potholes, 23rd July :- [https://www.fixmystreet.com/report/3699963](https://www.fixmystreet.com/report/3699963)
 - Thee way traffic lights permanently stuck on red, 23rd July :- [https://www.fixmystreet.com/report/3699960](https://www.fixmystreet.com/report/3699960)
-- Pot holes and uneven road surface, 23rd July :- [https://www.fixmystreet.com/report/3699954](https://www.fixmystreet.com/report/3699954)
-- Thorn bushes overgrown into payh, 22nd July :- [https://www.fixmystreet.com/report/3699772](https://www.fixmystreet.com/report/3699772)
 
 <!-- fix_marker ends -->
