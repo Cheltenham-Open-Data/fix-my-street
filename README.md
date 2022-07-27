@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken bench, 27th July :- [https://www.fixmystreet.com/report/3710527](https://www.fixmystreet.com/report/3710527)
+- Dangerously overgrown trees, 27th July :- [https://www.fixmystreet.com/report/3710211](https://www.fixmystreet.com/report/3710211)
 - Road slipping/potential landslide, 26th July :- [https://www.fixmystreet.com/report/3709205](https://www.fixmystreet.com/report/3709205)
 - Overgrown hedge onto main highway - Ermin Street, 26th July :- [https://www.fixmystreet.com/report/3708862](https://www.fixmystreet.com/report/3708862)
 - Temporary traffic lights stuck on red, 26th July :- [https://www.fixmystreet.com/report/3706834](https://www.fixmystreet.com/report/3706834)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sinking road surface, 23rd July :- [https://www.fixmystreet.com/report/3700271](https://www.fixmystreet.com/report/3700271)
 - More lamppost stickers, 23rd July :- [https://www.fixmystreet.com/report/3700251](https://www.fixmystreet.com/report/3700251)
 - Stickers on lamppost, 23rd July :- [https://www.fixmystreet.com/report/3700248](https://www.fixmystreet.com/report/3700248)
-- Car parked illegally, 23rd July :- [https://www.fixmystreet.com/report/3700215](https://www.fixmystreet.com/report/3700215)
-- Street light out, 23rd July :- [https://www.fixmystreet.com/report/3700205](https://www.fixmystreet.com/report/3700205)
 
 <!-- fix_marker ends -->
