@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fridge freezer has been dumped, 27th July :- [https://www.fixmystreet.com/report/3711954](https://www.fixmystreet.com/report/3711954)
 - Broken bench, 27th July :- [https://www.fixmystreet.com/report/3710527](https://www.fixmystreet.com/report/3710527)
 - Dangerously overgrown trees, 27th July :- [https://www.fixmystreet.com/report/3710211](https://www.fixmystreet.com/report/3710211)
 - Road slipping/potential landslide, 26th July :- [https://www.fixmystreet.com/report/3709205](https://www.fixmystreet.com/report/3709205)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Homeowner bush blocking path, 23rd July :- [https://www.fixmystreet.com/report/3700285](https://www.fixmystreet.com/report/3700285)
 - Sinking road surface, 23rd July :- [https://www.fixmystreet.com/report/3700271](https://www.fixmystreet.com/report/3700271)
 - More lamppost stickers, 23rd July :- [https://www.fixmystreet.com/report/3700251](https://www.fixmystreet.com/report/3700251)
-- Stickers on lamppost, 23rd July :- [https://www.fixmystreet.com/report/3700248](https://www.fixmystreet.com/report/3700248)
 
 <!-- fix_marker ends -->
