@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown foot paths, 29th July :- [https://www.fixmystreet.com/report/3717096](https://www.fixmystreet.com/report/3717096)
+- Lots of flytipping, 29th July :- [https://www.fixmystreet.com/report/3716973](https://www.fixmystreet.com/report/3716973)
+- Abandoned vehicle, 29th July :- [https://www.fixmystreet.com/report/3716965](https://www.fixmystreet.com/report/3716965)
+- Overgrown Narrow Footpath, 29th July :- [https://www.fixmystreet.com/report/3716955](https://www.fixmystreet.com/report/3716955)
+- Fire hazard!, 29th July :- [https://www.fixmystreet.com/report/3716880](https://www.fixmystreet.com/report/3716880)
+- Manhole cover has been damaged, 29th July :- [https://www.fixmystreet.com/report/3716701](https://www.fixmystreet.com/report/3716701)
+- Subsidence in road, Dunalley Street, Cheltenham, 29th July :- [https://www.fixmystreet.com/report/3716475](https://www.fixmystreet.com/report/3716475)
 - Fridge freezer has been dumped, 27th July :- [https://www.fixmystreet.com/report/3711954](https://www.fixmystreet.com/report/3711954)
 - Broken bench, 27th July :- [https://www.fixmystreet.com/report/3710527](https://www.fixmystreet.com/report/3710527)
 - Dangerously overgrown trees, 27th July :- [https://www.fixmystreet.com/report/3710211](https://www.fixmystreet.com/report/3710211)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - There's a huge hole., 24th July :- [https://www.fixmystreet.com/report/3702380](https://www.fixmystreet.com/report/3702380)
 - Road safety barrier missing a panel, 24th July :- [https://www.fixmystreet.com/report/3702269](https://www.fixmystreet.com/report/3702269)
 - Abandoned Vehicles, 24th July :- [https://www.fixmystreet.com/report/3701846](https://www.fixmystreet.com/report/3701846)
-- Possible bird flu a princess Elizabeth wait outside the police station police station, 24th July :- [https://www.fixmystreet.com/report/3701816](https://www.fixmystreet.com/report/3701816)
-- Street lights not working, 24th July :- [https://www.fixmystreet.com/report/3701374](https://www.fixmystreet.com/report/3701374)
-- Flytipping of mattress, 23rd July :- [https://www.fixmystreet.com/report/3700772](https://www.fixmystreet.com/report/3700772)
-- Rubbish all over the floor, 23rd July :- [https://www.fixmystreet.com/report/3700530](https://www.fixmystreet.com/report/3700530)
-- Homeowner bush blocking path, 23rd July :- [https://www.fixmystreet.com/report/3700285](https://www.fixmystreet.com/report/3700285)
-- Sinking road surface, 23rd July :- [https://www.fixmystreet.com/report/3700271](https://www.fixmystreet.com/report/3700271)
-- More lamppost stickers, 23rd July :- [https://www.fixmystreet.com/report/3700251](https://www.fixmystreet.com/report/3700251)
 
 <!-- fix_marker ends -->
