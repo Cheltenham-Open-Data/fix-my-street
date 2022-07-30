@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cans and the nitrous oxide canisters a big one behind the bus stop on Tennyson Road opposite Byron Road, 29th July :- [https://www.fixmystreet.com/report/3717185](https://www.fixmystreet.com/report/3717185)
 - Overgrown foot paths, 29th July :- [https://www.fixmystreet.com/report/3717096](https://www.fixmystreet.com/report/3717096)
 - Lots of flytipping, 29th July :- [https://www.fixmystreet.com/report/3716973](https://www.fixmystreet.com/report/3716973)
 - Abandoned vehicle, 29th July :- [https://www.fixmystreet.com/report/3716965](https://www.fixmystreet.com/report/3716965)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain cover gone, 25th July :- [https://www.fixmystreet.com/report/3706098](https://www.fixmystreet.com/report/3706098)
 - There's a huge hole., 24th July :- [https://www.fixmystreet.com/report/3702380](https://www.fixmystreet.com/report/3702380)
 - Road safety barrier missing a panel, 24th July :- [https://www.fixmystreet.com/report/3702269](https://www.fixmystreet.com/report/3702269)
-- Abandoned Vehicles, 24th July :- [https://www.fixmystreet.com/report/3701846](https://www.fixmystreet.com/report/3701846)
 
 <!-- fix_marker ends -->
