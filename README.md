@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vehicles parking on pavement & blocking road, 30th July :- [https://www.fixmystreet.com/report/3718585](https://www.fixmystreet.com/report/3718585)
+- Possible water leak, 30th July :- [https://www.fixmystreet.com/report/3718401](https://www.fixmystreet.com/report/3718401)
+- Flytipped frodges, 30th July :- [https://www.fixmystreet.com/report/3717937](https://www.fixmystreet.com/report/3717937)
 - Cans and the nitrous oxide canisters a big one behind the bus stop on Tennyson Road opposite Byron Road, 29th July :- [https://www.fixmystreet.com/report/3717185](https://www.fixmystreet.com/report/3717185)
 - Overgrown foot paths, 29th July :- [https://www.fixmystreet.com/report/3717096](https://www.fixmystreet.com/report/3717096)
 - Lots of flytipping, 29th July :- [https://www.fixmystreet.com/report/3716973](https://www.fixmystreet.com/report/3716973)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trees and brambles blocking footpath, 25th July :- [https://www.fixmystreet.com/report/3706494](https://www.fixmystreet.com/report/3706494)
 - Flytipped has fire, 25th July :- [https://www.fixmystreet.com/report/3706114](https://www.fixmystreet.com/report/3706114)
 - Signs pushed over, 25th July :- [https://www.fixmystreet.com/report/3706110](https://www.fixmystreet.com/report/3706110)
-- Drain cover gone, 25th July :- [https://www.fixmystreet.com/report/3706098](https://www.fixmystreet.com/report/3706098)
-- There's a huge hole., 24th July :- [https://www.fixmystreet.com/report/3702380](https://www.fixmystreet.com/report/3702380)
-- Road safety barrier missing a panel, 24th July :- [https://www.fixmystreet.com/report/3702269](https://www.fixmystreet.com/report/3702269)
 
 <!-- fix_marker ends -->
