@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very bad condition of road surface, 31st July :- [https://www.fixmystreet.com/report/3719063](https://www.fixmystreet.com/report/3719063)
 - Vehicles parking on pavement & blocking road, 30th July :- [https://www.fixmystreet.com/report/3718585](https://www.fixmystreet.com/report/3718585)
 - Possible water leak, 30th July :- [https://www.fixmystreet.com/report/3718401](https://www.fixmystreet.com/report/3718401)
 - Flytipped frodges, 30th July :- [https://www.fixmystreet.com/report/3717937](https://www.fixmystreet.com/report/3717937)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Temporary traffic lights stuck on red, 26th July :- [https://www.fixmystreet.com/report/3706834](https://www.fixmystreet.com/report/3706834)
 - Trees and brambles blocking footpath, 25th July :- [https://www.fixmystreet.com/report/3706494](https://www.fixmystreet.com/report/3706494)
 - Flytipped has fire, 25th July :- [https://www.fixmystreet.com/report/3706114](https://www.fixmystreet.com/report/3706114)
-- Signs pushed over, 25th July :- [https://www.fixmystreet.com/report/3706110](https://www.fixmystreet.com/report/3706110)
 
 <!-- fix_marker ends -->
