@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown trees and bushes partially blocking shared cycle/footpath, 31st July :- [https://www.fixmystreet.com/report/3720616](https://www.fixmystreet.com/report/3720616)
 - Dead tree, 31st July :- [https://www.fixmystreet.com/report/3720183](https://www.fixmystreet.com/report/3720183)
 - 2 big potholes and a small one, 31st July :- [https://www.fixmystreet.com/report/3719558](https://www.fixmystreet.com/report/3719558)
 - Very bad condition of road surface, 31st July :- [https://www.fixmystreet.com/report/3719063](https://www.fixmystreet.com/report/3719063)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerously overgrown trees, 27th July :- [https://www.fixmystreet.com/report/3710211](https://www.fixmystreet.com/report/3710211)
 - Road slipping/potential landslide, 26th July :- [https://www.fixmystreet.com/report/3709205](https://www.fixmystreet.com/report/3709205)
 - Overgrown hedge onto main highway - Ermin Street, 26th July :- [https://www.fixmystreet.com/report/3708862](https://www.fixmystreet.com/report/3708862)
-- Temporary traffic lights stuck on red, 26th July :- [https://www.fixmystreet.com/report/3706834](https://www.fixmystreet.com/report/3706834)
 
 <!-- fix_marker ends -->
