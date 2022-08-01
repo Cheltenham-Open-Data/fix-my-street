@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes - one quite deep, 1st August :- [https://www.fixmystreet.com/report/3721144](https://www.fixmystreet.com/report/3721144)
+- Several deep sharp edged potholes at location, 1st August :- [https://www.fixmystreet.com/report/3721112](https://www.fixmystreet.com/report/3721112)
 - Overgrown trees and bushes partially blocking shared cycle/footpath, 31st July :- [https://www.fixmystreet.com/report/3720616](https://www.fixmystreet.com/report/3720616)
 - Dead tree, 31st July :- [https://www.fixmystreet.com/report/3720183](https://www.fixmystreet.com/report/3720183)
 - 2 big potholes and a small one, 31st July :- [https://www.fixmystreet.com/report/3719558](https://www.fixmystreet.com/report/3719558)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fridge freezer has been dumped, 27th July :- [https://www.fixmystreet.com/report/3711954](https://www.fixmystreet.com/report/3711954)
 - Broken bench, 27th July :- [https://www.fixmystreet.com/report/3710527](https://www.fixmystreet.com/report/3710527)
 - Dangerously overgrown trees, 27th July :- [https://www.fixmystreet.com/report/3710211](https://www.fixmystreet.com/report/3710211)
-- Road slipping/potential landslide, 26th July :- [https://www.fixmystreet.com/report/3709205](https://www.fixmystreet.com/report/3709205)
-- Overgrown hedge onto main highway - Ermin Street, 26th July :- [https://www.fixmystreet.com/report/3708862](https://www.fixmystreet.com/report/3708862)
 
 <!-- fix_marker ends -->
