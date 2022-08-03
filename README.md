@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Burnt Flytipped Matewrial at Location, 3rd August :- [https://www.fixmystreet.com/report/3726852](https://www.fixmystreet.com/report/3726852)
 - Recently planted tree has been snapped., 2nd August :- [https://www.fixmystreet.com/report/3724677](https://www.fixmystreet.com/report/3724677)
 - Tree care and footpath maintenance, 1st August :- [https://www.fixmystreet.com/report/3722894](https://www.fixmystreet.com/report/3722894)
 - Potholes - one quite deep, 1st August :- [https://www.fixmystreet.com/report/3721144](https://www.fixmystreet.com/report/3721144)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fire hazard!, 29th July :- [https://www.fixmystreet.com/report/3716880](https://www.fixmystreet.com/report/3716880)
 - Manhole cover has been damaged, 29th July :- [https://www.fixmystreet.com/report/3716701](https://www.fixmystreet.com/report/3716701)
 - Subsidence in road, Dunalley Street, Cheltenham, 29th July :- [https://www.fixmystreet.com/report/3716475](https://www.fixmystreet.com/report/3716475)
-- Fridge freezer has been dumped, 27th July :- [https://www.fixmystreet.com/report/3711954](https://www.fixmystreet.com/report/3711954)
 
 <!-- fix_marker ends -->
