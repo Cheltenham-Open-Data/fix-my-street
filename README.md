@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Poor road surface by entrance to recycling centre, 4th August :- [https://www.fixmystreet.com/report/3731436](https://www.fixmystreet.com/report/3731436)
+- Bollard in road is flashing, should be a steady light, 4th August :- [https://www.fixmystreet.com/report/3730384](https://www.fixmystreet.com/report/3730384)
 - Overgrown bush on pavement, 3rd August :- [https://www.fixmystreet.com/report/3729124](https://www.fixmystreet.com/report/3729124)
 - Burnt Flytipped Matewrial at Location, 3rd August :- [https://www.fixmystreet.com/report/3726852](https://www.fixmystreet.com/report/3726852)
 - Recently planted tree has been snapped., 2nd August :- [https://www.fixmystreet.com/report/3724677](https://www.fixmystreet.com/report/3724677)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lots of flytipping, 29th July :- [https://www.fixmystreet.com/report/3716973](https://www.fixmystreet.com/report/3716973)
 - Abandoned vehicle, 29th July :- [https://www.fixmystreet.com/report/3716965](https://www.fixmystreet.com/report/3716965)
 - Overgrown Narrow Footpath, 29th July :- [https://www.fixmystreet.com/report/3716955](https://www.fixmystreet.com/report/3716955)
-- Fire hazard!, 29th July :- [https://www.fixmystreet.com/report/3716880](https://www.fixmystreet.com/report/3716880)
-- Manhole cover has been damaged, 29th July :- [https://www.fixmystreet.com/report/3716701](https://www.fixmystreet.com/report/3716701)
 
 <!-- fix_marker ends -->
