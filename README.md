@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned roadworks sign & sandbags, 5th August :- [https://www.fixmystreet.com/report/3733487](https://www.fixmystreet.com/report/3733487)
+- Mattress, road sign, freezer, bin been dumped, 5th August :- [https://www.fixmystreet.com/report/3732792](https://www.fixmystreet.com/report/3732792)
 - Poor road surface by entrance to recycling centre, 4th August :- [https://www.fixmystreet.com/report/3731436](https://www.fixmystreet.com/report/3731436)
 - Bollard in road is flashing, should be a steady light, 4th August :- [https://www.fixmystreet.com/report/3730384](https://www.fixmystreet.com/report/3730384)
 - Overgrown bush on pavement, 3rd August :- [https://www.fixmystreet.com/report/3729124](https://www.fixmystreet.com/report/3729124)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Cans and the nitrous oxide canisters a big one behind the bus stop on Tennyson Road opposite Byron Road, 29th July :- [https://www.fixmystreet.com/report/3717185](https://www.fixmystreet.com/report/3717185)
 - Overgrown foot paths, 29th July :- [https://www.fixmystreet.com/report/3717096](https://www.fixmystreet.com/report/3717096)
 - Lots of flytipping, 29th July :- [https://www.fixmystreet.com/report/3716973](https://www.fixmystreet.com/report/3716973)
-- Abandoned vehicle, 29th July :- [https://www.fixmystreet.com/report/3716965](https://www.fixmystreet.com/report/3716965)
-- Overgrown Narrow Footpath, 29th July :- [https://www.fixmystreet.com/report/3716955](https://www.fixmystreet.com/report/3716955)
 
 <!-- fix_marker ends -->
