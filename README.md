@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Water valve access point, 6th August :- [https://www.fixmystreet.com/report/3734230](https://www.fixmystreet.com/report/3734230)
 - Abandoned roadworks sign & sandbags, 5th August :- [https://www.fixmystreet.com/report/3733487](https://www.fixmystreet.com/report/3733487)
 - Mattress, road sign, freezer, bin been dumped, 5th August :- [https://www.fixmystreet.com/report/3732792](https://www.fixmystreet.com/report/3732792)
 - Poor road surface by entrance to recycling centre, 4th August :- [https://www.fixmystreet.com/report/3731436](https://www.fixmystreet.com/report/3731436)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped frodges, 30th July :- [https://www.fixmystreet.com/report/3717937](https://www.fixmystreet.com/report/3717937)
 - Cans and the nitrous oxide canisters a big one behind the bus stop on Tennyson Road opposite Byron Road, 29th July :- [https://www.fixmystreet.com/report/3717185](https://www.fixmystreet.com/report/3717185)
 - Overgrown foot paths, 29th July :- [https://www.fixmystreet.com/report/3717096](https://www.fixmystreet.com/report/3717096)
-- Lots of flytipping, 29th July :- [https://www.fixmystreet.com/report/3716973](https://www.fixmystreet.com/report/3716973)
 
 <!-- fix_marker ends -->
