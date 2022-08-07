@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vegetation obscuring pavement & Road Sign - Greenacre Way, 7th August :- [https://www.fixmystreet.com/report/3736136](https://www.fixmystreet.com/report/3736136)
+- Dog poo bin, 7th August :- [https://www.fixmystreet.com/report/3735967](https://www.fixmystreet.com/report/3735967)
 - Water valve access point, 6th August :- [https://www.fixmystreet.com/report/3734230](https://www.fixmystreet.com/report/3734230)
 - Abandoned roadworks sign & sandbags, 5th August :- [https://www.fixmystreet.com/report/3733487](https://www.fixmystreet.com/report/3733487)
 - Mattress, road sign, freezer, bin been dumped, 5th August :- [https://www.fixmystreet.com/report/3732792](https://www.fixmystreet.com/report/3732792)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Vehicles parking on pavement & blocking road, 30th July :- [https://www.fixmystreet.com/report/3718585](https://www.fixmystreet.com/report/3718585)
 - Possible water leak, 30th July :- [https://www.fixmystreet.com/report/3718401](https://www.fixmystreet.com/report/3718401)
 - Flytipped frodges, 30th July :- [https://www.fixmystreet.com/report/3717937](https://www.fixmystreet.com/report/3717937)
-- Cans and the nitrous oxide canisters a big one behind the bus stop on Tennyson Road opposite Byron Road, 29th July :- [https://www.fixmystreet.com/report/3717185](https://www.fixmystreet.com/report/3717185)
-- Overgrown foot paths, 29th July :- [https://www.fixmystreet.com/report/3717096](https://www.fixmystreet.com/report/3717096)
 
 <!-- fix_marker ends -->
