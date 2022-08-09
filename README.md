@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- COVID hoax sticker, 9th August :- [https://www.fixmystreet.com/report/3742227](https://www.fixmystreet.com/report/3742227)
+- Boulton Road poor road surface, 9th August :- [https://www.fixmystreet.com/report/3742190](https://www.fixmystreet.com/report/3742190)
+- Bin not emptied, 9th August :- [https://www.fixmystreet.com/report/3740499](https://www.fixmystreet.com/report/3740499)
 - Vegetation obscuring pavement & Road Sign - Greenacre Way, 7th August :- [https://www.fixmystreet.com/report/3736136](https://www.fixmystreet.com/report/3736136)
 - Dog poo bin, 7th August :- [https://www.fixmystreet.com/report/3735967](https://www.fixmystreet.com/report/3735967)
 - Water valve access point, 6th August :- [https://www.fixmystreet.com/report/3734230](https://www.fixmystreet.com/report/3734230)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dead tree, 31st July :- [https://www.fixmystreet.com/report/3720183](https://www.fixmystreet.com/report/3720183)
 - 2 big potholes and a small one, 31st July :- [https://www.fixmystreet.com/report/3719558](https://www.fixmystreet.com/report/3719558)
 - Very bad condition of road surface, 31st July :- [https://www.fixmystreet.com/report/3719063](https://www.fixmystreet.com/report/3719063)
-- Vehicles parking on pavement & blocking road, 30th July :- [https://www.fixmystreet.com/report/3718585](https://www.fixmystreet.com/report/3718585)
-- Possible water leak, 30th July :- [https://www.fixmystreet.com/report/3718401](https://www.fixmystreet.com/report/3718401)
-- Flytipped frodges, 30th July :- [https://www.fixmystreet.com/report/3717937](https://www.fixmystreet.com/report/3717937)
 
 <!-- fix_marker ends -->
