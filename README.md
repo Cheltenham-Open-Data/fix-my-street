@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Litter in abundance, 10th August :- [https://www.fixmystreet.com/report/3745228](https://www.fixmystreet.com/report/3745228)
+- Road in dire need of repair and resurfacing, 10th August :- [https://www.fixmystreet.com/report/3745144](https://www.fixmystreet.com/report/3745144)
 - COVID hoax sticker, 9th August :- [https://www.fixmystreet.com/report/3742227](https://www.fixmystreet.com/report/3742227)
 - Boulton Road poor road surface, 9th August :- [https://www.fixmystreet.com/report/3742190](https://www.fixmystreet.com/report/3742190)
 - Bin not emptied, 9th August :- [https://www.fixmystreet.com/report/3740499](https://www.fixmystreet.com/report/3740499)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Several deep sharp edged potholes at location, 1st August :- [https://www.fixmystreet.com/report/3721112](https://www.fixmystreet.com/report/3721112)
 - Overgrown trees and bushes partially blocking shared cycle/footpath, 31st July :- [https://www.fixmystreet.com/report/3720616](https://www.fixmystreet.com/report/3720616)
 - Dead tree, 31st July :- [https://www.fixmystreet.com/report/3720183](https://www.fixmystreet.com/report/3720183)
-- 2 big potholes and a small one, 31st July :- [https://www.fixmystreet.com/report/3719558](https://www.fixmystreet.com/report/3719558)
-- Very bad condition of road surface, 31st July :- [https://www.fixmystreet.com/report/3719063](https://www.fixmystreet.com/report/3719063)
 
 <!-- fix_marker ends -->
