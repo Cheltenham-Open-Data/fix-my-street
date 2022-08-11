@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown bushes on footpath to new HSL school, 11th August :- [https://www.fixmystreet.com/report/3746079](https://www.fixmystreet.com/report/3746079)
+- Overgrown path for primary HSL school walk, 10th August :- [https://www.fixmystreet.com/report/3745663](https://www.fixmystreet.com/report/3745663)
+- Trees overgrown on new HSL school route, 10th August :- [https://www.fixmystreet.com/report/3745641](https://www.fixmystreet.com/report/3745641)
 - Litter in abundance, 10th August :- [https://www.fixmystreet.com/report/3745228](https://www.fixmystreet.com/report/3745228)
 - Road in dire need of repair and resurfacing, 10th August :- [https://www.fixmystreet.com/report/3745144](https://www.fixmystreet.com/report/3745144)
 - COVID hoax sticker, 9th August :- [https://www.fixmystreet.com/report/3742227](https://www.fixmystreet.com/report/3742227)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Recently planted tree has been snapped., 2nd August :- [https://www.fixmystreet.com/report/3724677](https://www.fixmystreet.com/report/3724677)
 - Tree care and footpath maintenance, 1st August :- [https://www.fixmystreet.com/report/3722894](https://www.fixmystreet.com/report/3722894)
 - Potholes - one quite deep, 1st August :- [https://www.fixmystreet.com/report/3721144](https://www.fixmystreet.com/report/3721144)
-- Several deep sharp edged potholes at location, 1st August :- [https://www.fixmystreet.com/report/3721112](https://www.fixmystreet.com/report/3721112)
-- Overgrown trees and bushes partially blocking shared cycle/footpath, 31st July :- [https://www.fixmystreet.com/report/3720616](https://www.fixmystreet.com/report/3720616)
-- Dead tree, 31st July :- [https://www.fixmystreet.com/report/3720183](https://www.fixmystreet.com/report/3720183)
 
 <!-- fix_marker ends -->
