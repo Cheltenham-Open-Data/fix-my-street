@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The road looks to be suffering from subsidence., 12th August :- [https://www.fixmystreet.com/report/3750331](https://www.fixmystreet.com/report/3750331)
+- Illegal parking blocking garage door of Regency Place, 12th August :- [https://www.fixmystreet.com/report/3750036](https://www.fixmystreet.com/report/3750036)
 - Deep hole in pavement, 12th August :- [https://www.fixmystreet.com/report/3748633](https://www.fixmystreet.com/report/3748633)
 - Faulty green/red man display, 11th August :- [https://www.fixmystreet.com/report/3748027](https://www.fixmystreet.com/report/3748027)
 - Overgrown bushes on footpath to new HSL school, 11th August :- [https://www.fixmystreet.com/report/3746079](https://www.fixmystreet.com/report/3746079)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Poor road surface by entrance to recycling centre, 4th August :- [https://www.fixmystreet.com/report/3731436](https://www.fixmystreet.com/report/3731436)
 - Bollard in road is flashing, should be a steady light, 4th August :- [https://www.fixmystreet.com/report/3730384](https://www.fixmystreet.com/report/3730384)
 - Overgrown bush on pavement, 3rd August :- [https://www.fixmystreet.com/report/3729124](https://www.fixmystreet.com/report/3729124)
-- Burnt Flytipped Matewrial at Location, 3rd August :- [https://www.fixmystreet.com/report/3726852](https://www.fixmystreet.com/report/3726852)
-- Recently planted tree has been snapped., 2nd August :- [https://www.fixmystreet.com/report/3724677](https://www.fixmystreet.com/report/3724677)
 
 <!-- fix_marker ends -->
