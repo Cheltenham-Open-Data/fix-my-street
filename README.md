@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep hole in pavement, 12th August :- [https://www.fixmystreet.com/report/3748633](https://www.fixmystreet.com/report/3748633)
 - Faulty green/red man display, 11th August :- [https://www.fixmystreet.com/report/3748027](https://www.fixmystreet.com/report/3748027)
 - Overgrown bushes on footpath to new HSL school, 11th August :- [https://www.fixmystreet.com/report/3746079](https://www.fixmystreet.com/report/3746079)
 - Overgrown path for primary HSL school walk, 10th August :- [https://www.fixmystreet.com/report/3745663](https://www.fixmystreet.com/report/3745663)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown bush on pavement, 3rd August :- [https://www.fixmystreet.com/report/3729124](https://www.fixmystreet.com/report/3729124)
 - Burnt Flytipped Matewrial at Location, 3rd August :- [https://www.fixmystreet.com/report/3726852](https://www.fixmystreet.com/report/3726852)
 - Recently planted tree has been snapped., 2nd August :- [https://www.fixmystreet.com/report/3724677](https://www.fixmystreet.com/report/3724677)
-- Tree care and footpath maintenance, 1st August :- [https://www.fixmystreet.com/report/3722894](https://www.fixmystreet.com/report/3722894)
 
 <!-- fix_marker ends -->
