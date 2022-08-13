@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned cone opposite Brittan place been hanging around for weeks, 13th August :- [https://www.fixmystreet.com/report/3751461](https://www.fixmystreet.com/report/3751461)
 - Broken bench, 12th August :- [https://www.fixmystreet.com/report/3750614](https://www.fixmystreet.com/report/3750614)
 - The road looks to be suffering from subsidence., 12th August :- [https://www.fixmystreet.com/report/3750331](https://www.fixmystreet.com/report/3750331)
 - Illegal parking blocking garage door of Regency Place, 12th August :- [https://www.fixmystreet.com/report/3750036](https://www.fixmystreet.com/report/3750036)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned roadworks sign & sandbags, 5th August :- [https://www.fixmystreet.com/report/3733487](https://www.fixmystreet.com/report/3733487)
 - Mattress, road sign, freezer, bin been dumped, 5th August :- [https://www.fixmystreet.com/report/3732792](https://www.fixmystreet.com/report/3732792)
 - Poor road surface by entrance to recycling centre, 4th August :- [https://www.fixmystreet.com/report/3731436](https://www.fixmystreet.com/report/3731436)
-- Bollard in road is flashing, should be a steady light, 4th August :- [https://www.fixmystreet.com/report/3730384](https://www.fixmystreet.com/report/3730384)
 
 <!-- fix_marker ends -->
