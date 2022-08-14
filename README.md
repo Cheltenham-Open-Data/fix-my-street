@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipped stuff still there four weeks after being reported!, 14th August :- [https://www.fixmystreet.com/report/3752576](https://www.fixmystreet.com/report/3752576)
+- Water leak, 14th August :- [https://www.fixmystreet.com/report/3752348](https://www.fixmystreet.com/report/3752348)
 - Abandoned cone opposite Brittan place been hanging around for weeks, 13th August :- [https://www.fixmystreet.com/report/3751461](https://www.fixmystreet.com/report/3751461)
 - Broken bench, 12th August :- [https://www.fixmystreet.com/report/3750614](https://www.fixmystreet.com/report/3750614)
 - The road looks to be suffering from subsidence., 12th August :- [https://www.fixmystreet.com/report/3750331](https://www.fixmystreet.com/report/3750331)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dog poo bin, 7th August :- [https://www.fixmystreet.com/report/3735967](https://www.fixmystreet.com/report/3735967)
 - Water valve access point, 6th August :- [https://www.fixmystreet.com/report/3734230](https://www.fixmystreet.com/report/3734230)
 - Abandoned roadworks sign & sandbags, 5th August :- [https://www.fixmystreet.com/report/3733487](https://www.fixmystreet.com/report/3733487)
-- Mattress, road sign, freezer, bin been dumped, 5th August :- [https://www.fixmystreet.com/report/3732792](https://www.fixmystreet.com/report/3732792)
-- Poor road surface by entrance to recycling centre, 4th August :- [https://www.fixmystreet.com/report/3731436](https://www.fixmystreet.com/report/3731436)
 
 <!-- fix_marker ends -->
