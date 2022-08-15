@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Apparent speed limit sign anomalies, 15th August :- [https://www.fixmystreet.com/report/3755791](https://www.fixmystreet.com/report/3755791)
+- Road signage hidden by overgrown hedge, 15th August :- [https://www.fixmystreet.com/report/3755707](https://www.fixmystreet.com/report/3755707)
+- Aldi trolley, 15th August :- [https://www.fixmystreet.com/report/3755622](https://www.fixmystreet.com/report/3755622)
+- Large tree blocking street light, light to property, risk of damaging property., 15th August :- [https://www.fixmystreet.com/report/3754478](https://www.fixmystreet.com/report/3754478)
 - Fly tipped stuff still there four weeks after being reported!, 14th August :- [https://www.fixmystreet.com/report/3752576](https://www.fixmystreet.com/report/3752576)
 - Water leak, 14th August :- [https://www.fixmystreet.com/report/3752348](https://www.fixmystreet.com/report/3752348)
 - Abandoned cone opposite Brittan place been hanging around for weeks, 13th August :- [https://www.fixmystreet.com/report/3751461](https://www.fixmystreet.com/report/3751461)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - COVID hoax sticker, 9th August :- [https://www.fixmystreet.com/report/3742227](https://www.fixmystreet.com/report/3742227)
 - Boulton Road poor road surface, 9th August :- [https://www.fixmystreet.com/report/3742190](https://www.fixmystreet.com/report/3742190)
 - Bin not emptied, 9th August :- [https://www.fixmystreet.com/report/3740499](https://www.fixmystreet.com/report/3740499)
-- Vegetation obscuring pavement & Road Sign - Greenacre Way, 7th August :- [https://www.fixmystreet.com/report/3736136](https://www.fixmystreet.com/report/3736136)
-- Dog poo bin, 7th August :- [https://www.fixmystreet.com/report/3735967](https://www.fixmystreet.com/report/3735967)
-- Water valve access point, 6th August :- [https://www.fixmystreet.com/report/3734230](https://www.fixmystreet.com/report/3734230)
-- Abandoned roadworks sign & sandbags, 5th August :- [https://www.fixmystreet.com/report/3733487](https://www.fixmystreet.com/report/3733487)
 
 <!-- fix_marker ends -->
