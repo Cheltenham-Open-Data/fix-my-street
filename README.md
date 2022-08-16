@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Speeding, 16th August :- [https://www.fixmystreet.com/report/3756813](https://www.fixmystreet.com/report/3756813)
+- Speed warning sign obscured by shrubs, 15th August :- [https://www.fixmystreet.com/report/3756648](https://www.fixmystreet.com/report/3756648)
 - Apparent speed limit sign anomalies, 15th August :- [https://www.fixmystreet.com/report/3755791](https://www.fixmystreet.com/report/3755791)
 - Road signage hidden by overgrown hedge, 15th August :- [https://www.fixmystreet.com/report/3755707](https://www.fixmystreet.com/report/3755707)
 - Aldi trolley, 15th August :- [https://www.fixmystreet.com/report/3755622](https://www.fixmystreet.com/report/3755622)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Litter in abundance, 10th August :- [https://www.fixmystreet.com/report/3745228](https://www.fixmystreet.com/report/3745228)
 - Road in dire need of repair and resurfacing, 10th August :- [https://www.fixmystreet.com/report/3745144](https://www.fixmystreet.com/report/3745144)
 - COVID hoax sticker, 9th August :- [https://www.fixmystreet.com/report/3742227](https://www.fixmystreet.com/report/3742227)
-- Boulton Road poor road surface, 9th August :- [https://www.fixmystreet.com/report/3742190](https://www.fixmystreet.com/report/3742190)
-- Bin not emptied, 9th August :- [https://www.fixmystreet.com/report/3740499](https://www.fixmystreet.com/report/3740499)
 
 <!-- fix_marker ends -->
