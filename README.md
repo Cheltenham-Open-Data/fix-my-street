@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Water leak, 16th August :- [https://www.fixmystreet.com/report/3757088](https://www.fixmystreet.com/report/3757088)
 - Speeding, 16th August :- [https://www.fixmystreet.com/report/3756813](https://www.fixmystreet.com/report/3756813)
 - Speed warning sign obscured by shrubs, 15th August :- [https://www.fixmystreet.com/report/3756648](https://www.fixmystreet.com/report/3756648)
 - Apparent speed limit sign anomalies, 15th August :- [https://www.fixmystreet.com/report/3755791](https://www.fixmystreet.com/report/3755791)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trees overgrown on new HSL school route, 10th August :- [https://www.fixmystreet.com/report/3745641](https://www.fixmystreet.com/report/3745641)
 - Litter in abundance, 10th August :- [https://www.fixmystreet.com/report/3745228](https://www.fixmystreet.com/report/3745228)
 - Road in dire need of repair and resurfacing, 10th August :- [https://www.fixmystreet.com/report/3745144](https://www.fixmystreet.com/report/3745144)
-- COVID hoax sticker, 9th August :- [https://www.fixmystreet.com/report/3742227](https://www.fixmystreet.com/report/3742227)
 
 <!-- fix_marker ends -->
