@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Ivy removal leaves wild area accessible to rough sleepers on Milton Avenue, 17th August :- [https://www.fixmystreet.com/report/3760654](https://www.fixmystreet.com/report/3760654)
+- Tree roots damaged pavement impossible by mobility scooter Byron Road, 17th August :- [https://www.fixmystreet.com/report/3760636](https://www.fixmystreet.com/report/3760636)
 - Water leak, 16th August :- [https://www.fixmystreet.com/report/3757088](https://www.fixmystreet.com/report/3757088)
 - Speeding, 16th August :- [https://www.fixmystreet.com/report/3756813](https://www.fixmystreet.com/report/3756813)
 - Speed warning sign obscured by shrubs, 15th August :- [https://www.fixmystreet.com/report/3756648](https://www.fixmystreet.com/report/3756648)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown bushes on footpath to new HSL school, 11th August :- [https://www.fixmystreet.com/report/3746079](https://www.fixmystreet.com/report/3746079)
 - Overgrown path for primary HSL school walk, 10th August :- [https://www.fixmystreet.com/report/3745663](https://www.fixmystreet.com/report/3745663)
 - Trees overgrown on new HSL school route, 10th August :- [https://www.fixmystreet.com/report/3745641](https://www.fixmystreet.com/report/3745641)
-- Litter in abundance, 10th August :- [https://www.fixmystreet.com/report/3745228](https://www.fixmystreet.com/report/3745228)
-- Road in dire need of repair and resurfacing, 10th August :- [https://www.fixmystreet.com/report/3745144](https://www.fixmystreet.com/report/3745144)
 
 <!-- fix_marker ends -->
