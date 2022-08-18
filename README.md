@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple black bags etc of refuse, 18th August :- [https://www.fixmystreet.com/report/3764121](https://www.fixmystreet.com/report/3764121)
+- Road works notices not removed, 18th August :- [https://www.fixmystreet.com/report/3763935](https://www.fixmystreet.com/report/3763935)
+- Manhole sinking, 18th August :- [https://www.fixmystreet.com/report/3763747](https://www.fixmystreet.com/report/3763747)
 - Cars blocking pavements, 18th August :- [https://www.fixmystreet.com/report/3762953](https://www.fixmystreet.com/report/3762953)
 - Ivy removal leaves wild area accessible to rough sleepers on Milton Avenue, 17th August :- [https://www.fixmystreet.com/report/3760654](https://www.fixmystreet.com/report/3760654)
 - Tree roots damaged pavement impossible by mobility scooter Byron Road, 17th August :- [https://www.fixmystreet.com/report/3760636](https://www.fixmystreet.com/report/3760636)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The road looks to be suffering from subsidence., 12th August :- [https://www.fixmystreet.com/report/3750331](https://www.fixmystreet.com/report/3750331)
 - Illegal parking blocking garage door of Regency Place, 12th August :- [https://www.fixmystreet.com/report/3750036](https://www.fixmystreet.com/report/3750036)
 - Deep hole in pavement, 12th August :- [https://www.fixmystreet.com/report/3748633](https://www.fixmystreet.com/report/3748633)
-- Faulty green/red man display, 11th August :- [https://www.fixmystreet.com/report/3748027](https://www.fixmystreet.com/report/3748027)
-- Overgrown bushes on footpath to new HSL school, 11th August :- [https://www.fixmystreet.com/report/3746079](https://www.fixmystreet.com/report/3746079)
-- Overgrown path for primary HSL school walk, 10th August :- [https://www.fixmystreet.com/report/3745663](https://www.fixmystreet.com/report/3745663)
 
 <!-- fix_marker ends -->
