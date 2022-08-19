@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tagging on a telecoms box Chad Road, 19th August :- [https://www.fixmystreet.com/report/3767104](https://www.fixmystreet.com/report/3767104)
+- Overhanging Trees, 19th August :- [https://www.fixmystreet.com/report/3767032](https://www.fixmystreet.com/report/3767032)
+- Crossing sign lifting tarmac from the pavement, 19th August :- [https://www.fixmystreet.com/report/3766574](https://www.fixmystreet.com/report/3766574)
+- Loose manhole cover in road Badgeworth lane GL514UQ, 19th August :- [https://www.fixmystreet.com/report/3766101](https://www.fixmystreet.com/report/3766101)
 - Multiple black bags etc of refuse, 18th August :- [https://www.fixmystreet.com/report/3764121](https://www.fixmystreet.com/report/3764121)
 - Road works notices not removed, 18th August :- [https://www.fixmystreet.com/report/3763935](https://www.fixmystreet.com/report/3763935)
 - Manhole sinking, 18th August :- [https://www.fixmystreet.com/report/3763747](https://www.fixmystreet.com/report/3763747)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipped stuff still there four weeks after being reported!, 14th August :- [https://www.fixmystreet.com/report/3752576](https://www.fixmystreet.com/report/3752576)
 - Water leak, 14th August :- [https://www.fixmystreet.com/report/3752348](https://www.fixmystreet.com/report/3752348)
 - Abandoned cone opposite Brittan place been hanging around for weeks, 13th August :- [https://www.fixmystreet.com/report/3751461](https://www.fixmystreet.com/report/3751461)
-- Broken bench, 12th August :- [https://www.fixmystreet.com/report/3750614](https://www.fixmystreet.com/report/3750614)
-- The road looks to be suffering from subsidence., 12th August :- [https://www.fixmystreet.com/report/3750331](https://www.fixmystreet.com/report/3750331)
-- Illegal parking blocking garage door of Regency Place, 12th August :- [https://www.fixmystreet.com/report/3750036](https://www.fixmystreet.com/report/3750036)
-- Deep hole in pavement, 12th August :- [https://www.fixmystreet.com/report/3748633](https://www.fixmystreet.com/report/3748633)
 
 <!-- fix_marker ends -->
