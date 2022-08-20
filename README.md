@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping, 19th August :- [https://www.fixmystreet.com/report/3767872](https://www.fixmystreet.com/report/3767872)
+- Flytipping, 19th August :- [https://www.fixmystreet.com/report/3767850](https://www.fixmystreet.com/report/3767850)
 - Tagging on a telecoms box Chad Road, 19th August :- [https://www.fixmystreet.com/report/3767104](https://www.fixmystreet.com/report/3767104)
 - Overhanging Trees, 19th August :- [https://www.fixmystreet.com/report/3767032](https://www.fixmystreet.com/report/3767032)
 - Crossing sign lifting tarmac from the pavement, 19th August :- [https://www.fixmystreet.com/report/3766574](https://www.fixmystreet.com/report/3766574)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Aldi trolley, 15th August :- [https://www.fixmystreet.com/report/3755622](https://www.fixmystreet.com/report/3755622)
 - Large tree blocking street light, light to property, risk of damaging property., 15th August :- [https://www.fixmystreet.com/report/3754478](https://www.fixmystreet.com/report/3754478)
 - Fly tipped stuff still there four weeks after being reported!, 14th August :- [https://www.fixmystreet.com/report/3752576](https://www.fixmystreet.com/report/3752576)
-- Water leak, 14th August :- [https://www.fixmystreet.com/report/3752348](https://www.fixmystreet.com/report/3752348)
-- Abandoned cone opposite Brittan place been hanging around for weeks, 13th August :- [https://www.fixmystreet.com/report/3751461](https://www.fixmystreet.com/report/3751461)
 
 <!-- fix_marker ends -->
