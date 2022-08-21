@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dangerous potholes and poor road surface, 21st August :- [https://www.fixmystreet.com/report/3770340](https://www.fixmystreet.com/report/3770340)
+- Flytipping, 21st August :- [https://www.fixmystreet.com/report/3769797](https://www.fixmystreet.com/report/3769797)
 - Hedges need cutting along Prestbury Road, 21st August :- [https://www.fixmystreet.com/report/3769470](https://www.fixmystreet.com/report/3769470)
 - Barriers left in place, 20th August :- [https://www.fixmystreet.com/report/3768807](https://www.fixmystreet.com/report/3768807)
 - Cans dog mess and litter dumped at the end of Cowper Road, 20th August :- [https://www.fixmystreet.com/report/3768419](https://www.fixmystreet.com/report/3768419)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree roots damaged pavement impossible by mobility scooter Byron Road, 17th August :- [https://www.fixmystreet.com/report/3760636](https://www.fixmystreet.com/report/3760636)
 - Water leak, 16th August :- [https://www.fixmystreet.com/report/3757088](https://www.fixmystreet.com/report/3757088)
 - Speeding, 16th August :- [https://www.fixmystreet.com/report/3756813](https://www.fixmystreet.com/report/3756813)
-- Speed warning sign obscured by shrubs, 15th August :- [https://www.fixmystreet.com/report/3756648](https://www.fixmystreet.com/report/3756648)
-- Apparent speed limit sign anomalies, 15th August :- [https://www.fixmystreet.com/report/3755791](https://www.fixmystreet.com/report/3755791)
 
 <!-- fix_marker ends -->
