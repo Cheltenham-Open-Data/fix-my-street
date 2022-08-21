@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hedges need cutting along Prestbury Road, 21st August :- [https://www.fixmystreet.com/report/3769470](https://www.fixmystreet.com/report/3769470)
 - Barriers left in place, 20th August :- [https://www.fixmystreet.com/report/3768807](https://www.fixmystreet.com/report/3768807)
 - Cans dog mess and litter dumped at the end of Cowper Road, 20th August :- [https://www.fixmystreet.com/report/3768419](https://www.fixmystreet.com/report/3768419)
 - Lamppost outside 3 Pitman Road has been badly damaged, 20th August :- [https://www.fixmystreet.com/report/3768382](https://www.fixmystreet.com/report/3768382)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Speeding, 16th August :- [https://www.fixmystreet.com/report/3756813](https://www.fixmystreet.com/report/3756813)
 - Speed warning sign obscured by shrubs, 15th August :- [https://www.fixmystreet.com/report/3756648](https://www.fixmystreet.com/report/3756648)
 - Apparent speed limit sign anomalies, 15th August :- [https://www.fixmystreet.com/report/3755791](https://www.fixmystreet.com/report/3755791)
-- Road signage hidden by overgrown hedge, 15th August :- [https://www.fixmystreet.com/report/3755707](https://www.fixmystreet.com/report/3755707)
 
 <!-- fix_marker ends -->
