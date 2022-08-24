@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Private Hedge overgrown footpath, 24th August :- [https://www.fixmystreet.com/report/3776535](https://www.fixmystreet.com/report/3776535)
+- No street lights, 23rd August :- [https://www.fixmystreet.com/report/3776323](https://www.fixmystreet.com/report/3776323)
 - Dangerous Road Surface Pittville Circus Road 3, 23rd August :- [https://www.fixmystreet.com/report/3775755](https://www.fixmystreet.com/report/3775755)
 - Dangerous Road Surface Pittville Circus 2, 23rd August :- [https://www.fixmystreet.com/report/3775744](https://www.fixmystreet.com/report/3775744)
 - Dangerous Road Surface Pittville Circus 1, 23rd August :- [https://www.fixmystreet.com/report/3775728](https://www.fixmystreet.com/report/3775728)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipping, 19th August :- [https://www.fixmystreet.com/report/3767872](https://www.fixmystreet.com/report/3767872)
 - Flytipping, 19th August :- [https://www.fixmystreet.com/report/3767850](https://www.fixmystreet.com/report/3767850)
 - Tagging on a telecoms box Chad Road, 19th August :- [https://www.fixmystreet.com/report/3767104](https://www.fixmystreet.com/report/3767104)
-- Overhanging Trees, 19th August :- [https://www.fixmystreet.com/report/3767032](https://www.fixmystreet.com/report/3767032)
-- Crossing sign lifting tarmac from the pavement, 19th August :- [https://www.fixmystreet.com/report/3766574](https://www.fixmystreet.com/report/3766574)
 
 <!-- fix_marker ends -->
