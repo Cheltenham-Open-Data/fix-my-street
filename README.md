@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- New Barn Lane trees overhanging pavement, 24th August :- [https://www.fixmystreet.com/report/3778358](https://www.fixmystreet.com/report/3778358)
+- Gate latch mechanism broken, 24th August :- [https://www.fixmystreet.com/report/3778339](https://www.fixmystreet.com/report/3778339)
+- Dog fouling on pavement, 24th August :- [https://www.fixmystreet.com/report/3778228](https://www.fixmystreet.com/report/3778228)
+- Dead hedgehog, 24th August :- [https://www.fixmystreet.com/report/3777842](https://www.fixmystreet.com/report/3777842)
+- Straw on pavemwnts and in gutters, 24th August :- [https://www.fixmystreet.com/report/3776665](https://www.fixmystreet.com/report/3776665)
 - Private Hedge overgrown footpath, 24th August :- [https://www.fixmystreet.com/report/3776535](https://www.fixmystreet.com/report/3776535)
 - No street lights, 23rd August :- [https://www.fixmystreet.com/report/3776323](https://www.fixmystreet.com/report/3776323)
 - Dangerous Road Surface Pittville Circus Road 3, 23rd August :- [https://www.fixmystreet.com/report/3775755](https://www.fixmystreet.com/report/3775755)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipping, 21st August :- [https://www.fixmystreet.com/report/3769797](https://www.fixmystreet.com/report/3769797)
 - Hedges need cutting along Prestbury Road, 21st August :- [https://www.fixmystreet.com/report/3769470](https://www.fixmystreet.com/report/3769470)
 - Barriers left in place, 20th August :- [https://www.fixmystreet.com/report/3768807](https://www.fixmystreet.com/report/3768807)
-- Cans dog mess and litter dumped at the end of Cowper Road, 20th August :- [https://www.fixmystreet.com/report/3768419](https://www.fixmystreet.com/report/3768419)
-- Lamppost outside 3 Pitman Road has been badly damaged, 20th August :- [https://www.fixmystreet.com/report/3768382](https://www.fixmystreet.com/report/3768382)
-- Flytipping, 19th August :- [https://www.fixmystreet.com/report/3767872](https://www.fixmystreet.com/report/3767872)
-- Flytipping, 19th August :- [https://www.fixmystreet.com/report/3767850](https://www.fixmystreet.com/report/3767850)
-- Tagging on a telecoms box Chad Road, 19th August :- [https://www.fixmystreet.com/report/3767104](https://www.fixmystreet.com/report/3767104)
 
 <!-- fix_marker ends -->
