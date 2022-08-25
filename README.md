@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Manhole cover protruding in road, 25th August :- [https://www.fixmystreet.com/report/3780440](https://www.fixmystreet.com/report/3780440)
+- Un readable sign, 25th August :- [https://www.fixmystreet.com/report/3779867](https://www.fixmystreet.com/report/3779867)
 - New Barn Lane trees overhanging pavement, 24th August :- [https://www.fixmystreet.com/report/3778358](https://www.fixmystreet.com/report/3778358)
 - Gate latch mechanism broken, 24th August :- [https://www.fixmystreet.com/report/3778339](https://www.fixmystreet.com/report/3778339)
 - Dog fouling on pavement, 24th August :- [https://www.fixmystreet.com/report/3778228](https://www.fixmystreet.com/report/3778228)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lamp post knocked over redmarley road, 21st August :- [https://www.fixmystreet.com/report/3770973](https://www.fixmystreet.com/report/3770973)
 - Dangerous potholes and poor road surface, 21st August :- [https://www.fixmystreet.com/report/3770340](https://www.fixmystreet.com/report/3770340)
 - Flytipping, 21st August :- [https://www.fixmystreet.com/report/3769797](https://www.fixmystreet.com/report/3769797)
-- Hedges need cutting along Prestbury Road, 21st August :- [https://www.fixmystreet.com/report/3769470](https://www.fixmystreet.com/report/3769470)
-- Barriers left in place, 20th August :- [https://www.fixmystreet.com/report/3768807](https://www.fixmystreet.com/report/3768807)
 
 <!-- fix_marker ends -->
