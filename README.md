@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road closure, 26th August :- [https://www.fixmystreet.com/report/3782666](https://www.fixmystreet.com/report/3782666)
+- Drain cover missing, 26th August :- [https://www.fixmystreet.com/report/3782631](https://www.fixmystreet.com/report/3782631)
+- Litter including used nappies left on grass, 26th August :- [https://www.fixmystreet.com/report/3782612](https://www.fixmystreet.com/report/3782612)
 - Manhole cover protruding in road, 25th August :- [https://www.fixmystreet.com/report/3780440](https://www.fixmystreet.com/report/3780440)
 - Un readable sign, 25th August :- [https://www.fixmystreet.com/report/3779867](https://www.fixmystreet.com/report/3779867)
 - New Barn Lane trees overhanging pavement, 24th August :- [https://www.fixmystreet.com/report/3778358](https://www.fixmystreet.com/report/3778358)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Exposed electrical conductors, 23rd August :- [https://www.fixmystreet.com/report/3775266](https://www.fixmystreet.com/report/3775266)
 - Fire station warning lights out, 23rd August :- [https://www.fixmystreet.com/report/3775079](https://www.fixmystreet.com/report/3775079)
 - Lots of rubbish all the way through the Lane, 22nd August :- [https://www.fixmystreet.com/report/3772926](https://www.fixmystreet.com/report/3772926)
-- Lamp post knocked over redmarley road, 21st August :- [https://www.fixmystreet.com/report/3770973](https://www.fixmystreet.com/report/3770973)
-- Dangerous potholes and poor road surface, 21st August :- [https://www.fixmystreet.com/report/3770340](https://www.fixmystreet.com/report/3770340)
-- Flytipping, 21st August :- [https://www.fixmystreet.com/report/3769797](https://www.fixmystreet.com/report/3769797)
 
 <!-- fix_marker ends -->
