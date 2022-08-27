@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mattress dumped, 27th August :- [https://www.fixmystreet.com/report/3784750](https://www.fixmystreet.com/report/3784750)
+- Broken glass on Everest road, 27th August :- [https://www.fixmystreet.com/report/3784442](https://www.fixmystreet.com/report/3784442)
+- Multiple large potholes (10cm deep, 20-30cm across) - getting worse, 27th August :- [https://www.fixmystreet.com/report/3784249](https://www.fixmystreet.com/report/3784249)
 - Bus stop post hit by vehicle, 27th August :- [https://www.fixmystreet.com/report/3784078](https://www.fixmystreet.com/report/3784078)
 - Road closure, 26th August :- [https://www.fixmystreet.com/report/3782666](https://www.fixmystreet.com/report/3782666)
 - Drain cover missing, 26th August :- [https://www.fixmystreet.com/report/3782631](https://www.fixmystreet.com/report/3782631)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerous Road Surface Pittville Circus 2, 23rd August :- [https://www.fixmystreet.com/report/3775744](https://www.fixmystreet.com/report/3775744)
 - Dangerous Road Surface Pittville Circus 1, 23rd August :- [https://www.fixmystreet.com/report/3775728](https://www.fixmystreet.com/report/3775728)
 - Pothole and loose drain cover, 23rd August :- [https://www.fixmystreet.com/report/3775670](https://www.fixmystreet.com/report/3775670)
-- Overgrown foot path, 23rd August :- [https://www.fixmystreet.com/report/3775661](https://www.fixmystreet.com/report/3775661)
-- Exposed electrical conductors, 23rd August :- [https://www.fixmystreet.com/report/3775266](https://www.fixmystreet.com/report/3775266)
-- Fire station warning lights out, 23rd August :- [https://www.fixmystreet.com/report/3775079](https://www.fixmystreet.com/report/3775079)
 
 <!-- fix_marker ends -->
