@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bus stop post hit by vehicle, 27th August :- [https://www.fixmystreet.com/report/3784078](https://www.fixmystreet.com/report/3784078)
 - Road closure, 26th August :- [https://www.fixmystreet.com/report/3782666](https://www.fixmystreet.com/report/3782666)
 - Drain cover missing, 26th August :- [https://www.fixmystreet.com/report/3782631](https://www.fixmystreet.com/report/3782631)
 - Litter including used nappies left on grass, 26th August :- [https://www.fixmystreet.com/report/3782612](https://www.fixmystreet.com/report/3782612)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown foot path, 23rd August :- [https://www.fixmystreet.com/report/3775661](https://www.fixmystreet.com/report/3775661)
 - Exposed electrical conductors, 23rd August :- [https://www.fixmystreet.com/report/3775266](https://www.fixmystreet.com/report/3775266)
 - Fire station warning lights out, 23rd August :- [https://www.fixmystreet.com/report/3775079](https://www.fixmystreet.com/report/3775079)
-- Lots of rubbish all the way through the Lane, 22nd August :- [https://www.fixmystreet.com/report/3772926](https://www.fixmystreet.com/report/3772926)
 
 <!-- fix_marker ends -->
