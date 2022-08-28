@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken and dangerous road surface, 28th August :- [https://www.fixmystreet.com/report/3786281](https://www.fixmystreet.com/report/3786281)
+- 2 street signs badly damaged, 28th August :- [https://www.fixmystreet.com/report/3786147](https://www.fixmystreet.com/report/3786147)
+- Potholes, 28th August :- [https://www.fixmystreet.com/report/3786142](https://www.fixmystreet.com/report/3786142)
 - Temporary speed normal speed, 27th August :- [https://www.fixmystreet.com/report/3785314](https://www.fixmystreet.com/report/3785314)
 - Mattress dumped, 27th August :- [https://www.fixmystreet.com/report/3784750](https://www.fixmystreet.com/report/3784750)
 - Broken glass on Everest road, 27th August :- [https://www.fixmystreet.com/report/3784442](https://www.fixmystreet.com/report/3784442)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Straw on pavemwnts and in gutters, 24th August :- [https://www.fixmystreet.com/report/3776665](https://www.fixmystreet.com/report/3776665)
 - Private Hedge overgrown footpath, 24th August :- [https://www.fixmystreet.com/report/3776535](https://www.fixmystreet.com/report/3776535)
 - No street lights, 23rd August :- [https://www.fixmystreet.com/report/3776323](https://www.fixmystreet.com/report/3776323)
-- Dangerous Road Surface Pittville Circus Road 3, 23rd August :- [https://www.fixmystreet.com/report/3775755](https://www.fixmystreet.com/report/3775755)
-- Dangerous Road Surface Pittville Circus 2, 23rd August :- [https://www.fixmystreet.com/report/3775744](https://www.fixmystreet.com/report/3775744)
-- Dangerous Road Surface Pittville Circus 1, 23rd August :- [https://www.fixmystreet.com/report/3775728](https://www.fixmystreet.com/report/3775728)
 
 <!-- fix_marker ends -->
