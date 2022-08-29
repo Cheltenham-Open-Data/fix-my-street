@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Signage request, 29th August :- [https://www.fixmystreet.com/report/3787559](https://www.fixmystreet.com/report/3787559)
+- Light out, 29th August :- [https://www.fixmystreet.com/report/3787555](https://www.fixmystreet.com/report/3787555)
 - Large section of streetlights out on Hatherley Road, 28th August :- [https://www.fixmystreet.com/report/3786890](https://www.fixmystreet.com/report/3786890)
 - Street light out, 28th August :- [https://www.fixmystreet.com/report/3786884](https://www.fixmystreet.com/report/3786884)
 - 2 lampposts out near junction, 28th August :- [https://www.fixmystreet.com/report/3786839](https://www.fixmystreet.com/report/3786839)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Un readable sign, 25th August :- [https://www.fixmystreet.com/report/3779867](https://www.fixmystreet.com/report/3779867)
 - New Barn Lane trees overhanging pavement, 24th August :- [https://www.fixmystreet.com/report/3778358](https://www.fixmystreet.com/report/3778358)
 - Gate latch mechanism broken, 24th August :- [https://www.fixmystreet.com/report/3778339](https://www.fixmystreet.com/report/3778339)
-- Dog fouling on pavement, 24th August :- [https://www.fixmystreet.com/report/3778228](https://www.fixmystreet.com/report/3778228)
-- Dead hedgehog, 24th August :- [https://www.fixmystreet.com/report/3777842](https://www.fixmystreet.com/report/3777842)
 
 <!-- fix_marker ends -->
