@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large section of streetlights out on Hatherley Road, 28th August :- [https://www.fixmystreet.com/report/3786890](https://www.fixmystreet.com/report/3786890)
+- Street light out, 28th August :- [https://www.fixmystreet.com/report/3786884](https://www.fixmystreet.com/report/3786884)
+- 2 lampposts out near junction, 28th August :- [https://www.fixmystreet.com/report/3786839](https://www.fixmystreet.com/report/3786839)
 - Broken and dangerous road surface, 28th August :- [https://www.fixmystreet.com/report/3786281](https://www.fixmystreet.com/report/3786281)
 - 2 street signs badly damaged, 28th August :- [https://www.fixmystreet.com/report/3786147](https://www.fixmystreet.com/report/3786147)
 - Potholes, 28th August :- [https://www.fixmystreet.com/report/3786142](https://www.fixmystreet.com/report/3786142)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Gate latch mechanism broken, 24th August :- [https://www.fixmystreet.com/report/3778339](https://www.fixmystreet.com/report/3778339)
 - Dog fouling on pavement, 24th August :- [https://www.fixmystreet.com/report/3778228](https://www.fixmystreet.com/report/3778228)
 - Dead hedgehog, 24th August :- [https://www.fixmystreet.com/report/3777842](https://www.fixmystreet.com/report/3777842)
-- Straw on pavemwnts and in gutters, 24th August :- [https://www.fixmystreet.com/report/3776665](https://www.fixmystreet.com/report/3776665)
-- Private Hedge overgrown footpath, 24th August :- [https://www.fixmystreet.com/report/3776535](https://www.fixmystreet.com/report/3776535)
-- No street lights, 23rd August :- [https://www.fixmystreet.com/report/3776323](https://www.fixmystreet.com/report/3776323)
 
 <!-- fix_marker ends -->
