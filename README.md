@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Numerous deep potholes, 30th August :- [https://www.fixmystreet.com/report/3790953](https://www.fixmystreet.com/report/3790953)
+- Road sign fallen down, 30th August :- [https://www.fixmystreet.com/report/3790370](https://www.fixmystreet.com/report/3790370)
+- Mud/sand in road, 30th August :- [https://www.fixmystreet.com/report/3790366](https://www.fixmystreet.com/report/3790366)
 - Signage request, 29th August :- [https://www.fixmystreet.com/report/3787559](https://www.fixmystreet.com/report/3787559)
 - Light out, 29th August :- [https://www.fixmystreet.com/report/3787555](https://www.fixmystreet.com/report/3787555)
 - Large section of streetlights out on Hatherley Road, 28th August :- [https://www.fixmystreet.com/report/3786890](https://www.fixmystreet.com/report/3786890)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain cover missing, 26th August :- [https://www.fixmystreet.com/report/3782631](https://www.fixmystreet.com/report/3782631)
 - Litter including used nappies left on grass, 26th August :- [https://www.fixmystreet.com/report/3782612](https://www.fixmystreet.com/report/3782612)
 - Manhole cover protruding in road, 25th August :- [https://www.fixmystreet.com/report/3780440](https://www.fixmystreet.com/report/3780440)
-- Un readable sign, 25th August :- [https://www.fixmystreet.com/report/3779867](https://www.fixmystreet.com/report/3779867)
-- New Barn Lane trees overhanging pavement, 24th August :- [https://www.fixmystreet.com/report/3778358](https://www.fixmystreet.com/report/3778358)
-- Gate latch mechanism broken, 24th August :- [https://www.fixmystreet.com/report/3778339](https://www.fixmystreet.com/report/3778339)
 
 <!-- fix_marker ends -->
