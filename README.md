@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Car parked fully in pavement, 30th August :- [https://www.fixmystreet.com/report/3791317](https://www.fixmystreet.com/report/3791317)
 - Numerous deep potholes, 30th August :- [https://www.fixmystreet.com/report/3790953](https://www.fixmystreet.com/report/3790953)
 - Road sign fallen down, 30th August :- [https://www.fixmystreet.com/report/3790370](https://www.fixmystreet.com/report/3790370)
 - Mud/sand in road, 30th August :- [https://www.fixmystreet.com/report/3790366](https://www.fixmystreet.com/report/3790366)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road closure, 26th August :- [https://www.fixmystreet.com/report/3782666](https://www.fixmystreet.com/report/3782666)
 - Drain cover missing, 26th August :- [https://www.fixmystreet.com/report/3782631](https://www.fixmystreet.com/report/3782631)
 - Litter including used nappies left on grass, 26th August :- [https://www.fixmystreet.com/report/3782612](https://www.fixmystreet.com/report/3782612)
-- Manhole cover protruding in road, 25th August :- [https://www.fixmystreet.com/report/3780440](https://www.fixmystreet.com/report/3780440)
 
 <!-- fix_marker ends -->
