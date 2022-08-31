@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- No streetlighting in Village Road for the past two days, 31st August :- [https://www.fixmystreet.com/report/3792415](https://www.fixmystreet.com/report/3792415)
 - Car parked fully in pavement, 30th August :- [https://www.fixmystreet.com/report/3791317](https://www.fixmystreet.com/report/3791317)
 - Numerous deep potholes, 30th August :- [https://www.fixmystreet.com/report/3790953](https://www.fixmystreet.com/report/3790953)
 - Road sign fallen down, 30th August :- [https://www.fixmystreet.com/report/3790370](https://www.fixmystreet.com/report/3790370)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bus stop post hit by vehicle, 27th August :- [https://www.fixmystreet.com/report/3784078](https://www.fixmystreet.com/report/3784078)
 - Road closure, 26th August :- [https://www.fixmystreet.com/report/3782666](https://www.fixmystreet.com/report/3782666)
 - Drain cover missing, 26th August :- [https://www.fixmystreet.com/report/3782631](https://www.fixmystreet.com/report/3782631)
-- Litter including used nappies left on grass, 26th August :- [https://www.fixmystreet.com/report/3782612](https://www.fixmystreet.com/report/3782612)
 
 <!-- fix_marker ends -->
