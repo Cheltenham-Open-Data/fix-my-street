@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass on pavement, 2nd September :- [https://www.fixmystreet.com/report/3797712](https://www.fixmystreet.com/report/3797712)
+- Bin bags on grass verge outside 16 and 18 Kipling Road, 2nd September :- [https://www.fixmystreet.com/report/3797033](https://www.fixmystreet.com/report/3797033)
+- Overgrown hedge already blocking the pavement again outside 63 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797028](https://www.fixmystreet.com/report/3797028)
+- Flood road signs abandoned near junction of Pitman Road and Wordsworth Avenue, 2nd September :- [https://www.fixmystreet.com/report/3797025](https://www.fixmystreet.com/report/3797025)
+- Mattress Iceland trolley and artificial grass dumped down the side of 61 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797017](https://www.fixmystreet.com/report/3797017)
+- Railway sleeper and chunks of concrete outside number 15 and 17 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797006](https://www.fixmystreet.com/report/3797006)
 - Roadwork signs blocking footpath., 1st September :- [https://www.fixmystreet.com/report/3796744](https://www.fixmystreet.com/report/3796744)
 - Traffic lights are in place but no Road works are underway, 1st September :- [https://www.fixmystreet.com/report/3796378](https://www.fixmystreet.com/report/3796378)
 - Major delays - dangerous 3 way lights, 1st September :- [https://www.fixmystreet.com/report/3796351](https://www.fixmystreet.com/report/3796351)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mud/sand in road, 30th August :- [https://www.fixmystreet.com/report/3790366](https://www.fixmystreet.com/report/3790366)
 - Signage request, 29th August :- [https://www.fixmystreet.com/report/3787559](https://www.fixmystreet.com/report/3787559)
 - Light out, 29th August :- [https://www.fixmystreet.com/report/3787555](https://www.fixmystreet.com/report/3787555)
-- Large section of streetlights out on Hatherley Road, 28th August :- [https://www.fixmystreet.com/report/3786890](https://www.fixmystreet.com/report/3786890)
-- Street light out, 28th August :- [https://www.fixmystreet.com/report/3786884](https://www.fixmystreet.com/report/3786884)
-- 2 lampposts out near junction, 28th August :- [https://www.fixmystreet.com/report/3786839](https://www.fixmystreet.com/report/3786839)
-- Broken and dangerous road surface, 28th August :- [https://www.fixmystreet.com/report/3786281](https://www.fixmystreet.com/report/3786281)
-- 2 street signs badly damaged, 28th August :- [https://www.fixmystreet.com/report/3786147](https://www.fixmystreet.com/report/3786147)
-- Potholes, 28th August :- [https://www.fixmystreet.com/report/3786142](https://www.fixmystreet.com/report/3786142)
 
 <!-- fix_marker ends -->
