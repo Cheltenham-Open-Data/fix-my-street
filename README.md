@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Roadwork signs blocking footpath., 1st September :- [https://www.fixmystreet.com/report/3796744](https://www.fixmystreet.com/report/3796744)
+- Traffic lights are in place but no Road works are underway, 1st September :- [https://www.fixmystreet.com/report/3796378](https://www.fixmystreet.com/report/3796378)
 - Major delays - dangerous 3 way lights, 1st September :- [https://www.fixmystreet.com/report/3796351](https://www.fixmystreet.com/report/3796351)
 - Temporary lights and no road works, 1st September :- [https://www.fixmystreet.com/report/3796106](https://www.fixmystreet.com/report/3796106)
 - Broken paving slabs, 1st September :- [https://www.fixmystreet.com/report/3794824](https://www.fixmystreet.com/report/3794824)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken and dangerous road surface, 28th August :- [https://www.fixmystreet.com/report/3786281](https://www.fixmystreet.com/report/3786281)
 - 2 street signs badly damaged, 28th August :- [https://www.fixmystreet.com/report/3786147](https://www.fixmystreet.com/report/3786147)
 - Potholes, 28th August :- [https://www.fixmystreet.com/report/3786142](https://www.fixmystreet.com/report/3786142)
-- Temporary speed normal speed, 27th August :- [https://www.fixmystreet.com/report/3785314](https://www.fixmystreet.com/report/3785314)
-- Mattress dumped, 27th August :- [https://www.fixmystreet.com/report/3784750](https://www.fixmystreet.com/report/3784750)
 
 <!-- fix_marker ends -->
