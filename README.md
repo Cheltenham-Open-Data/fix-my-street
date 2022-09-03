@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown bush blocking path outside no. 69 pirton lane, 3rd September :- [https://www.fixmystreet.com/report/3799815](https://www.fixmystreet.com/report/3799815)
+- Dumped bed & mattress, 3rd September :- [https://www.fixmystreet.com/report/3799632](https://www.fixmystreet.com/report/3799632)
 - Broken glass on pavement, 2nd September :- [https://www.fixmystreet.com/report/3797712](https://www.fixmystreet.com/report/3797712)
 - Bin bags on grass verge outside 16 and 18 Kipling Road, 2nd September :- [https://www.fixmystreet.com/report/3797033](https://www.fixmystreet.com/report/3797033)
 - Overgrown hedge already blocking the pavement again outside 63 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797028](https://www.fixmystreet.com/report/3797028)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Numerous deep potholes, 30th August :- [https://www.fixmystreet.com/report/3790953](https://www.fixmystreet.com/report/3790953)
 - Road sign fallen down, 30th August :- [https://www.fixmystreet.com/report/3790370](https://www.fixmystreet.com/report/3790370)
 - Mud/sand in road, 30th August :- [https://www.fixmystreet.com/report/3790366](https://www.fixmystreet.com/report/3790366)
-- Signage request, 29th August :- [https://www.fixmystreet.com/report/3787559](https://www.fixmystreet.com/report/3787559)
-- Light out, 29th August :- [https://www.fixmystreet.com/report/3787555](https://www.fixmystreet.com/report/3787555)
 
 <!-- fix_marker ends -->
