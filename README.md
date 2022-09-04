@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Faulty traffic light sensors, 3rd September :- [https://www.fixmystreet.com/report/3800645](https://www.fixmystreet.com/report/3800645)
+- Traffic light casing open, 3rd September :- [https://www.fixmystreet.com/report/3800531](https://www.fixmystreet.com/report/3800531)
 - Overgrown bush blocking path outside no. 69 pirton lane, 3rd September :- [https://www.fixmystreet.com/report/3799815](https://www.fixmystreet.com/report/3799815)
 - Dumped bed & mattress, 3rd September :- [https://www.fixmystreet.com/report/3799632](https://www.fixmystreet.com/report/3799632)
 - Broken glass on pavement, 2nd September :- [https://www.fixmystreet.com/report/3797712](https://www.fixmystreet.com/report/3797712)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - No streetlighting in Village Road for the past two days, 31st August :- [https://www.fixmystreet.com/report/3792415](https://www.fixmystreet.com/report/3792415)
 - Car parked fully in pavement, 30th August :- [https://www.fixmystreet.com/report/3791317](https://www.fixmystreet.com/report/3791317)
 - Numerous deep potholes, 30th August :- [https://www.fixmystreet.com/report/3790953](https://www.fixmystreet.com/report/3790953)
-- Road sign fallen down, 30th August :- [https://www.fixmystreet.com/report/3790370](https://www.fixmystreet.com/report/3790370)
-- Mud/sand in road, 30th August :- [https://www.fixmystreet.com/report/3790366](https://www.fixmystreet.com/report/3790366)
 
 <!-- fix_marker ends -->
