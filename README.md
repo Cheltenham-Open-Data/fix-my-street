@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bottles of urine, 4th September :- [https://www.fixmystreet.com/report/3802031](https://www.fixmystreet.com/report/3802031)
+- Overgrown highways verge, 4th September :- [https://www.fixmystreet.com/report/3801695](https://www.fixmystreet.com/report/3801695)
+- Is this tree going to be replaced?, 4th September :- [https://www.fixmystreet.com/report/3801355](https://www.fixmystreet.com/report/3801355)
+- Pavement Parking, 4th September :- [https://www.fixmystreet.com/report/3800984](https://www.fixmystreet.com/report/3800984)
 - Faulty traffic light sensors, 3rd September :- [https://www.fixmystreet.com/report/3800645](https://www.fixmystreet.com/report/3800645)
 - Traffic light casing open, 3rd September :- [https://www.fixmystreet.com/report/3800531](https://www.fixmystreet.com/report/3800531)
 - Overgrown bush blocking path outside no. 69 pirton lane, 3rd September :- [https://www.fixmystreet.com/report/3799815](https://www.fixmystreet.com/report/3799815)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Temporary lights and no road works, 1st September :- [https://www.fixmystreet.com/report/3796106](https://www.fixmystreet.com/report/3796106)
 - Broken paving slabs, 1st September :- [https://www.fixmystreet.com/report/3794824](https://www.fixmystreet.com/report/3794824)
 - Drain cover has collapsed, 1st September :- [https://www.fixmystreet.com/report/3794819](https://www.fixmystreet.com/report/3794819)
-- Too much of a drop for wheelchair users, 31st August :- [https://www.fixmystreet.com/report/3793987](https://www.fixmystreet.com/report/3793987)
-- No streetlighting in Village Road for the past two days, 31st August :- [https://www.fixmystreet.com/report/3792415](https://www.fixmystreet.com/report/3792415)
-- Car parked fully in pavement, 30th August :- [https://www.fixmystreet.com/report/3791317](https://www.fixmystreet.com/report/3791317)
-- Numerous deep potholes, 30th August :- [https://www.fixmystreet.com/report/3790953](https://www.fixmystreet.com/report/3790953)
 
 <!-- fix_marker ends -->
