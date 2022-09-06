@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road has no road name sign, 6th September :- [https://www.fixmystreet.com/report/3805318](https://www.fixmystreet.com/report/3805318)
+- Overgrown hedges and grass verges, 5th September :- [https://www.fixmystreet.com/report/3805226](https://www.fixmystreet.com/report/3805226)
+- Hedgerows desperately needing to be cut back., 5th September :- [https://www.fixmystreet.com/report/3805208](https://www.fixmystreet.com/report/3805208)
+- Brambles overhanging narrow path on busy roadside, 5th September :- [https://www.fixmystreet.com/report/3805138](https://www.fixmystreet.com/report/3805138)
 - Broken paths, 5th September :- [https://www.fixmystreet.com/report/3804966](https://www.fixmystreet.com/report/3804966)
 - Unsafe path in Brizen, 5th September :- [https://www.fixmystreet.com/report/3804204](https://www.fixmystreet.com/report/3804204)
 - Seriously overgrown hedging, 5th September :- [https://www.fixmystreet.com/report/3803828](https://www.fixmystreet.com/report/3803828)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bin bags on grass verge outside 16 and 18 Kipling Road, 2nd September :- [https://www.fixmystreet.com/report/3797033](https://www.fixmystreet.com/report/3797033)
 - Overgrown hedge already blocking the pavement again outside 63 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797028](https://www.fixmystreet.com/report/3797028)
 - Flood road signs abandoned near junction of Pitman Road and Wordsworth Avenue, 2nd September :- [https://www.fixmystreet.com/report/3797025](https://www.fixmystreet.com/report/3797025)
-- Mattress Iceland trolley and artificial grass dumped down the side of 61 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797017](https://www.fixmystreet.com/report/3797017)
-- Railway sleeper and chunks of concrete outside number 15 and 17 Pitman Road, 2nd September :- [https://www.fixmystreet.com/report/3797006](https://www.fixmystreet.com/report/3797006)
-- Roadwork signs blocking footpath., 1st September :- [https://www.fixmystreet.com/report/3796744](https://www.fixmystreet.com/report/3796744)
-- Traffic lights are in place but no Road works are underway, 1st September :- [https://www.fixmystreet.com/report/3796378](https://www.fixmystreet.com/report/3796378)
 
 <!-- fix_marker ends -->
