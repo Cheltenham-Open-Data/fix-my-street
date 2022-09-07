@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass/ rubbish etc, 7th September :- [https://www.fixmystreet.com/report/3808533](https://www.fixmystreet.com/report/3808533)
+- Part of pavement cut out. Outside 33 and 35 Gristmill Close., 6th September :- [https://www.fixmystreet.com/report/3807936](https://www.fixmystreet.com/report/3807936)
+- Elmleaze Potholes, 6th September :- [https://www.fixmystreet.com/report/3807911](https://www.fixmystreet.com/report/3807911)
 - Displaced drain cover, 6th September :- [https://www.fixmystreet.com/report/3807862](https://www.fixmystreet.com/report/3807862)
 - Overhanging brambles, 6th September :- [https://www.fixmystreet.com/report/3807690](https://www.fixmystreet.com/report/3807690)
 - Blind spot onto busy road, 6th September :- [https://www.fixmystreet.com/report/3807113](https://www.fixmystreet.com/report/3807113)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Brambles overhanging narrow path on busy roadside, 5th September :- [https://www.fixmystreet.com/report/3805138](https://www.fixmystreet.com/report/3805138)
 - Broken paths, 5th September :- [https://www.fixmystreet.com/report/3804966](https://www.fixmystreet.com/report/3804966)
 - Unsafe path in Brizen, 5th September :- [https://www.fixmystreet.com/report/3804204](https://www.fixmystreet.com/report/3804204)
-- Seriously overgrown hedging, 5th September :- [https://www.fixmystreet.com/report/3803828](https://www.fixmystreet.com/report/3803828)
-- Upturned paving slab, 5th September :- [https://www.fixmystreet.com/report/3803683](https://www.fixmystreet.com/report/3803683)
-- Bottles of urine, 4th September :- [https://www.fixmystreet.com/report/3802031](https://www.fixmystreet.com/report/3802031)
 
 <!-- fix_marker ends -->
