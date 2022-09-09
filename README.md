@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic cones left on park, 9th September :- [https://www.fixmystreet.com/report/3813215](https://www.fixmystreet.com/report/3813215)
 - Fibreoptics work causing chaos, 7th September :- [https://www.fixmystreet.com/report/3810026](https://www.fixmystreet.com/report/3810026)
 - Dangerous work taking place, 7th September :- [https://www.fixmystreet.com/report/3810007](https://www.fixmystreet.com/report/3810007)
 - A large hole has appeared close to the kerb outside of Ryman, 7th September :- [https://www.fixmystreet.com/report/3809933](https://www.fixmystreet.com/report/3809933)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tarmac surface worn away, 6th September :- [https://www.fixmystreet.com/report/3806233](https://www.fixmystreet.com/report/3806233)
 - Potholes in Royal Parade Mews, 6th September :- [https://www.fixmystreet.com/report/3806167](https://www.fixmystreet.com/report/3806167)
 - Dangerous footpath, 6th September :- [https://www.fixmystreet.com/report/3805838](https://www.fixmystreet.com/report/3805838)
-- Road has no road name sign, 6th September :- [https://www.fixmystreet.com/report/3805318](https://www.fixmystreet.com/report/3805318)
 
 <!-- fix_marker ends -->
