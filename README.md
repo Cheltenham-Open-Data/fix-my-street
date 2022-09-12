@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken drainage cover, 12th September :- [https://www.fixmystreet.com/report/3819654](https://www.fixmystreet.com/report/3819654)
+- Parked cars narrowing the road, 12th September :- [https://www.fixmystreet.com/report/3819188](https://www.fixmystreet.com/report/3819188)
 - Cars parking on junction, 11th September :- [https://www.fixmystreet.com/report/3817607](https://www.fixmystreet.com/report/3817607)
 - Fly tipped rubbish, 11th September :- [https://www.fixmystreet.com/report/3817501](https://www.fixmystreet.com/report/3817501)
 - Occupant of property 34 Devon Avenue admitted rubbish belongs to them., 10th September :- [https://www.fixmystreet.com/report/3816212](https://www.fixmystreet.com/report/3816212)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerous wall, 7th September :- [https://www.fixmystreet.com/report/3809702](https://www.fixmystreet.com/report/3809702)
 - Broken glass/ rubbish etc, 7th September :- [https://www.fixmystreet.com/report/3808533](https://www.fixmystreet.com/report/3808533)
 - Light covered by tree, 7th September :- [https://www.fixmystreet.com/report/3808122](https://www.fixmystreet.com/report/3808122)
-- Part of pavement cut out. Outside 33 and 35 Gristmill Close., 6th September :- [https://www.fixmystreet.com/report/3807936](https://www.fixmystreet.com/report/3807936)
-- Elmleaze Potholes, 6th September :- [https://www.fixmystreet.com/report/3807911](https://www.fixmystreet.com/report/3807911)
 
 <!-- fix_marker ends -->
