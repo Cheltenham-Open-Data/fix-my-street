@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Footpath Overgrown, 13th September :- [https://www.fixmystreet.com/report/3821832](https://www.fixmystreet.com/report/3821832)
 - The support posts on the Swindon Village sign are twisted., 12th September :- [https://www.fixmystreet.com/report/3820683](https://www.fixmystreet.com/report/3820683)
 - Signpost fallen over due to rusty poles, 12th September :- [https://www.fixmystreet.com/report/3820618](https://www.fixmystreet.com/report/3820618)
 - Tree engulfment, 12th September :- [https://www.fixmystreet.com/report/3820597](https://www.fixmystreet.com/report/3820597)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic cones left on park, 9th September :- [https://www.fixmystreet.com/report/3813215](https://www.fixmystreet.com/report/3813215)
 - Fibreoptics work causing chaos, 7th September :- [https://www.fixmystreet.com/report/3810026](https://www.fixmystreet.com/report/3810026)
 - Dangerous work taking place, 7th September :- [https://www.fixmystreet.com/report/3810007](https://www.fixmystreet.com/report/3810007)
-- A large hole has appeared close to the kerb outside of Ryman, 7th September :- [https://www.fixmystreet.com/report/3809933](https://www.fixmystreet.com/report/3809933)
 
 <!-- fix_marker ends -->
