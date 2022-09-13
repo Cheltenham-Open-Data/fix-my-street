@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The support posts on the Swindon Village sign are twisted., 12th September :- [https://www.fixmystreet.com/report/3820683](https://www.fixmystreet.com/report/3820683)
+- Signpost fallen over due to rusty poles, 12th September :- [https://www.fixmystreet.com/report/3820618](https://www.fixmystreet.com/report/3820618)
+- Tree engulfment, 12th September :- [https://www.fixmystreet.com/report/3820597](https://www.fixmystreet.com/report/3820597)
 - Broken drainage cover, 12th September :- [https://www.fixmystreet.com/report/3819654](https://www.fixmystreet.com/report/3819654)
 - Parked cars narrowing the road, 12th September :- [https://www.fixmystreet.com/report/3819188](https://www.fixmystreet.com/report/3819188)
 - Cars parking on junction, 11th September :- [https://www.fixmystreet.com/report/3817607](https://www.fixmystreet.com/report/3817607)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fibreoptics work causing chaos, 7th September :- [https://www.fixmystreet.com/report/3810026](https://www.fixmystreet.com/report/3810026)
 - Dangerous work taking place, 7th September :- [https://www.fixmystreet.com/report/3810007](https://www.fixmystreet.com/report/3810007)
 - A large hole has appeared close to the kerb outside of Ryman, 7th September :- [https://www.fixmystreet.com/report/3809933](https://www.fixmystreet.com/report/3809933)
-- Dangerous wall, 7th September :- [https://www.fixmystreet.com/report/3809702](https://www.fixmystreet.com/report/3809702)
-- Broken glass/ rubbish etc, 7th September :- [https://www.fixmystreet.com/report/3808533](https://www.fixmystreet.com/report/3808533)
-- Light covered by tree, 7th September :- [https://www.fixmystreet.com/report/3808122](https://www.fixmystreet.com/report/3808122)
 
 <!-- fix_marker ends -->
