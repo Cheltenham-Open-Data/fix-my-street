@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken tile trip hazard Kipling Road, 15th September :- [https://www.fixmystreet.com/report/3826650](https://www.fixmystreet.com/report/3826650)
 - Diseased trees, 15th September :- [https://www.fixmystreet.com/report/3826565](https://www.fixmystreet.com/report/3826565)
 - Raw sewage coming out of drain and pouring down the street gutter. It stinks as well, 14th September :- [https://www.fixmystreet.com/report/3826117](https://www.fixmystreet.com/report/3826117)
 - Drop curbs required for care home residence behind Hobart House Shelley Road, 14th September :- [https://www.fixmystreet.com/report/3825883](https://www.fixmystreet.com/report/3825883)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mattress, 10th September :- [https://www.fixmystreet.com/report/3815746](https://www.fixmystreet.com/report/3815746)
 - Waitrose shopping trolley by Municipal Offices, 10th September :- [https://www.fixmystreet.com/report/3815615](https://www.fixmystreet.com/report/3815615)
 - Area surrounding manhole damaged in heavy rain, 9th September :- [https://www.fixmystreet.com/report/3815057](https://www.fixmystreet.com/report/3815057)
-- Pothole lane one, 9th September :- [https://www.fixmystreet.com/report/3814977](https://www.fixmystreet.com/report/3814977)
 
 <!-- fix_marker ends -->
