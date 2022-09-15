@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Diseased trees, 15th September :- [https://www.fixmystreet.com/report/3826565](https://www.fixmystreet.com/report/3826565)
+- Raw sewage coming out of drain and pouring down the street gutter. It stinks as well, 14th September :- [https://www.fixmystreet.com/report/3826117](https://www.fixmystreet.com/report/3826117)
 - Drop curbs required for care home residence behind Hobart House Shelley Road, 14th September :- [https://www.fixmystreet.com/report/3825883](https://www.fixmystreet.com/report/3825883)
 - This bin needs a lid - fishy park, 14th September :- [https://www.fixmystreet.com/report/3824047](https://www.fixmystreet.com/report/3824047)
 - Footpath Overgrown, 13th September :- [https://www.fixmystreet.com/report/3821832](https://www.fixmystreet.com/report/3821832)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Waitrose shopping trolley by Municipal Offices, 10th September :- [https://www.fixmystreet.com/report/3815615](https://www.fixmystreet.com/report/3815615)
 - Area surrounding manhole damaged in heavy rain, 9th September :- [https://www.fixmystreet.com/report/3815057](https://www.fixmystreet.com/report/3815057)
 - Pothole lane one, 9th September :- [https://www.fixmystreet.com/report/3814977](https://www.fixmystreet.com/report/3814977)
-- Large amount of glass on pavement, 9th September :- [https://www.fixmystreet.com/report/3814307](https://www.fixmystreet.com/report/3814307)
-- Traffic cones left on park, 9th September :- [https://www.fixmystreet.com/report/3813215](https://www.fixmystreet.com/report/3813215)
 
 <!-- fix_marker ends -->
