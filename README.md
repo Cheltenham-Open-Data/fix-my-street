@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown shrubs, 15th September :- [https://www.fixmystreet.com/report/3828523](https://www.fixmystreet.com/report/3828523)
 - Broken tile trip hazard Kipling Road, 15th September :- [https://www.fixmystreet.com/report/3826650](https://www.fixmystreet.com/report/3826650)
 - Diseased trees, 15th September :- [https://www.fixmystreet.com/report/3826565](https://www.fixmystreet.com/report/3826565)
 - Raw sewage coming out of drain and pouring down the street gutter. It stinks as well, 14th September :- [https://www.fixmystreet.com/report/3826117](https://www.fixmystreet.com/report/3826117)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Yellow lines need to be replaced on Church Road. Before the school outside Boleyn Cottages., 10th September :- [https://www.fixmystreet.com/report/3815753](https://www.fixmystreet.com/report/3815753)
 - Mattress, 10th September :- [https://www.fixmystreet.com/report/3815746](https://www.fixmystreet.com/report/3815746)
 - Waitrose shopping trolley by Municipal Offices, 10th September :- [https://www.fixmystreet.com/report/3815615](https://www.fixmystreet.com/report/3815615)
-- Area surrounding manhole damaged in heavy rain, 9th September :- [https://www.fixmystreet.com/report/3815057](https://www.fixmystreet.com/report/3815057)
 
 <!-- fix_marker ends -->
