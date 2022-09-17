@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipped cabinet and wood, 17th September :- [https://www.fixmystreet.com/report/3830991](https://www.fixmystreet.com/report/3830991)
+- Flyposting on 50 limit signpost a38, 16th September :- [https://www.fixmystreet.com/report/3830704](https://www.fixmystreet.com/report/3830704)
 - Obstructing, 16th September :- [https://www.fixmystreet.com/report/3829236](https://www.fixmystreet.com/report/3829236)
 - Overgrown shrubs, 15th September :- [https://www.fixmystreet.com/report/3828523](https://www.fixmystreet.com/report/3828523)
 - Broken tile trip hazard Kipling Road, 15th September :- [https://www.fixmystreet.com/report/3826650](https://www.fixmystreet.com/report/3826650)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Occupant of property 34 Devon Avenue admitted rubbish belongs to them., 10th September :- [https://www.fixmystreet.com/report/3816212](https://www.fixmystreet.com/report/3816212)
 - Hole around Ironworks, 10th September :- [https://www.fixmystreet.com/report/3815891](https://www.fixmystreet.com/report/3815891)
 - Potholes at junction, 10th September :- [https://www.fixmystreet.com/report/3815880](https://www.fixmystreet.com/report/3815880)
-- Yellow lines need to be replaced on Church Road. Before the school outside Boleyn Cottages., 10th September :- [https://www.fixmystreet.com/report/3815753](https://www.fixmystreet.com/report/3815753)
-- Mattress, 10th September :- [https://www.fixmystreet.com/report/3815746](https://www.fixmystreet.com/report/3815746)
 
 <!-- fix_marker ends -->
