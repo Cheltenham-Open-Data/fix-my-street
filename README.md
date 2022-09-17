@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- On a corner blind spot, 17th September :- [https://www.fixmystreet.com/report/3831632](https://www.fixmystreet.com/report/3831632)
 - Flytipped cabinet and wood, 17th September :- [https://www.fixmystreet.com/report/3830991](https://www.fixmystreet.com/report/3830991)
 - Flyposting on 50 limit signpost a38, 16th September :- [https://www.fixmystreet.com/report/3830704](https://www.fixmystreet.com/report/3830704)
 - Obstructing, 16th September :- [https://www.fixmystreet.com/report/3829236](https://www.fixmystreet.com/report/3829236)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipped rubbish, 11th September :- [https://www.fixmystreet.com/report/3817501](https://www.fixmystreet.com/report/3817501)
 - Occupant of property 34 Devon Avenue admitted rubbish belongs to them., 10th September :- [https://www.fixmystreet.com/report/3816212](https://www.fixmystreet.com/report/3816212)
 - Hole around Ironworks, 10th September :- [https://www.fixmystreet.com/report/3815891](https://www.fixmystreet.com/report/3815891)
-- Potholes at junction, 10th September :- [https://www.fixmystreet.com/report/3815880](https://www.fixmystreet.com/report/3815880)
 
 <!-- fix_marker ends -->
