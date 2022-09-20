@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic lights detection loops not working, 20th September :- [https://www.fixmystreet.com/report/3835953](https://www.fixmystreet.com/report/3835953)
 - Several bottles smashed and scattered on Adam replace shops quite dangerous to dogs and pedestrians I think it needs a road sweeper, 20th September :- [https://www.fixmystreet.com/report/3834834](https://www.fixmystreet.com/report/3834834)
 - Abandoned vehicle, 20th September :- [https://www.fixmystreet.com/report/3834830](https://www.fixmystreet.com/report/3834830)
 - Dogs mess next to cottages, School Road., 19th September :- [https://www.fixmystreet.com/report/3834362](https://www.fixmystreet.com/report/3834362)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Diseased trees, 15th September :- [https://www.fixmystreet.com/report/3826565](https://www.fixmystreet.com/report/3826565)
 - Raw sewage coming out of drain and pouring down the street gutter. It stinks as well, 14th September :- [https://www.fixmystreet.com/report/3826117](https://www.fixmystreet.com/report/3826117)
 - Drop curbs required for care home residence behind Hobart House Shelley Road, 14th September :- [https://www.fixmystreet.com/report/3825883](https://www.fixmystreet.com/report/3825883)
-- This bin needs a lid - fishy park, 14th September :- [https://www.fixmystreet.com/report/3824047](https://www.fixmystreet.com/report/3824047)
 
 <!-- fix_marker ends -->
