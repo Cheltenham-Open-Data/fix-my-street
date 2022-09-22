@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Massively overgrown vegetation covering footpath, 21st September :- [https://www.fixmystreet.com/report/3840111](https://www.fixmystreet.com/report/3840111)
 - Low hanging trees, 21st September :- [https://www.fixmystreet.com/report/3839541](https://www.fixmystreet.com/report/3839541)
 - Overhanging trees, 21st September :- [https://www.fixmystreet.com/report/3838474](https://www.fixmystreet.com/report/3838474)
 - Damaged car blocking pedestrian crossing, 20th September :- [https://www.fixmystreet.com/report/3837356](https://www.fixmystreet.com/report/3837356)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flyposting on 50 limit signpost a38, 16th September :- [https://www.fixmystreet.com/report/3830704](https://www.fixmystreet.com/report/3830704)
 - Obstructing, 16th September :- [https://www.fixmystreet.com/report/3829236](https://www.fixmystreet.com/report/3829236)
 - Overgrown shrubs, 15th September :- [https://www.fixmystreet.com/report/3828523](https://www.fixmystreet.com/report/3828523)
-- Broken tile trip hazard Kipling Road, 15th September :- [https://www.fixmystreet.com/report/3826650](https://www.fixmystreet.com/report/3826650)
 
 <!-- fix_marker ends -->
