@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road falling apart, 22nd September :- [https://www.fixmystreet.com/report/3842594](https://www.fixmystreet.com/report/3842594)
 - Bushes need trimming, 22nd September :- [https://www.fixmystreet.com/report/3841796](https://www.fixmystreet.com/report/3841796)
 - Abandoned B@Q shopping trolley, 22nd September :- [https://www.fixmystreet.com/report/3840853](https://www.fixmystreet.com/report/3840853)
 - Crashed car still blocking this busy crossing`, 22nd September :- [https://www.fixmystreet.com/report/3840574](https://www.fixmystreet.com/report/3840574)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Continued large cracks in pavement on footpath off Farmfield Road, 19th September :- [https://www.fixmystreet.com/report/3834065](https://www.fixmystreet.com/report/3834065)
 - Large cracks in footpath off Farmfield Road, 19th September :- [https://www.fixmystreet.com/report/3834058](https://www.fixmystreet.com/report/3834058)
 - Slabs by bench on corner if Bibury Road removed and broken, 18th September :- [https://www.fixmystreet.com/report/3832629](https://www.fixmystreet.com/report/3832629)
-- Slabs by bench in corner if Bibury Road and Robert Burns Avenue broken and lufted, 18th September :- [https://www.fixmystreet.com/report/3832622](https://www.fixmystreet.com/report/3832622)
 
 <!-- fix_marker ends -->
