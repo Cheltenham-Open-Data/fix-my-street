@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Rats in bins, 24th September :- [https://www.fixmystreet.com/report/3846022](https://www.fixmystreet.com/report/3846022)
+- Fallen sign, 24th September :- [https://www.fixmystreet.com/report/3845655](https://www.fixmystreet.com/report/3845655)
+- Water leak, 24th September :- [https://www.fixmystreet.com/report/3845543](https://www.fixmystreet.com/report/3845543)
+- Broken glass all up road, 24th September :- [https://www.fixmystreet.com/report/3845440](https://www.fixmystreet.com/report/3845440)
+- Electric fan dumped, 24th September :- [https://www.fixmystreet.com/report/3845436](https://www.fixmystreet.com/report/3845436)
+- Pothole, 24th September :- [https://www.fixmystreet.com/report/3845431](https://www.fixmystreet.com/report/3845431)
+- Broken glass, 24th September :- [https://www.fixmystreet.com/report/3845429](https://www.fixmystreet.com/report/3845429)
 - Overgrown hedges, 23rd September :- [https://www.fixmystreet.com/report/3844326](https://www.fixmystreet.com/report/3844326)
 - Shopping trolley in the Chelt., 23rd September :- [https://www.fixmystreet.com/report/3843658](https://www.fixmystreet.com/report/3843658)
 - Road falling apart, 22nd September :- [https://www.fixmystreet.com/report/3842594](https://www.fixmystreet.com/report/3842594)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lots of broken glass across the width of the road and pavement, 22nd September :- [https://www.fixmystreet.com/report/3840537](https://www.fixmystreet.com/report/3840537)
 - Massively overgrown vegetation covering footpath, 21st September :- [https://www.fixmystreet.com/report/3840111](https://www.fixmystreet.com/report/3840111)
 - Low hanging trees, 21st September :- [https://www.fixmystreet.com/report/3839541](https://www.fixmystreet.com/report/3839541)
-- Overhanging trees, 21st September :- [https://www.fixmystreet.com/report/3838474](https://www.fixmystreet.com/report/3838474)
-- Damaged car blocking pedestrian crossing, 20th September :- [https://www.fixmystreet.com/report/3837356](https://www.fixmystreet.com/report/3837356)
-- Traffic lights detection loops not working, 20th September :- [https://www.fixmystreet.com/report/3835953](https://www.fixmystreet.com/report/3835953)
-- Several bottles smashed and scattered on Adam replace shops quite dangerous to dogs and pedestrians I think it needs a road sweeper, 20th September :- [https://www.fixmystreet.com/report/3834834](https://www.fixmystreet.com/report/3834834)
-- Abandoned vehicle, 20th September :- [https://www.fixmystreet.com/report/3834830](https://www.fixmystreet.com/report/3834830)
-- Dogs mess next to cottages, School Road., 19th September :- [https://www.fixmystreet.com/report/3834362](https://www.fixmystreet.com/report/3834362)
-- Swivel chair dumped in Salisbury Ave play area, 19th September :- [https://www.fixmystreet.com/report/3834131](https://www.fixmystreet.com/report/3834131)
 
 <!-- fix_marker ends -->
