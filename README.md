@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road surface is disintegrating, 24th September :- [https://www.fixmystreet.com/report/3846506](https://www.fixmystreet.com/report/3846506)
 - Rats in bins, 24th September :- [https://www.fixmystreet.com/report/3846022](https://www.fixmystreet.com/report/3846022)
 - Fallen sign, 24th September :- [https://www.fixmystreet.com/report/3845655](https://www.fixmystreet.com/report/3845655)
 - Water leak, 24th September :- [https://www.fixmystreet.com/report/3845543](https://www.fixmystreet.com/report/3845543)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lot of broken glass on pavement by crossing, 22nd September :- [https://www.fixmystreet.com/report/3840554](https://www.fixmystreet.com/report/3840554)
 - Lots of broken glass across the width of the road and pavement, 22nd September :- [https://www.fixmystreet.com/report/3840537](https://www.fixmystreet.com/report/3840537)
 - Massively overgrown vegetation covering footpath, 21st September :- [https://www.fixmystreet.com/report/3840111](https://www.fixmystreet.com/report/3840111)
-- Low hanging trees, 21st September :- [https://www.fixmystreet.com/report/3839541](https://www.fixmystreet.com/report/3839541)
 
 <!-- fix_marker ends -->
