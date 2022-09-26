@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pelican crossing lights damaged Swindon Rd Cheltenham, 26th September :- [https://www.fixmystreet.com/report/3850360](https://www.fixmystreet.com/report/3850360)
+- Central Reservation, 26th September :- [https://www.fixmystreet.com/report/3849066](https://www.fixmystreet.com/report/3849066)
 - Graffiti on Telford House, 26th September :- [https://www.fixmystreet.com/report/3848474](https://www.fixmystreet.com/report/3848474)
 - Offensive Graffiti on Bus Shelter, 25th September :- [https://www.fixmystreet.com/report/3848236](https://www.fixmystreet.com/report/3848236)
 - Sign has been pulled out of the ground, 25th September :- [https://www.fixmystreet.com/report/3847999](https://www.fixmystreet.com/report/3847999)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street lights, 23rd September :- [https://www.fixmystreet.com/report/3842575](https://www.fixmystreet.com/report/3842575)
 - Bushes need trimming, 22nd September :- [https://www.fixmystreet.com/report/3841796](https://www.fixmystreet.com/report/3841796)
 - Abandoned B@Q shopping trolley, 22nd September :- [https://www.fixmystreet.com/report/3840853](https://www.fixmystreet.com/report/3840853)
-- Crashed car still blocking this busy crossing`, 22nd September :- [https://www.fixmystreet.com/report/3840574](https://www.fixmystreet.com/report/3840574)
-- Cars parking on grass verge, 22nd September :- [https://www.fixmystreet.com/report/3840572](https://www.fixmystreet.com/report/3840572)
 
 <!-- fix_marker ends -->
