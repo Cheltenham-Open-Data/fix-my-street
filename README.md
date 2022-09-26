@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on Telford House, 26th September :- [https://www.fixmystreet.com/report/3848474](https://www.fixmystreet.com/report/3848474)
+- Offensive Graffiti on Bus Shelter, 25th September :- [https://www.fixmystreet.com/report/3848236](https://www.fixmystreet.com/report/3848236)
 - Sign has been pulled out of the ground, 25th September :- [https://www.fixmystreet.com/report/3847999](https://www.fixmystreet.com/report/3847999)
 - Road surface is disintegrating, 24th September :- [https://www.fixmystreet.com/report/3846506](https://www.fixmystreet.com/report/3846506)
 - Dangerously positioned, appalling designed island making turns right almost impossible for large vehicles, 25th September :- [https://www.fixmystreet.com/report/3846505](https://www.fixmystreet.com/report/3846505)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned B@Q shopping trolley, 22nd September :- [https://www.fixmystreet.com/report/3840853](https://www.fixmystreet.com/report/3840853)
 - Crashed car still blocking this busy crossing`, 22nd September :- [https://www.fixmystreet.com/report/3840574](https://www.fixmystreet.com/report/3840574)
 - Cars parking on grass verge, 22nd September :- [https://www.fixmystreet.com/report/3840572](https://www.fixmystreet.com/report/3840572)
-- Abandoned home?, 22nd September :- [https://www.fixmystreet.com/report/3840564](https://www.fixmystreet.com/report/3840564)
-- Lot of broken glass on pavement by crossing, 22nd September :- [https://www.fixmystreet.com/report/3840554](https://www.fixmystreet.com/report/3840554)
 
 <!-- fix_marker ends -->
