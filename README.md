@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very dangerous footpath bridge over Tirle Brook, Woolstone, 27th September :- [https://www.fixmystreet.com/report/3851271](https://www.fixmystreet.com/report/3851271)
 - Pelican crossing lights damaged Swindon Rd Cheltenham, 26th September :- [https://www.fixmystreet.com/report/3850360](https://www.fixmystreet.com/report/3850360)
 - Central Reservation, 26th September :- [https://www.fixmystreet.com/report/3849066](https://www.fixmystreet.com/report/3849066)
 - Graffiti on Telford House, 26th September :- [https://www.fixmystreet.com/report/3848474](https://www.fixmystreet.com/report/3848474)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road falling apart, 22nd September :- [https://www.fixmystreet.com/report/3842594](https://www.fixmystreet.com/report/3842594)
 - Street lights, 23rd September :- [https://www.fixmystreet.com/report/3842575](https://www.fixmystreet.com/report/3842575)
 - Bushes need trimming, 22nd September :- [https://www.fixmystreet.com/report/3841796](https://www.fixmystreet.com/report/3841796)
-- Abandoned B@Q shopping trolley, 22nd September :- [https://www.fixmystreet.com/report/3840853](https://www.fixmystreet.com/report/3840853)
 
 <!-- fix_marker ends -->
