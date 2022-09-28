@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Shrub obstructing footpath, 28th September :- [https://www.fixmystreet.com/report/3855152](https://www.fixmystreet.com/report/3855152)
+- Dog mess, 28th September :- [https://www.fixmystreet.com/report/3855080](https://www.fixmystreet.com/report/3855080)
+- Large amounts of dog mess on path, 28th September :- [https://www.fixmystreet.com/report/3855077](https://www.fixmystreet.com/report/3855077)
+- Trolley, 28th September :- [https://www.fixmystreet.com/report/3851542](https://www.fixmystreet.com/report/3851542)
 - Very dangerous footpath bridge over Tirle Brook, Woolstone, 27th September :- [https://www.fixmystreet.com/report/3851271](https://www.fixmystreet.com/report/3851271)
 - Pelican crossing lights damaged Swindon Rd Cheltenham, 26th September :- [https://www.fixmystreet.com/report/3850360](https://www.fixmystreet.com/report/3850360)
 - Central Reservation, 26th September :- [https://www.fixmystreet.com/report/3849066](https://www.fixmystreet.com/report/3849066)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 24th September :- [https://www.fixmystreet.com/report/3845431](https://www.fixmystreet.com/report/3845431)
 - Broken glass, 24th September :- [https://www.fixmystreet.com/report/3845429](https://www.fixmystreet.com/report/3845429)
 - Overgrown hedges, 23rd September :- [https://www.fixmystreet.com/report/3844326](https://www.fixmystreet.com/report/3844326)
-- Shopping trolley in the Chelt., 23rd September :- [https://www.fixmystreet.com/report/3843658](https://www.fixmystreet.com/report/3843658)
-- Road falling apart, 22nd September :- [https://www.fixmystreet.com/report/3842594](https://www.fixmystreet.com/report/3842594)
-- Street lights, 23rd September :- [https://www.fixmystreet.com/report/3842575](https://www.fixmystreet.com/report/3842575)
-- Bushes need trimming, 22nd September :- [https://www.fixmystreet.com/report/3841796](https://www.fixmystreet.com/report/3841796)
 
 <!-- fix_marker ends -->
