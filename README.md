@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 4 Vans Parking Outside our House stopping Us being able to park outside our home, 29th September :- [https://www.fixmystreet.com/report/3857651](https://www.fixmystreet.com/report/3857651)
+- Traffic light damaged, 29th September :- [https://www.fixmystreet.com/report/3857261](https://www.fixmystreet.com/report/3857261)
+- Bollard opposite benhall primary been knocked down, 29th September :- [https://www.fixmystreet.com/report/3857203](https://www.fixmystreet.com/report/3857203)
+- Dumped empty beer bottles/ cans, 29th September :- [https://www.fixmystreet.com/report/3856767](https://www.fixmystreet.com/report/3856767)
+- Branches and leaves, 29th September :- [https://www.fixmystreet.com/report/3856741](https://www.fixmystreet.com/report/3856741)
+- 2 dropped manholes, 29th September :- [https://www.fixmystreet.com/report/3856577](https://www.fixmystreet.com/report/3856577)
+- Street lights out, 29th September :- [https://www.fixmystreet.com/report/3856473](https://www.fixmystreet.com/report/3856473)
+- Abandoned Asda Trolley, 29th September :- [https://www.fixmystreet.com/report/3856251](https://www.fixmystreet.com/report/3856251)
 - Flooded road again, 28th September :- [https://www.fixmystreet.com/report/3855829](https://www.fixmystreet.com/report/3855829)
 - Shrub obstructing footpath, 28th September :- [https://www.fixmystreet.com/report/3855152](https://www.fixmystreet.com/report/3855152)
 - Dog mess, 28th September :- [https://www.fixmystreet.com/report/3855080](https://www.fixmystreet.com/report/3855080)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Offensive Graffiti on Bus Shelter, 25th September :- [https://www.fixmystreet.com/report/3848236](https://www.fixmystreet.com/report/3848236)
 - Sign has been pulled out of the ground, 25th September :- [https://www.fixmystreet.com/report/3847999](https://www.fixmystreet.com/report/3847999)
 - Road surface is disintegrating, 24th September :- [https://www.fixmystreet.com/report/3846506](https://www.fixmystreet.com/report/3846506)
-- Dangerously positioned, appalling designed island making turns right almost impossible for large vehicles, 25th September :- [https://www.fixmystreet.com/report/3846505](https://www.fixmystreet.com/report/3846505)
-- Rats in bins, 24th September :- [https://www.fixmystreet.com/report/3846022](https://www.fixmystreet.com/report/3846022)
-- Fallen sign, 24th September :- [https://www.fixmystreet.com/report/3845655](https://www.fixmystreet.com/report/3845655)
-- Water leak, 24th September :- [https://www.fixmystreet.com/report/3845543](https://www.fixmystreet.com/report/3845543)
-- Broken glass all up road, 24th September :- [https://www.fixmystreet.com/report/3845440](https://www.fixmystreet.com/report/3845440)
-- Electric fan dumped, 24th September :- [https://www.fixmystreet.com/report/3845436](https://www.fixmystreet.com/report/3845436)
-- Pothole, 24th September :- [https://www.fixmystreet.com/report/3845431](https://www.fixmystreet.com/report/3845431)
-- Broken glass, 24th September :- [https://www.fixmystreet.com/report/3845429](https://www.fixmystreet.com/report/3845429)
 
 <!-- fix_marker ends -->
