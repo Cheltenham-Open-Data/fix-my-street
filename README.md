@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooded road again, 28th September :- [https://www.fixmystreet.com/report/3855829](https://www.fixmystreet.com/report/3855829)
 - Shrub obstructing footpath, 28th September :- [https://www.fixmystreet.com/report/3855152](https://www.fixmystreet.com/report/3855152)
 - Dog mess, 28th September :- [https://www.fixmystreet.com/report/3855080](https://www.fixmystreet.com/report/3855080)
 - Large amounts of dog mess on path, 28th September :- [https://www.fixmystreet.com/report/3855077](https://www.fixmystreet.com/report/3855077)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Electric fan dumped, 24th September :- [https://www.fixmystreet.com/report/3845436](https://www.fixmystreet.com/report/3845436)
 - Pothole, 24th September :- [https://www.fixmystreet.com/report/3845431](https://www.fixmystreet.com/report/3845431)
 - Broken glass, 24th September :- [https://www.fixmystreet.com/report/3845429](https://www.fixmystreet.com/report/3845429)
-- Overgrown hedges, 23rd September :- [https://www.fixmystreet.com/report/3844326](https://www.fixmystreet.com/report/3844326)
 
 <!-- fix_marker ends -->
