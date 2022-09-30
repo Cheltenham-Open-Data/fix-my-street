@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Objects in River Chelt, 30th September :- [https://www.fixmystreet.com/report/3859298](https://www.fixmystreet.com/report/3859298)
+- Poo bin full, 30th September :- [https://www.fixmystreet.com/report/3859041](https://www.fixmystreet.com/report/3859041)
 - Electric fence and overgrown gate, 29th September :- [https://www.fixmystreet.com/report/3858186](https://www.fixmystreet.com/report/3858186)
 - Overgrown bush blocking view out of junction, 29th September :- [https://www.fixmystreet.com/report/3858022](https://www.fixmystreet.com/report/3858022)
 - Harsh Speedhumps, Potholes and Poor repairs, 29th September :- [https://www.fixmystreet.com/report/3858004](https://www.fixmystreet.com/report/3858004)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trolley, 28th September :- [https://www.fixmystreet.com/report/3851542](https://www.fixmystreet.com/report/3851542)
 - Very dangerous footpath bridge over Tirle Brook, Woolstone, 27th September :- [https://www.fixmystreet.com/report/3851271](https://www.fixmystreet.com/report/3851271)
 - Pelican crossing lights damaged Swindon Rd Cheltenham, 26th September :- [https://www.fixmystreet.com/report/3850360](https://www.fixmystreet.com/report/3850360)
-- Central Reservation, 26th September :- [https://www.fixmystreet.com/report/3849066](https://www.fixmystreet.com/report/3849066)
-- Graffiti on Telford House, 26th September :- [https://www.fixmystreet.com/report/3848474](https://www.fixmystreet.com/report/3848474)
 
 <!-- fix_marker ends -->
