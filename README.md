@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cabinet open, 1st October :- [https://www.fixmystreet.com/report/3861511](https://www.fixmystreet.com/report/3861511)
+- Temporary Traffic lights failure, 1st October :- [https://www.fixmystreet.com/report/3860984](https://www.fixmystreet.com/report/3860984)
 - Objects in River Chelt, 30th September :- [https://www.fixmystreet.com/report/3859298](https://www.fixmystreet.com/report/3859298)
 - Poo bin full, 30th September :- [https://www.fixmystreet.com/report/3859041](https://www.fixmystreet.com/report/3859041)
 - Electric fence and overgrown gate, 29th September :- [https://www.fixmystreet.com/report/3858186](https://www.fixmystreet.com/report/3858186)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dog mess, 28th September :- [https://www.fixmystreet.com/report/3855080](https://www.fixmystreet.com/report/3855080)
 - Large amounts of dog mess on path, 28th September :- [https://www.fixmystreet.com/report/3855077](https://www.fixmystreet.com/report/3855077)
 - Trolley, 28th September :- [https://www.fixmystreet.com/report/3851542](https://www.fixmystreet.com/report/3851542)
-- Very dangerous footpath bridge over Tirle Brook, Woolstone, 27th September :- [https://www.fixmystreet.com/report/3851271](https://www.fixmystreet.com/report/3851271)
-- Pelican crossing lights damaged Swindon Rd Cheltenham, 26th September :- [https://www.fixmystreet.com/report/3850360](https://www.fixmystreet.com/report/3850360)
 
 <!-- fix_marker ends -->
