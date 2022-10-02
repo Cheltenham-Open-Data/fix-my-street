@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic light missing, 2nd October :- [https://www.fixmystreet.com/report/3862483](https://www.fixmystreet.com/report/3862483)
+- Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862482](https://www.fixmystreet.com/report/3862482)
+- Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862472](https://www.fixmystreet.com/report/3862472)
 - Cabinet open, 1st October :- [https://www.fixmystreet.com/report/3861511](https://www.fixmystreet.com/report/3861511)
 - Temporary Traffic lights failure, 1st October :- [https://www.fixmystreet.com/report/3860984](https://www.fixmystreet.com/report/3860984)
 - Objects in River Chelt, 30th September :- [https://www.fixmystreet.com/report/3859298](https://www.fixmystreet.com/report/3859298)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned Asda Trolley, 29th September :- [https://www.fixmystreet.com/report/3856251](https://www.fixmystreet.com/report/3856251)
 - Flooded road again, 28th September :- [https://www.fixmystreet.com/report/3855829](https://www.fixmystreet.com/report/3855829)
 - Shrub obstructing footpath, 28th September :- [https://www.fixmystreet.com/report/3855152](https://www.fixmystreet.com/report/3855152)
-- Dog mess, 28th September :- [https://www.fixmystreet.com/report/3855080](https://www.fixmystreet.com/report/3855080)
-- Large amounts of dog mess on path, 28th September :- [https://www.fixmystreet.com/report/3855077](https://www.fixmystreet.com/report/3855077)
-- Trolley, 28th September :- [https://www.fixmystreet.com/report/3851542](https://www.fixmystreet.com/report/3851542)
 
 <!-- fix_marker ends -->
