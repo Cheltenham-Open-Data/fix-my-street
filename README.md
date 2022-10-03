@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cars blocking pavement, 3rd October :- [https://www.fixmystreet.com/report/3865369](https://www.fixmystreet.com/report/3865369)
 - Pedestrian/no cycle path paint request, 2nd October :- [https://www.fixmystreet.com/report/3862979](https://www.fixmystreet.com/report/3862979)
 - Over grown hedging, 2nd October :- [https://www.fixmystreet.com/report/3862966](https://www.fixmystreet.com/report/3862966)
 - Traffic light missing, 2nd October :- [https://www.fixmystreet.com/report/3862483](https://www.fixmystreet.com/report/3862483)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Branches and leaves, 29th September :- [https://www.fixmystreet.com/report/3856741](https://www.fixmystreet.com/report/3856741)
 - 2 dropped manholes, 29th September :- [https://www.fixmystreet.com/report/3856577](https://www.fixmystreet.com/report/3856577)
 - Street lights out, 29th September :- [https://www.fixmystreet.com/report/3856473](https://www.fixmystreet.com/report/3856473)
-- Abandoned Asda Trolley, 29th September :- [https://www.fixmystreet.com/report/3856251](https://www.fixmystreet.com/report/3856251)
 
 <!-- fix_marker ends -->
