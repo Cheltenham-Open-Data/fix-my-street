@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian/no cycle path paint request, 2nd October :- [https://www.fixmystreet.com/report/3862979](https://www.fixmystreet.com/report/3862979)
+- Over grown hedging, 2nd October :- [https://www.fixmystreet.com/report/3862966](https://www.fixmystreet.com/report/3862966)
 - Traffic light missing, 2nd October :- [https://www.fixmystreet.com/report/3862483](https://www.fixmystreet.com/report/3862483)
 - Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862482](https://www.fixmystreet.com/report/3862482)
 - Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862472](https://www.fixmystreet.com/report/3862472)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 dropped manholes, 29th September :- [https://www.fixmystreet.com/report/3856577](https://www.fixmystreet.com/report/3856577)
 - Street lights out, 29th September :- [https://www.fixmystreet.com/report/3856473](https://www.fixmystreet.com/report/3856473)
 - Abandoned Asda Trolley, 29th September :- [https://www.fixmystreet.com/report/3856251](https://www.fixmystreet.com/report/3856251)
-- Flooded road again, 28th September :- [https://www.fixmystreet.com/report/3855829](https://www.fixmystreet.com/report/3855829)
-- Shrub obstructing footpath, 28th September :- [https://www.fixmystreet.com/report/3855152](https://www.fixmystreet.com/report/3855152)
 
 <!-- fix_marker ends -->
