@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mattress dumped in alley, 5th October :- [https://www.fixmystreet.com/report/3870782](https://www.fixmystreet.com/report/3870782)
+- Rubbish flytipped, 5th October :- [https://www.fixmystreet.com/report/3870249](https://www.fixmystreet.com/report/3870249)
+- Danger for safety as overgrown bushes, 5th October :- [https://www.fixmystreet.com/report/3869011](https://www.fixmystreet.com/report/3869011)
 - Road works signage, 4th October :- [https://www.fixmystreet.com/report/3867390](https://www.fixmystreet.com/report/3867390)
 - Fly Tip on Blind Bend / Field Gate/ Passing Place, 4th October :- [https://www.fixmystreet.com/report/3866398](https://www.fixmystreet.com/report/3866398)
 - Cars blocking pavement, 3rd October :- [https://www.fixmystreet.com/report/3865369](https://www.fixmystreet.com/report/3865369)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Harsh Speedhumps, Potholes and Poor repairs, 29th September :- [https://www.fixmystreet.com/report/3858004](https://www.fixmystreet.com/report/3858004)
 - 4 Vans Parking Outside our House stopping Us being able to park outside our home, 29th September :- [https://www.fixmystreet.com/report/3857651](https://www.fixmystreet.com/report/3857651)
 - Traffic light damaged, 29th September :- [https://www.fixmystreet.com/report/3857261](https://www.fixmystreet.com/report/3857261)
-- Bollard opposite benhall primary been knocked down, 29th September :- [https://www.fixmystreet.com/report/3857203](https://www.fixmystreet.com/report/3857203)
-- Dumped empty beer bottles/ cans, 29th September :- [https://www.fixmystreet.com/report/3856767](https://www.fixmystreet.com/report/3856767)
-- Branches and leaves, 29th September :- [https://www.fixmystreet.com/report/3856741](https://www.fixmystreet.com/report/3856741)
 
 <!-- fix_marker ends -->
