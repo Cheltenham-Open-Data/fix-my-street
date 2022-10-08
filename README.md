@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gate is inaccessible, 8th October :- [https://www.fixmystreet.com/report/3876722](https://www.fixmystreet.com/report/3876722)
+- Poo bin full, 8th October :- [https://www.fixmystreet.com/report/3876718](https://www.fixmystreet.com/report/3876718)
 - Illegal parking, 7th October :- [https://www.fixmystreet.com/report/3875814](https://www.fixmystreet.com/report/3875814)
 - Mattress dumped in alley, 5th October :- [https://www.fixmystreet.com/report/3870782](https://www.fixmystreet.com/report/3870782)
 - Rubbish flytipped, 5th October :- [https://www.fixmystreet.com/report/3870249](https://www.fixmystreet.com/report/3870249)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Poo bin full, 30th September :- [https://www.fixmystreet.com/report/3859041](https://www.fixmystreet.com/report/3859041)
 - Electric fence and overgrown gate, 29th September :- [https://www.fixmystreet.com/report/3858186](https://www.fixmystreet.com/report/3858186)
 - Overgrown bush blocking view out of junction, 29th September :- [https://www.fixmystreet.com/report/3858022](https://www.fixmystreet.com/report/3858022)
-- Harsh Speedhumps, Potholes and Poor repairs, 29th September :- [https://www.fixmystreet.com/report/3858004](https://www.fixmystreet.com/report/3858004)
-- 4 Vans Parking Outside our House stopping Us being able to park outside our home, 29th September :- [https://www.fixmystreet.com/report/3857651](https://www.fixmystreet.com/report/3857651)
 
 <!-- fix_marker ends -->
