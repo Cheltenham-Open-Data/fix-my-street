@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Car with flat tyres left in space, 8th October :- [https://www.fixmystreet.com/report/3877050](https://www.fixmystreet.com/report/3877050)
 - Gate is inaccessible, 8th October :- [https://www.fixmystreet.com/report/3876722](https://www.fixmystreet.com/report/3876722)
 - Poo bin full, 8th October :- [https://www.fixmystreet.com/report/3876718](https://www.fixmystreet.com/report/3876718)
 - Illegal parking, 7th October :- [https://www.fixmystreet.com/report/3875814](https://www.fixmystreet.com/report/3875814)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Objects in River Chelt, 30th September :- [https://www.fixmystreet.com/report/3859298](https://www.fixmystreet.com/report/3859298)
 - Poo bin full, 30th September :- [https://www.fixmystreet.com/report/3859041](https://www.fixmystreet.com/report/3859041)
 - Electric fence and overgrown gate, 29th September :- [https://www.fixmystreet.com/report/3858186](https://www.fixmystreet.com/report/3858186)
-- Overgrown bush blocking view out of junction, 29th September :- [https://www.fixmystreet.com/report/3858022](https://www.fixmystreet.com/report/3858022)
 
 <!-- fix_marker ends -->
