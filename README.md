@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Rubbish bin full, 9th October :- [https://www.fixmystreet.com/report/3877657](https://www.fixmystreet.com/report/3877657)
+- Dog dirt, 9th October :- [https://www.fixmystreet.com/report/3877505](https://www.fixmystreet.com/report/3877505)
+- Broken glass bottle on pavement, 9th October :- [https://www.fixmystreet.com/report/3877502](https://www.fixmystreet.com/report/3877502)
+- Lights out, 9th October :- [https://www.fixmystreet.com/report/3877445](https://www.fixmystreet.com/report/3877445)
+- Slab broken and sticking up, 9th October :- [https://www.fixmystreet.com/report/3877323](https://www.fixmystreet.com/report/3877323)
 - Car with flat tyres left in space, 8th October :- [https://www.fixmystreet.com/report/3877050](https://www.fixmystreet.com/report/3877050)
 - Gate is inaccessible, 8th October :- [https://www.fixmystreet.com/report/3876722](https://www.fixmystreet.com/report/3876722)
 - Poo bin full, 8th October :- [https://www.fixmystreet.com/report/3876718](https://www.fixmystreet.com/report/3876718)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic light missing, 2nd October :- [https://www.fixmystreet.com/report/3862483](https://www.fixmystreet.com/report/3862483)
 - Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862482](https://www.fixmystreet.com/report/3862482)
 - Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862472](https://www.fixmystreet.com/report/3862472)
-- Cabinet open, 1st October :- [https://www.fixmystreet.com/report/3861511](https://www.fixmystreet.com/report/3861511)
-- Temporary Traffic lights failure, 1st October :- [https://www.fixmystreet.com/report/3860984](https://www.fixmystreet.com/report/3860984)
-- Objects in River Chelt, 30th September :- [https://www.fixmystreet.com/report/3859298](https://www.fixmystreet.com/report/3859298)
-- Poo bin full, 30th September :- [https://www.fixmystreet.com/report/3859041](https://www.fixmystreet.com/report/3859041)
-- Electric fence and overgrown gate, 29th September :- [https://www.fixmystreet.com/report/3858186](https://www.fixmystreet.com/report/3858186)
 
 <!-- fix_marker ends -->
