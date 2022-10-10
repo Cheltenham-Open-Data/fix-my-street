@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Oxenton village sign, 10th October :- [https://www.fixmystreet.com/report/3880792](https://www.fixmystreet.com/report/3880792)
+- Sort out these temp traffic lights, 10th October :- [https://www.fixmystreet.com/report/3879017](https://www.fixmystreet.com/report/3879017)
 - Rubbish bin full, 9th October :- [https://www.fixmystreet.com/report/3877657](https://www.fixmystreet.com/report/3877657)
 - Dog dirt, 9th October :- [https://www.fixmystreet.com/report/3877505](https://www.fixmystreet.com/report/3877505)
 - Broken glass bottle on pavement, 9th October :- [https://www.fixmystreet.com/report/3877502](https://www.fixmystreet.com/report/3877502)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pedestrian/no cycle path paint request, 2nd October :- [https://www.fixmystreet.com/report/3862979](https://www.fixmystreet.com/report/3862979)
 - Over grown hedging, 2nd October :- [https://www.fixmystreet.com/report/3862966](https://www.fixmystreet.com/report/3862966)
 - Traffic light missing, 2nd October :- [https://www.fixmystreet.com/report/3862483](https://www.fixmystreet.com/report/3862483)
-- Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862482](https://www.fixmystreet.com/report/3862482)
-- Broken lid on dog waste bin at The Avenue, 2nd October :- [https://www.fixmystreet.com/report/3862472](https://www.fixmystreet.com/report/3862472)
 
 <!-- fix_marker ends -->
