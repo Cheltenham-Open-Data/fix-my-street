@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Missing pedestrian crossing control post, 11th October :- [https://www.fixmystreet.com/report/3883172](https://www.fixmystreet.com/report/3883172)
+- Cars leaking oil onto road/ parking spaces, 11th October :- [https://www.fixmystreet.com/report/3883053](https://www.fixmystreet.com/report/3883053)
+- Traffic lights broke, 11th October :- [https://www.fixmystreet.com/report/3883024](https://www.fixmystreet.com/report/3883024)
+- Litter flyposting 50mph limit sign post, 11th October :- [https://www.fixmystreet.com/report/3882579](https://www.fixmystreet.com/report/3882579)
 - Oxenton village sign, 10th October :- [https://www.fixmystreet.com/report/3880792](https://www.fixmystreet.com/report/3880792)
 - Sort out these temp traffic lights, 10th October :- [https://www.fixmystreet.com/report/3879017](https://www.fixmystreet.com/report/3879017)
 - Rubbish bin full, 9th October :- [https://www.fixmystreet.com/report/3877657](https://www.fixmystreet.com/report/3877657)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Danger for safety as overgrown bushes, 5th October :- [https://www.fixmystreet.com/report/3869011](https://www.fixmystreet.com/report/3869011)
 - Road works signage, 4th October :- [https://www.fixmystreet.com/report/3867390](https://www.fixmystreet.com/report/3867390)
 - Fly Tip on Blind Bend / Field Gate/ Passing Place, 4th October :- [https://www.fixmystreet.com/report/3866398](https://www.fixmystreet.com/report/3866398)
-- Cars blocking pavement, 3rd October :- [https://www.fixmystreet.com/report/3865369](https://www.fixmystreet.com/report/3865369)
-- Pedestrian/no cycle path paint request, 2nd October :- [https://www.fixmystreet.com/report/3862979](https://www.fixmystreet.com/report/3862979)
-- Over grown hedging, 2nd October :- [https://www.fixmystreet.com/report/3862966](https://www.fixmystreet.com/report/3862966)
-- Traffic light missing, 2nd October :- [https://www.fixmystreet.com/report/3862483](https://www.fixmystreet.com/report/3862483)
 
 <!-- fix_marker ends -->
