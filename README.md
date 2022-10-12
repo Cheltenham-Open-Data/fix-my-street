@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown hedging., 11th October :- [https://www.fixmystreet.com/report/3883648](https://www.fixmystreet.com/report/3883648)
 - Missing pedestrian crossing control post, 11th October :- [https://www.fixmystreet.com/report/3883172](https://www.fixmystreet.com/report/3883172)
 - Cars leaking oil onto road/ parking spaces, 11th October :- [https://www.fixmystreet.com/report/3883053](https://www.fixmystreet.com/report/3883053)
 - Traffic lights broke, 11th October :- [https://www.fixmystreet.com/report/3883024](https://www.fixmystreet.com/report/3883024)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Rubbish flytipped, 5th October :- [https://www.fixmystreet.com/report/3870249](https://www.fixmystreet.com/report/3870249)
 - Danger for safety as overgrown bushes, 5th October :- [https://www.fixmystreet.com/report/3869011](https://www.fixmystreet.com/report/3869011)
 - Road works signage, 4th October :- [https://www.fixmystreet.com/report/3867390](https://www.fixmystreet.com/report/3867390)
-- Fly Tip on Blind Bend / Field Gate/ Passing Place, 4th October :- [https://www.fixmystreet.com/report/3866398](https://www.fixmystreet.com/report/3866398)
 
 <!-- fix_marker ends -->
