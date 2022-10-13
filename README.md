@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes on cherry avenue, 13th October :- [https://www.fixmystreet.com/report/3888416](https://www.fixmystreet.com/report/3888416)
+- Mess on payment., 13th October :- [https://www.fixmystreet.com/report/3888150](https://www.fixmystreet.com/report/3888150)
 - Overgrown hedging., 11th October :- [https://www.fixmystreet.com/report/3883648](https://www.fixmystreet.com/report/3883648)
 - Missing pedestrian crossing control post, 11th October :- [https://www.fixmystreet.com/report/3883172](https://www.fixmystreet.com/report/3883172)
 - Cars leaking oil onto road/ parking spaces, 11th October :- [https://www.fixmystreet.com/report/3883053](https://www.fixmystreet.com/report/3883053)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Illegal parking, 7th October :- [https://www.fixmystreet.com/report/3875814](https://www.fixmystreet.com/report/3875814)
 - Mattress dumped in alley, 5th October :- [https://www.fixmystreet.com/report/3870782](https://www.fixmystreet.com/report/3870782)
 - Rubbish flytipped, 5th October :- [https://www.fixmystreet.com/report/3870249](https://www.fixmystreet.com/report/3870249)
-- Danger for safety as overgrown bushes, 5th October :- [https://www.fixmystreet.com/report/3869011](https://www.fixmystreet.com/report/3869011)
-- Road works signage, 4th October :- [https://www.fixmystreet.com/report/3867390](https://www.fixmystreet.com/report/3867390)
 
 <!-- fix_marker ends -->
