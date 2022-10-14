@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road ahead closed sign abandoned, 14th October :- [https://www.fixmystreet.com/report/3890380](https://www.fixmystreet.com/report/3890380)
 - Dead Fox, 14th October :- [https://www.fixmystreet.com/report/3888872](https://www.fixmystreet.com/report/3888872)
 - Potholes on cherry avenue, 13th October :- [https://www.fixmystreet.com/report/3888416](https://www.fixmystreet.com/report/3888416)
 - Mess on payment., 13th October :- [https://www.fixmystreet.com/report/3888150](https://www.fixmystreet.com/report/3888150)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Gate is inaccessible, 8th October :- [https://www.fixmystreet.com/report/3876722](https://www.fixmystreet.com/report/3876722)
 - Poo bin full, 8th October :- [https://www.fixmystreet.com/report/3876718](https://www.fixmystreet.com/report/3876718)
 - Illegal parking, 7th October :- [https://www.fixmystreet.com/report/3875814](https://www.fixmystreet.com/report/3875814)
-- Mattress dumped in alley, 5th October :- [https://www.fixmystreet.com/report/3870782](https://www.fixmystreet.com/report/3870782)
 
 <!-- fix_marker ends -->
