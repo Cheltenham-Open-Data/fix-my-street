@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping hot spot needs a camera, 16th October :- [https://www.fixmystreet.com/report/3893184](https://www.fixmystreet.com/report/3893184)
+- Sofa left on the corner of Backer st and Russell st., 16th October :- [https://www.fixmystreet.com/report/3892603](https://www.fixmystreet.com/report/3892603)
 - Over flowing poo bin, 15th October :- [https://www.fixmystreet.com/report/3892168](https://www.fixmystreet.com/report/3892168)
 - Lights flashing 24/7, 15th October :- [https://www.fixmystreet.com/report/3892151](https://www.fixmystreet.com/report/3892151)
 - Road ahead closed sign abandoned, 14th October :- [https://www.fixmystreet.com/report/3890380](https://www.fixmystreet.com/report/3890380)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass bottle on pavement, 9th October :- [https://www.fixmystreet.com/report/3877502](https://www.fixmystreet.com/report/3877502)
 - Lights out, 9th October :- [https://www.fixmystreet.com/report/3877445](https://www.fixmystreet.com/report/3877445)
 - Slab broken and sticking up, 9th October :- [https://www.fixmystreet.com/report/3877323](https://www.fixmystreet.com/report/3877323)
-- Car with flat tyres left in space, 8th October :- [https://www.fixmystreet.com/report/3877050](https://www.fixmystreet.com/report/3877050)
-- Gate is inaccessible, 8th October :- [https://www.fixmystreet.com/report/3876722](https://www.fixmystreet.com/report/3876722)
 
 <!-- fix_marker ends -->
