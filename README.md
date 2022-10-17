@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Closure of national cycle route without diversion, 17th October :- [https://www.fixmystreet.com/report/3894125](https://www.fixmystreet.com/report/3894125)
+- Burst water issue, 17th October :- [https://www.fixmystreet.com/report/3894067](https://www.fixmystreet.com/report/3894067)
+- Dumped Fridge, 16th October :- [https://www.fixmystreet.com/report/3893868](https://www.fixmystreet.com/report/3893868)
 - Flytipping hot spot needs a camera, 16th October :- [https://www.fixmystreet.com/report/3893184](https://www.fixmystreet.com/report/3893184)
 - Sofa left on the corner of Backer st and Russell st., 16th October :- [https://www.fixmystreet.com/report/3892603](https://www.fixmystreet.com/report/3892603)
 - Over flowing poo bin, 15th October :- [https://www.fixmystreet.com/report/3892168](https://www.fixmystreet.com/report/3892168)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sort out these temp traffic lights, 10th October :- [https://www.fixmystreet.com/report/3879017](https://www.fixmystreet.com/report/3879017)
 - Rubbish bin full, 9th October :- [https://www.fixmystreet.com/report/3877657](https://www.fixmystreet.com/report/3877657)
 - Dog dirt, 9th October :- [https://www.fixmystreet.com/report/3877505](https://www.fixmystreet.com/report/3877505)
-- Broken glass bottle on pavement, 9th October :- [https://www.fixmystreet.com/report/3877502](https://www.fixmystreet.com/report/3877502)
-- Lights out, 9th October :- [https://www.fixmystreet.com/report/3877445](https://www.fixmystreet.com/report/3877445)
-- Slab broken and sticking up, 9th October :- [https://www.fixmystreet.com/report/3877323](https://www.fixmystreet.com/report/3877323)
 
 <!-- fix_marker ends -->
