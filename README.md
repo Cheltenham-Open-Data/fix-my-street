@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped sofa, 17th October :- [https://www.fixmystreet.com/report/3896174](https://www.fixmystreet.com/report/3896174)
+- Graffiti on bus stop folly lane, 17th October :- [https://www.fixmystreet.com/report/3895883](https://www.fixmystreet.com/report/3895883)
+- Dumped microwave on footpath between Farmfield road and Justicia Way, 17th October :- [https://www.fixmystreet.com/report/3895015](https://www.fixmystreet.com/report/3895015)
+- Roadwork Traffic lights not working properly, 17th October :- [https://www.fixmystreet.com/report/3894524](https://www.fixmystreet.com/report/3894524)
 - Closure of national cycle route without diversion, 17th October :- [https://www.fixmystreet.com/report/3894125](https://www.fixmystreet.com/report/3894125)
 - Burst water issue, 17th October :- [https://www.fixmystreet.com/report/3894067](https://www.fixmystreet.com/report/3894067)
 - Dumped Fridge, 16th October :- [https://www.fixmystreet.com/report/3893868](https://www.fixmystreet.com/report/3893868)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Cars leaking oil onto road/ parking spaces, 11th October :- [https://www.fixmystreet.com/report/3883053](https://www.fixmystreet.com/report/3883053)
 - Traffic lights broke, 11th October :- [https://www.fixmystreet.com/report/3883024](https://www.fixmystreet.com/report/3883024)
 - Litter flyposting 50mph limit sign post, 11th October :- [https://www.fixmystreet.com/report/3882579](https://www.fixmystreet.com/report/3882579)
-- Oxenton village sign, 10th October :- [https://www.fixmystreet.com/report/3880792](https://www.fixmystreet.com/report/3880792)
-- Sort out these temp traffic lights, 10th October :- [https://www.fixmystreet.com/report/3879017](https://www.fixmystreet.com/report/3879017)
-- Rubbish bin full, 9th October :- [https://www.fixmystreet.com/report/3877657](https://www.fixmystreet.com/report/3877657)
-- Dog dirt, 9th October :- [https://www.fixmystreet.com/report/3877505](https://www.fixmystreet.com/report/3877505)
 
 <!-- fix_marker ends -->
