@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Damaged tree, 19th October :- [https://www.fixmystreet.com/report/3899121](https://www.fixmystreet.com/report/3899121)
+- Abandoned cones, barriers, signs, 19th October :- [https://www.fixmystreet.com/report/3899113](https://www.fixmystreet.com/report/3899113)
+- Glass, human excrement, blocked drainage, no lights, 18th October :- [https://www.fixmystreet.com/report/3898782](https://www.fixmystreet.com/report/3898782)
 - Green man not showing on display panel, 18th October :- [https://www.fixmystreet.com/report/3898264](https://www.fixmystreet.com/report/3898264)
 - Flytipped sofa St Paul’s Road, 18th October :- [https://www.fixmystreet.com/report/3898234](https://www.fixmystreet.com/report/3898234)
 - Dumped sofa, 17th October :- [https://www.fixmystreet.com/report/3896174](https://www.fixmystreet.com/report/3896174)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dead Fox, 14th October :- [https://www.fixmystreet.com/report/3888872](https://www.fixmystreet.com/report/3888872)
 - Potholes on cherry avenue, 13th October :- [https://www.fixmystreet.com/report/3888416](https://www.fixmystreet.com/report/3888416)
 - Mess on payment., 13th October :- [https://www.fixmystreet.com/report/3888150](https://www.fixmystreet.com/report/3888150)
-- Overgrown hedging., 11th October :- [https://www.fixmystreet.com/report/3883648](https://www.fixmystreet.com/report/3883648)
-- Missing pedestrian crossing control post, 11th October :- [https://www.fixmystreet.com/report/3883172](https://www.fixmystreet.com/report/3883172)
-- Cars leaking oil onto road/ parking spaces, 11th October :- [https://www.fixmystreet.com/report/3883053](https://www.fixmystreet.com/report/3883053)
 
 <!-- fix_marker ends -->
