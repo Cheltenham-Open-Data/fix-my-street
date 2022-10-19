@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Park fence broken, 19th October :- [https://www.fixmystreet.com/report/3900384](https://www.fixmystreet.com/report/3900384)
+- Missing grating/cover = pedestrian hazard, 19th October :- [https://www.fixmystreet.com/report/3900334](https://www.fixmystreet.com/report/3900334)
+- Redundant roadworks signs, 19th October :- [https://www.fixmystreet.com/report/3899200](https://www.fixmystreet.com/report/3899200)
 - Damaged tree, 19th October :- [https://www.fixmystreet.com/report/3899121](https://www.fixmystreet.com/report/3899121)
 - Abandoned cones, barriers, signs, 19th October :- [https://www.fixmystreet.com/report/3899113](https://www.fixmystreet.com/report/3899113)
 - Glass, human excrement, blocked drainage, no lights, 18th October :- [https://www.fixmystreet.com/report/3898782](https://www.fixmystreet.com/report/3898782)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Over flowing poo bin, 15th October :- [https://www.fixmystreet.com/report/3892168](https://www.fixmystreet.com/report/3892168)
 - Lights flashing 24/7, 15th October :- [https://www.fixmystreet.com/report/3892151](https://www.fixmystreet.com/report/3892151)
 - Road ahead closed sign abandoned, 14th October :- [https://www.fixmystreet.com/report/3890380](https://www.fixmystreet.com/report/3890380)
-- Dead Fox, 14th October :- [https://www.fixmystreet.com/report/3888872](https://www.fixmystreet.com/report/3888872)
-- Potholes on cherry avenue, 13th October :- [https://www.fixmystreet.com/report/3888416](https://www.fixmystreet.com/report/3888416)
-- Mess on payment., 13th October :- [https://www.fixmystreet.com/report/3888150](https://www.fixmystreet.com/report/3888150)
 
 <!-- fix_marker ends -->
