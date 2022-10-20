@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lights not working, 20th October :- [https://www.fixmystreet.com/report/3903406](https://www.fixmystreet.com/report/3903406)
+- Ineffective temporary traffic lights, 20th October :- [https://www.fixmystreet.com/report/3903255](https://www.fixmystreet.com/report/3903255)
+- Antique bollard placement - obstruction, 20th October :- [https://www.fixmystreet.com/report/3902934](https://www.fixmystreet.com/report/3902934)
+- Trip hazard, 20th October :- [https://www.fixmystreet.com/report/3902266](https://www.fixmystreet.com/report/3902266)
+- Graffiti, 20th October :- [https://www.fixmystreet.com/report/3902248](https://www.fixmystreet.com/report/3902248)
 - Park fence broken, 19th October :- [https://www.fixmystreet.com/report/3900384](https://www.fixmystreet.com/report/3900384)
 - Missing grating/cover = pedestrian hazard, 19th October :- [https://www.fixmystreet.com/report/3900334](https://www.fixmystreet.com/report/3900334)
 - Redundant roadworks signs, 19th October :- [https://www.fixmystreet.com/report/3899200](https://www.fixmystreet.com/report/3899200)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Closure of national cycle route without diversion, 17th October :- [https://www.fixmystreet.com/report/3894125](https://www.fixmystreet.com/report/3894125)
 - Burst water issue, 17th October :- [https://www.fixmystreet.com/report/3894067](https://www.fixmystreet.com/report/3894067)
 - Dumped Fridge, 16th October :- [https://www.fixmystreet.com/report/3893868](https://www.fixmystreet.com/report/3893868)
-- Flytipping hot spot needs a camera, 16th October :- [https://www.fixmystreet.com/report/3893184](https://www.fixmystreet.com/report/3893184)
-- Sofa left on the corner of Backer st and Russell st., 16th October :- [https://www.fixmystreet.com/report/3892603](https://www.fixmystreet.com/report/3892603)
-- Over flowing poo bin, 15th October :- [https://www.fixmystreet.com/report/3892168](https://www.fixmystreet.com/report/3892168)
-- Lights flashing 24/7, 15th October :- [https://www.fixmystreet.com/report/3892151](https://www.fixmystreet.com/report/3892151)
-- Road ahead closed sign abandoned, 14th October :- [https://www.fixmystreet.com/report/3890380](https://www.fixmystreet.com/report/3890380)
 
 <!-- fix_marker ends -->
