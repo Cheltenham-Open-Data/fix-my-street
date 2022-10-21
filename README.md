@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Previous report not fully fixed., 21st October :- [https://www.fixmystreet.com/report/3905557](https://www.fixmystreet.com/report/3905557)
+- Potentially dangerous wobbly paving stone, 21st October :- [https://www.fixmystreet.com/report/3905040](https://www.fixmystreet.com/report/3905040)
+- 2 drains have lifted, 21st October :- [https://www.fixmystreet.com/report/3904794](https://www.fixmystreet.com/report/3904794)
+- Flooding - Drainage Issues, 21st October :- [https://www.fixmystreet.com/report/3904769](https://www.fixmystreet.com/report/3904769)
+- Pothole M5 northbound, 21st October :- [https://www.fixmystreet.com/report/3903864](https://www.fixmystreet.com/report/3903864)
 - Street lights not working, 20th October :- [https://www.fixmystreet.com/report/3903406](https://www.fixmystreet.com/report/3903406)
 - Ineffective temporary traffic lights, 20th October :- [https://www.fixmystreet.com/report/3903255](https://www.fixmystreet.com/report/3903255)
 - Antique bollard placement - obstruction, 20th October :- [https://www.fixmystreet.com/report/3902934](https://www.fixmystreet.com/report/3902934)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped sofa St Paul’s Road, 18th October :- [https://www.fixmystreet.com/report/3898234](https://www.fixmystreet.com/report/3898234)
 - Dumped sofa, 17th October :- [https://www.fixmystreet.com/report/3896174](https://www.fixmystreet.com/report/3896174)
 - Graffiti on bus stop folly lane, 17th October :- [https://www.fixmystreet.com/report/3895883](https://www.fixmystreet.com/report/3895883)
-- Dumped microwave on footpath between Farmfield road and Justicia Way, 17th October :- [https://www.fixmystreet.com/report/3895015](https://www.fixmystreet.com/report/3895015)
-- Roadwork Traffic lights not working properly, 17th October :- [https://www.fixmystreet.com/report/3894524](https://www.fixmystreet.com/report/3894524)
-- Closure of national cycle route without diversion, 17th October :- [https://www.fixmystreet.com/report/3894125](https://www.fixmystreet.com/report/3894125)
-- Burst water issue, 17th October :- [https://www.fixmystreet.com/report/3894067](https://www.fixmystreet.com/report/3894067)
-- Dumped Fridge, 16th October :- [https://www.fixmystreet.com/report/3893868](https://www.fixmystreet.com/report/3893868)
 
 <!-- fix_marker ends -->
