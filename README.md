@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Damaged by broadband company, 22nd October :- [https://www.fixmystreet.com/report/3906572](https://www.fixmystreet.com/report/3906572)
 - Previous report not fully fixed., 21st October :- [https://www.fixmystreet.com/report/3905557](https://www.fixmystreet.com/report/3905557)
 - Potentially dangerous wobbly paving stone, 21st October :- [https://www.fixmystreet.com/report/3905040](https://www.fixmystreet.com/report/3905040)
 - 2 drains have lifted, 21st October :- [https://www.fixmystreet.com/report/3904794](https://www.fixmystreet.com/report/3904794)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Green man not showing on display panel, 18th October :- [https://www.fixmystreet.com/report/3898264](https://www.fixmystreet.com/report/3898264)
 - Flytipped sofa St Paul’s Road, 18th October :- [https://www.fixmystreet.com/report/3898234](https://www.fixmystreet.com/report/3898234)
 - Dumped sofa, 17th October :- [https://www.fixmystreet.com/report/3896174](https://www.fixmystreet.com/report/3896174)
-- Graffiti on bus stop folly lane, 17th October :- [https://www.fixmystreet.com/report/3895883](https://www.fixmystreet.com/report/3895883)
 
 <!-- fix_marker ends -->
