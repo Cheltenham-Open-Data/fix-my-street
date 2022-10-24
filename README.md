@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vegetation on central reservation, 24th October :- [https://www.fixmystreet.com/report/3911749](https://www.fixmystreet.com/report/3911749)
+- Big puddle, 24th October :- [https://www.fixmystreet.com/report/3910923](https://www.fixmystreet.com/report/3910923)
 - Broken glass in subway cycle path, 24th October :- [https://www.fixmystreet.com/report/3909352](https://www.fixmystreet.com/report/3909352)
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909134](https://www.fixmystreet.com/report/3909134)
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909130](https://www.fixmystreet.com/report/3909130)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Antique bollard placement - obstruction, 20th October :- [https://www.fixmystreet.com/report/3902934](https://www.fixmystreet.com/report/3902934)
 - Trip hazard, 20th October :- [https://www.fixmystreet.com/report/3902266](https://www.fixmystreet.com/report/3902266)
 - Graffiti, 20th October :- [https://www.fixmystreet.com/report/3902248](https://www.fixmystreet.com/report/3902248)
-- Park fence broken, 19th October :- [https://www.fixmystreet.com/report/3900384](https://www.fixmystreet.com/report/3900384)
-- Missing grating/cover = pedestrian hazard, 19th October :- [https://www.fixmystreet.com/report/3900334](https://www.fixmystreet.com/report/3900334)
 
 <!-- fix_marker ends -->
