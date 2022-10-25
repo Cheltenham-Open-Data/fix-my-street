@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 24th October :- [https://www.fixmystreet.com/report/3912072](https://www.fixmystreet.com/report/3912072)
 - Vegetation on central reservation, 24th October :- [https://www.fixmystreet.com/report/3911749](https://www.fixmystreet.com/report/3911749)
 - Big puddle, 24th October :- [https://www.fixmystreet.com/report/3910923](https://www.fixmystreet.com/report/3910923)
 - Broken glass in subway cycle path, 24th October :- [https://www.fixmystreet.com/report/3909352](https://www.fixmystreet.com/report/3909352)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ineffective temporary traffic lights, 20th October :- [https://www.fixmystreet.com/report/3903255](https://www.fixmystreet.com/report/3903255)
 - Antique bollard placement - obstruction, 20th October :- [https://www.fixmystreet.com/report/3902934](https://www.fixmystreet.com/report/3902934)
 - Trip hazard, 20th October :- [https://www.fixmystreet.com/report/3902266](https://www.fixmystreet.com/report/3902266)
-- Graffiti, 20th October :- [https://www.fixmystreet.com/report/3902248](https://www.fixmystreet.com/report/3902248)
 
 <!-- fix_marker ends -->
