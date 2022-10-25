@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Waste and unsanitary conditions outside number 17 Lansdowne industrial estate, 25th October :- [https://www.fixmystreet.com/report/3914431](https://www.fixmystreet.com/report/3914431)
+- Unreadable/Faded brown signs, 25th October :- [https://www.fixmystreet.com/report/3914342](https://www.fixmystreet.com/report/3914342)
+- Mattress and bed frames left on the corner of Russell st and Charles st, 25th October :- [https://www.fixmystreet.com/report/3913019](https://www.fixmystreet.com/report/3913019)
 - Blocked drain, 24th October :- [https://www.fixmystreet.com/report/3912072](https://www.fixmystreet.com/report/3912072)
 - Vegetation on central reservation, 24th October :- [https://www.fixmystreet.com/report/3911749](https://www.fixmystreet.com/report/3911749)
 - Big puddle, 24th October :- [https://www.fixmystreet.com/report/3910923](https://www.fixmystreet.com/report/3910923)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flooding - Drainage Issues, 21st October :- [https://www.fixmystreet.com/report/3904769](https://www.fixmystreet.com/report/3904769)
 - Pothole M5 northbound, 21st October :- [https://www.fixmystreet.com/report/3903864](https://www.fixmystreet.com/report/3903864)
 - Street lights not working, 20th October :- [https://www.fixmystreet.com/report/3903406](https://www.fixmystreet.com/report/3903406)
-- Ineffective temporary traffic lights, 20th October :- [https://www.fixmystreet.com/report/3903255](https://www.fixmystreet.com/report/3903255)
-- Antique bollard placement - obstruction, 20th October :- [https://www.fixmystreet.com/report/3902934](https://www.fixmystreet.com/report/3902934)
-- Trip hazard, 20th October :- [https://www.fixmystreet.com/report/3902266](https://www.fixmystreet.com/report/3902266)
 
 <!-- fix_marker ends -->
