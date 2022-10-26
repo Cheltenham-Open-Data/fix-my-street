@@ -2,7 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes - Maked but filling in Not completed, 26th October :- [https://www.fixmystreet.com/report/3915832](https://www.fixmystreet.com/report/3915832)
 - Waste and unsanitary conditions outside number 17 Lansdowne industrial estate, 25th October :- [https://www.fixmystreet.com/report/3914431](https://www.fixmystreet.com/report/3914431)
+- Dead tree outside number 41 Tennyson Road, 26th October :- [https://www.fixmystreet.com/report/3914354](https://www.fixmystreet.com/report/3914354)
 - Unreadable/Faded brown signs, 25th October :- [https://www.fixmystreet.com/report/3914342](https://www.fixmystreet.com/report/3914342)
 - Mattress and bed frames left on the corner of Russell st and Charles st, 25th October :- [https://www.fixmystreet.com/report/3913019](https://www.fixmystreet.com/report/3913019)
 - Blocked drain, 24th October :- [https://www.fixmystreet.com/report/3912072](https://www.fixmystreet.com/report/3912072)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potentially dangerous wobbly paving stone, 21st October :- [https://www.fixmystreet.com/report/3905040](https://www.fixmystreet.com/report/3905040)
 - 2 drains have lifted, 21st October :- [https://www.fixmystreet.com/report/3904794](https://www.fixmystreet.com/report/3904794)
 - Flooding - Drainage Issues, 21st October :- [https://www.fixmystreet.com/report/3904769](https://www.fixmystreet.com/report/3904769)
-- Pothole M5 northbound, 21st October :- [https://www.fixmystreet.com/report/3903864](https://www.fixmystreet.com/report/3903864)
-- Street lights not working, 20th October :- [https://www.fixmystreet.com/report/3903406](https://www.fixmystreet.com/report/3903406)
 
 <!-- fix_marker ends -->
