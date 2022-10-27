@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vegetation m5 sb causing subsidence, 27th October :- [https://www.fixmystreet.com/report/3918802](https://www.fixmystreet.com/report/3918802)
+- Rubbish thrown in undergrowth, 27th October :- [https://www.fixmystreet.com/report/3918439](https://www.fixmystreet.com/report/3918439)
 - Potholes - Maked but filling in Not completed, 26th October :- [https://www.fixmystreet.com/report/3915832](https://www.fixmystreet.com/report/3915832)
 - Waste and unsanitary conditions outside number 17 Lansdowne industrial estate, 25th October :- [https://www.fixmystreet.com/report/3914431](https://www.fixmystreet.com/report/3914431)
 - Dead tree outside number 41 Tennyson Road, 26th October :- [https://www.fixmystreet.com/report/3914354](https://www.fixmystreet.com/report/3914354)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Damaged by broadband company, 22nd October :- [https://www.fixmystreet.com/report/3906572](https://www.fixmystreet.com/report/3906572)
 - Previous report not fully fixed., 21st October :- [https://www.fixmystreet.com/report/3905557](https://www.fixmystreet.com/report/3905557)
 - Potentially dangerous wobbly paving stone, 21st October :- [https://www.fixmystreet.com/report/3905040](https://www.fixmystreet.com/report/3905040)
-- 2 drains have lifted, 21st October :- [https://www.fixmystreet.com/report/3904794](https://www.fixmystreet.com/report/3904794)
-- Flooding - Drainage Issues, 21st October :- [https://www.fixmystreet.com/report/3904769](https://www.fixmystreet.com/report/3904769)
 
 <!-- fix_marker ends -->
