@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree roots Breaking Through causing a hazard for wheelchairs and mobility scooters, 29th October :- [https://www.fixmystreet.com/report/3923396](https://www.fixmystreet.com/report/3923396)
+- Pothole, 29th October :- [https://www.fixmystreet.com/report/3923130](https://www.fixmystreet.com/report/3923130)
 - Vegetation m5 sb causing subsidence, 27th October :- [https://www.fixmystreet.com/report/3918802](https://www.fixmystreet.com/report/3918802)
 - Rubbish thrown in undergrowth, 27th October :- [https://www.fixmystreet.com/report/3918439](https://www.fixmystreet.com/report/3918439)
 - Potholes - Maked but filling in Not completed, 26th October :- [https://www.fixmystreet.com/report/3915832](https://www.fixmystreet.com/report/3915832)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road level to high and water not draining correctly, 23rd October :- [https://www.fixmystreet.com/report/3908412](https://www.fixmystreet.com/report/3908412)
 - The surface of Cowper Road deteriorating, 23rd October :- [https://www.fixmystreet.com/report/3907758](https://www.fixmystreet.com/report/3907758)
 - Damaged by broadband company, 22nd October :- [https://www.fixmystreet.com/report/3906572](https://www.fixmystreet.com/report/3906572)
-- Previous report not fully fixed., 21st October :- [https://www.fixmystreet.com/report/3905557](https://www.fixmystreet.com/report/3905557)
-- Potentially dangerous wobbly paving stone, 21st October :- [https://www.fixmystreet.com/report/3905040](https://www.fixmystreet.com/report/3905040)
 
 <!-- fix_marker ends -->
