@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic light phasing, 30th October :- [https://www.fixmystreet.com/report/3924529](https://www.fixmystreet.com/report/3924529)
+- Mattress dumped, 30th October :- [https://www.fixmystreet.com/report/3924374](https://www.fixmystreet.com/report/3924374)
 - Tree roots Breaking Through causing a hazard for wheelchairs and mobility scooters, 29th October :- [https://www.fixmystreet.com/report/3923396](https://www.fixmystreet.com/report/3923396)
 - Pothole, 29th October :- [https://www.fixmystreet.com/report/3923130](https://www.fixmystreet.com/report/3923130)
 - Vegetation m5 sb causing subsidence, 27th October :- [https://www.fixmystreet.com/report/3918802](https://www.fixmystreet.com/report/3918802)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909127](https://www.fixmystreet.com/report/3909127)
 - Pavement subsidence- water not draining, 23rd October :- [https://www.fixmystreet.com/report/3908418](https://www.fixmystreet.com/report/3908418)
 - Road level to high and water not draining correctly, 23rd October :- [https://www.fixmystreet.com/report/3908412](https://www.fixmystreet.com/report/3908412)
-- The surface of Cowper Road deteriorating, 23rd October :- [https://www.fixmystreet.com/report/3907758](https://www.fixmystreet.com/report/3907758)
-- Damaged by broadband company, 22nd October :- [https://www.fixmystreet.com/report/3906572](https://www.fixmystreet.com/report/3906572)
 
 <!-- fix_marker ends -->
