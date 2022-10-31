@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Site being used as litter bin, 30th October :- [https://www.fixmystreet.com/report/3925456](https://www.fixmystreet.com/report/3925456)
+- Litter in Pilley Lane hedgerows, 30th October :- [https://www.fixmystreet.com/report/3925455](https://www.fixmystreet.com/report/3925455)
 - Traffic light phasing, 30th October :- [https://www.fixmystreet.com/report/3924529](https://www.fixmystreet.com/report/3924529)
 - Mattress dumped, 30th October :- [https://www.fixmystreet.com/report/3924374](https://www.fixmystreet.com/report/3924374)
 - Tree roots Breaking Through causing a hazard for wheelchairs and mobility scooters, 29th October :- [https://www.fixmystreet.com/report/3923396](https://www.fixmystreet.com/report/3923396)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909134](https://www.fixmystreet.com/report/3909134)
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909130](https://www.fixmystreet.com/report/3909130)
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909127](https://www.fixmystreet.com/report/3909127)
-- Pavement subsidence- water not draining, 23rd October :- [https://www.fixmystreet.com/report/3908418](https://www.fixmystreet.com/report/3908418)
-- Road level to high and water not draining correctly, 23rd October :- [https://www.fixmystreet.com/report/3908412](https://www.fixmystreet.com/report/3908412)
 
 <!-- fix_marker ends -->
