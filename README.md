@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large area's of car park, 31st October :- [https://www.fixmystreet.com/report/3927280](https://www.fixmystreet.com/report/3927280)
 - Site being used as litter bin, 30th October :- [https://www.fixmystreet.com/report/3925456](https://www.fixmystreet.com/report/3925456)
 - Litter in Pilley Lane hedgerows, 30th October :- [https://www.fixmystreet.com/report/3925455](https://www.fixmystreet.com/report/3925455)
 - Traffic light phasing, 30th October :- [https://www.fixmystreet.com/report/3924529](https://www.fixmystreet.com/report/3924529)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass in subway cycle path, 24th October :- [https://www.fixmystreet.com/report/3909352](https://www.fixmystreet.com/report/3909352)
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909134](https://www.fixmystreet.com/report/3909134)
 - Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909130](https://www.fixmystreet.com/report/3909130)
-- Streetlight out., 23rd October :- [https://www.fixmystreet.com/report/3909127](https://www.fixmystreet.com/report/3909127)
 
 <!-- fix_marker ends -->
