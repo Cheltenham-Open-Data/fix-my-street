@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping, 3rd November :- [https://www.fixmystreet.com/report/3936167](https://www.fixmystreet.com/report/3936167)
+- Dangerous deep pothole, 3rd November :- [https://www.fixmystreet.com/report/3935679](https://www.fixmystreet.com/report/3935679)
+- Pothole Southbound, Closest mile marker M5 A 89.2, 3rd November :- [https://www.fixmystreet.com/report/3934908](https://www.fixmystreet.com/report/3934908)
+- Flooding due to poor drainage, 3rd November :- [https://www.fixmystreet.com/report/3934620](https://www.fixmystreet.com/report/3934620)
 - 5 Street lights not working, 3rd November :- [https://www.fixmystreet.com/report/3934445](https://www.fixmystreet.com/report/3934445)
 - Flytipped furniture Cambray Place, 2nd November :- [https://www.fixmystreet.com/report/3934114](https://www.fixmystreet.com/report/3934114)
 - Glare from Street lighting, 2nd November :- [https://www.fixmystreet.com/report/3934098](https://www.fixmystreet.com/report/3934098)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Site being used as litter bin, 30th October :- [https://www.fixmystreet.com/report/3925456](https://www.fixmystreet.com/report/3925456)
 - Litter in Pilley Lane hedgerows, 30th October :- [https://www.fixmystreet.com/report/3925455](https://www.fixmystreet.com/report/3925455)
 - Traffic light phasing, 30th October :- [https://www.fixmystreet.com/report/3924529](https://www.fixmystreet.com/report/3924529)
-- Mattress dumped, 30th October :- [https://www.fixmystreet.com/report/3924374](https://www.fixmystreet.com/report/3924374)
-- Tree roots Breaking Through causing a hazard for wheelchairs and mobility scooters, 29th October :- [https://www.fixmystreet.com/report/3923396](https://www.fixmystreet.com/report/3923396)
-- Pothole, 29th October :- [https://www.fixmystreet.com/report/3923130](https://www.fixmystreet.com/report/3923130)
-- Vegetation m5 sb causing subsidence, 27th October :- [https://www.fixmystreet.com/report/3918802](https://www.fixmystreet.com/report/3918802)
 
 <!-- fix_marker ends -->
