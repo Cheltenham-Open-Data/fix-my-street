@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 5 Street lights not working, 3rd November :- [https://www.fixmystreet.com/report/3934445](https://www.fixmystreet.com/report/3934445)
+- Flytipped furniture Cambray Place, 2nd November :- [https://www.fixmystreet.com/report/3934114](https://www.fixmystreet.com/report/3934114)
+- Glare from Street lighting, 2nd November :- [https://www.fixmystreet.com/report/3934098](https://www.fixmystreet.com/report/3934098)
 - Flytip, 2nd November :- [https://www.fixmystreet.com/report/3933554](https://www.fixmystreet.com/report/3933554)
 - M5 northbound Jct 10 to jct 9 nothbound has 50 limit signs but NO roadworks, 2nd November :- [https://www.fixmystreet.com/report/3932989](https://www.fixmystreet.com/report/3932989)
 - Paving stones is coming loose and uneven along road, 2nd November :- [https://www.fixmystreet.com/report/3932775](https://www.fixmystreet.com/report/3932775)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree roots Breaking Through causing a hazard for wheelchairs and mobility scooters, 29th October :- [https://www.fixmystreet.com/report/3923396](https://www.fixmystreet.com/report/3923396)
 - Pothole, 29th October :- [https://www.fixmystreet.com/report/3923130](https://www.fixmystreet.com/report/3923130)
 - Vegetation m5 sb causing subsidence, 27th October :- [https://www.fixmystreet.com/report/3918802](https://www.fixmystreet.com/report/3918802)
-- Rubbish thrown in undergrowth, 27th October :- [https://www.fixmystreet.com/report/3918439](https://www.fixmystreet.com/report/3918439)
-- Potholes - Maked but filling in Not completed, 26th October :- [https://www.fixmystreet.com/report/3915832](https://www.fixmystreet.com/report/3915832)
-- Waste and unsanitary conditions outside number 17 Lansdowne industrial estate, 25th October :- [https://www.fixmystreet.com/report/3914431](https://www.fixmystreet.com/report/3914431)
 
 <!-- fix_marker ends -->
