@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Footpath and adjacent field under water, 4th November :- [https://www.fixmystreet.com/report/3939684](https://www.fixmystreet.com/report/3939684)
+- No lighting at all at the roundabout and crossing., 4th November :- [https://www.fixmystreet.com/report/3939611](https://www.fixmystreet.com/report/3939611)
+- Traffic lights out, 4th November :- [https://www.fixmystreet.com/report/3937918](https://www.fixmystreet.com/report/3937918)
+- Dog poo bin full, 4th November :- [https://www.fixmystreet.com/report/3937897](https://www.fixmystreet.com/report/3937897)
+- Discarded Road Signs, 4th November :- [https://www.fixmystreet.com/report/3937786](https://www.fixmystreet.com/report/3937786)
 - Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937781](https://www.fixmystreet.com/report/3937781)
 - Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937774](https://www.fixmystreet.com/report/3937774)
 - Street light not working, 3rd November :- [https://www.fixmystreet.com/report/3937302](https://www.fixmystreet.com/report/3937302)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Paving stones is coming loose and uneven along road, 2nd November :- [https://www.fixmystreet.com/report/3932775](https://www.fixmystreet.com/report/3932775)
 - Car parked on double yellow lines, 2nd November :- [https://www.fixmystreet.com/report/3932691](https://www.fixmystreet.com/report/3932691)
 - Car blocking pavement, 2nd November :- [https://www.fixmystreet.com/report/3932123](https://www.fixmystreet.com/report/3932123)
-- Abandoned vehicle, 1st November :- [https://www.fixmystreet.com/report/3929459](https://www.fixmystreet.com/report/3929459)
-- Fly tipping, 1st November :- [https://www.fixmystreet.com/report/3928380](https://www.fixmystreet.com/report/3928380)
-- Abandoned trolley, 1st November :- [https://www.fixmystreet.com/report/3928366](https://www.fixmystreet.com/report/3928366)
-- Once again, more rubbish has been fly tipped., 1st November :- [https://www.fixmystreet.com/report/3928337](https://www.fixmystreet.com/report/3928337)
-- Large area's of car park, 31st October :- [https://www.fixmystreet.com/report/3927280](https://www.fixmystreet.com/report/3927280)
 
 <!-- fix_marker ends -->
