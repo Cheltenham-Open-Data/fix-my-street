@@ -2,8 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes on road, 5th November :- [https://www.fixmystreet.com/report/3941094](https://www.fixmystreet.com/report/3941094)
+- Dangerously loose paving stones outside F.Hinds lower High Street, 5th November :- [https://www.fixmystreet.com/report/3940974](https://www.fixmystreet.com/report/3940974)
+- Graffiti on sign, 5th November :- [https://www.fixmystreet.com/report/3940320](https://www.fixmystreet.com/report/3940320)
+- Mud pit at crossing to football pitch, 5th November :- [https://www.fixmystreet.com/report/3940314](https://www.fixmystreet.com/report/3940314)
+- Pavement parking, 5th November :- [https://www.fixmystreet.com/report/3940307](https://www.fixmystreet.com/report/3940307)
 - Footpath and adjacent field under water, 4th November :- [https://www.fixmystreet.com/report/3939684](https://www.fixmystreet.com/report/3939684)
 - No lighting at all at the roundabout and crossing., 4th November :- [https://www.fixmystreet.com/report/3939611](https://www.fixmystreet.com/report/3939611)
+- Totally unnecessary traffic lights, 5th November :- [https://www.fixmystreet.com/report/3938750](https://www.fixmystreet.com/report/3938750)
 - Traffic lights out, 4th November :- [https://www.fixmystreet.com/report/3937918](https://www.fixmystreet.com/report/3937918)
 - Dog poo bin full, 4th November :- [https://www.fixmystreet.com/report/3937897](https://www.fixmystreet.com/report/3937897)
 - Discarded Road Signs, 4th November :- [https://www.fixmystreet.com/report/3937786](https://www.fixmystreet.com/report/3937786)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flooding due to poor drainage, 3rd November :- [https://www.fixmystreet.com/report/3934620](https://www.fixmystreet.com/report/3934620)
 - 5 Street lights not working, 3rd November :- [https://www.fixmystreet.com/report/3934445](https://www.fixmystreet.com/report/3934445)
 - Flytipped furniture Cambray Place, 2nd November :- [https://www.fixmystreet.com/report/3934114](https://www.fixmystreet.com/report/3934114)
-- Glare from Street lighting, 2nd November :- [https://www.fixmystreet.com/report/3934098](https://www.fixmystreet.com/report/3934098)
-- Flytip, 2nd November :- [https://www.fixmystreet.com/report/3933554](https://www.fixmystreet.com/report/3933554)
-- M5 northbound Jct 10 to jct 9 nothbound has 50 limit signs but NO roadworks, 2nd November :- [https://www.fixmystreet.com/report/3932989](https://www.fixmystreet.com/report/3932989)
-- Paving stones is coming loose and uneven along road, 2nd November :- [https://www.fixmystreet.com/report/3932775](https://www.fixmystreet.com/report/3932775)
-- Car parked on double yellow lines, 2nd November :- [https://www.fixmystreet.com/report/3932691](https://www.fixmystreet.com/report/3932691)
-- Car blocking pavement, 2nd November :- [https://www.fixmystreet.com/report/3932123](https://www.fixmystreet.com/report/3932123)
 
 <!-- fix_marker ends -->
