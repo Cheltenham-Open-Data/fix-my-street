@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Compacted wet and slippery leaves, 7th November :- [https://www.fixmystreet.com/report/3943916](https://www.fixmystreet.com/report/3943916)
+- Dense wet leaves on path, 7th November :- [https://www.fixmystreet.com/report/3943657](https://www.fixmystreet.com/report/3943657)
 - Dog poo bin needs emptying, 6th November :- [https://www.fixmystreet.com/report/3942775](https://www.fixmystreet.com/report/3942775)
 - Multiple potholes on road, 5th November :- [https://www.fixmystreet.com/report/3941094](https://www.fixmystreet.com/report/3941094)
 - Leaning telegraph poles, 6th November :- [https://www.fixmystreet.com/report/3941019](https://www.fixmystreet.com/report/3941019)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light not working, 3rd November :- [https://www.fixmystreet.com/report/3937302](https://www.fixmystreet.com/report/3937302)
 - Flytipping, 3rd November :- [https://www.fixmystreet.com/report/3936167](https://www.fixmystreet.com/report/3936167)
 - Dangerous deep pothole, 3rd November :- [https://www.fixmystreet.com/report/3935679](https://www.fixmystreet.com/report/3935679)
-- Pothole Southbound, Closest mile marker M5 A 89.2, 3rd November :- [https://www.fixmystreet.com/report/3934908](https://www.fixmystreet.com/report/3934908)
-- Flooding due to poor drainage, 3rd November :- [https://www.fixmystreet.com/report/3934620](https://www.fixmystreet.com/report/3934620)
 
 <!-- fix_marker ends -->
