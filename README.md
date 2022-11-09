@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lights completely out, 9th November :- [https://www.fixmystreet.com/report/3952029](https://www.fixmystreet.com/report/3952029)
+- Dumped bike frame on public open space near Millham skate park, 9th November :- [https://www.fixmystreet.com/report/3951438](https://www.fixmystreet.com/report/3951438)
+- Group of potholes - Inside lane, 9th November :- [https://www.fixmystreet.com/report/3950138](https://www.fixmystreet.com/report/3950138)
 - Compacted wet and slippery leaves, 7th November :- [https://www.fixmystreet.com/report/3943916](https://www.fixmystreet.com/report/3943916)
 - Dense wet leaves on path, 7th November :- [https://www.fixmystreet.com/report/3943657](https://www.fixmystreet.com/report/3943657)
 - Dog poo bin needs emptying, 6th November :- [https://www.fixmystreet.com/report/3942775](https://www.fixmystreet.com/report/3942775)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Discarded Road Signs, 4th November :- [https://www.fixmystreet.com/report/3937786](https://www.fixmystreet.com/report/3937786)
 - Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937781](https://www.fixmystreet.com/report/3937781)
 - Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937774](https://www.fixmystreet.com/report/3937774)
-- Street light not working, 3rd November :- [https://www.fixmystreet.com/report/3937302](https://www.fixmystreet.com/report/3937302)
-- Flytipping, 3rd November :- [https://www.fixmystreet.com/report/3936167](https://www.fixmystreet.com/report/3936167)
-- Dangerous deep pothole, 3rd November :- [https://www.fixmystreet.com/report/3935679](https://www.fixmystreet.com/report/3935679)
 
 <!-- fix_marker ends -->
