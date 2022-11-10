@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic Lights have been out of order for several days, 10th November :- [https://www.fixmystreet.com/report/3953483](https://www.fixmystreet.com/report/3953483)
+- Payment covered with sand and dirt after city fibre works, 10th November :- [https://www.fixmystreet.com/report/3953018](https://www.fixmystreet.com/report/3953018)
+- Pavement outside Coronation Square shops including farm foods and Greggs covered with leaves and litter, 10th November :- [https://www.fixmystreet.com/report/3953013](https://www.fixmystreet.com/report/3953013)
 - 50 mph road signs between jct 10 and jct 9 northbound, 9th November :- [https://www.fixmystreet.com/report/3952365](https://www.fixmystreet.com/report/3952365)
 - Lights completely out, 9th November :- [https://www.fixmystreet.com/report/3952029](https://www.fixmystreet.com/report/3952029)
 - Dumped bike frame on public open space near Millham skate park, 9th November :- [https://www.fixmystreet.com/report/3951438](https://www.fixmystreet.com/report/3951438)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - No lighting at all at the roundabout and crossing., 4th November :- [https://www.fixmystreet.com/report/3939611](https://www.fixmystreet.com/report/3939611)
 - Totally unnecessary traffic lights, 5th November :- [https://www.fixmystreet.com/report/3938750](https://www.fixmystreet.com/report/3938750)
 - Traffic lights out, 4th November :- [https://www.fixmystreet.com/report/3937918](https://www.fixmystreet.com/report/3937918)
-- Dog poo bin full, 4th November :- [https://www.fixmystreet.com/report/3937897](https://www.fixmystreet.com/report/3937897)
-- Discarded Road Signs, 4th November :- [https://www.fixmystreet.com/report/3937786](https://www.fixmystreet.com/report/3937786)
-- Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937781](https://www.fixmystreet.com/report/3937781)
 
 <!-- fix_marker ends -->
