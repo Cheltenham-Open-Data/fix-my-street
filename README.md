@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 50 mph road signs between jct 10 and jct 9 northbound, 9th November :- [https://www.fixmystreet.com/report/3952365](https://www.fixmystreet.com/report/3952365)
 - Lights completely out, 9th November :- [https://www.fixmystreet.com/report/3952029](https://www.fixmystreet.com/report/3952029)
 - Dumped bike frame on public open space near Millham skate park, 9th November :- [https://www.fixmystreet.com/report/3951438](https://www.fixmystreet.com/report/3951438)
 - Group of potholes - Inside lane, 9th November :- [https://www.fixmystreet.com/report/3950138](https://www.fixmystreet.com/report/3950138)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dog poo bin full, 4th November :- [https://www.fixmystreet.com/report/3937897](https://www.fixmystreet.com/report/3937897)
 - Discarded Road Signs, 4th November :- [https://www.fixmystreet.com/report/3937786](https://www.fixmystreet.com/report/3937786)
 - Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937781](https://www.fixmystreet.com/report/3937781)
-- Lack of Litter Bins, 4th November :- [https://www.fixmystreet.com/report/3937774](https://www.fixmystreet.com/report/3937774)
 
 <!-- fix_marker ends -->
