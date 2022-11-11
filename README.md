@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mattress flytipped in alley, 11th November :- [https://www.fixmystreet.com/report/3956638](https://www.fixmystreet.com/report/3956638)
+- Streetlights not working on Millfields, Hucclecote, 11th November :- [https://www.fixmystreet.com/report/3956262](https://www.fixmystreet.com/report/3956262)
 - Large pothole in A40, 10th November :- [https://www.fixmystreet.com/report/3955237](https://www.fixmystreet.com/report/3955237)
 - Excess mud on road from nearby groundworks, 10th November :- [https://www.fixmystreet.com/report/3955193](https://www.fixmystreet.com/report/3955193)
 - Traffic Lights have been out of order for several days, 10th November :- [https://www.fixmystreet.com/report/3953483](https://www.fixmystreet.com/report/3953483)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on sign, 5th November :- [https://www.fixmystreet.com/report/3940320](https://www.fixmystreet.com/report/3940320)
 - Mud pit at crossing to football pitch, 5th November :- [https://www.fixmystreet.com/report/3940314](https://www.fixmystreet.com/report/3940314)
 - Pavement parking, 5th November :- [https://www.fixmystreet.com/report/3940307](https://www.fixmystreet.com/report/3940307)
-- Footpath and adjacent field under water, 4th November :- [https://www.fixmystreet.com/report/3939684](https://www.fixmystreet.com/report/3939684)
-- No lighting at all at the roundabout and crossing., 4th November :- [https://www.fixmystreet.com/report/3939611](https://www.fixmystreet.com/report/3939611)
 
 <!-- fix_marker ends -->
