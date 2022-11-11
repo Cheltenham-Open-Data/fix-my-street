@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole in A40, 10th November :- [https://www.fixmystreet.com/report/3955237](https://www.fixmystreet.com/report/3955237)
+- Excess mud on road from nearby groundworks, 10th November :- [https://www.fixmystreet.com/report/3955193](https://www.fixmystreet.com/report/3955193)
 - Traffic Lights have been out of order for several days, 10th November :- [https://www.fixmystreet.com/report/3953483](https://www.fixmystreet.com/report/3953483)
 - Payment covered with sand and dirt after city fibre works, 10th November :- [https://www.fixmystreet.com/report/3953018](https://www.fixmystreet.com/report/3953018)
 - Pavement outside Coronation Square shops including farm foods and Greggs covered with leaves and litter, 10th November :- [https://www.fixmystreet.com/report/3953013](https://www.fixmystreet.com/report/3953013)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pavement parking, 5th November :- [https://www.fixmystreet.com/report/3940307](https://www.fixmystreet.com/report/3940307)
 - Footpath and adjacent field under water, 4th November :- [https://www.fixmystreet.com/report/3939684](https://www.fixmystreet.com/report/3939684)
 - No lighting at all at the roundabout and crossing., 4th November :- [https://www.fixmystreet.com/report/3939611](https://www.fixmystreet.com/report/3939611)
-- Totally unnecessary traffic lights, 5th November :- [https://www.fixmystreet.com/report/3938750](https://www.fixmystreet.com/report/3938750)
-- Traffic lights out, 4th November :- [https://www.fixmystreet.com/report/3937918](https://www.fixmystreet.com/report/3937918)
 
 <!-- fix_marker ends -->
