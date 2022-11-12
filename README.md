@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pothole, North bound M5 jct 11, 12th November :- [https://www.fixmystreet.com/report/3959395](https://www.fixmystreet.com/report/3959395)
+- Fly tipped fridge freezer catkin drive, 12th November :- [https://www.fixmystreet.com/report/3958316](https://www.fixmystreet.com/report/3958316)
+- Deceased cat, 12th November :- [https://www.fixmystreet.com/report/3958300](https://www.fixmystreet.com/report/3958300)
 - Mattress flytipped in alley, 11th November :- [https://www.fixmystreet.com/report/3956638](https://www.fixmystreet.com/report/3956638)
 - Streetlights not working on Millfields, Hucclecote, 11th November :- [https://www.fixmystreet.com/report/3956262](https://www.fixmystreet.com/report/3956262)
 - Large pothole in A40, 10th November :- [https://www.fixmystreet.com/report/3955237](https://www.fixmystreet.com/report/3955237)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dog poo bin needs emptying, 6th November :- [https://www.fixmystreet.com/report/3942775](https://www.fixmystreet.com/report/3942775)
 - Multiple potholes on road, 5th November :- [https://www.fixmystreet.com/report/3941094](https://www.fixmystreet.com/report/3941094)
 - Leaning telegraph poles, 6th November :- [https://www.fixmystreet.com/report/3941019](https://www.fixmystreet.com/report/3941019)
-- Dangerously loose paving stones outside F.Hinds lower High Street, 5th November :- [https://www.fixmystreet.com/report/3940974](https://www.fixmystreet.com/report/3940974)
-- Graffiti on sign, 5th November :- [https://www.fixmystreet.com/report/3940320](https://www.fixmystreet.com/report/3940320)
-- Mud pit at crossing to football pitch, 5th November :- [https://www.fixmystreet.com/report/3940314](https://www.fixmystreet.com/report/3940314)
 
 <!-- fix_marker ends -->
