@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Island post, 14th November :- [https://www.fixmystreet.com/report/3963913](https://www.fixmystreet.com/report/3963913)
+- Hazardous Pothole, 14th November :- [https://www.fixmystreet.com/report/3962570](https://www.fixmystreet.com/report/3962570)
 - Several areas of cordoned off rubble coursing obstructiion.on.ion.ion., 13th November :- [https://www.fixmystreet.com/report/3959959](https://www.fixmystreet.com/report/3959959)
 - Deep pothole, North bound M5 jct 11, 12th November :- [https://www.fixmystreet.com/report/3959395](https://www.fixmystreet.com/report/3959395)
 - Fly tipped fridge freezer catkin drive, 12th November :- [https://www.fixmystreet.com/report/3958316](https://www.fixmystreet.com/report/3958316)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Group of potholes - Inside lane, 9th November :- [https://www.fixmystreet.com/report/3950138](https://www.fixmystreet.com/report/3950138)
 - Compacted wet and slippery leaves, 7th November :- [https://www.fixmystreet.com/report/3943916](https://www.fixmystreet.com/report/3943916)
 - Dense wet leaves on path, 7th November :- [https://www.fixmystreet.com/report/3943657](https://www.fixmystreet.com/report/3943657)
-- Dog poo bin needs emptying, 6th November :- [https://www.fixmystreet.com/report/3942775](https://www.fixmystreet.com/report/3942775)
-- Multiple potholes on road, 5th November :- [https://www.fixmystreet.com/report/3941094](https://www.fixmystreet.com/report/3941094)
 
 <!-- fix_marker ends -->
