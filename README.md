@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pavement unsafe, 15th November :- [https://www.fixmystreet.com/report/3965272](https://www.fixmystreet.com/report/3965272)
 - Island post, 14th November :- [https://www.fixmystreet.com/report/3963913](https://www.fixmystreet.com/report/3963913)
 - Hazardous Pothole, 14th November :- [https://www.fixmystreet.com/report/3962570](https://www.fixmystreet.com/report/3962570)
 - Several areas of cordoned off rubble coursing obstructiion.on.ion.ion., 13th November :- [https://www.fixmystreet.com/report/3959959](https://www.fixmystreet.com/report/3959959)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Inadequate drainage, 11th November :- [https://www.fixmystreet.com/report/3951087](https://www.fixmystreet.com/report/3951087)
 - Group of potholes - Inside lane, 9th November :- [https://www.fixmystreet.com/report/3950138](https://www.fixmystreet.com/report/3950138)
 - Compacted wet and slippery leaves, 7th November :- [https://www.fixmystreet.com/report/3943916](https://www.fixmystreet.com/report/3943916)
-- Dense wet leaves on path, 7th November :- [https://www.fixmystreet.com/report/3943657](https://www.fixmystreet.com/report/3943657)
 
 <!-- fix_marker ends -->
