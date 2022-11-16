@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street Lights not working Voxwell Lane, 15th November :- [https://www.fixmystreet.com/report/3967355](https://www.fixmystreet.com/report/3967355)
+- Brooklyn Road at the junction of Tennyson surface has gone big pothole opened up in the last day or so, 15th November :- [https://www.fixmystreet.com/report/3967352](https://www.fixmystreet.com/report/3967352)
+- Mud on Road, 15th November :- [https://www.fixmystreet.com/report/3967343](https://www.fixmystreet.com/report/3967343)
 - Pavement unsafe, 15th November :- [https://www.fixmystreet.com/report/3965272](https://www.fixmystreet.com/report/3965272)
 - Island post, 14th November :- [https://www.fixmystreet.com/report/3963913](https://www.fixmystreet.com/report/3963913)
 - Hazardous Pothole, 14th November :- [https://www.fixmystreet.com/report/3962570](https://www.fixmystreet.com/report/3962570)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 50 mph road signs between jct 10 and jct 9 northbound, 9th November :- [https://www.fixmystreet.com/report/3952365](https://www.fixmystreet.com/report/3952365)
 - Lights completely out, 9th November :- [https://www.fixmystreet.com/report/3952029](https://www.fixmystreet.com/report/3952029)
 - Dumped bike frame on public open space near Millham skate park, 9th November :- [https://www.fixmystreet.com/report/3951438](https://www.fixmystreet.com/report/3951438)
-- Inadequate drainage, 11th November :- [https://www.fixmystreet.com/report/3951087](https://www.fixmystreet.com/report/3951087)
-- Group of potholes - Inside lane, 9th November :- [https://www.fixmystreet.com/report/3950138](https://www.fixmystreet.com/report/3950138)
-- Compacted wet and slippery leaves, 7th November :- [https://www.fixmystreet.com/report/3943916](https://www.fixmystreet.com/report/3943916)
 
 <!-- fix_marker ends -->
