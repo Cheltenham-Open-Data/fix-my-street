@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Telephone cable - rubbish, 16th November :- [https://www.fixmystreet.com/report/3968150](https://www.fixmystreet.com/report/3968150)
+- Pothole on exit to roundabout, 16th November :- [https://www.fixmystreet.com/report/3967779](https://www.fixmystreet.com/report/3967779)
 - Street Lights not working Voxwell Lane, 15th November :- [https://www.fixmystreet.com/report/3967355](https://www.fixmystreet.com/report/3967355)
 - Brooklyn Road at the junction of Tennyson surface has gone big pothole opened up in the last day or so, 15th November :- [https://www.fixmystreet.com/report/3967352](https://www.fixmystreet.com/report/3967352)
 - Mud on Road, 15th November :- [https://www.fixmystreet.com/report/3967343](https://www.fixmystreet.com/report/3967343)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Payment covered with sand and dirt after city fibre works, 10th November :- [https://www.fixmystreet.com/report/3953018](https://www.fixmystreet.com/report/3953018)
 - Pavement outside Coronation Square shops including farm foods and Greggs covered with leaves and litter, 10th November :- [https://www.fixmystreet.com/report/3953013](https://www.fixmystreet.com/report/3953013)
 - 50 mph road signs between jct 10 and jct 9 northbound, 9th November :- [https://www.fixmystreet.com/report/3952365](https://www.fixmystreet.com/report/3952365)
-- Lights completely out, 9th November :- [https://www.fixmystreet.com/report/3952029](https://www.fixmystreet.com/report/3952029)
-- Dumped bike frame on public open space near Millham skate park, 9th November :- [https://www.fixmystreet.com/report/3951438](https://www.fixmystreet.com/report/3951438)
 
 <!-- fix_marker ends -->
