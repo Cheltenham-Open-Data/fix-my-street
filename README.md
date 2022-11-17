@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Carriageway potholes, 16th November :- [https://www.fixmystreet.com/report/3969682](https://www.fixmystreet.com/report/3969682)
 - Telephone cable - rubbish, 16th November :- [https://www.fixmystreet.com/report/3968150](https://www.fixmystreet.com/report/3968150)
 - Pothole on exit to roundabout, 16th November :- [https://www.fixmystreet.com/report/3967779](https://www.fixmystreet.com/report/3967779)
 - Street Lights not working Voxwell Lane, 15th November :- [https://www.fixmystreet.com/report/3967355](https://www.fixmystreet.com/report/3967355)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic Lights have been out of order for several days, 10th November :- [https://www.fixmystreet.com/report/3953483](https://www.fixmystreet.com/report/3953483)
 - Payment covered with sand and dirt after city fibre works, 10th November :- [https://www.fixmystreet.com/report/3953018](https://www.fixmystreet.com/report/3953018)
 - Pavement outside Coronation Square shops including farm foods and Greggs covered with leaves and litter, 10th November :- [https://www.fixmystreet.com/report/3953013](https://www.fixmystreet.com/report/3953013)
-- 50 mph road signs between jct 10 and jct 9 northbound, 9th November :- [https://www.fixmystreet.com/report/3952365](https://www.fixmystreet.com/report/3952365)
 
 <!-- fix_marker ends -->
