@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes and uneven road surface, 19th November :- [https://www.fixmystreet.com/report/3977007](https://www.fixmystreet.com/report/3977007)
+- Large, deep dangerous pothole in Main Carriageway, 19th November :- [https://www.fixmystreet.com/report/3976580](https://www.fixmystreet.com/report/3976580)
 - Driving over green, 18th November :- [https://www.fixmystreet.com/report/3973590](https://www.fixmystreet.com/report/3973590)
 - Carriageway potholes, 16th November :- [https://www.fixmystreet.com/report/3969682](https://www.fixmystreet.com/report/3969682)
 - Telephone cable - rubbish, 16th November :- [https://www.fixmystreet.com/report/3968150](https://www.fixmystreet.com/report/3968150)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlights not working on Millfields, Hucclecote, 11th November :- [https://www.fixmystreet.com/report/3956262](https://www.fixmystreet.com/report/3956262)
 - Large pothole in A40, 10th November :- [https://www.fixmystreet.com/report/3955237](https://www.fixmystreet.com/report/3955237)
 - Excess mud on road from nearby groundworks, 10th November :- [https://www.fixmystreet.com/report/3955193](https://www.fixmystreet.com/report/3955193)
-- Traffic Lights have been out of order for several days, 10th November :- [https://www.fixmystreet.com/report/3953483](https://www.fixmystreet.com/report/3953483)
-- Payment covered with sand and dirt after city fibre works, 10th November :- [https://www.fixmystreet.com/report/3953018](https://www.fixmystreet.com/report/3953018)
 
 <!-- fix_marker ends -->
