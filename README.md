@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light not working, 21st November :- [https://www.fixmystreet.com/report/3980261](https://www.fixmystreet.com/report/3980261)
+- Fly tipping by public waste bin, 21st November :- [https://www.fixmystreet.com/report/3979750](https://www.fixmystreet.com/report/3979750)
 - Broken glass, 20th November :- [https://www.fixmystreet.com/report/3978209](https://www.fixmystreet.com/report/3978209)
 - Multiple potholes and uneven road surface, 19th November :- [https://www.fixmystreet.com/report/3977007](https://www.fixmystreet.com/report/3977007)
 - Large, deep dangerous pothole in Main Carriageway, 19th November :- [https://www.fixmystreet.com/report/3976580](https://www.fixmystreet.com/report/3976580)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipped fridge freezer catkin drive, 12th November :- [https://www.fixmystreet.com/report/3958316](https://www.fixmystreet.com/report/3958316)
 - Deceased cat, 12th November :- [https://www.fixmystreet.com/report/3958300](https://www.fixmystreet.com/report/3958300)
 - Mattress flytipped in alley, 11th November :- [https://www.fixmystreet.com/report/3956638](https://www.fixmystreet.com/report/3956638)
-- Streetlights not working on Millfields, Hucclecote, 11th November :- [https://www.fixmystreet.com/report/3956262](https://www.fixmystreet.com/report/3956262)
-- Large pothole in A40, 10th November :- [https://www.fixmystreet.com/report/3955237](https://www.fixmystreet.com/report/3955237)
 
 <!-- fix_marker ends -->
