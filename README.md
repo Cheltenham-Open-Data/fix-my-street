@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Barriers for cable works!!!!, 21st November :- [https://www.fixmystreet.com/report/3982144](https://www.fixmystreet.com/report/3982144)
 - Street light not working, 21st November :- [https://www.fixmystreet.com/report/3980261](https://www.fixmystreet.com/report/3980261)
 - Fly tipping by public waste bin, 21st November :- [https://www.fixmystreet.com/report/3979750](https://www.fixmystreet.com/report/3979750)
 - Broken glass, 20th November :- [https://www.fixmystreet.com/report/3978209](https://www.fixmystreet.com/report/3978209)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole, North bound M5 jct 11, 12th November :- [https://www.fixmystreet.com/report/3959395](https://www.fixmystreet.com/report/3959395)
 - Fly tipped fridge freezer catkin drive, 12th November :- [https://www.fixmystreet.com/report/3958316](https://www.fixmystreet.com/report/3958316)
 - Deceased cat, 12th November :- [https://www.fixmystreet.com/report/3958300](https://www.fixmystreet.com/report/3958300)
-- Mattress flytipped in alley, 11th November :- [https://www.fixmystreet.com/report/3956638](https://www.fixmystreet.com/report/3956638)
 
 <!-- fix_marker ends -->
