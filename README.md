@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped sandbags on pavement, 22nd November :- [https://www.fixmystreet.com/report/3984896](https://www.fixmystreet.com/report/3984896)
+- Lampost rusting, 22nd November :- [https://www.fixmystreet.com/report/3984059](https://www.fixmystreet.com/report/3984059)
+- Super large &deep potholes along length of road, 22nd November :- [https://www.fixmystreet.com/report/3983741](https://www.fixmystreet.com/report/3983741)
 - Barriers for cable works!!!!, 21st November :- [https://www.fixmystreet.com/report/3982144](https://www.fixmystreet.com/report/3982144)
 - Street light not working, 21st November :- [https://www.fixmystreet.com/report/3980261](https://www.fixmystreet.com/report/3980261)
 - Fly tipping by public waste bin, 21st November :- [https://www.fixmystreet.com/report/3979750](https://www.fixmystreet.com/report/3979750)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Island post, 14th November :- [https://www.fixmystreet.com/report/3963913](https://www.fixmystreet.com/report/3963913)
 - Hazardous Pothole, 14th November :- [https://www.fixmystreet.com/report/3962570](https://www.fixmystreet.com/report/3962570)
 - Several areas of cordoned off rubble coursing obstructiion.on.ion.ion., 13th November :- [https://www.fixmystreet.com/report/3959959](https://www.fixmystreet.com/report/3959959)
-- Deep pothole, North bound M5 jct 11, 12th November :- [https://www.fixmystreet.com/report/3959395](https://www.fixmystreet.com/report/3959395)
-- Fly tipped fridge freezer catkin drive, 12th November :- [https://www.fixmystreet.com/report/3958316](https://www.fixmystreet.com/report/3958316)
-- Deceased cat, 12th November :- [https://www.fixmystreet.com/report/3958300](https://www.fixmystreet.com/report/3958300)
 
 <!-- fix_marker ends -->
