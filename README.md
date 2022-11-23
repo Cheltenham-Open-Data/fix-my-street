@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Routine Parking on Pavement, 22nd November :- [https://www.fixmystreet.com/report/3985024](https://www.fixmystreet.com/report/3985024)
 - Dumped sandbags on pavement, 22nd November :- [https://www.fixmystreet.com/report/3984896](https://www.fixmystreet.com/report/3984896)
 - Lampost rusting, 22nd November :- [https://www.fixmystreet.com/report/3984059](https://www.fixmystreet.com/report/3984059)
 - Super large &deep potholes along length of road, 22nd November :- [https://www.fixmystreet.com/report/3983741](https://www.fixmystreet.com/report/3983741)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pavement unsafe, 15th November :- [https://www.fixmystreet.com/report/3965272](https://www.fixmystreet.com/report/3965272)
 - Island post, 14th November :- [https://www.fixmystreet.com/report/3963913](https://www.fixmystreet.com/report/3963913)
 - Hazardous Pothole, 14th November :- [https://www.fixmystreet.com/report/3962570](https://www.fixmystreet.com/report/3962570)
-- Several areas of cordoned off rubble coursing obstructiion.on.ion.ion., 13th November :- [https://www.fixmystreet.com/report/3959959](https://www.fixmystreet.com/report/3959959)
 
 <!-- fix_marker ends -->
