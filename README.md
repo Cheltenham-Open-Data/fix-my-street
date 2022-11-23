@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drainage causing pavement flooding, 23rd November :- [https://www.fixmystreet.com/report/3986912](https://www.fixmystreet.com/report/3986912)
+- More potholes have opened up and gotten deeper in Pothole alley!, 23rd November :- [https://www.fixmystreet.com/report/3986523](https://www.fixmystreet.com/report/3986523)
+- Potholes before and after this corner, 23rd November :- [https://www.fixmystreet.com/report/3986493](https://www.fixmystreet.com/report/3986493)
+- Continuous puddles, 23rd November :- [https://www.fixmystreet.com/report/3986414](https://www.fixmystreet.com/report/3986414)
+- Road riddled with unsafe potholes, 23rd November :- [https://www.fixmystreet.com/report/3986407](https://www.fixmystreet.com/report/3986407)
+- Inadequate drainage, 23rd November :- [https://www.fixmystreet.com/report/3985776](https://www.fixmystreet.com/report/3985776)
 - Routine Parking on Pavement, 22nd November :- [https://www.fixmystreet.com/report/3985024](https://www.fixmystreet.com/report/3985024)
 - Dumped sandbags on pavement, 22nd November :- [https://www.fixmystreet.com/report/3984896](https://www.fixmystreet.com/report/3984896)
 - Lampost rusting, 22nd November :- [https://www.fixmystreet.com/report/3984059](https://www.fixmystreet.com/report/3984059)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Carriageway potholes, 16th November :- [https://www.fixmystreet.com/report/3969682](https://www.fixmystreet.com/report/3969682)
 - Telephone cable - rubbish, 16th November :- [https://www.fixmystreet.com/report/3968150](https://www.fixmystreet.com/report/3968150)
 - Pothole on exit to roundabout, 16th November :- [https://www.fixmystreet.com/report/3967779](https://www.fixmystreet.com/report/3967779)
-- Street Lights not working Voxwell Lane, 15th November :- [https://www.fixmystreet.com/report/3967355](https://www.fixmystreet.com/report/3967355)
-- Brooklyn Road at the junction of Tennyson surface has gone big pothole opened up in the last day or so, 15th November :- [https://www.fixmystreet.com/report/3967352](https://www.fixmystreet.com/report/3967352)
-- Mud on Road, 15th November :- [https://www.fixmystreet.com/report/3967343](https://www.fixmystreet.com/report/3967343)
-- Pavement unsafe, 15th November :- [https://www.fixmystreet.com/report/3965272](https://www.fixmystreet.com/report/3965272)
-- Island post, 14th November :- [https://www.fixmystreet.com/report/3963913](https://www.fixmystreet.com/report/3963913)
-- Hazardous Pothole, 14th November :- [https://www.fixmystreet.com/report/3962570](https://www.fixmystreet.com/report/3962570)
 
 <!-- fix_marker ends -->
