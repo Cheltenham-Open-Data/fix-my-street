@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Green Barriers- fibre optic work, 24th November :- [https://www.fixmystreet.com/report/3990505](https://www.fixmystreet.com/report/3990505)
+- Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990102](https://www.fixmystreet.com/report/3990102)
+- Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990085](https://www.fixmystreet.com/report/3990085)
+- Deep pothole between EG entrance and Junction, 24th November :- [https://www.fixmystreet.com/report/3988917](https://www.fixmystreet.com/report/3988917)
 - Blocked drainage causing pavement flooding, 23rd November :- [https://www.fixmystreet.com/report/3986912](https://www.fixmystreet.com/report/3986912)
 - More potholes have opened up and gotten deeper in Pothole alley!, 23rd November :- [https://www.fixmystreet.com/report/3986523](https://www.fixmystreet.com/report/3986523)
 - Potholes before and after this corner, 23rd November :- [https://www.fixmystreet.com/report/3986493](https://www.fixmystreet.com/report/3986493)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass, 20th November :- [https://www.fixmystreet.com/report/3978209](https://www.fixmystreet.com/report/3978209)
 - Multiple potholes and uneven road surface, 19th November :- [https://www.fixmystreet.com/report/3977007](https://www.fixmystreet.com/report/3977007)
 - Large, deep dangerous pothole in Main Carriageway, 19th November :- [https://www.fixmystreet.com/report/3976580](https://www.fixmystreet.com/report/3976580)
-- Driving over green, 18th November :- [https://www.fixmystreet.com/report/3973590](https://www.fixmystreet.com/report/3973590)
-- Carriageway potholes, 16th November :- [https://www.fixmystreet.com/report/3969682](https://www.fixmystreet.com/report/3969682)
-- Telephone cable - rubbish, 16th November :- [https://www.fixmystreet.com/report/3968150](https://www.fixmystreet.com/report/3968150)
-- Pothole on exit to roundabout, 16th November :- [https://www.fixmystreet.com/report/3967779](https://www.fixmystreet.com/report/3967779)
 
 <!-- fix_marker ends -->
