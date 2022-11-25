@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooding of path in town centre, 25th November :- [https://www.fixmystreet.com/report/3994224](https://www.fixmystreet.com/report/3994224)
+- Blocked drain, 25th November :- [https://www.fixmystreet.com/report/3993040](https://www.fixmystreet.com/report/3993040)
 - Green Barriers- fibre optic work, 24th November :- [https://www.fixmystreet.com/report/3990505](https://www.fixmystreet.com/report/3990505)
 - Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990102](https://www.fixmystreet.com/report/3990102)
 - Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990085](https://www.fixmystreet.com/report/3990085)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light not working, 21st November :- [https://www.fixmystreet.com/report/3980261](https://www.fixmystreet.com/report/3980261)
 - Fly tipping by public waste bin, 21st November :- [https://www.fixmystreet.com/report/3979750](https://www.fixmystreet.com/report/3979750)
 - Broken glass, 20th November :- [https://www.fixmystreet.com/report/3978209](https://www.fixmystreet.com/report/3978209)
-- Multiple potholes and uneven road surface, 19th November :- [https://www.fixmystreet.com/report/3977007](https://www.fixmystreet.com/report/3977007)
-- Large, deep dangerous pothole in Main Carriageway, 19th November :- [https://www.fixmystreet.com/report/3976580](https://www.fixmystreet.com/report/3976580)
 
 <!-- fix_marker ends -->
