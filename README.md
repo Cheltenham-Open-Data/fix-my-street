@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned shopping trolley, 26th November :- [https://www.fixmystreet.com/report/3995779](https://www.fixmystreet.com/report/3995779)
+- Massive Pothole, 26th November :- [https://www.fixmystreet.com/report/3995713](https://www.fixmystreet.com/report/3995713)
+- Rubbish on street, 26th November :- [https://www.fixmystreet.com/report/3995084](https://www.fixmystreet.com/report/3995084)
 - Flooding of path in town centre, 25th November :- [https://www.fixmystreet.com/report/3994224](https://www.fixmystreet.com/report/3994224)
 - Blocked drain, 25th November :- [https://www.fixmystreet.com/report/3993040](https://www.fixmystreet.com/report/3993040)
 - Green Barriers- fibre optic work, 24th November :- [https://www.fixmystreet.com/report/3990505](https://www.fixmystreet.com/report/3990505)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lampost rusting, 22nd November :- [https://www.fixmystreet.com/report/3984059](https://www.fixmystreet.com/report/3984059)
 - Super large &deep potholes along length of road, 22nd November :- [https://www.fixmystreet.com/report/3983741](https://www.fixmystreet.com/report/3983741)
 - Barriers for cable works!!!!, 21st November :- [https://www.fixmystreet.com/report/3982144](https://www.fixmystreet.com/report/3982144)
-- Street light not working, 21st November :- [https://www.fixmystreet.com/report/3980261](https://www.fixmystreet.com/report/3980261)
-- Fly tipping by public waste bin, 21st November :- [https://www.fixmystreet.com/report/3979750](https://www.fixmystreet.com/report/3979750)
-- Broken glass, 20th November :- [https://www.fixmystreet.com/report/3978209](https://www.fixmystreet.com/report/3978209)
 
 <!-- fix_marker ends -->
