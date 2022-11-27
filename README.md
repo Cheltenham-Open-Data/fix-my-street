@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 27th November :- [https://www.fixmystreet.com/report/3997551](https://www.fixmystreet.com/report/3997551)
 - Abandoned shopping trolley, 26th November :- [https://www.fixmystreet.com/report/3995779](https://www.fixmystreet.com/report/3995779)
 - Massive Pothole, 26th November :- [https://www.fixmystreet.com/report/3995713](https://www.fixmystreet.com/report/3995713)
 - Rubbish on street, 26th November :- [https://www.fixmystreet.com/report/3995084](https://www.fixmystreet.com/report/3995084)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dumped sandbags on pavement, 22nd November :- [https://www.fixmystreet.com/report/3984896](https://www.fixmystreet.com/report/3984896)
 - Lampost rusting, 22nd November :- [https://www.fixmystreet.com/report/3984059](https://www.fixmystreet.com/report/3984059)
 - Super large &deep potholes along length of road, 22nd November :- [https://www.fixmystreet.com/report/3983741](https://www.fixmystreet.com/report/3983741)
-- Barriers for cable works!!!!, 21st November :- [https://www.fixmystreet.com/report/3982144](https://www.fixmystreet.com/report/3982144)
 
 <!-- fix_marker ends -->
