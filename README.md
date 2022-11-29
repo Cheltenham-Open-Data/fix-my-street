@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fence down for nearly 4 years, 29th November :- [https://www.fixmystreet.com/report/4003032](https://www.fixmystreet.com/report/4003032)
+- Various fly tipped rubbish, 29th November :- [https://www.fixmystreet.com/report/4002942](https://www.fixmystreet.com/report/4002942)
+- Dumped mattress, 29th November :- [https://www.fixmystreet.com/report/4002906](https://www.fixmystreet.com/report/4002906)
 - Light not working, 28th November :- [https://www.fixmystreet.com/report/4000755](https://www.fixmystreet.com/report/4000755)
 - Fallen branches, 28th November :- [https://www.fixmystreet.com/report/4000442](https://www.fixmystreet.com/report/4000442)
 - Faded roadmarkings on zebra crossing Rodney Road Cheltenham, 28th November :- [https://www.fixmystreet.com/report/4000367](https://www.fixmystreet.com/report/4000367)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Green Barriers- fibre optic work, 24th November :- [https://www.fixmystreet.com/report/3990505](https://www.fixmystreet.com/report/3990505)
 - Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990102](https://www.fixmystreet.com/report/3990102)
 - Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990085](https://www.fixmystreet.com/report/3990085)
-- Deep pothole between EG entrance and Junction, 24th November :- [https://www.fixmystreet.com/report/3988917](https://www.fixmystreet.com/report/3988917)
-- Blocked drainage causing pavement flooding, 23rd November :- [https://www.fixmystreet.com/report/3986912](https://www.fixmystreet.com/report/3986912)
-- More potholes have opened up and gotten deeper in Pothole alley!, 23rd November :- [https://www.fixmystreet.com/report/3986523](https://www.fixmystreet.com/report/3986523)
 
 <!-- fix_marker ends -->
