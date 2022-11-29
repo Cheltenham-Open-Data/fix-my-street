@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Light not working, 28th November :- [https://www.fixmystreet.com/report/4000755](https://www.fixmystreet.com/report/4000755)
 - Fallen branches, 28th November :- [https://www.fixmystreet.com/report/4000442](https://www.fixmystreet.com/report/4000442)
 - Faded roadmarkings on zebra crossing Rodney Road Cheltenham, 28th November :- [https://www.fixmystreet.com/report/4000367](https://www.fixmystreet.com/report/4000367)
 - Wire trip hazard in alleyway leading from High St to Minster, 28th November :- [https://www.fixmystreet.com/report/4000317](https://www.fixmystreet.com/report/4000317)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole between EG entrance and Junction, 24th November :- [https://www.fixmystreet.com/report/3988917](https://www.fixmystreet.com/report/3988917)
 - Blocked drainage causing pavement flooding, 23rd November :- [https://www.fixmystreet.com/report/3986912](https://www.fixmystreet.com/report/3986912)
 - More potholes have opened up and gotten deeper in Pothole alley!, 23rd November :- [https://www.fixmystreet.com/report/3986523](https://www.fixmystreet.com/report/3986523)
-- Potholes before and after this corner, 23rd November :- [https://www.fixmystreet.com/report/3986493](https://www.fixmystreet.com/report/3986493)
 
 <!-- fix_marker ends -->
