@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 50mph signs no roadwork in sight, 30th November :- [https://www.fixmystreet.com/report/4005828](https://www.fixmystreet.com/report/4005828)
 - Fence down for nearly 4 years, 29th November :- [https://www.fixmystreet.com/report/4003032](https://www.fixmystreet.com/report/4003032)
 - Various fly tipped rubbish, 29th November :- [https://www.fixmystreet.com/report/4002942](https://www.fixmystreet.com/report/4002942)
 - Dumped mattress, 29th November :- [https://www.fixmystreet.com/report/4002906](https://www.fixmystreet.com/report/4002906)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain, 25th November :- [https://www.fixmystreet.com/report/3993040](https://www.fixmystreet.com/report/3993040)
 - Green Barriers- fibre optic work, 24th November :- [https://www.fixmystreet.com/report/3990505](https://www.fixmystreet.com/report/3990505)
 - Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990102](https://www.fixmystreet.com/report/3990102)
-- Sainsbury's, 24th November :- [https://www.fixmystreet.com/report/3990085](https://www.fixmystreet.com/report/3990085)
 
 <!-- fix_marker ends -->
