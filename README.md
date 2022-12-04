@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Manhole dropped in road, 4th December :- [https://www.fixmystreet.com/report/4013895](https://www.fixmystreet.com/report/4013895)
+- Dropped manholes, 4th December :- [https://www.fixmystreet.com/report/4013883](https://www.fixmystreet.com/report/4013883)
+- Suspected abandoned, 4th December :- [https://www.fixmystreet.com/report/4013805](https://www.fixmystreet.com/report/4013805)
+- Needs a s74, 4th December :- [https://www.fixmystreet.com/report/4013794](https://www.fixmystreet.com/report/4013794)
+- Bin full, 4th December :- [https://www.fixmystreet.com/report/4013504](https://www.fixmystreet.com/report/4013504)
+- Bin full, 4th December :- [https://www.fixmystreet.com/report/4013467](https://www.fixmystreet.com/report/4013467)
 - Broken beer bottles and cans, 3rd December :- [https://www.fixmystreet.com/report/4012851](https://www.fixmystreet.com/report/4012851)
 - Freezer left on grass, 3rd December :- [https://www.fixmystreet.com/report/4012262](https://www.fixmystreet.com/report/4012262)
 - Bag of litter dumped, 3rd December :- [https://www.fixmystreet.com/report/4012260](https://www.fixmystreet.com/report/4012260)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fence down for nearly 4 years, 29th November :- [https://www.fixmystreet.com/report/4003032](https://www.fixmystreet.com/report/4003032)
 - Various fly tipped rubbish, 29th November :- [https://www.fixmystreet.com/report/4002942](https://www.fixmystreet.com/report/4002942)
 - Dumped mattress, 29th November :- [https://www.fixmystreet.com/report/4002906](https://www.fixmystreet.com/report/4002906)
-- Light not working, 28th November :- [https://www.fixmystreet.com/report/4000755](https://www.fixmystreet.com/report/4000755)
-- Fallen branches, 28th November :- [https://www.fixmystreet.com/report/4000442](https://www.fixmystreet.com/report/4000442)
-- Faded roadmarkings on zebra crossing Rodney Road Cheltenham, 28th November :- [https://www.fixmystreet.com/report/4000367](https://www.fixmystreet.com/report/4000367)
-- Wire trip hazard in alleyway leading from High St to Minster, 28th November :- [https://www.fixmystreet.com/report/4000317](https://www.fixmystreet.com/report/4000317)
-- Flytipping, 28th November :- [https://www.fixmystreet.com/report/4000149](https://www.fixmystreet.com/report/4000149)
-- Missing Traffic Lights, 28th November :- [https://www.fixmystreet.com/report/4000007](https://www.fixmystreet.com/report/4000007)
 
 <!-- fix_marker ends -->
