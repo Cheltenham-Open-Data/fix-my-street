@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flashing traffic bollard approach to Elmbridge Court roundabout, 5th December :- [https://www.fixmystreet.com/report/4016292](https://www.fixmystreet.com/report/4016292)
+- Pothole on Brooklyn Road at the junction of Edinburgh Place, 5th December :- [https://www.fixmystreet.com/report/4016116](https://www.fixmystreet.com/report/4016116)
 - Manhole dropped in road, 4th December :- [https://www.fixmystreet.com/report/4013895](https://www.fixmystreet.com/report/4013895)
 - Dropped manholes, 4th December :- [https://www.fixmystreet.com/report/4013883](https://www.fixmystreet.com/report/4013883)
 - Suspected abandoned, 4th December :- [https://www.fixmystreet.com/report/4013805](https://www.fixmystreet.com/report/4013805)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Huge pothole right on entrance to mini roundabout, 3rd December :- [https://www.fixmystreet.com/report/4009398](https://www.fixmystreet.com/report/4009398)
 - 50mph signs no roadwork in sight, 30th November :- [https://www.fixmystreet.com/report/4005828](https://www.fixmystreet.com/report/4005828)
 - Fence down for nearly 4 years, 29th November :- [https://www.fixmystreet.com/report/4003032](https://www.fixmystreet.com/report/4003032)
-- Various fly tipped rubbish, 29th November :- [https://www.fixmystreet.com/report/4002942](https://www.fixmystreet.com/report/4002942)
-- Dumped mattress, 29th November :- [https://www.fixmystreet.com/report/4002906](https://www.fixmystreet.com/report/4002906)
 
 <!-- fix_marker ends -->
