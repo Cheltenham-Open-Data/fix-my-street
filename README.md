@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road drops quite badly, 8th December :- [https://www.fixmystreet.com/report/4024147](https://www.fixmystreet.com/report/4024147)
+- Street lights, 8th December :- [https://www.fixmystreet.com/report/4024079](https://www.fixmystreet.com/report/4024079)
+- No street lights, 8th December :- [https://www.fixmystreet.com/report/4023960](https://www.fixmystreet.com/report/4023960)
 - Warning sign and cone left by the footpath, 7th December :- [https://www.fixmystreet.com/report/4021259](https://www.fixmystreet.com/report/4021259)
 - Flashing traffic bollard approach to Elmbridge Court roundabout, 5th December :- [https://www.fixmystreet.com/report/4016292](https://www.fixmystreet.com/report/4016292)
 - Pothole on Brooklyn Road at the junction of Edinburgh Place, 5th December :- [https://www.fixmystreet.com/report/4016116](https://www.fixmystreet.com/report/4016116)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mud on road, 2nd December :- [https://www.fixmystreet.com/report/4010471](https://www.fixmystreet.com/report/4010471)
 - Mud on the road, 2nd December :- [https://www.fixmystreet.com/report/4010411](https://www.fixmystreet.com/report/4010411)
 - Builders waste, 2nd December :- [https://www.fixmystreet.com/report/4010186](https://www.fixmystreet.com/report/4010186)
-- Parking on yellow zig zags, 2nd December :- [https://www.fixmystreet.com/report/4009878](https://www.fixmystreet.com/report/4009878)
-- Huge pothole right on entrance to mini roundabout, 3rd December :- [https://www.fixmystreet.com/report/4009398](https://www.fixmystreet.com/report/4009398)
-- 50mph signs no roadwork in sight, 30th November :- [https://www.fixmystreet.com/report/4005828](https://www.fixmystreet.com/report/4005828)
 
 <!-- fix_marker ends -->
