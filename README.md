@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes, 11th December :- [https://www.fixmystreet.com/report/4028463](https://www.fixmystreet.com/report/4028463)
+- Flytipping, overgrowth., 11th December :- [https://www.fixmystreet.com/report/4027922](https://www.fixmystreet.com/report/4027922)
+- Broken Gate Lock, 11th December :- [https://www.fixmystreet.com/report/4027834](https://www.fixmystreet.com/report/4027834)
 - Edge of road ascending Birdlip hill has collapsed in two areas. There is a serious risk of a major accident this needs to be repaired as a matter of urgency., 10th December :- [https://www.fixmystreet.com/report/4027346](https://www.fixmystreet.com/report/4027346)
 - Drain blockage - Between 27 and 29 Margrett Road, 10th December :- [https://www.fixmystreet.com/report/4027169](https://www.fixmystreet.com/report/4027169)
 - Another mattress dumped in alley, also abandoned shopping trolley, 10th December :- [https://www.fixmystreet.com/report/4026839](https://www.fixmystreet.com/report/4026839)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dropped manholes, 4th December :- [https://www.fixmystreet.com/report/4013883](https://www.fixmystreet.com/report/4013883)
 - Suspected abandoned, 4th December :- [https://www.fixmystreet.com/report/4013805](https://www.fixmystreet.com/report/4013805)
 - Needs a s74, 4th December :- [https://www.fixmystreet.com/report/4013794](https://www.fixmystreet.com/report/4013794)
-- Bin full, 4th December :- [https://www.fixmystreet.com/report/4013504](https://www.fixmystreet.com/report/4013504)
-- Bin full, 4th December :- [https://www.fixmystreet.com/report/4013467](https://www.fixmystreet.com/report/4013467)
-- Broken beer bottles and cans, 3rd December :- [https://www.fixmystreet.com/report/4012851](https://www.fixmystreet.com/report/4012851)
 
 <!-- fix_marker ends -->
