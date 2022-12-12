@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Grit bin 2045 empty, 12th December :- [https://www.fixmystreet.com/report/4030746](https://www.fixmystreet.com/report/4030746)
+- Drain dropped and noisy, 12th December :- [https://www.fixmystreet.com/report/4030489](https://www.fixmystreet.com/report/4030489)
 - All street lights not working in street, 11th December :- [https://www.fixmystreet.com/report/4028745](https://www.fixmystreet.com/report/4028745)
 - Potholes, 11th December :- [https://www.fixmystreet.com/report/4028463](https://www.fixmystreet.com/report/4028463)
 - Flytipping, overgrowth., 11th December :- [https://www.fixmystreet.com/report/4027922](https://www.fixmystreet.com/report/4027922)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flashing traffic bollard approach to Elmbridge Court roundabout, 5th December :- [https://www.fixmystreet.com/report/4016292](https://www.fixmystreet.com/report/4016292)
 - Pothole on Brooklyn Road at the junction of Edinburgh Place, 5th December :- [https://www.fixmystreet.com/report/4016116](https://www.fixmystreet.com/report/4016116)
 - Manhole dropped in road, 4th December :- [https://www.fixmystreet.com/report/4013895](https://www.fixmystreet.com/report/4013895)
-- Dropped manholes, 4th December :- [https://www.fixmystreet.com/report/4013883](https://www.fixmystreet.com/report/4013883)
-- Suspected abandoned, 4th December :- [https://www.fixmystreet.com/report/4013805](https://www.fixmystreet.com/report/4013805)
 
 <!-- fix_marker ends -->
