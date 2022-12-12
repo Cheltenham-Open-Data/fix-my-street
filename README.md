@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- All street lights not working in street, 11th December :- [https://www.fixmystreet.com/report/4028745](https://www.fixmystreet.com/report/4028745)
 - Potholes, 11th December :- [https://www.fixmystreet.com/report/4028463](https://www.fixmystreet.com/report/4028463)
 - Flytipping, overgrowth., 11th December :- [https://www.fixmystreet.com/report/4027922](https://www.fixmystreet.com/report/4027922)
 - Broken Gate Lock, 11th December :- [https://www.fixmystreet.com/report/4027834](https://www.fixmystreet.com/report/4027834)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Manhole dropped in road, 4th December :- [https://www.fixmystreet.com/report/4013895](https://www.fixmystreet.com/report/4013895)
 - Dropped manholes, 4th December :- [https://www.fixmystreet.com/report/4013883](https://www.fixmystreet.com/report/4013883)
 - Suspected abandoned, 4th December :- [https://www.fixmystreet.com/report/4013805](https://www.fixmystreet.com/report/4013805)
-- Needs a s74, 4th December :- [https://www.fixmystreet.com/report/4013794](https://www.fixmystreet.com/report/4013794)
 
 <!-- fix_marker ends -->
