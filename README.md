@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hole left from cable works, 14th December :- [https://www.fixmystreet.com/report/4033573](https://www.fixmystreet.com/report/4033573)
+- Numerous Street lights not working, 13th December :- [https://www.fixmystreet.com/report/4033523](https://www.fixmystreet.com/report/4033523)
+- Pedestrian route not gritted, 13th December :- [https://www.fixmystreet.com/report/4033520](https://www.fixmystreet.com/report/4033520)
+- Cycle route not gritted, 13th December :- [https://www.fixmystreet.com/report/4033515](https://www.fixmystreet.com/report/4033515)
+- Missing Grit bin, 13th December :- [https://www.fixmystreet.com/report/4033345](https://www.fixmystreet.com/report/4033345)
+- Grit bin needs refilling., 13th December :- [https://www.fixmystreet.com/report/4033321](https://www.fixmystreet.com/report/4033321)
 - Fly tipp, 13th December :- [https://www.fixmystreet.com/report/4031984](https://www.fixmystreet.com/report/4031984)
 - Grit bin 2045 empty, 12th December :- [https://www.fixmystreet.com/report/4030746](https://www.fixmystreet.com/report/4030746)
 - Drain dropped and noisy, 12th December :- [https://www.fixmystreet.com/report/4030489](https://www.fixmystreet.com/report/4030489)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Rectory Court road sign has been damaged, 9th December :- [https://www.fixmystreet.com/report/4025426](https://www.fixmystreet.com/report/4025426)
 - Street lights not working, 9th December :- [https://www.fixmystreet.com/report/4025407](https://www.fixmystreet.com/report/4025407)
 - Road drops quite badly, 8th December :- [https://www.fixmystreet.com/report/4024147](https://www.fixmystreet.com/report/4024147)
-- Street lights, 8th December :- [https://www.fixmystreet.com/report/4024079](https://www.fixmystreet.com/report/4024079)
-- No street lights, 8th December :- [https://www.fixmystreet.com/report/4023960](https://www.fixmystreet.com/report/4023960)
-- Ice risk from flowing water., 9th December :- [https://www.fixmystreet.com/report/4023077](https://www.fixmystreet.com/report/4023077)
-- Warning sign and cone left by the footpath, 7th December :- [https://www.fixmystreet.com/report/4021259](https://www.fixmystreet.com/report/4021259)
-- Flashing traffic bollard approach to Elmbridge Court roundabout, 5th December :- [https://www.fixmystreet.com/report/4016292](https://www.fixmystreet.com/report/4016292)
-- Pothole on Brooklyn Road at the junction of Edinburgh Place, 5th December :- [https://www.fixmystreet.com/report/4016116](https://www.fixmystreet.com/report/4016116)
 
 <!-- fix_marker ends -->
