@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole, 15th December :- [https://www.fixmystreet.com/report/4037587](https://www.fixmystreet.com/report/4037587)
+- Parking restriction signs have been defaced, 15th December :- [https://www.fixmystreet.com/report/4037078](https://www.fixmystreet.com/report/4037078)
 - Thick ice on road. Very dangerous, 14th December :- [https://www.fixmystreet.com/report/4035565](https://www.fixmystreet.com/report/4035565)
 - Icy cycle lane, 14th December :- [https://www.fixmystreet.com/report/4035499](https://www.fixmystreet.com/report/4035499)
 - Road like an ice rink,, 14th December :- [https://www.fixmystreet.com/report/4035456](https://www.fixmystreet.com/report/4035456)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Grit bin 2045 empty, 12th December :- [https://www.fixmystreet.com/report/4030746](https://www.fixmystreet.com/report/4030746)
 - Drain dropped and noisy, 12th December :- [https://www.fixmystreet.com/report/4030489](https://www.fixmystreet.com/report/4030489)
 - All street lights not working in street, 11th December :- [https://www.fixmystreet.com/report/4028745](https://www.fixmystreet.com/report/4028745)
-- Potholes, 11th December :- [https://www.fixmystreet.com/report/4028463](https://www.fixmystreet.com/report/4028463)
-- Flytipping, overgrowth., 11th December :- [https://www.fixmystreet.com/report/4027922](https://www.fixmystreet.com/report/4027922)
 
 <!-- fix_marker ends -->
