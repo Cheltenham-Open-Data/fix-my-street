@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Massive wheelbreakers, 18th December :- [https://www.fixmystreet.com/report/4042139](https://www.fixmystreet.com/report/4042139)
 - Flashing bollard, 17th December :- [https://www.fixmystreet.com/report/4041285](https://www.fixmystreet.com/report/4041285)
 - Elmbridge Court Roundabout, 17th December :- [https://www.fixmystreet.com/report/4041253](https://www.fixmystreet.com/report/4041253)
 - Ice rink footpath, 16th December :- [https://www.fixmystreet.com/report/4039963](https://www.fixmystreet.com/report/4039963)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pedestrian route not gritted, 13th December :- [https://www.fixmystreet.com/report/4033520](https://www.fixmystreet.com/report/4033520)
 - Cycle route not gritted, 13th December :- [https://www.fixmystreet.com/report/4033515](https://www.fixmystreet.com/report/4033515)
 - Missing Grit bin, 13th December :- [https://www.fixmystreet.com/report/4033345](https://www.fixmystreet.com/report/4033345)
-- Grit bin needs refilling., 13th December :- [https://www.fixmystreet.com/report/4033321](https://www.fixmystreet.com/report/4033321)
 
 <!-- fix_marker ends -->
