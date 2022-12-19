@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sofa and bed, 19th December :- [https://www.fixmystreet.com/report/4044891](https://www.fixmystreet.com/report/4044891)
+- Temp traffic lights causing jams, 19th December :- [https://www.fixmystreet.com/report/4044748](https://www.fixmystreet.com/report/4044748)
+- Pavement entirely blocked on the corner by maintenance barriers, 19th December :- [https://www.fixmystreet.com/report/4044136](https://www.fixmystreet.com/report/4044136)
+- Damage to pavement and wall foundations by Virgin Media(?), 19th December :- [https://www.fixmystreet.com/report/4044092](https://www.fixmystreet.com/report/4044092)
+- Road Surface Damage, 19th December :- [https://www.fixmystreet.com/report/4043342](https://www.fixmystreet.com/report/4043342)
+- Series of potholes, 19th December :- [https://www.fixmystreet.com/report/4042914](https://www.fixmystreet.com/report/4042914)
 - Sunken drain, 18th December :- [https://www.fixmystreet.com/report/4042294](https://www.fixmystreet.com/report/4042294)
 - Massive wheelbreakers, 18th December :- [https://www.fixmystreet.com/report/4042139](https://www.fixmystreet.com/report/4042139)
 - Flashing bollard, 17th December :- [https://www.fixmystreet.com/report/4041285](https://www.fixmystreet.com/report/4041285)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Burst pipe, 14th December :- [https://www.fixmystreet.com/report/4035437](https://www.fixmystreet.com/report/4035437)
 - New cycle route along busy A40 is not gritted and unsafe for cyclists and pedestrians, 14th December :- [https://www.fixmystreet.com/report/4035416](https://www.fixmystreet.com/report/4035416)
 - The road is like an IceRink - it hasn’t been gritted and is dangerouslol, 14th December :- [https://www.fixmystreet.com/report/4035268](https://www.fixmystreet.com/report/4035268)
-- Broken plastic sledge abandoned in Park, 14th December :- [https://www.fixmystreet.com/report/4035224](https://www.fixmystreet.com/report/4035224)
-- 10 cm deep pothole on Tennyson Road approach to roundabout, 14th December :- [https://www.fixmystreet.com/report/4034138](https://www.fixmystreet.com/report/4034138)
-- Hole left from cable works, 14th December :- [https://www.fixmystreet.com/report/4033573](https://www.fixmystreet.com/report/4033573)
-- Numerous Street lights not working, 13th December :- [https://www.fixmystreet.com/report/4033523](https://www.fixmystreet.com/report/4033523)
-- Pedestrian route not gritted, 13th December :- [https://www.fixmystreet.com/report/4033520](https://www.fixmystreet.com/report/4033520)
-- Cycle route not gritted, 13th December :- [https://www.fixmystreet.com/report/4033515](https://www.fixmystreet.com/report/4033515)
 
 <!-- fix_marker ends -->
