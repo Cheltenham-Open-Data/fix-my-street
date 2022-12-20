@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes in Junction, 19th December :- [https://www.fixmystreet.com/report/4045368](https://www.fixmystreet.com/report/4045368)
+- Flytipping no 89, 19th December :- [https://www.fixmystreet.com/report/4045055](https://www.fixmystreet.com/report/4045055)
 - Sofa and bed, 19th December :- [https://www.fixmystreet.com/report/4044891](https://www.fixmystreet.com/report/4044891)
 - Temp traffic lights causing jams, 19th December :- [https://www.fixmystreet.com/report/4044748](https://www.fixmystreet.com/report/4044748)
 - Pavement entirely blocked on the corner by maintenance barriers, 19th December :- [https://www.fixmystreet.com/report/4044136](https://www.fixmystreet.com/report/4044136)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Icy cycle lane, 14th December :- [https://www.fixmystreet.com/report/4035499](https://www.fixmystreet.com/report/4035499)
 - Road like an ice rink,, 14th December :- [https://www.fixmystreet.com/report/4035456](https://www.fixmystreet.com/report/4035456)
 - Burst pipe, 14th December :- [https://www.fixmystreet.com/report/4035437](https://www.fixmystreet.com/report/4035437)
-- New cycle route along busy A40 is not gritted and unsafe for cyclists and pedestrians, 14th December :- [https://www.fixmystreet.com/report/4035416](https://www.fixmystreet.com/report/4035416)
-- The road is like an IceRink - it hasn’t been gritted and is dangerouslol, 14th December :- [https://www.fixmystreet.com/report/4035268](https://www.fixmystreet.com/report/4035268)
 
 <!-- fix_marker ends -->
