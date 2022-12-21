@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Manhole covers loose: road surface disintegrating, 21st December :- [https://www.fixmystreet.com/report/4050785](https://www.fixmystreet.com/report/4050785)
+- Bollard knocked over, 21st December :- [https://www.fixmystreet.com/report/4050164](https://www.fixmystreet.com/report/4050164)
+- Large deep pothole, 21st December :- [https://www.fixmystreet.com/report/4050137](https://www.fixmystreet.com/report/4050137)
 - Potholes in Junction, 19th December :- [https://www.fixmystreet.com/report/4045368](https://www.fixmystreet.com/report/4045368)
 - Flytipping no 89, 19th December :- [https://www.fixmystreet.com/report/4045055](https://www.fixmystreet.com/report/4045055)
 - Sofa and bed, 19th December :- [https://www.fixmystreet.com/report/4044891](https://www.fixmystreet.com/report/4044891)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 15th December :- [https://www.fixmystreet.com/report/4037587](https://www.fixmystreet.com/report/4037587)
 - Parking restriction signs have been defaced, 15th December :- [https://www.fixmystreet.com/report/4037078](https://www.fixmystreet.com/report/4037078)
 - Thick ice on road. Very dangerous, 14th December :- [https://www.fixmystreet.com/report/4035565](https://www.fixmystreet.com/report/4035565)
-- Icy cycle lane, 14th December :- [https://www.fixmystreet.com/report/4035499](https://www.fixmystreet.com/report/4035499)
-- Road like an ice rink,, 14th December :- [https://www.fixmystreet.com/report/4035456](https://www.fixmystreet.com/report/4035456)
-- Burst pipe, 14th December :- [https://www.fixmystreet.com/report/4035437](https://www.fixmystreet.com/report/4035437)
 
 <!-- fix_marker ends -->
