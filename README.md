@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vandalised tree, 22nd December :- [https://www.fixmystreet.com/report/4052491](https://www.fixmystreet.com/report/4052491)
+- Bins not collected on 16/12., 22nd December :- [https://www.fixmystreet.com/report/4052026](https://www.fixmystreet.com/report/4052026)
 - Manhole covers loose: road surface disintegrating, 21st December :- [https://www.fixmystreet.com/report/4050785](https://www.fixmystreet.com/report/4050785)
 - Bollard knocked over, 21st December :- [https://www.fixmystreet.com/report/4050164](https://www.fixmystreet.com/report/4050164)
 - Large deep pothole, 21st December :- [https://www.fixmystreet.com/report/4050137](https://www.fixmystreet.com/report/4050137)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ice rink footpath, 16th December :- [https://www.fixmystreet.com/report/4039963](https://www.fixmystreet.com/report/4039963)
 - Fairly deep pothole, 15th December :- [https://www.fixmystreet.com/report/4037823](https://www.fixmystreet.com/report/4037823)
 - Large pothole, 15th December :- [https://www.fixmystreet.com/report/4037587](https://www.fixmystreet.com/report/4037587)
-- Parking restriction signs have been defaced, 15th December :- [https://www.fixmystreet.com/report/4037078](https://www.fixmystreet.com/report/4037078)
-- Thick ice on road. Very dangerous, 14th December :- [https://www.fixmystreet.com/report/4035565](https://www.fixmystreet.com/report/4035565)
 
 <!-- fix_marker ends -->
