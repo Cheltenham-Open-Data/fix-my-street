@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Crossing not beeping, 24th December :- [https://www.fixmystreet.com/report/4056827](https://www.fixmystreet.com/report/4056827)
+- Potholes, 24th December :- [https://www.fixmystreet.com/report/4056819](https://www.fixmystreet.com/report/4056819)
 - 45cm diameter pothole on Thirlestane Rd, 23rd December :- [https://www.fixmystreet.com/report/4056235](https://www.fixmystreet.com/report/4056235)
 - Non functioning street light, 23rd December :- [https://www.fixmystreet.com/report/4056217](https://www.fixmystreet.com/report/4056217)
 - Broken glass in car parts in the gutter and on the pavement time Shakespeare Road, 23rd December :- [https://www.fixmystreet.com/report/4055541](https://www.fixmystreet.com/report/4055541)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Temp traffic lights causing jams, 19th December :- [https://www.fixmystreet.com/report/4044748](https://www.fixmystreet.com/report/4044748)
 - Pavement entirely blocked on the corner by maintenance barriers, 19th December :- [https://www.fixmystreet.com/report/4044136](https://www.fixmystreet.com/report/4044136)
 - Damage to pavement and wall foundations by Virgin Media(?), 19th December :- [https://www.fixmystreet.com/report/4044092](https://www.fixmystreet.com/report/4044092)
-- Road Surface Damage, 19th December :- [https://www.fixmystreet.com/report/4043342](https://www.fixmystreet.com/report/4043342)
-- Series of potholes, 19th December :- [https://www.fixmystreet.com/report/4042914](https://www.fixmystreet.com/report/4042914)
 
 <!-- fix_marker ends -->
