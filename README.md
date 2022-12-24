@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 45cm diameter pothole on Thirlestane Rd, 23rd December :- [https://www.fixmystreet.com/report/4056235](https://www.fixmystreet.com/report/4056235)
+- Non functioning street light, 23rd December :- [https://www.fixmystreet.com/report/4056217](https://www.fixmystreet.com/report/4056217)
 - Broken glass in car parts in the gutter and on the pavement time Shakespeare Road, 23rd December :- [https://www.fixmystreet.com/report/4055541](https://www.fixmystreet.com/report/4055541)
 - Car battery dumped opposite 71 Shakespeare Road, 23rd December :- [https://www.fixmystreet.com/report/4055529](https://www.fixmystreet.com/report/4055529)
 - Crash site on Princess, Elizabeth Way hasn’t been repaired, 23rd December :- [https://www.fixmystreet.com/report/4055517](https://www.fixmystreet.com/report/4055517)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Damage to pavement and wall foundations by Virgin Media(?), 19th December :- [https://www.fixmystreet.com/report/4044092](https://www.fixmystreet.com/report/4044092)
 - Road Surface Damage, 19th December :- [https://www.fixmystreet.com/report/4043342](https://www.fixmystreet.com/report/4043342)
 - Series of potholes, 19th December :- [https://www.fixmystreet.com/report/4042914](https://www.fixmystreet.com/report/4042914)
-- Sunken drain, 18th December :- [https://www.fixmystreet.com/report/4042294](https://www.fixmystreet.com/report/4042294)
-- Massive wheelbreakers, 18th December :- [https://www.fixmystreet.com/report/4042139](https://www.fixmystreet.com/report/4042139)
 
 <!-- fix_marker ends -->
