@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pothole in road, 25th December :- [https://www.fixmystreet.com/report/4057673](https://www.fixmystreet.com/report/4057673)
 - Crossing not beeping, 24th December :- [https://www.fixmystreet.com/report/4056827](https://www.fixmystreet.com/report/4056827)
 - Potholes, 24th December :- [https://www.fixmystreet.com/report/4056819](https://www.fixmystreet.com/report/4056819)
 - 45cm diameter pothole on Thirlestane Rd, 23rd December :- [https://www.fixmystreet.com/report/4056235](https://www.fixmystreet.com/report/4056235)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sofa and bed, 19th December :- [https://www.fixmystreet.com/report/4044891](https://www.fixmystreet.com/report/4044891)
 - Temp traffic lights causing jams, 19th December :- [https://www.fixmystreet.com/report/4044748](https://www.fixmystreet.com/report/4044748)
 - Pavement entirely blocked on the corner by maintenance barriers, 19th December :- [https://www.fixmystreet.com/report/4044136](https://www.fixmystreet.com/report/4044136)
-- Damage to pavement and wall foundations by Virgin Media(?), 19th December :- [https://www.fixmystreet.com/report/4044092](https://www.fixmystreet.com/report/4044092)
 
 <!-- fix_marker ends -->
