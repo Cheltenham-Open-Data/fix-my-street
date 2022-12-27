@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 5inch deep pothole, 26th December :- [https://www.fixmystreet.com/report/4059414](https://www.fixmystreet.com/report/4059414)
 - M5 J11 southbound slip road, 26th December :- [https://www.fixmystreet.com/report/4058769](https://www.fixmystreet.com/report/4058769)
 - Deep pothole in road, 25th December :- [https://www.fixmystreet.com/report/4057673](https://www.fixmystreet.com/report/4057673)
 - Crossing not beeping, 24th December :- [https://www.fixmystreet.com/report/4056827](https://www.fixmystreet.com/report/4056827)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes in Junction, 19th December :- [https://www.fixmystreet.com/report/4045368](https://www.fixmystreet.com/report/4045368)
 - Flytipping no 89, 19th December :- [https://www.fixmystreet.com/report/4045055](https://www.fixmystreet.com/report/4045055)
 - Sofa and bed, 19th December :- [https://www.fixmystreet.com/report/4044891](https://www.fixmystreet.com/report/4044891)
-- Temp traffic lights causing jams, 19th December :- [https://www.fixmystreet.com/report/4044748](https://www.fixmystreet.com/report/4044748)
 
 <!-- fix_marker ends -->
