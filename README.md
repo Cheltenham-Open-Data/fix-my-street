@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Big pothole on left of Carriageway, 28th December :- [https://www.fixmystreet.com/report/4063158](https://www.fixmystreet.com/report/4063158)
+- Tyre on motorway, 28th December :- [https://www.fixmystreet.com/report/4062553](https://www.fixmystreet.com/report/4062553)
+- Small Flytip at Location, 28th December :- [https://www.fixmystreet.com/report/4062031](https://www.fixmystreet.com/report/4062031)
+- Potholes and Flooding, 28th December :- [https://www.fixmystreet.com/report/4061962](https://www.fixmystreet.com/report/4061962)
 - Gloucester Road, 27th December :- [https://www.fixmystreet.com/report/4061162](https://www.fixmystreet.com/report/4061162)
 - Bollard, 27th December :- [https://www.fixmystreet.com/report/4061156](https://www.fixmystreet.com/report/4061156)
 - Series of very deep potholes, 27th December :- [https://www.fixmystreet.com/report/4060261](https://www.fixmystreet.com/report/4060261)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot hole, 23rd December :- [https://www.fixmystreet.com/report/4054655](https://www.fixmystreet.com/report/4054655)
 - Spinning cone on traffic lights not working, 22nd December :- [https://www.fixmystreet.com/report/4053659](https://www.fixmystreet.com/report/4053659)
 - Vandalised tree, 22nd December :- [https://www.fixmystreet.com/report/4052491](https://www.fixmystreet.com/report/4052491)
-- Bins not collected on 16/12., 22nd December :- [https://www.fixmystreet.com/report/4052026](https://www.fixmystreet.com/report/4052026)
-- Manhole covers loose: road surface disintegrating, 21st December :- [https://www.fixmystreet.com/report/4050785](https://www.fixmystreet.com/report/4050785)
-- Bollard knocked over, 21st December :- [https://www.fixmystreet.com/report/4050164](https://www.fixmystreet.com/report/4050164)
-- Large deep pothole, 21st December :- [https://www.fixmystreet.com/report/4050137](https://www.fixmystreet.com/report/4050137)
 
 <!-- fix_marker ends -->
