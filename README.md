@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gloucester Road, 27th December :- [https://www.fixmystreet.com/report/4061162](https://www.fixmystreet.com/report/4061162)
+- Bollard, 27th December :- [https://www.fixmystreet.com/report/4061156](https://www.fixmystreet.com/report/4061156)
 - Series of very deep potholes, 27th December :- [https://www.fixmystreet.com/report/4060261](https://www.fixmystreet.com/report/4060261)
 - 5inch deep pothole, 26th December :- [https://www.fixmystreet.com/report/4059414](https://www.fixmystreet.com/report/4059414)
 - M5 J11 southbound slip road, 26th December :- [https://www.fixmystreet.com/report/4058769](https://www.fixmystreet.com/report/4058769)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Manhole covers loose: road surface disintegrating, 21st December :- [https://www.fixmystreet.com/report/4050785](https://www.fixmystreet.com/report/4050785)
 - Bollard knocked over, 21st December :- [https://www.fixmystreet.com/report/4050164](https://www.fixmystreet.com/report/4050164)
 - Large deep pothole, 21st December :- [https://www.fixmystreet.com/report/4050137](https://www.fixmystreet.com/report/4050137)
-- Potholes in Junction, 19th December :- [https://www.fixmystreet.com/report/4045368](https://www.fixmystreet.com/report/4045368)
-- Flytipping no 89, 19th December :- [https://www.fixmystreet.com/report/4045055](https://www.fixmystreet.com/report/4045055)
 
 <!-- fix_marker ends -->
