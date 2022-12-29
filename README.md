@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 29th December :- [https://www.fixmystreet.com/report/4066130](https://www.fixmystreet.com/report/4066130)
+- Pothole right in junction, 29th December :- [https://www.fixmystreet.com/report/4065644](https://www.fixmystreet.com/report/4065644)
+- Flytipped Microwave Brunswick St, 29th December :- [https://www.fixmystreet.com/report/4065192](https://www.fixmystreet.com/report/4065192)
+- Uneven road surface, 29th December :- [https://www.fixmystreet.com/report/4064714](https://www.fixmystreet.com/report/4064714)
 - HUGE pothole, 28th December :- [https://www.fixmystreet.com/report/4064179](https://www.fixmystreet.com/report/4064179)
 - Very deep pothole. Approach with caution., 28th December :- [https://www.fixmystreet.com/report/4063738](https://www.fixmystreet.com/report/4063738)
 - Big pothole on left of Carriageway, 28th December :- [https://www.fixmystreet.com/report/4063158](https://www.fixmystreet.com/report/4063158)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 24th December :- [https://www.fixmystreet.com/report/4056819](https://www.fixmystreet.com/report/4056819)
 - 45cm diameter pothole on Thirlestane Rd, 23rd December :- [https://www.fixmystreet.com/report/4056235](https://www.fixmystreet.com/report/4056235)
 - Non functioning street light, 23rd December :- [https://www.fixmystreet.com/report/4056217](https://www.fixmystreet.com/report/4056217)
-- Broken glass in car parts in the gutter and on the pavement time Shakespeare Road, 23rd December :- [https://www.fixmystreet.com/report/4055541](https://www.fixmystreet.com/report/4055541)
-- Car battery dumped opposite 71 Shakespeare Road, 23rd December :- [https://www.fixmystreet.com/report/4055529](https://www.fixmystreet.com/report/4055529)
-- Crash site on Princess, Elizabeth Way hasn’t been repaired, 23rd December :- [https://www.fixmystreet.com/report/4055517](https://www.fixmystreet.com/report/4055517)
-- Pot hole, 23rd December :- [https://www.fixmystreet.com/report/4054655](https://www.fixmystreet.com/report/4054655)
 
 <!-- fix_marker ends -->
