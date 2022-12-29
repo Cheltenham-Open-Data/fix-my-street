@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- HUGE pothole, 28th December :- [https://www.fixmystreet.com/report/4064179](https://www.fixmystreet.com/report/4064179)
+- Very deep pothole. Approach with caution., 28th December :- [https://www.fixmystreet.com/report/4063738](https://www.fixmystreet.com/report/4063738)
 - Big pothole on left of Carriageway, 28th December :- [https://www.fixmystreet.com/report/4063158](https://www.fixmystreet.com/report/4063158)
 - Tyre on motorway, 28th December :- [https://www.fixmystreet.com/report/4062553](https://www.fixmystreet.com/report/4062553)
 - Small Flytip at Location, 28th December :- [https://www.fixmystreet.com/report/4062031](https://www.fixmystreet.com/report/4062031)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Car battery dumped opposite 71 Shakespeare Road, 23rd December :- [https://www.fixmystreet.com/report/4055529](https://www.fixmystreet.com/report/4055529)
 - Crash site on Princess, Elizabeth Way hasn’t been repaired, 23rd December :- [https://www.fixmystreet.com/report/4055517](https://www.fixmystreet.com/report/4055517)
 - Pot hole, 23rd December :- [https://www.fixmystreet.com/report/4054655](https://www.fixmystreet.com/report/4054655)
-- Spinning cone on traffic lights not working, 22nd December :- [https://www.fixmystreet.com/report/4053659](https://www.fixmystreet.com/report/4053659)
-- Vandalised tree, 22nd December :- [https://www.fixmystreet.com/report/4052491](https://www.fixmystreet.com/report/4052491)
 
 <!-- fix_marker ends -->
