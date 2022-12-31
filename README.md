@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Couple of deep pothole opening up outside lakeside school, 31st December :- [https://www.fixmystreet.com/report/4072777](https://www.fixmystreet.com/report/4072777)
+- Hedge overflowing on to pavement, 31st December :- [https://www.fixmystreet.com/report/4072717](https://www.fixmystreet.com/report/4072717)
+- Pothole forming, 31st December :- [https://www.fixmystreet.com/report/4072052](https://www.fixmystreet.com/report/4072052)
+- Sunken road surface / hole, 31st December :- [https://www.fixmystreet.com/report/4071806](https://www.fixmystreet.com/report/4071806)
+- Large sections of road surface missing, 31st December :- [https://www.fixmystreet.com/report/4071795](https://www.fixmystreet.com/report/4071795)
 - Manhole cover, 30th December :- [https://www.fixmystreet.com/report/4069598](https://www.fixmystreet.com/report/4069598)
 - Two dangerous potholes, 30th December :- [https://www.fixmystreet.com/report/4069036](https://www.fixmystreet.com/report/4069036)
 - 5 dangerous potholes, 30th December :- [https://www.fixmystreet.com/report/4069026](https://www.fixmystreet.com/report/4069026)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 30th December :- [https://www.fixmystreet.com/report/4064739](https://www.fixmystreet.com/report/4064739)
 - Uneven road surface, 29th December :- [https://www.fixmystreet.com/report/4064714](https://www.fixmystreet.com/report/4064714)
 - HUGE pothole, 28th December :- [https://www.fixmystreet.com/report/4064179](https://www.fixmystreet.com/report/4064179)
-- Very deep pothole. Approach with caution., 28th December :- [https://www.fixmystreet.com/report/4063738](https://www.fixmystreet.com/report/4063738)
-- Big pothole on left of Carriageway, 28th December :- [https://www.fixmystreet.com/report/4063158](https://www.fixmystreet.com/report/4063158)
-- Tyre on motorway, 28th December :- [https://www.fixmystreet.com/report/4062553](https://www.fixmystreet.com/report/4062553)
-- Small Flytip at Location, 28th December :- [https://www.fixmystreet.com/report/4062031](https://www.fixmystreet.com/report/4062031)
-- Potholes and Flooding, 28th December :- [https://www.fixmystreet.com/report/4061962](https://www.fixmystreet.com/report/4061962)
 
 <!-- fix_marker ends -->
