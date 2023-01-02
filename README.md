@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot hole, 2nd January :- [https://www.fixmystreet.com/report/4077879](https://www.fixmystreet.com/report/4077879)
+- Two Potholes, 2nd January :- [https://www.fixmystreet.com/report/4077419](https://www.fixmystreet.com/report/4077419)
+- Poo bin needs emptying, 2nd January :- [https://www.fixmystreet.com/report/4077188](https://www.fixmystreet.com/report/4077188)
+- Discarded road signs, 2nd January :- [https://www.fixmystreet.com/report/4076917](https://www.fixmystreet.com/report/4076917)
+- Chain-link fence down, causing a trip hazard on the pavement, 2nd January :- [https://www.fixmystreet.com/report/4076842](https://www.fixmystreet.com/report/4076842)
 - Flytipping M5 Southbound slip Jcn 11A, 1st January :- [https://www.fixmystreet.com/report/4075377](https://www.fixmystreet.com/report/4075377)
 - Culvert, 1st January :- [https://www.fixmystreet.com/report/4074858](https://www.fixmystreet.com/report/4074858)
 - Dangerous pothole, 1st January :- [https://www.fixmystreet.com/report/4074850](https://www.fixmystreet.com/report/4074850)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two dangerous potholes, 30th December :- [https://www.fixmystreet.com/report/4069036](https://www.fixmystreet.com/report/4069036)
 - 5 dangerous potholes, 30th December :- [https://www.fixmystreet.com/report/4069026](https://www.fixmystreet.com/report/4069026)
 - Smashed internal door dumped by the railings on Brooklyn Road, 30th December :- [https://www.fixmystreet.com/report/4068910](https://www.fixmystreet.com/report/4068910)
-- Surface breaking up, 30th December :- [https://www.fixmystreet.com/report/4068741](https://www.fixmystreet.com/report/4068741)
-- Road surface breaking up, 30th December :- [https://www.fixmystreet.com/report/4068719](https://www.fixmystreet.com/report/4068719)
-- Multiple potholes, 29th December :- [https://www.fixmystreet.com/report/4066130](https://www.fixmystreet.com/report/4066130)
-- Pothole right in junction, 29th December :- [https://www.fixmystreet.com/report/4065644](https://www.fixmystreet.com/report/4065644)
-- Flytipped Microwave Brunswick St, 29th December :- [https://www.fixmystreet.com/report/4065192](https://www.fixmystreet.com/report/4065192)
 
 <!-- fix_marker ends -->
