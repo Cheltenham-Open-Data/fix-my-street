@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Junction in deplorable condition, 3rd January :- [https://www.fixmystreet.com/report/4082371](https://www.fixmystreet.com/report/4082371)
+- Footpath sign has been moved, 3rd January :- [https://www.fixmystreet.com/report/4082355](https://www.fixmystreet.com/report/4082355)
+- Fly Tipping, 3rd January :- [https://www.fixmystreet.com/report/4082328](https://www.fixmystreet.com/report/4082328)
+- Chronic flooding, 3rd January :- [https://www.fixmystreet.com/report/4080468](https://www.fixmystreet.com/report/4080468)
+- Lifting banging manhole cover, 3rd January :- [https://www.fixmystreet.com/report/4078983](https://www.fixmystreet.com/report/4078983)
 - Pot hole, 2nd January :- [https://www.fixmystreet.com/report/4077879](https://www.fixmystreet.com/report/4077879)
 - Two Potholes, 2nd January :- [https://www.fixmystreet.com/report/4077419](https://www.fixmystreet.com/report/4077419)
 - Poo bin needs emptying, 2nd January :- [https://www.fixmystreet.com/report/4077188](https://www.fixmystreet.com/report/4077188)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Hedge overflowing on to pavement, 31st December :- [https://www.fixmystreet.com/report/4072717](https://www.fixmystreet.com/report/4072717)
 - Pothole forming, 31st December :- [https://www.fixmystreet.com/report/4072052](https://www.fixmystreet.com/report/4072052)
 - Sunken road surface / hole, 31st December :- [https://www.fixmystreet.com/report/4071806](https://www.fixmystreet.com/report/4071806)
-- Large sections of road surface missing, 31st December :- [https://www.fixmystreet.com/report/4071795](https://www.fixmystreet.com/report/4071795)
-- Manhole cover, 30th December :- [https://www.fixmystreet.com/report/4069598](https://www.fixmystreet.com/report/4069598)
-- Two dangerous potholes, 30th December :- [https://www.fixmystreet.com/report/4069036](https://www.fixmystreet.com/report/4069036)
-- 5 dangerous potholes, 30th December :- [https://www.fixmystreet.com/report/4069026](https://www.fixmystreet.com/report/4069026)
-- Smashed internal door dumped by the railings on Brooklyn Road, 30th December :- [https://www.fixmystreet.com/report/4068910](https://www.fixmystreet.com/report/4068910)
 
 <!-- fix_marker ends -->
