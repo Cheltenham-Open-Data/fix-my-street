@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole on Church Street just before entrance to infant school, 3rd January :- [https://www.fixmystreet.com/report/4083321](https://www.fixmystreet.com/report/4083321)
 - Junction in deplorable condition, 3rd January :- [https://www.fixmystreet.com/report/4082371](https://www.fixmystreet.com/report/4082371)
 - Footpath sign has been moved, 3rd January :- [https://www.fixmystreet.com/report/4082355](https://www.fixmystreet.com/report/4082355)
 - Fly Tipping, 3rd January :- [https://www.fixmystreet.com/report/4082328](https://www.fixmystreet.com/report/4082328)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Couple of deep pothole opening up outside lakeside school, 31st December :- [https://www.fixmystreet.com/report/4072777](https://www.fixmystreet.com/report/4072777)
 - Hedge overflowing on to pavement, 31st December :- [https://www.fixmystreet.com/report/4072717](https://www.fixmystreet.com/report/4072717)
 - Pothole forming, 31st December :- [https://www.fixmystreet.com/report/4072052](https://www.fixmystreet.com/report/4072052)
-- Sunken road surface / hole, 31st December :- [https://www.fixmystreet.com/report/4071806](https://www.fixmystreet.com/report/4071806)
 
 <!-- fix_marker ends -->
