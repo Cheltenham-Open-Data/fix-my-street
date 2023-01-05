@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 large potholes on left side of road, 4th January :- [https://www.fixmystreet.com/report/4087738](https://www.fixmystreet.com/report/4087738)
+- Large pothole, 4th January :- [https://www.fixmystreet.com/report/4087506](https://www.fixmystreet.com/report/4087506)
 - Road falling apart, 4th January :- [https://www.fixmystreet.com/report/4087420](https://www.fixmystreet.com/report/4087420)
 - Potholes, 4th January :- [https://www.fixmystreet.com/report/4087416](https://www.fixmystreet.com/report/4087416)
 - Large pothole, 4th January :- [https://www.fixmystreet.com/report/4087312](https://www.fixmystreet.com/report/4087312)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole on Church Street just before entrance to infant school, 3rd January :- [https://www.fixmystreet.com/report/4083321](https://www.fixmystreet.com/report/4083321)
 - Junction in deplorable condition, 3rd January :- [https://www.fixmystreet.com/report/4082371](https://www.fixmystreet.com/report/4082371)
 - Footpath sign has been moved, 3rd January :- [https://www.fixmystreet.com/report/4082355](https://www.fixmystreet.com/report/4082355)
-- Fly Tipping, 3rd January :- [https://www.fixmystreet.com/report/4082328](https://www.fixmystreet.com/report/4082328)
-- Chronic flooding, 3rd January :- [https://www.fixmystreet.com/report/4080468](https://www.fixmystreet.com/report/4080468)
 
 <!-- fix_marker ends -->
