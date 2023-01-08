@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Puddle - Risk of aquaplaning, 7th January :- [https://www.fixmystreet.com/report/4099063](https://www.fixmystreet.com/report/4099063)
 - Defective surfacing/projecting ironwork, 7th January :- [https://www.fixmystreet.com/report/4098628](https://www.fixmystreet.com/report/4098628)
 - Inspection cover still defective, 7th January :- [https://www.fixmystreet.com/report/4098607](https://www.fixmystreet.com/report/4098607)
 - Time to replace felled trees, 7th January :- [https://www.fixmystreet.com/report/4098448](https://www.fixmystreet.com/report/4098448)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole and blocked drain, 5th January :- [https://www.fixmystreet.com/report/4088811](https://www.fixmystreet.com/report/4088811)
 - 2 large potholes on left side of road, 4th January :- [https://www.fixmystreet.com/report/4087738](https://www.fixmystreet.com/report/4087738)
 - Large pothole, 4th January :- [https://www.fixmystreet.com/report/4087506](https://www.fixmystreet.com/report/4087506)
-- Road falling apart, 4th January :- [https://www.fixmystreet.com/report/4087420](https://www.fixmystreet.com/report/4087420)
 
 <!-- fix_marker ends -->
