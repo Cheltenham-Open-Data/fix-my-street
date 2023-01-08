@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 8th January :- [https://www.fixmystreet.com/report/4101845](https://www.fixmystreet.com/report/4101845)
+- Loose flags and broken flags, 8th January :- [https://www.fixmystreet.com/report/4101131](https://www.fixmystreet.com/report/4101131)
+- Wrong road marking!!!! needs to be solid line, 8th January :- [https://www.fixmystreet.com/report/4100509](https://www.fixmystreet.com/report/4100509)
+- Surface water flooding, 8th January :- [https://www.fixmystreet.com/report/4100241](https://www.fixmystreet.com/report/4100241)
+- Blocked road drain, 8th January :- [https://www.fixmystreet.com/report/4100225](https://www.fixmystreet.com/report/4100225)
 - Puddle - Risk of aquaplaning, 7th January :- [https://www.fixmystreet.com/report/4099063](https://www.fixmystreet.com/report/4099063)
 - Defective surfacing/projecting ironwork, 7th January :- [https://www.fixmystreet.com/report/4098628](https://www.fixmystreet.com/report/4098628)
 - Inspection cover still defective, 7th January :- [https://www.fixmystreet.com/report/4098607](https://www.fixmystreet.com/report/4098607)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 6th January :- [https://www.fixmystreet.com/report/4093508](https://www.fixmystreet.com/report/4093508)
 - Large pothole right on the roundabout, 6th January :- [https://www.fixmystreet.com/report/4093343](https://www.fixmystreet.com/report/4093343)
 - Fix, 5th January :- [https://www.fixmystreet.com/report/4092181](https://www.fixmystreet.com/report/4092181)
-- Tesco supermarket trolley abandoned, 5th January :- [https://www.fixmystreet.com/report/4090361](https://www.fixmystreet.com/report/4090361)
-- Multiple deep potholes, 5th January :- [https://www.fixmystreet.com/report/4088838](https://www.fixmystreet.com/report/4088838)
-- Pothole and blocked drain, 5th January :- [https://www.fixmystreet.com/report/4088811](https://www.fixmystreet.com/report/4088811)
-- 2 large potholes on left side of road, 4th January :- [https://www.fixmystreet.com/report/4087738](https://www.fixmystreet.com/report/4087738)
-- Large pothole, 4th January :- [https://www.fixmystreet.com/report/4087506](https://www.fixmystreet.com/report/4087506)
 
 <!-- fix_marker ends -->
