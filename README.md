@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very large deep pothole, 8th January :- [https://www.fixmystreet.com/report/4102434](https://www.fixmystreet.com/report/4102434)
+- Two potholes due to failed repair last year, 8th January :- [https://www.fixmystreet.com/report/4102249](https://www.fixmystreet.com/report/4102249)
 - Pothole, 8th January :- [https://www.fixmystreet.com/report/4101845](https://www.fixmystreet.com/report/4101845)
 - Loose flags and broken flags, 8th January :- [https://www.fixmystreet.com/report/4101131](https://www.fixmystreet.com/report/4101131)
 - Wrong road marking!!!! needs to be solid line, 8th January :- [https://www.fixmystreet.com/report/4100509](https://www.fixmystreet.com/report/4100509)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 7th January :- [https://www.fixmystreet.com/report/4097867](https://www.fixmystreet.com/report/4097867)
 - Flytipping, 6th January :- [https://www.fixmystreet.com/report/4095257](https://www.fixmystreet.com/report/4095257)
 - Large pothole, 6th January :- [https://www.fixmystreet.com/report/4093508](https://www.fixmystreet.com/report/4093508)
-- Large pothole right on the roundabout, 6th January :- [https://www.fixmystreet.com/report/4093343](https://www.fixmystreet.com/report/4093343)
-- Fix, 5th January :- [https://www.fixmystreet.com/report/4092181](https://www.fixmystreet.com/report/4092181)
 
 <!-- fix_marker ends -->
