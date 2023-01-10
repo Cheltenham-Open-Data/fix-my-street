@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very loose paving slab with no support or surround, 10th January :- [https://www.fixmystreet.com/report/4111065](https://www.fixmystreet.com/report/4111065)
+- Redundant Road Works Signs been at Location for approx. 3 Months, 10th January :- [https://www.fixmystreet.com/report/4109679](https://www.fixmystreet.com/report/4109679)
+- Telecoms style tent left in situ for months, 10th January :- [https://www.fixmystreet.com/report/4109009](https://www.fixmystreet.com/report/4109009)
+- Deep pothole, 10th January :- [https://www.fixmystreet.com/report/4108803](https://www.fixmystreet.com/report/4108803)
+- Road Sweep, 10th January :- [https://www.fixmystreet.com/report/4108781](https://www.fixmystreet.com/report/4108781)
+- 15inch pothole, 10th January :- [https://www.fixmystreet.com/report/4108703](https://www.fixmystreet.com/report/4108703)
+- Potholes across Road, 10th January :- [https://www.fixmystreet.com/report/4108680](https://www.fixmystreet.com/report/4108680)
+- Pot holes, 10th January :- [https://www.fixmystreet.com/report/4108144](https://www.fixmystreet.com/report/4108144)
+- Hole still hasn't been filled in., 10th January :- [https://www.fixmystreet.com/report/4107951](https://www.fixmystreet.com/report/4107951)
+- 2 large pot holes, 10th January :- [https://www.fixmystreet.com/report/4107870](https://www.fixmystreet.com/report/4107870)
 - Crossing light going red every 30 seconds, 9th January :- [https://www.fixmystreet.com/report/4104562](https://www.fixmystreet.com/report/4104562)
 - Stay Left Bollard no longer bolted down, 9th January :- [https://www.fixmystreet.com/report/4103813](https://www.fixmystreet.com/report/4103813)
 - Gravel and large stones making pavement dangerous, 9th January :- [https://www.fixmystreet.com/report/4103657](https://www.fixmystreet.com/report/4103657)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Wrong road marking!!!! needs to be solid line, 8th January :- [https://www.fixmystreet.com/report/4100509](https://www.fixmystreet.com/report/4100509)
 - Surface water flooding, 8th January :- [https://www.fixmystreet.com/report/4100241](https://www.fixmystreet.com/report/4100241)
 - Blocked road drain, 8th January :- [https://www.fixmystreet.com/report/4100225](https://www.fixmystreet.com/report/4100225)
-- Puddle - Risk of aquaplaning, 7th January :- [https://www.fixmystreet.com/report/4099063](https://www.fixmystreet.com/report/4099063)
-- Defective surfacing/projecting ironwork, 7th January :- [https://www.fixmystreet.com/report/4098628](https://www.fixmystreet.com/report/4098628)
-- Inspection cover still defective, 7th January :- [https://www.fixmystreet.com/report/4098607](https://www.fixmystreet.com/report/4098607)
-- Time to replace felled trees, 7th January :- [https://www.fixmystreet.com/report/4098448](https://www.fixmystreet.com/report/4098448)
-- Blocked drains in road., 7th January :- [https://www.fixmystreet.com/report/4098021](https://www.fixmystreet.com/report/4098021)
-- Large pothole at least 10cm deep and down to road-stone below. Breaking up and leaving rubble in the road. Drains not funtioning, so area has standing water whenever it rains., 7th January :- [https://www.fixmystreet.com/report/4097953](https://www.fixmystreet.com/report/4097953)
-- Dog dirt, 7th January :- [https://www.fixmystreet.com/report/4097930](https://www.fixmystreet.com/report/4097930)
-- Dog dirt, 7th January :- [https://www.fixmystreet.com/report/4097914](https://www.fixmystreet.com/report/4097914)
-- Broken glass, 7th January :- [https://www.fixmystreet.com/report/4097908](https://www.fixmystreet.com/report/4097908)
-- Potholes, 7th January :- [https://www.fixmystreet.com/report/4097871](https://www.fixmystreet.com/report/4097871)
 
 <!-- fix_marker ends -->
