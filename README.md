@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several deep and dangerous pot holes on Linworth Road, Bishops Cleeve, Gl528PB., 11th January :- [https://www.fixmystreet.com/report/4115266](https://www.fixmystreet.com/report/4115266)
+- Flooded road outside primary school, 11th January :- [https://www.fixmystreet.com/report/4115168](https://www.fixmystreet.com/report/4115168)
+- Very deep pot hold on left hand side approaching Hoo Nursery, 11th January :- [https://www.fixmystreet.com/report/4114226](https://www.fixmystreet.com/report/4114226)
+- Pot hole, 11th January :- [https://www.fixmystreet.com/report/4112544](https://www.fixmystreet.com/report/4112544)
+- Gang tag graffiti, 11th January :- [https://www.fixmystreet.com/report/4112453](https://www.fixmystreet.com/report/4112453)
 - Very poor road surface, 10th January :- [https://www.fixmystreet.com/report/4111870](https://www.fixmystreet.com/report/4111870)
 - Subsidence, 10th January :- [https://www.fixmystreet.com/report/4111860](https://www.fixmystreet.com/report/4111860)
 - Suspected water leak, 10th January :- [https://www.fixmystreet.com/report/4111856](https://www.fixmystreet.com/report/4111856)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot holes, 10th January :- [https://www.fixmystreet.com/report/4108144](https://www.fixmystreet.com/report/4108144)
 - Hole still hasn't been filled in., 10th January :- [https://www.fixmystreet.com/report/4107951](https://www.fixmystreet.com/report/4107951)
 - 2 large pot holes, 10th January :- [https://www.fixmystreet.com/report/4107870](https://www.fixmystreet.com/report/4107870)
-- Crossing light going red every 30 seconds, 9th January :- [https://www.fixmystreet.com/report/4104562](https://www.fixmystreet.com/report/4104562)
-- Stay Left Bollard no longer bolted down, 9th January :- [https://www.fixmystreet.com/report/4103813](https://www.fixmystreet.com/report/4103813)
-- Gravel and large stones making pavement dangerous, 9th January :- [https://www.fixmystreet.com/report/4103657](https://www.fixmystreet.com/report/4103657)
-- Very large deep pothole, 8th January :- [https://www.fixmystreet.com/report/4102434](https://www.fixmystreet.com/report/4102434)
-- Two potholes due to failed repair last year, 8th January :- [https://www.fixmystreet.com/report/4102249](https://www.fixmystreet.com/report/4102249)
 
 <!-- fix_marker ends -->
