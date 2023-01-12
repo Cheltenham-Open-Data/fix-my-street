@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Various sizes of potholes on Gloucester Old Rd near new build development, 11th January :- [https://www.fixmystreet.com/report/4116849](https://www.fixmystreet.com/report/4116849)
+- Wheel killer, 11th January :- [https://www.fixmystreet.com/report/4116831](https://www.fixmystreet.com/report/4116831)
+- Deep pot hole on the roundabout, 11th January :- [https://www.fixmystreet.com/report/4116785](https://www.fixmystreet.com/report/4116785)
+- Huge hole, 11th January :- [https://www.fixmystreet.com/report/4116501](https://www.fixmystreet.com/report/4116501)
+- Lots of potholes, 11th January :- [https://www.fixmystreet.com/report/4116495](https://www.fixmystreet.com/report/4116495)
+- Huge hole, 11th January :- [https://www.fixmystreet.com/report/4116482](https://www.fixmystreet.com/report/4116482)
+- Pot holes multiple areas along this road, 11th January :- [https://www.fixmystreet.com/report/4116358](https://www.fixmystreet.com/report/4116358)
+- Traffic lights change to red too quickly, 11th January :- [https://www.fixmystreet.com/report/4116307](https://www.fixmystreet.com/report/4116307)
 - Several deep and dangerous pot holes on Linworth Road, Bishops Cleeve, Gl528PB., 11th January :- [https://www.fixmystreet.com/report/4115266](https://www.fixmystreet.com/report/4115266)
 - Flooded road outside primary school, 11th January :- [https://www.fixmystreet.com/report/4115168](https://www.fixmystreet.com/report/4115168)
 - Very deep pot hold on left hand side approaching Hoo Nursery, 11th January :- [https://www.fixmystreet.com/report/4114226](https://www.fixmystreet.com/report/4114226)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very dangerous pothole. Tyre wrecked. Stuck waiting to be rescued., 10th January :- [https://www.fixmystreet.com/report/4111582](https://www.fixmystreet.com/report/4111582)
 - Very loose paving slab with no support or surround, 10th January :- [https://www.fixmystreet.com/report/4111065](https://www.fixmystreet.com/report/4111065)
 - Redundant Road Works Signs been at Location for approx. 3 Months, 10th January :- [https://www.fixmystreet.com/report/4109679](https://www.fixmystreet.com/report/4109679)
-- Telecoms style tent left in situ for months, 10th January :- [https://www.fixmystreet.com/report/4109009](https://www.fixmystreet.com/report/4109009)
-- Deep pothole, 10th January :- [https://www.fixmystreet.com/report/4108803](https://www.fixmystreet.com/report/4108803)
-- Road Sweep, 10th January :- [https://www.fixmystreet.com/report/4108781](https://www.fixmystreet.com/report/4108781)
-- 15inch pothole, 10th January :- [https://www.fixmystreet.com/report/4108703](https://www.fixmystreet.com/report/4108703)
-- Potholes across Road, 10th January :- [https://www.fixmystreet.com/report/4108680](https://www.fixmystreet.com/report/4108680)
-- Pot holes, 10th January :- [https://www.fixmystreet.com/report/4108144](https://www.fixmystreet.com/report/4108144)
-- Hole still hasn't been filled in., 10th January :- [https://www.fixmystreet.com/report/4107951](https://www.fixmystreet.com/report/4107951)
-- 2 large pot holes, 10th January :- [https://www.fixmystreet.com/report/4107870](https://www.fixmystreet.com/report/4107870)
 
 <!-- fix_marker ends -->
