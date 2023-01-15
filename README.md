@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Twisted steel dumped in hedge, 15th January :- [https://www.fixmystreet.com/report/4132174](https://www.fixmystreet.com/report/4132174)
+- Subsiding path, 15th January :- [https://www.fixmystreet.com/report/4131893](https://www.fixmystreet.com/report/4131893)
+- Repair, 15th January :- [https://www.fixmystreet.com/report/4130612](https://www.fixmystreet.com/report/4130612)
+- Trolley, 15th January :- [https://www.fixmystreet.com/report/4130396](https://www.fixmystreet.com/report/4130396)
+- Tree roots corner of Bedford and Cornwall, 15th January :- [https://www.fixmystreet.com/report/4130340](https://www.fixmystreet.com/report/4130340)
 - Large pothole, 15th January :- [https://www.fixmystreet.com/report/4130035](https://www.fixmystreet.com/report/4130035)
 - Pothole, 15th January :- [https://www.fixmystreet.com/report/4129840](https://www.fixmystreet.com/report/4129840)
 - Massive crater on A40 just past Tennyson Rd, 14th January :- [https://www.fixmystreet.com/report/4129808](https://www.fixmystreet.com/report/4129808)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Car constantly parks on the path, blocking pedestrians, 14th January :- [https://www.fixmystreet.com/report/4129057](https://www.fixmystreet.com/report/4129057)
 - Pot holes, 14th January :- [https://www.fixmystreet.com/report/4128968](https://www.fixmystreet.com/report/4128968)
 - Street light opposite 149 Caernarvon Road is out., 14th January :- [https://www.fixmystreet.com/report/4128965](https://www.fixmystreet.com/report/4128965)
-- 3 x potholes at Alma Road/Hatherley Road Junction, 14th January :- [https://www.fixmystreet.com/report/4128917](https://www.fixmystreet.com/report/4128917)
-- Potholes on Chapman Way/Alma Road Junction, 14th January :- [https://www.fixmystreet.com/report/4128908](https://www.fixmystreet.com/report/4128908)
-- 6 x pothole at Alma Close/Alma Road juntion, 14th January :- [https://www.fixmystreet.com/report/4128897](https://www.fixmystreet.com/report/4128897)
-- Pothole, 14th January :- [https://www.fixmystreet.com/report/4128872](https://www.fixmystreet.com/report/4128872)
-- 4 x potholes outside 62 Alma Road, 14th January :- [https://www.fixmystreet.com/report/4128870](https://www.fixmystreet.com/report/4128870)
 
 <!-- fix_marker ends -->
