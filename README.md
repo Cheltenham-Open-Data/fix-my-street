@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole, 15th January :- [https://www.fixmystreet.com/report/4130035](https://www.fixmystreet.com/report/4130035)
+- Pothole, 15th January :- [https://www.fixmystreet.com/report/4129840](https://www.fixmystreet.com/report/4129840)
+- Massive crater on A40 just past Tennyson Rd, 14th January :- [https://www.fixmystreet.com/report/4129808](https://www.fixmystreet.com/report/4129808)
+- Pothole Swanswell Drive, 14th January :- [https://www.fixmystreet.com/report/4129758](https://www.fixmystreet.com/report/4129758)
+- Pothole as you drive in to Finstock Close, 14th January :- [https://www.fixmystreet.com/report/4129747](https://www.fixmystreet.com/report/4129747)
+- Large new pothole, 14th January :- [https://www.fixmystreet.com/report/4129576](https://www.fixmystreet.com/report/4129576)
+- 1 x very deep pothole at Florence Mews/Alma Road Junction, 14th January :- [https://www.fixmystreet.com/report/4129405](https://www.fixmystreet.com/report/4129405)
+- Huge amount of litter, 14th January :- [https://www.fixmystreet.com/report/4129297](https://www.fixmystreet.com/report/4129297)
+- Road falling apart, 14th January :- [https://www.fixmystreet.com/report/4129288](https://www.fixmystreet.com/report/4129288)
+- Pothole, 14th January :- [https://www.fixmystreet.com/report/4129284](https://www.fixmystreet.com/report/4129284)
+- Pothole, 14th January :- [https://www.fixmystreet.com/report/4129271](https://www.fixmystreet.com/report/4129271)
+- Pothol, 14th January :- [https://www.fixmystreet.com/report/4129265](https://www.fixmystreet.com/report/4129265)
 - Car constantly parks on the path, blocking pedestrians, 14th January :- [https://www.fixmystreet.com/report/4129057](https://www.fixmystreet.com/report/4129057)
 - Pot holes, 14th January :- [https://www.fixmystreet.com/report/4128968](https://www.fixmystreet.com/report/4128968)
 - Street light opposite 149 Caernarvon Road is out., 14th January :- [https://www.fixmystreet.com/report/4128965](https://www.fixmystreet.com/report/4128965)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 6 x pothole at Alma Close/Alma Road juntion, 14th January :- [https://www.fixmystreet.com/report/4128897](https://www.fixmystreet.com/report/4128897)
 - Pothole, 14th January :- [https://www.fixmystreet.com/report/4128872](https://www.fixmystreet.com/report/4128872)
 - 4 x potholes outside 62 Alma Road, 14th January :- [https://www.fixmystreet.com/report/4128870](https://www.fixmystreet.com/report/4128870)
-- Pothole, 14th January :- [https://www.fixmystreet.com/report/4128856](https://www.fixmystreet.com/report/4128856)
-- Pothole at Alma Road/Windermere Road Junction, 14th January :- [https://www.fixmystreet.com/report/4128852](https://www.fixmystreet.com/report/4128852)
-- Potholes at Alma Road/Gwernant Road Junction, 14th January :- [https://www.fixmystreet.com/report/4128846](https://www.fixmystreet.com/report/4128846)
-- Road falling apart, 14th January :- [https://www.fixmystreet.com/report/4128817](https://www.fixmystreet.com/report/4128817)
-- Large pothole, 14th January :- [https://www.fixmystreet.com/report/4128786](https://www.fixmystreet.com/report/4128786)
-- 1.5m long pothole on Up Hatherley Way/Poplars junction, 14th January :- [https://www.fixmystreet.com/report/4128741](https://www.fixmystreet.com/report/4128741)
-- Multiple potholes, 14th January :- [https://www.fixmystreet.com/report/4128732](https://www.fixmystreet.com/report/4128732)
-- Huge pot holes all the way down the road on both sides, 14th January :- [https://www.fixmystreet.com/report/4128602](https://www.fixmystreet.com/report/4128602)
-- Require Cutting back, 14th January :- [https://www.fixmystreet.com/report/4128597](https://www.fixmystreet.com/report/4128597)
-- Serious road degradation and potholes on Caernarvon Road nr Morrisons, 14th January :- [https://www.fixmystreet.com/report/4128170](https://www.fixmystreet.com/report/4128170)
-- 4 x more potholes on Woodland Road, 14th January :- [https://www.fixmystreet.com/report/4128148](https://www.fixmystreet.com/report/4128148)
-- Flytipped tyres, 14th January :- [https://www.fixmystreet.com/report/4127683](https://www.fixmystreet.com/report/4127683)
 
 <!-- fix_marker ends -->
