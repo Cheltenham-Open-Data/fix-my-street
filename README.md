@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Uneven road surface causing excessive shaking of nearby housing, 15th January :- [https://www.fixmystreet.com/report/4133452](https://www.fixmystreet.com/report/4133452)
+- Deep pothole, 15th January :- [https://www.fixmystreet.com/report/4133208](https://www.fixmystreet.com/report/4133208)
+- Potholes and gravel patches, 15th January :- [https://www.fixmystreet.com/report/4133114](https://www.fixmystreet.com/report/4133114)
 - Twisted steel dumped in hedge, 15th January :- [https://www.fixmystreet.com/report/4132174](https://www.fixmystreet.com/report/4132174)
 - Subsiding path, 15th January :- [https://www.fixmystreet.com/report/4131893](https://www.fixmystreet.com/report/4131893)
 - Repair, 15th January :- [https://www.fixmystreet.com/report/4130612](https://www.fixmystreet.com/report/4130612)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 14th January :- [https://www.fixmystreet.com/report/4129284](https://www.fixmystreet.com/report/4129284)
 - Pothole, 14th January :- [https://www.fixmystreet.com/report/4129271](https://www.fixmystreet.com/report/4129271)
 - Pothol, 14th January :- [https://www.fixmystreet.com/report/4129265](https://www.fixmystreet.com/report/4129265)
-- Car constantly parks on the path, blocking pedestrians, 14th January :- [https://www.fixmystreet.com/report/4129057](https://www.fixmystreet.com/report/4129057)
-- Pot holes, 14th January :- [https://www.fixmystreet.com/report/4128968](https://www.fixmystreet.com/report/4128968)
-- Street light opposite 149 Caernarvon Road is out., 14th January :- [https://www.fixmystreet.com/report/4128965](https://www.fixmystreet.com/report/4128965)
 
 <!-- fix_marker ends -->
