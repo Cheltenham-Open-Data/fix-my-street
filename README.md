@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very deep pothole, 16th January :- [https://www.fixmystreet.com/report/4138588](https://www.fixmystreet.com/report/4138588)
+- Persistantly flooded section of A435 is now black ice for 100 metres both directions., 16th January :- [https://www.fixmystreet.com/report/4138393](https://www.fixmystreet.com/report/4138393)
+- Several potholes, 16th January :- [https://www.fixmystreet.com/report/4137666](https://www.fixmystreet.com/report/4137666)
+- Massive pothole as you go into the south bound slip road road, 16th January :- [https://www.fixmystreet.com/report/4137648](https://www.fixmystreet.com/report/4137648)
 - Road wearing, 16th January :- [https://www.fixmystreet.com/report/4137279](https://www.fixmystreet.com/report/4137279)
 - Very large pothole, 16th January :- [https://www.fixmystreet.com/report/4137025](https://www.fixmystreet.com/report/4137025)
 - Defaced parking signs Margrett Road, Cheltenham, 16th January :- [https://www.fixmystreet.com/report/4136573](https://www.fixmystreet.com/report/4136573)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes and gravel patches, 15th January :- [https://www.fixmystreet.com/report/4133114](https://www.fixmystreet.com/report/4133114)
 - Twisted steel dumped in hedge, 15th January :- [https://www.fixmystreet.com/report/4132174](https://www.fixmystreet.com/report/4132174)
 - Subsiding path, 15th January :- [https://www.fixmystreet.com/report/4131893](https://www.fixmystreet.com/report/4131893)
-- Repair, 15th January :- [https://www.fixmystreet.com/report/4130612](https://www.fixmystreet.com/report/4130612)
-- Trolley, 15th January :- [https://www.fixmystreet.com/report/4130396](https://www.fixmystreet.com/report/4130396)
-- Tree roots corner of Bedford and Cornwall, 15th January :- [https://www.fixmystreet.com/report/4130340](https://www.fixmystreet.com/report/4130340)
-- Large pothole, 15th January :- [https://www.fixmystreet.com/report/4130035](https://www.fixmystreet.com/report/4130035)
 
 <!-- fix_marker ends -->
