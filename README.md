@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Parked cars, 19th January :- [https://www.fixmystreet.com/report/4147265](https://www.fixmystreet.com/report/4147265)
+- Pothole, 19th January :- [https://www.fixmystreet.com/report/4147264](https://www.fixmystreet.com/report/4147264)
+- Misleading traffic lights - dangerous!, 18th January :- [https://www.fixmystreet.com/report/4147130](https://www.fixmystreet.com/report/4147130)
 - Massive Pothole, 18th January :- [https://www.fixmystreet.com/report/4146161](https://www.fixmystreet.com/report/4146161)
 - Pothole, 18th January :- [https://www.fixmystreet.com/report/4145903](https://www.fixmystreet.com/report/4145903)
 - Potholes, 18th January :- [https://www.fixmystreet.com/report/4145760](https://www.fixmystreet.com/report/4145760)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bad pothole in bend, 18th January :- [https://www.fixmystreet.com/report/4144376](https://www.fixmystreet.com/report/4144376)
 - Flooding / Failure to drain water away, 18th January :- [https://www.fixmystreet.com/report/4144340](https://www.fixmystreet.com/report/4144340)
 - Traffic lights broken causing hazard, 18th January :- [https://www.fixmystreet.com/report/4144069](https://www.fixmystreet.com/report/4144069)
-- Another Flytip and Smouldering Fire at Location, 18th January :- [https://www.fixmystreet.com/report/4144035](https://www.fixmystreet.com/report/4144035)
-- Road Sweep Required, 17th January :- [https://www.fixmystreet.com/report/4142449](https://www.fixmystreet.com/report/4142449)
-- Deep Pothole, 17th January :- [https://www.fixmystreet.com/report/4142433](https://www.fixmystreet.com/report/4142433)
 
 <!-- fix_marker ends -->
