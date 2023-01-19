@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pavement 100% obstructed, 19th January :- [https://www.fixmystreet.com/report/4150218](https://www.fixmystreet.com/report/4150218)
+- Fix, 19th January :- [https://www.fixmystreet.com/report/4150030](https://www.fixmystreet.com/report/4150030)
+- Litter strewn down both sides of B4070, 19th January :- [https://www.fixmystreet.com/report/4149855](https://www.fixmystreet.com/report/4149855)
+- Another trolley, 19th January :- [https://www.fixmystreet.com/report/4148961](https://www.fixmystreet.com/report/4148961)
+- Yet another trolley, 19th January :- [https://www.fixmystreet.com/report/4148954](https://www.fixmystreet.com/report/4148954)
 - Parked cars, 19th January :- [https://www.fixmystreet.com/report/4147265](https://www.fixmystreet.com/report/4147265)
 - Pothole, 19th January :- [https://www.fixmystreet.com/report/4147264](https://www.fixmystreet.com/report/4147264)
 - Misleading traffic lights - dangerous!, 18th January :- [https://www.fixmystreet.com/report/4147130](https://www.fixmystreet.com/report/4147130)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Shopping trolley M&S Food dumped on junction, 18th January :- [https://www.fixmystreet.com/report/4144985](https://www.fixmystreet.com/report/4144985)
 - Unsafe Pavement, 18th January :- [https://www.fixmystreet.com/report/4144432](https://www.fixmystreet.com/report/4144432)
 - Another Flytip and Smouldering Fire at Location - repeated, 18th January :- [https://www.fixmystreet.com/report/4144394](https://www.fixmystreet.com/report/4144394)
-- Blocked drain, 18th January :- [https://www.fixmystreet.com/report/4144382](https://www.fixmystreet.com/report/4144382)
-- Blocked drain, 18th January :- [https://www.fixmystreet.com/report/4144381](https://www.fixmystreet.com/report/4144381)
-- Bad pothole in bend, 18th January :- [https://www.fixmystreet.com/report/4144376](https://www.fixmystreet.com/report/4144376)
-- Flooding / Failure to drain water away, 18th January :- [https://www.fixmystreet.com/report/4144340](https://www.fixmystreet.com/report/4144340)
-- Traffic lights broken causing hazard, 18th January :- [https://www.fixmystreet.com/report/4144069](https://www.fixmystreet.com/report/4144069)
 
 <!-- fix_marker ends -->
