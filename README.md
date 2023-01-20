@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several potholes in the run up to the roundabout, 19th January :- [https://www.fixmystreet.com/report/4151385](https://www.fixmystreet.com/report/4151385)
+- Issue with roundabout, 19th January :- [https://www.fixmystreet.com/report/4151195](https://www.fixmystreet.com/report/4151195)
 - Pavement 100% obstructed, 19th January :- [https://www.fixmystreet.com/report/4150218](https://www.fixmystreet.com/report/4150218)
 - Fix, 19th January :- [https://www.fixmystreet.com/report/4150030](https://www.fixmystreet.com/report/4150030)
 - Litter strewn down both sides of B4070, 19th January :- [https://www.fixmystreet.com/report/4149855](https://www.fixmystreet.com/report/4149855)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in middle of road, 18th January :- [https://www.fixmystreet.com/report/4145248](https://www.fixmystreet.com/report/4145248)
 - Potholes, 18th January :- [https://www.fixmystreet.com/report/4145195](https://www.fixmystreet.com/report/4145195)
 - Shopping trolley M&S Food dumped on junction, 18th January :- [https://www.fixmystreet.com/report/4144985](https://www.fixmystreet.com/report/4144985)
-- Unsafe Pavement, 18th January :- [https://www.fixmystreet.com/report/4144432](https://www.fixmystreet.com/report/4144432)
-- Another Flytip and Smouldering Fire at Location - repeated, 18th January :- [https://www.fixmystreet.com/report/4144394](https://www.fixmystreet.com/report/4144394)
 
 <!-- fix_marker ends -->
