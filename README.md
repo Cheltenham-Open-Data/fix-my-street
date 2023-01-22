@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped litter, 22nd January :- [https://www.fixmystreet.com/report/4159372](https://www.fixmystreet.com/report/4159372)
+- Accumulating potholes making road very uneven and more potholes are forming, 22nd January :- [https://www.fixmystreet.com/report/4159212](https://www.fixmystreet.com/report/4159212)
+- Uneven surface, 22nd January :- [https://www.fixmystreet.com/report/4159205](https://www.fixmystreet.com/report/4159205)
+- Half-a-dozen deep potholes, 22nd January :- [https://www.fixmystreet.com/report/4158757](https://www.fixmystreet.com/report/4158757)
+- Pothole nr 45 Woodlands Road, 22nd January :- [https://www.fixmystreet.com/report/4158578](https://www.fixmystreet.com/report/4158578)
+- Pitted with pit holes, 22nd January :- [https://www.fixmystreet.com/report/4158577](https://www.fixmystreet.com/report/4158577)
+- Pothole at junction outside 39 Woodlands Road, 22nd January :- [https://www.fixmystreet.com/report/4158572](https://www.fixmystreet.com/report/4158572)
+- Pothole outside 2 Woodlands Road, 22nd January :- [https://www.fixmystreet.com/report/4158563](https://www.fixmystreet.com/report/4158563)
+- 2 x holes, 22nd January :- [https://www.fixmystreet.com/report/4158548](https://www.fixmystreet.com/report/4158548)
+- Hole, 22nd January :- [https://www.fixmystreet.com/report/4158414](https://www.fixmystreet.com/report/4158414)
+- Raised drain - trip hazard, 22nd January :- [https://www.fixmystreet.com/report/4158260](https://www.fixmystreet.com/report/4158260)
+- Extremely large pothole, 22nd January :- [https://www.fixmystreet.com/report/4157900](https://www.fixmystreet.com/report/4157900)
 - Inadequate lighting provision on Northfield Terrace, 21st January :- [https://www.fixmystreet.com/report/4156485](https://www.fixmystreet.com/report/4156485)
 - Derelict pavement on Northfield Terrace, 21st January :- [https://www.fixmystreet.com/report/4156470](https://www.fixmystreet.com/report/4156470)
 - Uneven and patchy dangerous roadway surface, 21st January :- [https://www.fixmystreet.com/report/4156456](https://www.fixmystreet.com/report/4156456)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Significant damage to pavement following line installation, 21st January :- [https://www.fixmystreet.com/report/4156148](https://www.fixmystreet.com/report/4156148)
 - Flytipping on Green on Ashlands Rd, 21st January :- [https://www.fixmystreet.com/report/4156135](https://www.fixmystreet.com/report/4156135)
 - Resurface now, 21st January :- [https://www.fixmystreet.com/report/4156128](https://www.fixmystreet.com/report/4156128)
-- Poorly maintained footway along Hardwick Green, 21st January :- [https://www.fixmystreet.com/report/4156109](https://www.fixmystreet.com/report/4156109)
-- Potholes on intersection of Marsh Lane and Marsh Gardens, 21st January :- [https://www.fixmystreet.com/report/4156094](https://www.fixmystreet.com/report/4156094)
-- Poor quality footpath through Elmfield Park, 21st January :- [https://www.fixmystreet.com/report/4156076](https://www.fixmystreet.com/report/4156076)
-- Toilet and barbeque dumped in Elmfield Park, 21st January :- [https://www.fixmystreet.com/report/4156052](https://www.fixmystreet.com/report/4156052)
-- Rubbish dumped in Midwinter carpark, 21st January :- [https://www.fixmystreet.com/report/4156039](https://www.fixmystreet.com/report/4156039)
-- Footpath blocked, 21st January :- [https://www.fixmystreet.com/report/4156017](https://www.fixmystreet.com/report/4156017)
-- Gritting bin empty, 20th January :- [https://www.fixmystreet.com/report/4154205](https://www.fixmystreet.com/report/4154205)
-- Dangerous junction, 20th January :- [https://www.fixmystreet.com/report/4153404](https://www.fixmystreet.com/report/4153404)
-- Better safer accessibility, 20th January :- [https://www.fixmystreet.com/report/4153227](https://www.fixmystreet.com/report/4153227)
-- Broken glass on path, 20th January :- [https://www.fixmystreet.com/report/4153211](https://www.fixmystreet.com/report/4153211)
-- Cycle lane frequently blocked by illegal parking, 20th January :- [https://www.fixmystreet.com/report/4153198](https://www.fixmystreet.com/report/4153198)
-- Inconsiderate and dangerous parking, 20th January :- [https://www.fixmystreet.com/report/4153185](https://www.fixmystreet.com/report/4153185)
 
 <!-- fix_marker ends -->
