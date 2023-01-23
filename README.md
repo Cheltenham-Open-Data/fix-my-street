@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light on all of the time. Outside 16 Jodami Crescent., 22nd January :- [https://www.fixmystreet.com/report/4159702](https://www.fixmystreet.com/report/4159702)
+- 2 deep potholes in Church Road, 22nd January :- [https://www.fixmystreet.com/report/4159697](https://www.fixmystreet.com/report/4159697)
 - Dumped litter, 22nd January :- [https://www.fixmystreet.com/report/4159372](https://www.fixmystreet.com/report/4159372)
 - Accumulating potholes making road very uneven and more potholes are forming, 22nd January :- [https://www.fixmystreet.com/report/4159212](https://www.fixmystreet.com/report/4159212)
 - Uneven surface, 22nd January :- [https://www.fixmystreet.com/report/4159205](https://www.fixmystreet.com/report/4159205)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Substantial rubbish dumped along Honeybourne Line, 21st January :- [https://www.fixmystreet.com/report/4156190](https://www.fixmystreet.com/report/4156190)
 - Honeybourne Line/ Marsh Drive flytipped childs slide, 21st January :- [https://www.fixmystreet.com/report/4156164](https://www.fixmystreet.com/report/4156164)
 - Significant damage to pavement following line installation, 21st January :- [https://www.fixmystreet.com/report/4156148](https://www.fixmystreet.com/report/4156148)
-- Flytipping on Green on Ashlands Rd, 21st January :- [https://www.fixmystreet.com/report/4156135](https://www.fixmystreet.com/report/4156135)
-- Resurface now, 21st January :- [https://www.fixmystreet.com/report/4156128](https://www.fixmystreet.com/report/4156128)
 
 <!-- fix_marker ends -->
