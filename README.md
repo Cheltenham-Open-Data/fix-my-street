@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Crossing not working, 24th January :- [https://www.fixmystreet.com/report/4167187](https://www.fixmystreet.com/report/4167187)
+- Loose manhole cover in road- very noisy, 24th January :- [https://www.fixmystreet.com/report/4167179](https://www.fixmystreet.com/report/4167179)
+- Extensive graffiti in alleyway of Grovesnor st south, 24th January :- [https://www.fixmystreet.com/report/4165767](https://www.fixmystreet.com/report/4165767)
+- Shopping trolley dumped on grounds next to bridge over the brook. It is an Asda trolley., 24th January :- [https://www.fixmystreet.com/report/4164965](https://www.fixmystreet.com/report/4164965)
+- V deep pothole, 24th January :- [https://www.fixmystreet.com/report/4164768](https://www.fixmystreet.com/report/4164768)
+- Road falling apart, 24th January :- [https://www.fixmystreet.com/report/4164763](https://www.fixmystreet.com/report/4164763)
+- Pothole, 24th January :- [https://www.fixmystreet.com/report/4164759](https://www.fixmystreet.com/report/4164759)
+- Very deep potholes, 24th January :- [https://www.fixmystreet.com/report/4164741](https://www.fixmystreet.com/report/4164741)
+- Tagging on sign, 24th January :- [https://www.fixmystreet.com/report/4164514](https://www.fixmystreet.com/report/4164514)
+- Maintenance of pillar box, 24th January :- [https://www.fixmystreet.com/report/4164489](https://www.fixmystreet.com/report/4164489)
 - Pothole, 23rd January :- [https://www.fixmystreet.com/report/4163252](https://www.fixmystreet.com/report/4163252)
 - Asia trolley dumped on roadside, 23rd January :- [https://www.fixmystreet.com/report/4161610](https://www.fixmystreet.com/report/4161610)
 - Little down Shakespeare Road from the junction of Goldsmith to PE way, 23rd January :- [https://www.fixmystreet.com/report/4160554](https://www.fixmystreet.com/report/4160554)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dumped litter, 22nd January :- [https://www.fixmystreet.com/report/4159372](https://www.fixmystreet.com/report/4159372)
 - Accumulating potholes making road very uneven and more potholes are forming, 22nd January :- [https://www.fixmystreet.com/report/4159212](https://www.fixmystreet.com/report/4159212)
 - Uneven surface, 22nd January :- [https://www.fixmystreet.com/report/4159205](https://www.fixmystreet.com/report/4159205)
-- Half-a-dozen deep potholes, 22nd January :- [https://www.fixmystreet.com/report/4158757](https://www.fixmystreet.com/report/4158757)
-- Pothole nr 45 Woodlands Road, 22nd January :- [https://www.fixmystreet.com/report/4158578](https://www.fixmystreet.com/report/4158578)
-- Pitted with pit holes, 22nd January :- [https://www.fixmystreet.com/report/4158577](https://www.fixmystreet.com/report/4158577)
-- Pothole at junction outside 39 Woodlands Road, 22nd January :- [https://www.fixmystreet.com/report/4158572](https://www.fixmystreet.com/report/4158572)
-- Pothole outside 2 Woodlands Road, 22nd January :- [https://www.fixmystreet.com/report/4158563](https://www.fixmystreet.com/report/4158563)
-- 2 x holes, 22nd January :- [https://www.fixmystreet.com/report/4158548](https://www.fixmystreet.com/report/4158548)
-- Hole, 22nd January :- [https://www.fixmystreet.com/report/4158414](https://www.fixmystreet.com/report/4158414)
-- Raised drain - trip hazard, 22nd January :- [https://www.fixmystreet.com/report/4158260](https://www.fixmystreet.com/report/4158260)
-- Extremely large pothole, 22nd January :- [https://www.fixmystreet.com/report/4157900](https://www.fixmystreet.com/report/4157900)
-- Inadequate lighting provision on Northfield Terrace, 21st January :- [https://www.fixmystreet.com/report/4156485](https://www.fixmystreet.com/report/4156485)
 
 <!-- fix_marker ends -->
