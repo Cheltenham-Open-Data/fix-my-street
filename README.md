@@ -2,8 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 big pot holes in close succession, 24th January :- [https://www.fixmystreet.com/report/4167612](https://www.fixmystreet.com/report/4167612)
+- Street lights not working, 24th January :- [https://www.fixmystreet.com/report/4167419](https://www.fixmystreet.com/report/4167419)
 - Crossing not working, 24th January :- [https://www.fixmystreet.com/report/4167187](https://www.fixmystreet.com/report/4167187)
 - Loose manhole cover in road- very noisy, 24th January :- [https://www.fixmystreet.com/report/4167179](https://www.fixmystreet.com/report/4167179)
+- A stretch of deep potholes, 24th January :- [https://www.fixmystreet.com/report/4167164](https://www.fixmystreet.com/report/4167164)
 - Extensive graffiti in alleyway of Grovesnor st south, 24th January :- [https://www.fixmystreet.com/report/4165767](https://www.fixmystreet.com/report/4165767)
 - Shopping trolley dumped on grounds next to bridge over the brook. It is an Asda trolley., 24th January :- [https://www.fixmystreet.com/report/4164965](https://www.fixmystreet.com/report/4164965)
 - V deep pothole, 24th January :- [https://www.fixmystreet.com/report/4164768](https://www.fixmystreet.com/report/4164768)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Water leak on the corner of Wasley and Wordsworth, 23rd January :- [https://www.fixmystreet.com/report/4160330](https://www.fixmystreet.com/report/4160330)
 - Street light on all of the time. Outside 16 Jodami Crescent., 22nd January :- [https://www.fixmystreet.com/report/4159702](https://www.fixmystreet.com/report/4159702)
 - 2 deep potholes in Church Road, 22nd January :- [https://www.fixmystreet.com/report/4159697](https://www.fixmystreet.com/report/4159697)
-- Dumped litter, 22nd January :- [https://www.fixmystreet.com/report/4159372](https://www.fixmystreet.com/report/4159372)
-- Accumulating potholes making road very uneven and more potholes are forming, 22nd January :- [https://www.fixmystreet.com/report/4159212](https://www.fixmystreet.com/report/4159212)
-- Uneven surface, 22nd January :- [https://www.fixmystreet.com/report/4159205](https://www.fixmystreet.com/report/4159205)
 
 <!-- fix_marker ends -->
