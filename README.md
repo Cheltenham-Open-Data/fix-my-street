@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Chopped up Christmas tree still present on Edinburgh Place, 26th January :- [https://www.fixmystreet.com/report/4173873](https://www.fixmystreet.com/report/4173873)
+- 3 Street lights out, 26th January :- [https://www.fixmystreet.com/report/4173427](https://www.fixmystreet.com/report/4173427)
+- Smashed glass on pavement, 26th January :- [https://www.fixmystreet.com/report/4172825](https://www.fixmystreet.com/report/4172825)
+- Broken metal fence, 26th January :- [https://www.fixmystreet.com/report/4172497](https://www.fixmystreet.com/report/4172497)
+- Zwings electric scooter, 26th January :- [https://www.fixmystreet.com/report/4172476](https://www.fixmystreet.com/report/4172476)
+- Hole at junction, 26th January :- [https://www.fixmystreet.com/report/4171617](https://www.fixmystreet.com/report/4171617)
+- Hole in crossing, 26th January :- [https://www.fixmystreet.com/report/4171611](https://www.fixmystreet.com/report/4171611)
 - Multiple Potholes, 25th January :- [https://www.fixmystreet.com/report/4170364](https://www.fixmystreet.com/report/4170364)
 - Signs on the road are completely worn, 25th January :- [https://www.fixmystreet.com/report/4169813](https://www.fixmystreet.com/report/4169813)
 - Junction box damaged, 25th January :- [https://www.fixmystreet.com/report/4169202](https://www.fixmystreet.com/report/4169202)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose manhole cover in road- very noisy, 24th January :- [https://www.fixmystreet.com/report/4167179](https://www.fixmystreet.com/report/4167179)
 - A stretch of deep potholes, 24th January :- [https://www.fixmystreet.com/report/4167164](https://www.fixmystreet.com/report/4167164)
 - Extensive graffiti in alleyway of Grovesnor st south, 24th January :- [https://www.fixmystreet.com/report/4165767](https://www.fixmystreet.com/report/4165767)
-- Shopping trolley dumped on grounds next to bridge over the brook. It is an Asda trolley., 24th January :- [https://www.fixmystreet.com/report/4164965](https://www.fixmystreet.com/report/4164965)
-- V deep pothole, 24th January :- [https://www.fixmystreet.com/report/4164768](https://www.fixmystreet.com/report/4164768)
-- Road falling apart, 24th January :- [https://www.fixmystreet.com/report/4164763](https://www.fixmystreet.com/report/4164763)
-- Pothole, 24th January :- [https://www.fixmystreet.com/report/4164759](https://www.fixmystreet.com/report/4164759)
-- Very deep potholes, 24th January :- [https://www.fixmystreet.com/report/4164741](https://www.fixmystreet.com/report/4164741)
-- Tagging on sign, 24th January :- [https://www.fixmystreet.com/report/4164514](https://www.fixmystreet.com/report/4164514)
-- Maintenance of pillar box, 24th January :- [https://www.fixmystreet.com/report/4164489](https://www.fixmystreet.com/report/4164489)
 
 <!-- fix_marker ends -->
