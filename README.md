@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole on left hand side of the road opposite the entrance to Crickely Hill, 27th January :- [https://www.fixmystreet.com/report/4177447](https://www.fixmystreet.com/report/4177447)
+- Hyde Lane from Church Road to Hyde Brook/ Borough boundary., 27th January :- [https://www.fixmystreet.com/report/4177172](https://www.fixmystreet.com/report/4177172)
+- Litter in the verges, 27th January :- [https://www.fixmystreet.com/report/4177061](https://www.fixmystreet.com/report/4177061)
+- Useless pedestrian traffic lights no longer working, 27th January :- [https://www.fixmystreet.com/report/4175314](https://www.fixmystreet.com/report/4175314)
 - Drain, 26th January :- [https://www.fixmystreet.com/report/4174718](https://www.fixmystreet.com/report/4174718)
 - Chopped up Christmas tree still present on Edinburgh Place, 26th January :- [https://www.fixmystreet.com/report/4173873](https://www.fixmystreet.com/report/4173873)
 - 3 Street lights out, 26th January :- [https://www.fixmystreet.com/report/4173427](https://www.fixmystreet.com/report/4173427)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - V large pothole, 25th January :- [https://www.fixmystreet.com/report/4168765](https://www.fixmystreet.com/report/4168765)
 - Pavement collapsing around BT chamber, 25th January :- [https://www.fixmystreet.com/report/4168077](https://www.fixmystreet.com/report/4168077)
 - 2 big pot holes in close succession, 24th January :- [https://www.fixmystreet.com/report/4167612](https://www.fixmystreet.com/report/4167612)
-- Street lights not working, 24th January :- [https://www.fixmystreet.com/report/4167419](https://www.fixmystreet.com/report/4167419)
-- Crossing not working, 24th January :- [https://www.fixmystreet.com/report/4167187](https://www.fixmystreet.com/report/4167187)
-- Loose manhole cover in road- very noisy, 24th January :- [https://www.fixmystreet.com/report/4167179](https://www.fixmystreet.com/report/4167179)
-- A stretch of deep potholes, 24th January :- [https://www.fixmystreet.com/report/4167164](https://www.fixmystreet.com/report/4167164)
 
 <!-- fix_marker ends -->
