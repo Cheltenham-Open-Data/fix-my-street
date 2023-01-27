@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain, 26th January :- [https://www.fixmystreet.com/report/4174718](https://www.fixmystreet.com/report/4174718)
 - Chopped up Christmas tree still present on Edinburgh Place, 26th January :- [https://www.fixmystreet.com/report/4173873](https://www.fixmystreet.com/report/4173873)
 - 3 Street lights out, 26th January :- [https://www.fixmystreet.com/report/4173427](https://www.fixmystreet.com/report/4173427)
 - Smashed glass on pavement, 26th January :- [https://www.fixmystreet.com/report/4172825](https://www.fixmystreet.com/report/4172825)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Crossing not working, 24th January :- [https://www.fixmystreet.com/report/4167187](https://www.fixmystreet.com/report/4167187)
 - Loose manhole cover in road- very noisy, 24th January :- [https://www.fixmystreet.com/report/4167179](https://www.fixmystreet.com/report/4167179)
 - A stretch of deep potholes, 24th January :- [https://www.fixmystreet.com/report/4167164](https://www.fixmystreet.com/report/4167164)
-- Extensive graffiti in alleyway of Grovesnor st south, 24th January :- [https://www.fixmystreet.com/report/4165767](https://www.fixmystreet.com/report/4165767)
 
 <!-- fix_marker ends -->
