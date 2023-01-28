@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drivers failing to stop., 27th January :- [https://www.fixmystreet.com/report/4178117](https://www.fixmystreet.com/report/4178117)
+- Appalling road surface on a main road, 27th January :- [https://www.fixmystreet.com/report/4178087](https://www.fixmystreet.com/report/4178087)
 - Pothole on left hand side of the road opposite the entrance to Crickely Hill, 27th January :- [https://www.fixmystreet.com/report/4177447](https://www.fixmystreet.com/report/4177447)
 - Hyde Lane from Church Road to Hyde Brook/ Borough boundary., 27th January :- [https://www.fixmystreet.com/report/4177172](https://www.fixmystreet.com/report/4177172)
 - Litter in the verges, 27th January :- [https://www.fixmystreet.com/report/4177061](https://www.fixmystreet.com/report/4177061)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dumping of litter, 25th January :- [https://www.fixmystreet.com/report/4168782](https://www.fixmystreet.com/report/4168782)
 - Potholes & road falling apart, 25th January :- [https://www.fixmystreet.com/report/4168776](https://www.fixmystreet.com/report/4168776)
 - V large pothole, 25th January :- [https://www.fixmystreet.com/report/4168765](https://www.fixmystreet.com/report/4168765)
-- Pavement collapsing around BT chamber, 25th January :- [https://www.fixmystreet.com/report/4168077](https://www.fixmystreet.com/report/4168077)
-- 2 big pot holes in close succession, 24th January :- [https://www.fixmystreet.com/report/4167612](https://www.fixmystreet.com/report/4167612)
 
 <!-- fix_marker ends -->
