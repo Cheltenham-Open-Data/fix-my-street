@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Christmas tree dumped, 28th January :- [https://www.fixmystreet.com/report/4180511](https://www.fixmystreet.com/report/4180511)
 - Foodwaste bin full of empties outside 89 St Paul’s Road, 28th January :- [https://www.fixmystreet.com/report/4180413](https://www.fixmystreet.com/report/4180413)
 - Flytipping lane between Albert St and Victoria St, 28th January :- [https://www.fixmystreet.com/report/4180404](https://www.fixmystreet.com/report/4180404)
 - Flytipping rear Albert St, 28th January :- [https://www.fixmystreet.com/report/4180391](https://www.fixmystreet.com/report/4180391)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drivers failing to stop., 27th January :- [https://www.fixmystreet.com/report/4178117](https://www.fixmystreet.com/report/4178117)
 - Appalling road surface on a main road, 27th January :- [https://www.fixmystreet.com/report/4178087](https://www.fixmystreet.com/report/4178087)
 - Pothole on left hand side of the road opposite the entrance to Crickely Hill, 27th January :- [https://www.fixmystreet.com/report/4177447](https://www.fixmystreet.com/report/4177447)
-- Hyde Lane from Church Road to Hyde Brook/ Borough boundary., 27th January :- [https://www.fixmystreet.com/report/4177172](https://www.fixmystreet.com/report/4177172)
 
 <!-- fix_marker ends -->
