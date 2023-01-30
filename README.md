@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road towards Cheltenham town centre getting undrivable, 30th January :- [https://www.fixmystreet.com/report/4185935](https://www.fixmystreet.com/report/4185935)
+- Under counter fridge, 30th January :- [https://www.fixmystreet.com/report/4185729](https://www.fixmystreet.com/report/4185729)
+- Parking on ZigZags, 30th January :- [https://www.fixmystreet.com/report/4183862](https://www.fixmystreet.com/report/4183862)
 - Trip Hazard Water Stoptaps, 29th January :- [https://www.fixmystreet.com/report/4182533](https://www.fixmystreet.com/report/4182533)
 - Multiple potholes, 29th January :- [https://www.fixmystreet.com/report/4182202](https://www.fixmystreet.com/report/4182202)
 - Pothole St Paul’s Road Cheltenham, 29th January :- [https://www.fixmystreet.com/report/4182198](https://www.fixmystreet.com/report/4182198)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped carpets rear Victoria St, 28th January :- [https://www.fixmystreet.com/report/4180370](https://www.fixmystreet.com/report/4180370)
 - Line of holes, 28th January :- [https://www.fixmystreet.com/report/4179765](https://www.fixmystreet.com/report/4179765)
 - Hole at junction, 28th January :- [https://www.fixmystreet.com/report/4179751](https://www.fixmystreet.com/report/4179751)
-- Street lights not working, 28th January :- [https://www.fixmystreet.com/report/4179491](https://www.fixmystreet.com/report/4179491)
-- Street lights not working, 28th January :- [https://www.fixmystreet.com/report/4179487](https://www.fixmystreet.com/report/4179487)
-- Asb, 28th January :- [https://www.fixmystreet.com/report/4179479](https://www.fixmystreet.com/report/4179479)
 
 <!-- fix_marker ends -->
