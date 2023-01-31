@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Shared path in appalling condition, 30th January :- [https://www.fixmystreet.com/report/4187344](https://www.fixmystreet.com/report/4187344)
 - Road towards Cheltenham town centre getting undrivable, 30th January :- [https://www.fixmystreet.com/report/4185935](https://www.fixmystreet.com/report/4185935)
 - Under counter fridge, 30th January :- [https://www.fixmystreet.com/report/4185729](https://www.fixmystreet.com/report/4185729)
 - Parking on ZigZags, 30th January :- [https://www.fixmystreet.com/report/4183862](https://www.fixmystreet.com/report/4183862)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped various items lane between Albert St & Victoria St, 28th January :- [https://www.fixmystreet.com/report/4180379](https://www.fixmystreet.com/report/4180379)
 - Flytipped carpets rear Victoria St, 28th January :- [https://www.fixmystreet.com/report/4180370](https://www.fixmystreet.com/report/4180370)
 - Line of holes, 28th January :- [https://www.fixmystreet.com/report/4179765](https://www.fixmystreet.com/report/4179765)
-- Hole at junction, 28th January :- [https://www.fixmystreet.com/report/4179751](https://www.fixmystreet.com/report/4179751)
 
 <!-- fix_marker ends -->
