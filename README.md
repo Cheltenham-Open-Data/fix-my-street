@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Monhole covers, 31st January :- [https://www.fixmystreet.com/report/4191134](https://www.fixmystreet.com/report/4191134)
 - Badly decayed footpath - leckhampton, 31st January :- [https://www.fixmystreet.com/report/4190066](https://www.fixmystreet.com/report/4190066)
 - Roadway breaking up - village hall, 31st January :- [https://www.fixmystreet.com/report/4190006](https://www.fixmystreet.com/report/4190006)
 - Two sinking covers, 31st January :- [https://www.fixmystreet.com/report/4189985](https://www.fixmystreet.com/report/4189985)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dirty Pedestrian Traffic island markers, 29th January :- [https://www.fixmystreet.com/report/4181405](https://www.fixmystreet.com/report/4181405)
 - Shopping trolley in Pittville boating lake, 29th January :- [https://www.fixmystreet.com/report/4181349](https://www.fixmystreet.com/report/4181349)
 - Dirty Pedestrian Traffic island markers, 29th January :- [https://www.fixmystreet.com/report/4181320](https://www.fixmystreet.com/report/4181320)
-- Christmas tree dumped, 28th January :- [https://www.fixmystreet.com/report/4180511](https://www.fixmystreet.com/report/4180511)
 
 <!-- fix_marker ends -->
