@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Litter, 1st February :- [https://www.fixmystreet.com/report/4194332](https://www.fixmystreet.com/report/4194332)
 - Streetlight not working, 1st February :- [https://www.fixmystreet.com/report/4194193](https://www.fixmystreet.com/report/4194193)
 - Hole, 1st February :- [https://www.fixmystreet.com/report/4194072](https://www.fixmystreet.com/report/4194072)
 - Big holes in 2 covers, 1st February :- [https://www.fixmystreet.com/report/4193952](https://www.fixmystreet.com/report/4193952)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trip Hazard Water Stoptaps, 29th January :- [https://www.fixmystreet.com/report/4182533](https://www.fixmystreet.com/report/4182533)
 - Multiple potholes, 29th January :- [https://www.fixmystreet.com/report/4182202](https://www.fixmystreet.com/report/4182202)
 - Pothole St Paul’s Road Cheltenham, 29th January :- [https://www.fixmystreet.com/report/4182198](https://www.fixmystreet.com/report/4182198)
-- Litter and dog fouling, 29th January :- [https://www.fixmystreet.com/report/4182036](https://www.fixmystreet.com/report/4182036)
 
 <!-- fix_marker ends -->
