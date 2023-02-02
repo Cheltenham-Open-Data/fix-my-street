@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlights, 2nd February :- [https://www.fixmystreet.com/report/4197009](https://www.fixmystreet.com/report/4197009)
+- Broken glass all over road, 2nd February :- [https://www.fixmystreet.com/report/4195532](https://www.fixmystreet.com/report/4195532)
 - Litter, 1st February :- [https://www.fixmystreet.com/report/4194332](https://www.fixmystreet.com/report/4194332)
 - Streetlight not working, 1st February :- [https://www.fixmystreet.com/report/4194193](https://www.fixmystreet.com/report/4194193)
 - Hole, 1st February :- [https://www.fixmystreet.com/report/4194072](https://www.fixmystreet.com/report/4194072)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Under counter fridge, 30th January :- [https://www.fixmystreet.com/report/4185729](https://www.fixmystreet.com/report/4185729)
 - Parking on ZigZags, 30th January :- [https://www.fixmystreet.com/report/4183862](https://www.fixmystreet.com/report/4183862)
 - Trip Hazard Water Stoptaps, 29th January :- [https://www.fixmystreet.com/report/4182533](https://www.fixmystreet.com/report/4182533)
-- Multiple potholes, 29th January :- [https://www.fixmystreet.com/report/4182202](https://www.fixmystreet.com/report/4182202)
-- Pothole St Paul’s Road Cheltenham, 29th January :- [https://www.fixmystreet.com/report/4182198](https://www.fixmystreet.com/report/4182198)
 
 <!-- fix_marker ends -->
