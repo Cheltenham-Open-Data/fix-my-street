@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lots of potholes, 3rd February :- [https://www.fixmystreet.com/report/4201350](https://www.fixmystreet.com/report/4201350)
+- Red light sequence, 3rd February :- [https://www.fixmystreet.com/report/4201346](https://www.fixmystreet.com/report/4201346)
+- Road surface collapse, 3rd February :- [https://www.fixmystreet.com/report/4200939](https://www.fixmystreet.com/report/4200939)
+- Large pothole, 3rd February :- [https://www.fixmystreet.com/report/4200926](https://www.fixmystreet.com/report/4200926)
+- Bin is full, 3rd February :- [https://www.fixmystreet.com/report/4200466](https://www.fixmystreet.com/report/4200466)
+- Flytipped TV monitor New Street, 3rd February :- [https://www.fixmystreet.com/report/4199889](https://www.fixmystreet.com/report/4199889)
+- Xmas tree and shelf unit left on pavement(.by Russell st.no4), 3rd February :- [https://www.fixmystreet.com/report/4199690](https://www.fixmystreet.com/report/4199690)
+- Tree tether broken, 3rd February :- [https://www.fixmystreet.com/report/4199656](https://www.fixmystreet.com/report/4199656)
+- Silver Vauxhall Astra, 3rd February :- [https://www.fixmystreet.com/report/4199629](https://www.fixmystreet.com/report/4199629)
 - Huge potholes across both sides of the road, 2nd February :- [https://www.fixmystreet.com/report/4198283](https://www.fixmystreet.com/report/4198283)
 - Huge potholes across both sides of the road, 2nd February :- [https://www.fixmystreet.com/report/4198274](https://www.fixmystreet.com/report/4198274)
 - Streetlights, 2nd February :- [https://www.fixmystreet.com/report/4197009](https://www.fixmystreet.com/report/4197009)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - About a dozen very deeppotholes, 1st February :- [https://www.fixmystreet.com/report/4192512](https://www.fixmystreet.com/report/4192512)
 - Unsecured traffic light, 1st February :- [https://www.fixmystreet.com/report/4191691](https://www.fixmystreet.com/report/4191691)
 - Monhole covers, 31st January :- [https://www.fixmystreet.com/report/4191134](https://www.fixmystreet.com/report/4191134)
-- Badly decayed footpath - leckhampton, 31st January :- [https://www.fixmystreet.com/report/4190066](https://www.fixmystreet.com/report/4190066)
-- Roadway breaking up - village hall, 31st January :- [https://www.fixmystreet.com/report/4190006](https://www.fixmystreet.com/report/4190006)
-- Two sinking covers, 31st January :- [https://www.fixmystreet.com/report/4189985](https://www.fixmystreet.com/report/4189985)
-- Dangerous pot holes, 31st January :- [https://www.fixmystreet.com/report/4189737](https://www.fixmystreet.com/report/4189737)
-- Traffic lights not working, 31st January :- [https://www.fixmystreet.com/report/4188147](https://www.fixmystreet.com/report/4188147)
-- Litter all over the street, footpaths and grass verges, 31st January :- [https://www.fixmystreet.com/report/4188032](https://www.fixmystreet.com/report/4188032)
-- Shared path in appalling condition, 30th January :- [https://www.fixmystreet.com/report/4187344](https://www.fixmystreet.com/report/4187344)
-- Road towards Cheltenham town centre getting undrivable, 30th January :- [https://www.fixmystreet.com/report/4185935](https://www.fixmystreet.com/report/4185935)
-- Under counter fridge, 30th January :- [https://www.fixmystreet.com/report/4185729](https://www.fixmystreet.com/report/4185729)
 
 <!-- fix_marker ends -->
