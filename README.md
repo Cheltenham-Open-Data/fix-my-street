@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- All street lights out, 3rd February :- [https://www.fixmystreet.com/report/4201747](https://www.fixmystreet.com/report/4201747)
+- Pothole on roundabout, 3rd February :- [https://www.fixmystreet.com/report/4201633](https://www.fixmystreet.com/report/4201633)
+- No Street lights Elmfield Road GL51 9JL, 3rd February :- [https://www.fixmystreet.com/report/4201567](https://www.fixmystreet.com/report/4201567)
 - Lots of potholes, 3rd February :- [https://www.fixmystreet.com/report/4201350](https://www.fixmystreet.com/report/4201350)
 - Red light sequence, 3rd February :- [https://www.fixmystreet.com/report/4201346](https://www.fixmystreet.com/report/4201346)
 - Road surface collapse, 3rd February :- [https://www.fixmystreet.com/report/4200939](https://www.fixmystreet.com/report/4200939)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlight not working, 1st February :- [https://www.fixmystreet.com/report/4194193](https://www.fixmystreet.com/report/4194193)
 - Hole, 1st February :- [https://www.fixmystreet.com/report/4194072](https://www.fixmystreet.com/report/4194072)
 - Big holes in 2 covers, 1st February :- [https://www.fixmystreet.com/report/4193952](https://www.fixmystreet.com/report/4193952)
-- About a dozen very deeppotholes, 1st February :- [https://www.fixmystreet.com/report/4192512](https://www.fixmystreet.com/report/4192512)
-- Unsecured traffic light, 1st February :- [https://www.fixmystreet.com/report/4191691](https://www.fixmystreet.com/report/4191691)
-- Monhole covers, 31st January :- [https://www.fixmystreet.com/report/4191134](https://www.fixmystreet.com/report/4191134)
 
 <!-- fix_marker ends -->
