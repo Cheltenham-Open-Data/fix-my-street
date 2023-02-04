@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes, 4th February :- [https://www.fixmystreet.com/report/4203085](https://www.fixmystreet.com/report/4203085)
+- Blocked drains - Albert road, 4th February :- [https://www.fixmystreet.com/report/4202514](https://www.fixmystreet.com/report/4202514)
 - All street lights out, 3rd February :- [https://www.fixmystreet.com/report/4201747](https://www.fixmystreet.com/report/4201747)
 - Pothole on roundabout, 3rd February :- [https://www.fixmystreet.com/report/4201633](https://www.fixmystreet.com/report/4201633)
 - No Street lights Elmfield Road GL51 9JL, 3rd February :- [https://www.fixmystreet.com/report/4201567](https://www.fixmystreet.com/report/4201567)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass all over road, 2nd February :- [https://www.fixmystreet.com/report/4195532](https://www.fixmystreet.com/report/4195532)
 - Litter, 1st February :- [https://www.fixmystreet.com/report/4194332](https://www.fixmystreet.com/report/4194332)
 - Streetlight not working, 1st February :- [https://www.fixmystreet.com/report/4194193](https://www.fixmystreet.com/report/4194193)
-- Hole, 1st February :- [https://www.fixmystreet.com/report/4194072](https://www.fixmystreet.com/report/4194072)
-- Big holes in 2 covers, 1st February :- [https://www.fixmystreet.com/report/4193952](https://www.fixmystreet.com/report/4193952)
 
 <!-- fix_marker ends -->
