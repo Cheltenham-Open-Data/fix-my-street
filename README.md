@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4204033](https://www.fixmystreet.com/report/4204033)
+- Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4203995](https://www.fixmystreet.com/report/4203995)
 - Potholes, 4th February :- [https://www.fixmystreet.com/report/4203085](https://www.fixmystreet.com/report/4203085)
 - Blocked drains - Albert road, 4th February :- [https://www.fixmystreet.com/report/4202514](https://www.fixmystreet.com/report/4202514)
 - All street lights out, 3rd February :- [https://www.fixmystreet.com/report/4201747](https://www.fixmystreet.com/report/4201747)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Huge potholes across both sides of the road, 2nd February :- [https://www.fixmystreet.com/report/4198274](https://www.fixmystreet.com/report/4198274)
 - Streetlights, 2nd February :- [https://www.fixmystreet.com/report/4197009](https://www.fixmystreet.com/report/4197009)
 - Broken glass all over road, 2nd February :- [https://www.fixmystreet.com/report/4195532](https://www.fixmystreet.com/report/4195532)
-- Litter, 1st February :- [https://www.fixmystreet.com/report/4194332](https://www.fixmystreet.com/report/4194332)
-- Streetlight not working, 1st February :- [https://www.fixmystreet.com/report/4194193](https://www.fixmystreet.com/report/4194193)
 
 <!-- fix_marker ends -->
