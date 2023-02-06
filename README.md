@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road works, 6th February :- [https://www.fixmystreet.com/report/4209221](https://www.fixmystreet.com/report/4209221)
+- Old road repair subsiding, 6th February :- [https://www.fixmystreet.com/report/4208853](https://www.fixmystreet.com/report/4208853)
+- Tub of paint spilled all over pavement, 6th February :- [https://www.fixmystreet.com/report/4208128](https://www.fixmystreet.com/report/4208128)
+- Tree removed not replaced, 6th February :- [https://www.fixmystreet.com/report/4207811](https://www.fixmystreet.com/report/4207811)
+- Deep pot holes, 6th February :- [https://www.fixmystreet.com/report/4207790](https://www.fixmystreet.com/report/4207790)
+- Broken glass, 6th February :- [https://www.fixmystreet.com/report/4206890](https://www.fixmystreet.com/report/4206890)
 - Blocked surface drain by Tythe Barn, 5th February :- [https://www.fixmystreet.com/report/4205959](https://www.fixmystreet.com/report/4205959)
 - Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4204033](https://www.fixmystreet.com/report/4204033)
 - Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4203995](https://www.fixmystreet.com/report/4203995)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 3rd February :- [https://www.fixmystreet.com/report/4200926](https://www.fixmystreet.com/report/4200926)
 - Bin is full, 3rd February :- [https://www.fixmystreet.com/report/4200466](https://www.fixmystreet.com/report/4200466)
 - Flytipped TV monitor New Street, 3rd February :- [https://www.fixmystreet.com/report/4199889](https://www.fixmystreet.com/report/4199889)
-- Xmas tree and shelf unit left on pavement(.by Russell st.no4), 3rd February :- [https://www.fixmystreet.com/report/4199690](https://www.fixmystreet.com/report/4199690)
-- Tree tether broken, 3rd February :- [https://www.fixmystreet.com/report/4199656](https://www.fixmystreet.com/report/4199656)
-- Silver Vauxhall Astra, 3rd February :- [https://www.fixmystreet.com/report/4199629](https://www.fixmystreet.com/report/4199629)
-- Huge potholes across both sides of the road, 2nd February :- [https://www.fixmystreet.com/report/4198283](https://www.fixmystreet.com/report/4198283)
-- Huge potholes across both sides of the road, 2nd February :- [https://www.fixmystreet.com/report/4198274](https://www.fixmystreet.com/report/4198274)
-- Streetlights, 2nd February :- [https://www.fixmystreet.com/report/4197009](https://www.fixmystreet.com/report/4197009)
 
 <!-- fix_marker ends -->
