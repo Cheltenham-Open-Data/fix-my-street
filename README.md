@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Not working, 7th February :- [https://www.fixmystreet.com/report/4212630](https://www.fixmystreet.com/report/4212630)
+- Two Road works signs at Location for at least last 4 Months, 7th February :- [https://www.fixmystreet.com/report/4212373](https://www.fixmystreet.com/report/4212373)
+- Broken slab around stopcock outside 17 Bisley Road. My 98 year-old neighbour is concerned the slab might break the stopcock, 7th February :- [https://www.fixmystreet.com/report/4211545](https://www.fixmystreet.com/report/4211545)
+- Numerous potholes and broken road surface., 7th February :- [https://www.fixmystreet.com/report/4211409](https://www.fixmystreet.com/report/4211409)
+- Outside School entrance, 7th February :- [https://www.fixmystreet.com/report/4210417](https://www.fixmystreet.com/report/4210417)
+- Half a job, 7th February :- [https://www.fixmystreet.com/report/4210144](https://www.fixmystreet.com/report/4210144)
+- Large craters, 7th February :- [https://www.fixmystreet.com/report/4210133](https://www.fixmystreet.com/report/4210133)
 - Road works, 6th February :- [https://www.fixmystreet.com/report/4209221](https://www.fixmystreet.com/report/4209221)
 - Old road repair subsiding, 6th February :- [https://www.fixmystreet.com/report/4208853](https://www.fixmystreet.com/report/4208853)
 - Tub of paint spilled all over pavement, 6th February :- [https://www.fixmystreet.com/report/4208128](https://www.fixmystreet.com/report/4208128)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drains - Albert road, 4th February :- [https://www.fixmystreet.com/report/4202514](https://www.fixmystreet.com/report/4202514)
 - All street lights out, 3rd February :- [https://www.fixmystreet.com/report/4201747](https://www.fixmystreet.com/report/4201747)
 - Pothole on roundabout, 3rd February :- [https://www.fixmystreet.com/report/4201633](https://www.fixmystreet.com/report/4201633)
-- No Street lights Elmfield Road GL51 9JL, 3rd February :- [https://www.fixmystreet.com/report/4201567](https://www.fixmystreet.com/report/4201567)
-- Lots of potholes, 3rd February :- [https://www.fixmystreet.com/report/4201350](https://www.fixmystreet.com/report/4201350)
-- Red light sequence, 3rd February :- [https://www.fixmystreet.com/report/4201346](https://www.fixmystreet.com/report/4201346)
-- Road surface collapse, 3rd February :- [https://www.fixmystreet.com/report/4200939](https://www.fixmystreet.com/report/4200939)
-- Large pothole, 3rd February :- [https://www.fixmystreet.com/report/4200926](https://www.fixmystreet.com/report/4200926)
-- Bin is full, 3rd February :- [https://www.fixmystreet.com/report/4200466](https://www.fixmystreet.com/report/4200466)
-- Flytipped TV monitor New Street, 3rd February :- [https://www.fixmystreet.com/report/4199889](https://www.fixmystreet.com/report/4199889)
 
 <!-- fix_marker ends -->
