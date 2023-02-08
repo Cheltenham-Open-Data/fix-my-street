@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole 4-6" deep, 8th February :- [https://www.fixmystreet.com/report/4214684](https://www.fixmystreet.com/report/4214684)
+- Vehicle illegally parked on verge, 8th February :- [https://www.fixmystreet.com/report/4214369](https://www.fixmystreet.com/report/4214369)
 - 4 Lights Out, 7th February :- [https://www.fixmystreet.com/report/4213069](https://www.fixmystreet.com/report/4213069)
 - Not working, 7th February :- [https://www.fixmystreet.com/report/4212630](https://www.fixmystreet.com/report/4212630)
 - Two Road works signs at Location for at least last 4 Months, 7th February :- [https://www.fixmystreet.com/report/4212373](https://www.fixmystreet.com/report/4212373)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4204033](https://www.fixmystreet.com/report/4204033)
 - Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4203995](https://www.fixmystreet.com/report/4203995)
 - Potholes, 4th February :- [https://www.fixmystreet.com/report/4203085](https://www.fixmystreet.com/report/4203085)
-- Blocked drains - Albert road, 4th February :- [https://www.fixmystreet.com/report/4202514](https://www.fixmystreet.com/report/4202514)
-- All street lights out, 3rd February :- [https://www.fixmystreet.com/report/4201747](https://www.fixmystreet.com/report/4201747)
 
 <!-- fix_marker ends -->
