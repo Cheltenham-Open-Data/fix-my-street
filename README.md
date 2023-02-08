@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 4 Lights Out, 7th February :- [https://www.fixmystreet.com/report/4213069](https://www.fixmystreet.com/report/4213069)
 - Not working, 7th February :- [https://www.fixmystreet.com/report/4212630](https://www.fixmystreet.com/report/4212630)
 - Two Road works signs at Location for at least last 4 Months, 7th February :- [https://www.fixmystreet.com/report/4212373](https://www.fixmystreet.com/report/4212373)
 - Broken slab around stopcock outside 17 Bisley Road. My 98 year-old neighbour is concerned the slab might break the stopcock, 7th February :- [https://www.fixmystreet.com/report/4211545](https://www.fixmystreet.com/report/4211545)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 4th February :- [https://www.fixmystreet.com/report/4203085](https://www.fixmystreet.com/report/4203085)
 - Blocked drains - Albert road, 4th February :- [https://www.fixmystreet.com/report/4202514](https://www.fixmystreet.com/report/4202514)
 - All street lights out, 3rd February :- [https://www.fixmystreet.com/report/4201747](https://www.fixmystreet.com/report/4201747)
-- Pothole on roundabout, 3rd February :- [https://www.fixmystreet.com/report/4201633](https://www.fixmystreet.com/report/4201633)
 
 <!-- fix_marker ends -->
