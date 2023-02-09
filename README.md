@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pothole on the bend, 9th February :- [https://www.fixmystreet.com/report/4218646](https://www.fixmystreet.com/report/4218646)
+- Bricks on the roadabout, 9th February :- [https://www.fixmystreet.com/report/4218640](https://www.fixmystreet.com/report/4218640)
+- Abanonded small motor bike (DF70XBU), 9th February :- [https://www.fixmystreet.com/report/4217924](https://www.fixmystreet.com/report/4217924)
+- Road sign, (LH Bend), has been knocked over. Black and white poles need fixing., 9th February :- [https://www.fixmystreet.com/report/4217912](https://www.fixmystreet.com/report/4217912)
 - Rubbish in foothpath, 8th February :- [https://www.fixmystreet.com/report/4215814](https://www.fixmystreet.com/report/4215814)
 - Large pothole 4-6" deep, 8th February :- [https://www.fixmystreet.com/report/4214684](https://www.fixmystreet.com/report/4214684)
 - Vehicle illegally parked on verge, 8th February :- [https://www.fixmystreet.com/report/4214369](https://www.fixmystreet.com/report/4214369)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tub of paint spilled all over pavement, 6th February :- [https://www.fixmystreet.com/report/4208128](https://www.fixmystreet.com/report/4208128)
 - Tree removed not replaced, 6th February :- [https://www.fixmystreet.com/report/4207811](https://www.fixmystreet.com/report/4207811)
 - Deep pot holes, 6th February :- [https://www.fixmystreet.com/report/4207790](https://www.fixmystreet.com/report/4207790)
-- Broken glass, 6th February :- [https://www.fixmystreet.com/report/4206890](https://www.fixmystreet.com/report/4206890)
-- Blocked surface drain by Tythe Barn, 5th February :- [https://www.fixmystreet.com/report/4205959](https://www.fixmystreet.com/report/4205959)
-- Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4204033](https://www.fixmystreet.com/report/4204033)
-- Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4203995](https://www.fixmystreet.com/report/4203995)
 
 <!-- fix_marker ends -->
