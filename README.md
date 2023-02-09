@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Rubbish in foothpath, 8th February :- [https://www.fixmystreet.com/report/4215814](https://www.fixmystreet.com/report/4215814)
 - Large pothole 4-6" deep, 8th February :- [https://www.fixmystreet.com/report/4214684](https://www.fixmystreet.com/report/4214684)
 - Vehicle illegally parked on verge, 8th February :- [https://www.fixmystreet.com/report/4214369](https://www.fixmystreet.com/report/4214369)
 - 4 Lights Out, 7th February :- [https://www.fixmystreet.com/report/4213069](https://www.fixmystreet.com/report/4213069)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked surface drain by Tythe Barn, 5th February :- [https://www.fixmystreet.com/report/4205959](https://www.fixmystreet.com/report/4205959)
 - Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4204033](https://www.fixmystreet.com/report/4204033)
 - Pothole repair sinking, 4th February :- [https://www.fixmystreet.com/report/4203995](https://www.fixmystreet.com/report/4203995)
-- Potholes, 4th February :- [https://www.fixmystreet.com/report/4203085](https://www.fixmystreet.com/report/4203085)
 
 <!-- fix_marker ends -->
