@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several pot holes, 10th February :- [https://www.fixmystreet.com/report/4221827](https://www.fixmystreet.com/report/4221827)
+- Large potholes, 10th February :- [https://www.fixmystreet.com/report/4221231](https://www.fixmystreet.com/report/4221231)
+- Microwave, 10th February :- [https://www.fixmystreet.com/report/4221183](https://www.fixmystreet.com/report/4221183)
 - Deep pothole on the bend, 9th February :- [https://www.fixmystreet.com/report/4218646](https://www.fixmystreet.com/report/4218646)
 - Bricks on the roadabout, 9th February :- [https://www.fixmystreet.com/report/4218640](https://www.fixmystreet.com/report/4218640)
 - Abanonded small motor bike (DF70XBU), 9th February :- [https://www.fixmystreet.com/report/4217924](https://www.fixmystreet.com/report/4217924)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large craters, 7th February :- [https://www.fixmystreet.com/report/4210133](https://www.fixmystreet.com/report/4210133)
 - Road works, 6th February :- [https://www.fixmystreet.com/report/4209221](https://www.fixmystreet.com/report/4209221)
 - Old road repair subsiding, 6th February :- [https://www.fixmystreet.com/report/4208853](https://www.fixmystreet.com/report/4208853)
-- Tub of paint spilled all over pavement, 6th February :- [https://www.fixmystreet.com/report/4208128](https://www.fixmystreet.com/report/4208128)
-- Tree removed not replaced, 6th February :- [https://www.fixmystreet.com/report/4207811](https://www.fixmystreet.com/report/4207811)
-- Deep pot holes, 6th February :- [https://www.fixmystreet.com/report/4207790](https://www.fixmystreet.com/report/4207790)
 
 <!-- fix_marker ends -->
