@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on bench, 11th February :- [https://www.fixmystreet.com/report/4223626](https://www.fixmystreet.com/report/4223626)
+- Large and deep pothole., 11th February :- [https://www.fixmystreet.com/report/4223532](https://www.fixmystreet.com/report/4223532)
+- From Two Hedges Road end of Kayte Lane to Bishops Cleeve Football Club there are numerous potholes., 11th February :- [https://www.fixmystreet.com/report/4222502](https://www.fixmystreet.com/report/4222502)
 - Several pot holes, 10th February :- [https://www.fixmystreet.com/report/4221827](https://www.fixmystreet.com/report/4221827)
 - Large potholes, 10th February :- [https://www.fixmystreet.com/report/4221231](https://www.fixmystreet.com/report/4221231)
 - Microwave, 10th February :- [https://www.fixmystreet.com/report/4221183](https://www.fixmystreet.com/report/4221183)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Numerous potholes and broken road surface., 7th February :- [https://www.fixmystreet.com/report/4211409](https://www.fixmystreet.com/report/4211409)
 - Outside School entrance, 7th February :- [https://www.fixmystreet.com/report/4210417](https://www.fixmystreet.com/report/4210417)
 - Half a job, 7th February :- [https://www.fixmystreet.com/report/4210144](https://www.fixmystreet.com/report/4210144)
-- Large craters, 7th February :- [https://www.fixmystreet.com/report/4210133](https://www.fixmystreet.com/report/4210133)
-- Road works, 6th February :- [https://www.fixmystreet.com/report/4209221](https://www.fixmystreet.com/report/4209221)
-- Old road repair subsiding, 6th February :- [https://www.fixmystreet.com/report/4208853](https://www.fixmystreet.com/report/4208853)
 
 <!-- fix_marker ends -->
