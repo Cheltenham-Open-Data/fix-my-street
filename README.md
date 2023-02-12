@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lower end of Rosehill street is developing potholes and bumps, 12th February :- [https://www.fixmystreet.com/report/4225785](https://www.fixmystreet.com/report/4225785)
+- Pavement outside 77 developing a hole., 12th February :- [https://www.fixmystreet.com/report/4225770](https://www.fixmystreet.com/report/4225770)
 - Graffiti on bench, 11th February :- [https://www.fixmystreet.com/report/4223626](https://www.fixmystreet.com/report/4223626)
 - Large and deep pothole., 11th February :- [https://www.fixmystreet.com/report/4223532](https://www.fixmystreet.com/report/4223532)
 - From Two Hedges Road end of Kayte Lane to Bishops Cleeve Football Club there are numerous potholes., 11th February :- [https://www.fixmystreet.com/report/4222502](https://www.fixmystreet.com/report/4222502)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two Road works signs at Location for at least last 4 Months, 7th February :- [https://www.fixmystreet.com/report/4212373](https://www.fixmystreet.com/report/4212373)
 - Broken slab around stopcock outside 17 Bisley Road. My 98 year-old neighbour is concerned the slab might break the stopcock, 7th February :- [https://www.fixmystreet.com/report/4211545](https://www.fixmystreet.com/report/4211545)
 - Numerous potholes and broken road surface., 7th February :- [https://www.fixmystreet.com/report/4211409](https://www.fixmystreet.com/report/4211409)
-- Outside School entrance, 7th February :- [https://www.fixmystreet.com/report/4210417](https://www.fixmystreet.com/report/4210417)
-- Half a job, 7th February :- [https://www.fixmystreet.com/report/4210144](https://www.fixmystreet.com/report/4210144)
 
 <!-- fix_marker ends -->
