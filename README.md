@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot hole repair sub standard, 13th February :- [https://www.fixmystreet.com/report/4229331](https://www.fixmystreet.com/report/4229331)
+- Large potholes, 13th February :- [https://www.fixmystreet.com/report/4229274](https://www.fixmystreet.com/report/4229274)
+- Numerous Street lights not working, 13th February :- [https://www.fixmystreet.com/report/4229166](https://www.fixmystreet.com/report/4229166)
+- Gang grafitti, 13th February :- [https://www.fixmystreet.com/report/4229085](https://www.fixmystreet.com/report/4229085)
+- Cars parking on pavements, blocking dropped curbs, 13th February :- [https://www.fixmystreet.com/report/4229074](https://www.fixmystreet.com/report/4229074)
+- Sinkhole and potholes, 13th February :- [https://www.fixmystreet.com/report/4229059](https://www.fixmystreet.com/report/4229059)
+- Burned out, 13th February :- [https://www.fixmystreet.com/report/4227706](https://www.fixmystreet.com/report/4227706)
+- Filthy pavements,litter,overgrown pavement, 13th February :- [https://www.fixmystreet.com/report/4226983](https://www.fixmystreet.com/report/4226983)
+- Flytipped mattress and sofa, 13th February :- [https://www.fixmystreet.com/report/4226923](https://www.fixmystreet.com/report/4226923)
 - Lower end of Rosehill street is developing potholes and bumps, 12th February :- [https://www.fixmystreet.com/report/4225785](https://www.fixmystreet.com/report/4225785)
 - Pavement outside 77 developing a hole., 12th February :- [https://www.fixmystreet.com/report/4225770](https://www.fixmystreet.com/report/4225770)
 - Graffiti on bench, 11th February :- [https://www.fixmystreet.com/report/4223626](https://www.fixmystreet.com/report/4223626)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole on the bend, 9th February :- [https://www.fixmystreet.com/report/4218646](https://www.fixmystreet.com/report/4218646)
 - Bricks on the roadabout, 9th February :- [https://www.fixmystreet.com/report/4218640](https://www.fixmystreet.com/report/4218640)
 - Abanonded small motor bike (DF70XBU), 9th February :- [https://www.fixmystreet.com/report/4217924](https://www.fixmystreet.com/report/4217924)
-- Road sign, (LH Bend), has been knocked over. Black and white poles need fixing., 9th February :- [https://www.fixmystreet.com/report/4217912](https://www.fixmystreet.com/report/4217912)
-- Rubbish in foothpath, 8th February :- [https://www.fixmystreet.com/report/4215814](https://www.fixmystreet.com/report/4215814)
-- Large pothole 4-6" deep, 8th February :- [https://www.fixmystreet.com/report/4214684](https://www.fixmystreet.com/report/4214684)
-- Vehicle illegally parked on verge, 8th February :- [https://www.fixmystreet.com/report/4214369](https://www.fixmystreet.com/report/4214369)
-- 4 Lights Out, 7th February :- [https://www.fixmystreet.com/report/4213069](https://www.fixmystreet.com/report/4213069)
-- Not working, 7th February :- [https://www.fixmystreet.com/report/4212630](https://www.fixmystreet.com/report/4212630)
-- Two Road works signs at Location for at least last 4 Months, 7th February :- [https://www.fixmystreet.com/report/4212373](https://www.fixmystreet.com/report/4212373)
-- Broken slab around stopcock outside 17 Bisley Road. My 98 year-old neighbour is concerned the slab might break the stopcock, 7th February :- [https://www.fixmystreet.com/report/4211545](https://www.fixmystreet.com/report/4211545)
-- Numerous potholes and broken road surface., 7th February :- [https://www.fixmystreet.com/report/4211409](https://www.fixmystreet.com/report/4211409)
 
 <!-- fix_marker ends -->
