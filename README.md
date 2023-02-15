@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole in the centre of Copt elm road, 14th February :- [https://www.fixmystreet.com/report/4233123](https://www.fixmystreet.com/report/4233123)
 - Potholes along a big stretch of road, 14th February :- [https://www.fixmystreet.com/report/4232697](https://www.fixmystreet.com/report/4232697)
 - Loads of big and deep potholes, 14th February :- [https://www.fixmystreet.com/report/4232684](https://www.fixmystreet.com/report/4232684)
 - Huge deep square pothole, 14th February :- [https://www.fixmystreet.com/report/4232677](https://www.fixmystreet.com/report/4232677)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sinkhole and potholes, 13th February :- [https://www.fixmystreet.com/report/4229059](https://www.fixmystreet.com/report/4229059)
 - Burned out, 13th February :- [https://www.fixmystreet.com/report/4227706](https://www.fixmystreet.com/report/4227706)
 - Filthy pavements,litter,overgrown pavement, 13th February :- [https://www.fixmystreet.com/report/4226983](https://www.fixmystreet.com/report/4226983)
-- Flytipped mattress and sofa, 13th February :- [https://www.fixmystreet.com/report/4226923](https://www.fixmystreet.com/report/4226923)
 
 <!-- fix_marker ends -->
