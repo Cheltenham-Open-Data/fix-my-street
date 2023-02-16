@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Beer cans - again, 15th February :- [https://www.fixmystreet.com/report/4236222](https://www.fixmystreet.com/report/4236222)
 - Large dip / sinkhole returning, 15th February :- [https://www.fixmystreet.com/report/4234096](https://www.fixmystreet.com/report/4234096)
 - Very wide pothole, 15th February :- [https://www.fixmystreet.com/report/4234085](https://www.fixmystreet.com/report/4234085)
 - Pothole, 15th February :- [https://www.fixmystreet.com/report/4234076](https://www.fixmystreet.com/report/4234076)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two large tears in road, 15th February :- [https://www.fixmystreet.com/report/4233946](https://www.fixmystreet.com/report/4233946)
 - Gouge at repair join, 15th February :- [https://www.fixmystreet.com/report/4233942](https://www.fixmystreet.com/report/4233942)
 - Collection of small potholes and damage, 15th February :- [https://www.fixmystreet.com/report/4233934](https://www.fixmystreet.com/report/4233934)
-- Smaller pothole on princes street, 15th February :- [https://www.fixmystreet.com/report/4233926](https://www.fixmystreet.com/report/4233926)
 
 <!-- fix_marker ends -->
