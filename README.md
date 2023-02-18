@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- River cleaning - DOLL and plastic waste, 18th February :- [https://www.fixmystreet.com/report/4243310](https://www.fixmystreet.com/report/4243310)
+- Pothole in Albany Road, 18th February :- [https://www.fixmystreet.com/report/4243244](https://www.fixmystreet.com/report/4243244)
 - Severely damaged road, 17th February :- [https://www.fixmystreet.com/report/4242601](https://www.fixmystreet.com/report/4242601)
 - Deep pothole outside number 149 Ciren Rs, 17th February :- [https://www.fixmystreet.com/report/4241384](https://www.fixmystreet.com/report/4241384)
 - Shocking road surface - many areas, 17th February :- [https://www.fixmystreet.com/report/4240138](https://www.fixmystreet.com/report/4240138)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large patch of damaged road, 15th February :- [https://www.fixmystreet.com/report/4234021](https://www.fixmystreet.com/report/4234021)
 - Shallow pothole, 15th February :- [https://www.fixmystreet.com/report/4233981](https://www.fixmystreet.com/report/4233981)
 - Wide pothole, 15th February :- [https://www.fixmystreet.com/report/4233976](https://www.fixmystreet.com/report/4233976)
-- 3 small potholes, 15th February :- [https://www.fixmystreet.com/report/4233970](https://www.fixmystreet.com/report/4233970)
-- Wide pothole as road crumbles, 15th February :- [https://www.fixmystreet.com/report/4233966](https://www.fixmystreet.com/report/4233966)
 
 <!-- fix_marker ends -->
