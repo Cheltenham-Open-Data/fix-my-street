@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Weak point threatening integrity of surface dressing, 19th February :- [https://www.fixmystreet.com/report/4246015](https://www.fixmystreet.com/report/4246015)
+- Dismantled kitchen, 19th February :- [https://www.fixmystreet.com/report/4245531](https://www.fixmystreet.com/report/4245531)
 - River cleaning - DOLL and plastic waste, 18th February :- [https://www.fixmystreet.com/report/4243310](https://www.fixmystreet.com/report/4243310)
 - Pothole in Albany Road, 18th February :- [https://www.fixmystreet.com/report/4243244](https://www.fixmystreet.com/report/4243244)
 - Severely damaged road, 17th February :- [https://www.fixmystreet.com/report/4242601](https://www.fixmystreet.com/report/4242601)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 15th February :- [https://www.fixmystreet.com/report/4234033](https://www.fixmystreet.com/report/4234033)
 - Two wide potholes, 15th February :- [https://www.fixmystreet.com/report/4234028](https://www.fixmystreet.com/report/4234028)
 - Large patch of damaged road, 15th February :- [https://www.fixmystreet.com/report/4234021](https://www.fixmystreet.com/report/4234021)
-- Shallow pothole, 15th February :- [https://www.fixmystreet.com/report/4233981](https://www.fixmystreet.com/report/4233981)
-- Wide pothole, 15th February :- [https://www.fixmystreet.com/report/4233976](https://www.fixmystreet.com/report/4233976)
 
 <!-- fix_marker ends -->
