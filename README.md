@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sunken gully and cover - end of Chatsworth Drive, 20th February :- [https://www.fixmystreet.com/report/4249496](https://www.fixmystreet.com/report/4249496)
+- Large Flytip at Location - Again!, 20th February :- [https://www.fixmystreet.com/report/4247399](https://www.fixmystreet.com/report/4247399)
+- 2 potholes, 20th February :- [https://www.fixmystreet.com/report/4247263](https://www.fixmystreet.com/report/4247263)
+- Road needs resurfacing, 20th February :- [https://www.fixmystreet.com/report/4246924](https://www.fixmystreet.com/report/4246924)
 - Weak point threatening integrity of surface dressing, 19th February :- [https://www.fixmystreet.com/report/4246015](https://www.fixmystreet.com/report/4246015)
 - Dismantled kitchen, 19th February :- [https://www.fixmystreet.com/report/4245531](https://www.fixmystreet.com/report/4245531)
 - River cleaning - DOLL and plastic waste, 18th February :- [https://www.fixmystreet.com/report/4243310](https://www.fixmystreet.com/report/4243310)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sinkhole forming on large stretch, 15th February :- [https://www.fixmystreet.com/report/4234069](https://www.fixmystreet.com/report/4234069)
 - About 8 potholes and road tears, 15th February :- [https://www.fixmystreet.com/report/4234057](https://www.fixmystreet.com/report/4234057)
 - Two small potholes, 15th February :- [https://www.fixmystreet.com/report/4234050](https://www.fixmystreet.com/report/4234050)
-- Two more large potholes, 15th February :- [https://www.fixmystreet.com/report/4234038](https://www.fixmystreet.com/report/4234038)
-- Pothole, 15th February :- [https://www.fixmystreet.com/report/4234033](https://www.fixmystreet.com/report/4234033)
-- Two wide potholes, 15th February :- [https://www.fixmystreet.com/report/4234028](https://www.fixmystreet.com/report/4234028)
-- Large patch of damaged road, 15th February :- [https://www.fixmystreet.com/report/4234021](https://www.fixmystreet.com/report/4234021)
 
 <!-- fix_marker ends -->
