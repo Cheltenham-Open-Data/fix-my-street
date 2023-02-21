@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road condition, 21st February :- [https://www.fixmystreet.com/report/4252036](https://www.fixmystreet.com/report/4252036)
+- General rubbish dumping, 21st February :- [https://www.fixmystreet.com/report/4251510](https://www.fixmystreet.com/report/4251510)
+- Dumped settee, 21st February :- [https://www.fixmystreet.com/report/4251487](https://www.fixmystreet.com/report/4251487)
 - Sunken gully and cover - end of Chatsworth Drive, 20th February :- [https://www.fixmystreet.com/report/4249496](https://www.fixmystreet.com/report/4249496)
 - Large Flytip at Location - Again!, 20th February :- [https://www.fixmystreet.com/report/4247399](https://www.fixmystreet.com/report/4247399)
 - 2 potholes, 20th February :- [https://www.fixmystreet.com/report/4247263](https://www.fixmystreet.com/report/4247263)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large dip / sinkhole returning, 15th February :- [https://www.fixmystreet.com/report/4234096](https://www.fixmystreet.com/report/4234096)
 - Very wide pothole, 15th February :- [https://www.fixmystreet.com/report/4234085](https://www.fixmystreet.com/report/4234085)
 - Pothole, 15th February :- [https://www.fixmystreet.com/report/4234076](https://www.fixmystreet.com/report/4234076)
-- Sinkhole forming on large stretch, 15th February :- [https://www.fixmystreet.com/report/4234069](https://www.fixmystreet.com/report/4234069)
-- About 8 potholes and road tears, 15th February :- [https://www.fixmystreet.com/report/4234057](https://www.fixmystreet.com/report/4234057)
-- Two small potholes, 15th February :- [https://www.fixmystreet.com/report/4234050](https://www.fixmystreet.com/report/4234050)
 
 <!-- fix_marker ends -->
