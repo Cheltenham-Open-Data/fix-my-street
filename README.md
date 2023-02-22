@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot hole at the end of Acomb crescent and bend of Glenfall way in the opposite side on the corner, 21st February :- [https://www.fixmystreet.com/report/4252949](https://www.fixmystreet.com/report/4252949)
 - Road condition, 21st February :- [https://www.fixmystreet.com/report/4252036](https://www.fixmystreet.com/report/4252036)
 - General rubbish dumping, 21st February :- [https://www.fixmystreet.com/report/4251510](https://www.fixmystreet.com/report/4251510)
 - Dumped settee, 21st February :- [https://www.fixmystreet.com/report/4251487](https://www.fixmystreet.com/report/4251487)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Beer cans - again, 15th February :- [https://www.fixmystreet.com/report/4236222](https://www.fixmystreet.com/report/4236222)
 - Large dip / sinkhole returning, 15th February :- [https://www.fixmystreet.com/report/4234096](https://www.fixmystreet.com/report/4234096)
 - Very wide pothole, 15th February :- [https://www.fixmystreet.com/report/4234085](https://www.fixmystreet.com/report/4234085)
-- Pothole, 15th February :- [https://www.fixmystreet.com/report/4234076](https://www.fixmystreet.com/report/4234076)
 
 <!-- fix_marker ends -->
