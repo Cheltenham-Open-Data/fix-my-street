@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bin needs emptying, 23rd February :- [https://www.fixmystreet.com/report/4257125](https://www.fixmystreet.com/report/4257125)
 - Vegetation growing over path, 22nd February :- [https://www.fixmystreet.com/report/4255516](https://www.fixmystreet.com/report/4255516)
 - Constant Failing Stretch of Road, 22nd February :- [https://www.fixmystreet.com/report/4255131](https://www.fixmystreet.com/report/4255131)
 - Pot hole at the end of Acomb crescent and bend of Glenfall way in the opposite side on the corner, 21st February :- [https://www.fixmystreet.com/report/4252949](https://www.fixmystreet.com/report/4252949)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Shocking road surface - many areas, 17th February :- [https://www.fixmystreet.com/report/4240138](https://www.fixmystreet.com/report/4240138)
 - Deep pothole just near speed bump, 17th February :- [https://www.fixmystreet.com/report/4239707](https://www.fixmystreet.com/report/4239707)
 - Flytip burnt Site, 16th February :- [https://www.fixmystreet.com/report/4238594](https://www.fixmystreet.com/report/4238594)
-- Beer cans - again, 15th February :- [https://www.fixmystreet.com/report/4236222](https://www.fixmystreet.com/report/4236222)
 
 <!-- fix_marker ends -->
