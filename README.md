@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytip at Location - added to!, 24th February :- [https://www.fixmystreet.com/report/4260273](https://www.fixmystreet.com/report/4260273)
+- Dog poo outside school, 24th February :- [https://www.fixmystreet.com/report/4260225](https://www.fixmystreet.com/report/4260225)
 - Bin needs emptying, 23rd February :- [https://www.fixmystreet.com/report/4257125](https://www.fixmystreet.com/report/4257125)
 - Vegetation growing over path, 22nd February :- [https://www.fixmystreet.com/report/4255516](https://www.fixmystreet.com/report/4255516)
 - Constant Failing Stretch of Road, 22nd February :- [https://www.fixmystreet.com/report/4255131](https://www.fixmystreet.com/report/4255131)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Severely damaged road, 17th February :- [https://www.fixmystreet.com/report/4242601](https://www.fixmystreet.com/report/4242601)
 - Deep pothole outside number 149 Ciren Rs, 17th February :- [https://www.fixmystreet.com/report/4241384](https://www.fixmystreet.com/report/4241384)
 - Shocking road surface - many areas, 17th February :- [https://www.fixmystreet.com/report/4240138](https://www.fixmystreet.com/report/4240138)
-- Deep pothole just near speed bump, 17th February :- [https://www.fixmystreet.com/report/4239707](https://www.fixmystreet.com/report/4239707)
-- Flytip burnt Site, 16th February :- [https://www.fixmystreet.com/report/4238594](https://www.fixmystreet.com/report/4238594)
 
 <!-- fix_marker ends -->
