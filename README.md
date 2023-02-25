@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dangerous road surface, 24th February :- [https://www.fixmystreet.com/report/4261719](https://www.fixmystreet.com/report/4261719)
 - Flytip at Location - added to!, 24th February :- [https://www.fixmystreet.com/report/4260273](https://www.fixmystreet.com/report/4260273)
 - Dog poo outside school, 24th February :- [https://www.fixmystreet.com/report/4260225](https://www.fixmystreet.com/report/4260225)
 - Bin needs emptying, 23rd February :- [https://www.fixmystreet.com/report/4257125](https://www.fixmystreet.com/report/4257125)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in Albany Road, 18th February :- [https://www.fixmystreet.com/report/4243244](https://www.fixmystreet.com/report/4243244)
 - Severely damaged road, 17th February :- [https://www.fixmystreet.com/report/4242601](https://www.fixmystreet.com/report/4242601)
 - Deep pothole outside number 149 Ciren Rs, 17th February :- [https://www.fixmystreet.com/report/4241384](https://www.fixmystreet.com/report/4241384)
-- Shocking road surface - many areas, 17th February :- [https://www.fixmystreet.com/report/4240138](https://www.fixmystreet.com/report/4240138)
 
 <!-- fix_marker ends -->
