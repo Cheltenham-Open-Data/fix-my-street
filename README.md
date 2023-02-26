@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road severely degrading, 25th February :- [https://www.fixmystreet.com/report/4263542](https://www.fixmystreet.com/report/4263542)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263413](https://www.fixmystreet.com/report/4263413)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263410](https://www.fixmystreet.com/report/4263410)
 - Litter!, 25th February :- [https://www.fixmystreet.com/report/4263354](https://www.fixmystreet.com/report/4263354)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot hole at the end of Acomb crescent and bend of Glenfall way in the opposite side on the corner, 21st February :- [https://www.fixmystreet.com/report/4252949](https://www.fixmystreet.com/report/4252949)
 - Road condition, 21st February :- [https://www.fixmystreet.com/report/4252036](https://www.fixmystreet.com/report/4252036)
 - General rubbish dumping, 21st February :- [https://www.fixmystreet.com/report/4251510](https://www.fixmystreet.com/report/4251510)
-- Dumped settee, 21st February :- [https://www.fixmystreet.com/report/4251487](https://www.fixmystreet.com/report/4251487)
 
 <!-- fix_marker ends -->
