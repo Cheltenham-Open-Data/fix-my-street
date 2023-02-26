@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bags just dumped, 26th February :- [https://www.fixmystreet.com/report/4264820](https://www.fixmystreet.com/report/4264820)
+- Pot hole, 26th February :- [https://www.fixmystreet.com/report/4264808](https://www.fixmystreet.com/report/4264808)
+- Pothole in Old Bath Road outside the tennis club, 26th February :- [https://www.fixmystreet.com/report/4264728](https://www.fixmystreet.com/report/4264728)
+- Pothole outside the village hall, 26th February :- [https://www.fixmystreet.com/report/4264720](https://www.fixmystreet.com/report/4264720)
+- Disrepair, 26th February :- [https://www.fixmystreet.com/report/4264605](https://www.fixmystreet.com/report/4264605)
 - Road severely degrading, 25th February :- [https://www.fixmystreet.com/report/4263542](https://www.fixmystreet.com/report/4263542)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263413](https://www.fixmystreet.com/report/4263413)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263410](https://www.fixmystreet.com/report/4263410)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytip at Location - added to!, 24th February :- [https://www.fixmystreet.com/report/4260273](https://www.fixmystreet.com/report/4260273)
 - Dog poo outside school, 24th February :- [https://www.fixmystreet.com/report/4260225](https://www.fixmystreet.com/report/4260225)
 - Bin needs emptying, 23rd February :- [https://www.fixmystreet.com/report/4257125](https://www.fixmystreet.com/report/4257125)
-- Vegetation growing over path, 22nd February :- [https://www.fixmystreet.com/report/4255516](https://www.fixmystreet.com/report/4255516)
-- Constant Failing Stretch of Road, 22nd February :- [https://www.fixmystreet.com/report/4255131](https://www.fixmystreet.com/report/4255131)
-- Pot hole at the end of Acomb crescent and bend of Glenfall way in the opposite side on the corner, 21st February :- [https://www.fixmystreet.com/report/4252949](https://www.fixmystreet.com/report/4252949)
-- Road condition, 21st February :- [https://www.fixmystreet.com/report/4252036](https://www.fixmystreet.com/report/4252036)
-- General rubbish dumping, 21st February :- [https://www.fixmystreet.com/report/4251510](https://www.fixmystreet.com/report/4251510)
 
 <!-- fix_marker ends -->
