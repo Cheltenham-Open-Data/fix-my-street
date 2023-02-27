@@ -7,6 +7,8 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in Old Bath Road outside the tennis club, 26th February :- [https://www.fixmystreet.com/report/4264728](https://www.fixmystreet.com/report/4264728)
 - Pothole outside the village hall, 26th February :- [https://www.fixmystreet.com/report/4264720](https://www.fixmystreet.com/report/4264720)
 - Disrepair, 26th February :- [https://www.fixmystreet.com/report/4264605](https://www.fixmystreet.com/report/4264605)
+- Potholes on bend and narrow road causing cars swerving, 26th February :- [https://www.fixmystreet.com/report/4264220](https://www.fixmystreet.com/report/4264220)
+- Dangerous drop at side of road, 26th February :- [https://www.fixmystreet.com/report/4264214](https://www.fixmystreet.com/report/4264214)
 - Road severely degrading, 25th February :- [https://www.fixmystreet.com/report/4263542](https://www.fixmystreet.com/report/4263542)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263413](https://www.fixmystreet.com/report/4263413)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263410](https://www.fixmystreet.com/report/4263410)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole jct 11a south middle lane, 25th February :- [https://www.fixmystreet.com/report/4262990](https://www.fixmystreet.com/report/4262990)
 - Dangerous road surface, 24th February :- [https://www.fixmystreet.com/report/4261719](https://www.fixmystreet.com/report/4261719)
 - Flytip at Location - added to!, 24th February :- [https://www.fixmystreet.com/report/4260273](https://www.fixmystreet.com/report/4260273)
-- Dog poo outside school, 24th February :- [https://www.fixmystreet.com/report/4260225](https://www.fixmystreet.com/report/4260225)
-- Bin needs emptying, 23rd February :- [https://www.fixmystreet.com/report/4257125](https://www.fixmystreet.com/report/4257125)
 
 <!-- fix_marker ends -->
