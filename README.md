@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sinking manhole chambers on crossroads, 28th February :- [https://www.fixmystreet.com/report/4269140](https://www.fixmystreet.com/report/4269140)
+- Sinking manhole chamber cover, 28th February :- [https://www.fixmystreet.com/report/4269133](https://www.fixmystreet.com/report/4269133)
 - Wooden Bollard rotted and wobbly, 27th February :- [https://www.fixmystreet.com/report/4268366](https://www.fixmystreet.com/report/4268366)
 - Road sign post rusted through and obscured, 27th February :- [https://www.fixmystreet.com/report/4268268](https://www.fixmystreet.com/report/4268268)
 - Fly tipping, 27th February :- [https://www.fixmystreet.com/report/4268259](https://www.fixmystreet.com/report/4268259)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerous drop at side of road, 26th February :- [https://www.fixmystreet.com/report/4264214](https://www.fixmystreet.com/report/4264214)
 - Road severely degrading, 25th February :- [https://www.fixmystreet.com/report/4263542](https://www.fixmystreet.com/report/4263542)
 - Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263413](https://www.fixmystreet.com/report/4263413)
-- Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263410](https://www.fixmystreet.com/report/4263410)
-- Litter!, 25th February :- [https://www.fixmystreet.com/report/4263354](https://www.fixmystreet.com/report/4263354)
 
 <!-- fix_marker ends -->
