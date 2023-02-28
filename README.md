@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Noisy manhole cover, 28th February :- [https://www.fixmystreet.com/report/4271484](https://www.fixmystreet.com/report/4271484)
+- Multiple potholes, 28th February :- [https://www.fixmystreet.com/report/4270005](https://www.fixmystreet.com/report/4270005)
+- Lamp post for on Goldsmith Road has been hit, 28th February :- [https://www.fixmystreet.com/report/4269374](https://www.fixmystreet.com/report/4269374)
 - Sinking manhole chambers on crossroads, 28th February :- [https://www.fixmystreet.com/report/4269140](https://www.fixmystreet.com/report/4269140)
 - Sinking manhole chamber cover, 28th February :- [https://www.fixmystreet.com/report/4269133](https://www.fixmystreet.com/report/4269133)
 - Wooden Bollard rotted and wobbly, 27th February :- [https://www.fixmystreet.com/report/4268366](https://www.fixmystreet.com/report/4268366)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole outside the village hall, 26th February :- [https://www.fixmystreet.com/report/4264720](https://www.fixmystreet.com/report/4264720)
 - Disrepair, 26th February :- [https://www.fixmystreet.com/report/4264605](https://www.fixmystreet.com/report/4264605)
 - Potholes on bend and narrow road causing cars swerving, 26th February :- [https://www.fixmystreet.com/report/4264220](https://www.fixmystreet.com/report/4264220)
-- Dangerous drop at side of road, 26th February :- [https://www.fixmystreet.com/report/4264214](https://www.fixmystreet.com/report/4264214)
-- Road severely degrading, 25th February :- [https://www.fixmystreet.com/report/4263542](https://www.fixmystreet.com/report/4263542)
-- Excessive littering, 25th February :- [https://www.fixmystreet.com/report/4263413](https://www.fixmystreet.com/report/4263413)
 
 <!-- fix_marker ends -->
