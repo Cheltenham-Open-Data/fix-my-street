@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing traffic lights not working, 1st March :- [https://www.fixmystreet.com/report/4273445](https://www.fixmystreet.com/report/4273445)
+- 100s of bottles, cans, fast food wrappers, plastic in roadside ditches, 1st March :- [https://www.fixmystreet.com/report/4273444](https://www.fixmystreet.com/report/4273444)
 - Noisy manhole cover, 28th February :- [https://www.fixmystreet.com/report/4271484](https://www.fixmystreet.com/report/4271484)
 - Multiple potholes, 28th February :- [https://www.fixmystreet.com/report/4270005](https://www.fixmystreet.com/report/4270005)
 - Lamp post for on Goldsmith Road has been hit, 28th February :- [https://www.fixmystreet.com/report/4269374](https://www.fixmystreet.com/report/4269374)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot hole, 26th February :- [https://www.fixmystreet.com/report/4264808](https://www.fixmystreet.com/report/4264808)
 - Pothole in Old Bath Road outside the tennis club, 26th February :- [https://www.fixmystreet.com/report/4264728](https://www.fixmystreet.com/report/4264728)
 - Pothole outside the village hall, 26th February :- [https://www.fixmystreet.com/report/4264720](https://www.fixmystreet.com/report/4264720)
-- Disrepair, 26th February :- [https://www.fixmystreet.com/report/4264605](https://www.fixmystreet.com/report/4264605)
-- Potholes on bend and narrow road causing cars swerving, 26th February :- [https://www.fixmystreet.com/report/4264220](https://www.fixmystreet.com/report/4264220)
 
 <!-- fix_marker ends -->
