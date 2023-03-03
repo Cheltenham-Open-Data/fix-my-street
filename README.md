@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large holes in road, 3rd March :- [https://www.fixmystreet.com/report/4278301](https://www.fixmystreet.com/report/4278301)
+- Abandoned Car, 2nd March :- [https://www.fixmystreet.com/report/4277947](https://www.fixmystreet.com/report/4277947)
 - Pedestrian crossing traffic lights not working, 1st March :- [https://www.fixmystreet.com/report/4273445](https://www.fixmystreet.com/report/4273445)
 - 100s of bottles, cans, fast food wrappers, plastic in roadside ditches, 1st March :- [https://www.fixmystreet.com/report/4273444](https://www.fixmystreet.com/report/4273444)
 - Noisy manhole cover, 28th February :- [https://www.fixmystreet.com/report/4271484](https://www.fixmystreet.com/report/4271484)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic cones in brook, 27th February :- [https://www.fixmystreet.com/report/4265986](https://www.fixmystreet.com/report/4265986)
 - Bags just dumped, 26th February :- [https://www.fixmystreet.com/report/4264820](https://www.fixmystreet.com/report/4264820)
 - Pot hole, 26th February :- [https://www.fixmystreet.com/report/4264808](https://www.fixmystreet.com/report/4264808)
-- Pothole in Old Bath Road outside the tennis club, 26th February :- [https://www.fixmystreet.com/report/4264728](https://www.fixmystreet.com/report/4264728)
-- Pothole outside the village hall, 26th February :- [https://www.fixmystreet.com/report/4264720](https://www.fixmystreet.com/report/4264720)
 
 <!-- fix_marker ends -->
