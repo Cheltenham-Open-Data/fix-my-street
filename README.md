@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes, 3rd March :- [https://www.fixmystreet.com/report/4280116](https://www.fixmystreet.com/report/4280116)
+- Large metal object in lake, 3rd March :- [https://www.fixmystreet.com/report/4279011](https://www.fixmystreet.com/report/4279011)
 - Large holes in road, 3rd March :- [https://www.fixmystreet.com/report/4278301](https://www.fixmystreet.com/report/4278301)
 - Abandoned Car, 2nd March :- [https://www.fixmystreet.com/report/4277947](https://www.fixmystreet.com/report/4277947)
 - Pedestrian crossing traffic lights not working, 1st March :- [https://www.fixmystreet.com/report/4273445](https://www.fixmystreet.com/report/4273445)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned highway construction sign, 27th February :- [https://www.fixmystreet.com/report/4266971](https://www.fixmystreet.com/report/4266971)
 - Road sign is Edinburgh Place pushed over, 27th February :- [https://www.fixmystreet.com/report/4266091](https://www.fixmystreet.com/report/4266091)
 - Traffic cones in brook, 27th February :- [https://www.fixmystreet.com/report/4265986](https://www.fixmystreet.com/report/4265986)
-- Bags just dumped, 26th February :- [https://www.fixmystreet.com/report/4264820](https://www.fixmystreet.com/report/4264820)
-- Pot hole, 26th February :- [https://www.fixmystreet.com/report/4264808](https://www.fixmystreet.com/report/4264808)
 
 <!-- fix_marker ends -->
