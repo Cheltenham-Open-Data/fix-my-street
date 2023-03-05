@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Missing tree, 4th March :- [https://www.fixmystreet.com/report/4282705](https://www.fixmystreet.com/report/4282705)
 - Blocked drain, 4th March :- [https://www.fixmystreet.com/report/4282477](https://www.fixmystreet.com/report/4282477)
 - Poor condition caravan blocking pavement, 4th March :- [https://www.fixmystreet.com/report/4282295](https://www.fixmystreet.com/report/4282295)
 - 2 large pot holes, 4th March :- [https://www.fixmystreet.com/report/4282250](https://www.fixmystreet.com/report/4282250)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pedestrian crossing traffic lights not working, 1st March :- [https://www.fixmystreet.com/report/4273445](https://www.fixmystreet.com/report/4273445)
 - 100s of bottles, cans, fast food wrappers, plastic in roadside ditches, 1st March :- [https://www.fixmystreet.com/report/4273444](https://www.fixmystreet.com/report/4273444)
 - Noisy manhole cover, 28th February :- [https://www.fixmystreet.com/report/4271484](https://www.fixmystreet.com/report/4271484)
-- Multiple potholes, 28th February :- [https://www.fixmystreet.com/report/4270005](https://www.fixmystreet.com/report/4270005)
 
 <!-- fix_marker ends -->
