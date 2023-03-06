@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian Crossing Not Working, 5th March :- [https://www.fixmystreet.com/report/4284782](https://www.fixmystreet.com/report/4284782)
 - Junction littered with potholes, 5th March :- [https://www.fixmystreet.com/report/4283767](https://www.fixmystreet.com/report/4283767)
 - Long pothole, 5th March :- [https://www.fixmystreet.com/report/4283762](https://www.fixmystreet.com/report/4283762)
 - Another hole on Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283755](https://www.fixmystreet.com/report/4283755)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road Closed sign abandoned, 5th March :- [https://www.fixmystreet.com/report/4283199](https://www.fixmystreet.com/report/4283199)
 - Missing tree, 4th March :- [https://www.fixmystreet.com/report/4282705](https://www.fixmystreet.com/report/4282705)
 - Blocked drain, 4th March :- [https://www.fixmystreet.com/report/4282477](https://www.fixmystreet.com/report/4282477)
-- Poor condition caravan blocking pavement, 4th March :- [https://www.fixmystreet.com/report/4282295](https://www.fixmystreet.com/report/4282295)
 
 <!-- fix_marker ends -->
