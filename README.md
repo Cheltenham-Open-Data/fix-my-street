@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pitholes, 6th March :- [https://www.fixmystreet.com/report/4287506](https://www.fixmystreet.com/report/4287506)
+- YET another Flytip, 6th March :- [https://www.fixmystreet.com/report/4287253](https://www.fixmystreet.com/report/4287253)
+- Leaves needing clearance, 6th March :- [https://www.fixmystreet.com/report/4285963](https://www.fixmystreet.com/report/4285963)
+- Discarded civils, 6th March :- [https://www.fixmystreet.com/report/4285839](https://www.fixmystreet.com/report/4285839)
+- Pot hole down to sub stone layer, 6th March :- [https://www.fixmystreet.com/report/4285585](https://www.fixmystreet.com/report/4285585)
+- Large sunken area and pothole, 6th March :- [https://www.fixmystreet.com/report/4285326](https://www.fixmystreet.com/report/4285326)
+- Black sofa, 6th March :- [https://www.fixmystreet.com/report/4285101](https://www.fixmystreet.com/report/4285101)
 - Pedestrian Crossing Not Working, 5th March :- [https://www.fixmystreet.com/report/4284782](https://www.fixmystreet.com/report/4284782)
 - Junction littered with potholes, 5th March :- [https://www.fixmystreet.com/report/4283767](https://www.fixmystreet.com/report/4283767)
 - Long pothole, 5th March :- [https://www.fixmystreet.com/report/4283762](https://www.fixmystreet.com/report/4283762)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - One of many potholes in Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283724](https://www.fixmystreet.com/report/4283724)
 - Corner sign fallen down, 5th March :- [https://www.fixmystreet.com/report/4283685](https://www.fixmystreet.com/report/4283685)
 - Litter, 5th March :- [https://www.fixmystreet.com/report/4283678](https://www.fixmystreet.com/report/4283678)
-- Vegetation overhangs footpath, 5th March :- [https://www.fixmystreet.com/report/4283554](https://www.fixmystreet.com/report/4283554)
-- 4 Potholes as Road Narrows, 5th March :- [https://www.fixmystreet.com/report/4283549](https://www.fixmystreet.com/report/4283549)
-- Large amount of litter at entrance to Nortenham Allotments 5.3.23, 5th March :- [https://www.fixmystreet.com/report/4283224](https://www.fixmystreet.com/report/4283224)
-- Verge litter B4079 Seven Bends 5.3.23, 5th March :- [https://www.fixmystreet.com/report/4283205](https://www.fixmystreet.com/report/4283205)
-- Road Closed sign abandoned, 5th March :- [https://www.fixmystreet.com/report/4283199](https://www.fixmystreet.com/report/4283199)
-- Missing tree, 4th March :- [https://www.fixmystreet.com/report/4282705](https://www.fixmystreet.com/report/4282705)
-- Blocked drain, 4th March :- [https://www.fixmystreet.com/report/4282477](https://www.fixmystreet.com/report/4282477)
 
 <!-- fix_marker ends -->
