@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole near the lay-by when travelling towards Gloucester from Cheltenham, 6th March :- [https://www.fixmystreet.com/report/4288144](https://www.fixmystreet.com/report/4288144)
 - Pitholes, 6th March :- [https://www.fixmystreet.com/report/4287506](https://www.fixmystreet.com/report/4287506)
 - YET another Flytip, 6th March :- [https://www.fixmystreet.com/report/4287253](https://www.fixmystreet.com/report/4287253)
 - Leaves needing clearance, 6th March :- [https://www.fixmystreet.com/report/4285963](https://www.fixmystreet.com/report/4285963)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole - Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283732](https://www.fixmystreet.com/report/4283732)
 - One of many potholes in Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283724](https://www.fixmystreet.com/report/4283724)
 - Corner sign fallen down, 5th March :- [https://www.fixmystreet.com/report/4283685](https://www.fixmystreet.com/report/4283685)
-- Litter, 5th March :- [https://www.fixmystreet.com/report/4283678](https://www.fixmystreet.com/report/4283678)
 
 <!-- fix_marker ends -->
