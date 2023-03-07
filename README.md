@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes Everest Road, 7th March :- [https://www.fixmystreet.com/report/4290370](https://www.fixmystreet.com/report/4290370)
+- Failure to restore path and verge following cable works, 7th March :- [https://www.fixmystreet.com/report/4290230](https://www.fixmystreet.com/report/4290230)
+- Road falling apart, 7th March :- [https://www.fixmystreet.com/report/4290064](https://www.fixmystreet.com/report/4290064)
+- Road full of potholes, 7th March :- [https://www.fixmystreet.com/report/4290056](https://www.fixmystreet.com/report/4290056)
+- Parking cars on the corner, 7th March :- [https://www.fixmystreet.com/report/4290009](https://www.fixmystreet.com/report/4290009)
+- Blocked drain, 7th March :- [https://www.fixmystreet.com/report/4289458](https://www.fixmystreet.com/report/4289458)
+- 2 long and deep Potholes in middle of the road, 7th March :- [https://www.fixmystreet.com/report/4289391](https://www.fixmystreet.com/report/4289391)
+- Very long pothole, 7th March :- [https://www.fixmystreet.com/report/4289358](https://www.fixmystreet.com/report/4289358)
+- Blocked drain, 7th March :- [https://www.fixmystreet.com/report/4289349](https://www.fixmystreet.com/report/4289349)
+- 2 potholes at junction of All Saints Villa Road, 7th March :- [https://www.fixmystreet.com/report/4289341](https://www.fixmystreet.com/report/4289341)
+- Dog fouling, 7th March :- [https://www.fixmystreet.com/report/4288604](https://www.fixmystreet.com/report/4288604)
 - Pothole near the lay-by when travelling towards Gloucester from Cheltenham, 6th March :- [https://www.fixmystreet.com/report/4288144](https://www.fixmystreet.com/report/4288144)
 - Pitholes, 6th March :- [https://www.fixmystreet.com/report/4287506](https://www.fixmystreet.com/report/4287506)
 - YET another Flytip, 6th March :- [https://www.fixmystreet.com/report/4287253](https://www.fixmystreet.com/report/4287253)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large sunken area and pothole, 6th March :- [https://www.fixmystreet.com/report/4285326](https://www.fixmystreet.com/report/4285326)
 - Black sofa, 6th March :- [https://www.fixmystreet.com/report/4285101](https://www.fixmystreet.com/report/4285101)
 - Pedestrian Crossing Not Working, 5th March :- [https://www.fixmystreet.com/report/4284782](https://www.fixmystreet.com/report/4284782)
-- Junction littered with potholes, 5th March :- [https://www.fixmystreet.com/report/4283767](https://www.fixmystreet.com/report/4283767)
-- Long pothole, 5th March :- [https://www.fixmystreet.com/report/4283762](https://www.fixmystreet.com/report/4283762)
-- Another hole on Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283755](https://www.fixmystreet.com/report/4283755)
-- Pothole Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283752](https://www.fixmystreet.com/report/4283752)
-- Pothole - road collapsed, 5th March :- [https://www.fixmystreet.com/report/4283750](https://www.fixmystreet.com/report/4283750)
-- Long pothole in Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283744](https://www.fixmystreet.com/report/4283744)
-- Pothole Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283739](https://www.fixmystreet.com/report/4283739)
-- Pothole Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283736](https://www.fixmystreet.com/report/4283736)
-- Pothole - Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283732](https://www.fixmystreet.com/report/4283732)
-- One of many potholes in Reddings Road, 5th March :- [https://www.fixmystreet.com/report/4283724](https://www.fixmystreet.com/report/4283724)
-- Corner sign fallen down, 5th March :- [https://www.fixmystreet.com/report/4283685](https://www.fixmystreet.com/report/4283685)
 
 <!-- fix_marker ends -->
