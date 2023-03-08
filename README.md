@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlight has outside number 4 Little Grebe Road working/not working intermittently, 7th March :- [https://www.fixmystreet.com/report/4291096](https://www.fixmystreet.com/report/4291096)
 - Multiple potholes Everest Road, 7th March :- [https://www.fixmystreet.com/report/4290370](https://www.fixmystreet.com/report/4290370)
 - Failure to restore path and verge following cable works, 7th March :- [https://www.fixmystreet.com/report/4290230](https://www.fixmystreet.com/report/4290230)
 - Road falling apart, 7th March :- [https://www.fixmystreet.com/report/4290064](https://www.fixmystreet.com/report/4290064)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot hole down to sub stone layer, 6th March :- [https://www.fixmystreet.com/report/4285585](https://www.fixmystreet.com/report/4285585)
 - Large sunken area and pothole, 6th March :- [https://www.fixmystreet.com/report/4285326](https://www.fixmystreet.com/report/4285326)
 - Black sofa, 6th March :- [https://www.fixmystreet.com/report/4285101](https://www.fixmystreet.com/report/4285101)
-- Pedestrian Crossing Not Working, 5th March :- [https://www.fixmystreet.com/report/4284782](https://www.fixmystreet.com/report/4284782)
 
 <!-- fix_marker ends -->
