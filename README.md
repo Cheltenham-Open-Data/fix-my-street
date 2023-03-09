@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Manhole cover, 9th March :- [https://www.fixmystreet.com/report/4296016](https://www.fixmystreet.com/report/4296016)
+- Pothole, 9th March :- [https://www.fixmystreet.com/report/4296007](https://www.fixmystreet.com/report/4296007)
+- Potholes, 9th March :- [https://www.fixmystreet.com/report/4296003](https://www.fixmystreet.com/report/4296003)
+- Potholes, 9th March :- [https://www.fixmystreet.com/report/4296000](https://www.fixmystreet.com/report/4296000)
+- Road in poor condition, 9th March :- [https://www.fixmystreet.com/report/4295995](https://www.fixmystreet.com/report/4295995)
 - Shopping trolleys on top of sign post., 8th March :- [https://www.fixmystreet.com/report/4293611](https://www.fixmystreet.com/report/4293611)
 - Bushes growing into the road, 8th March :- [https://www.fixmystreet.com/report/4292202](https://www.fixmystreet.com/report/4292202)
 - Streetlight has outside number 4 Little Grebe Road working/not working intermittently, 7th March :- [https://www.fixmystreet.com/report/4291096](https://www.fixmystreet.com/report/4291096)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 potholes at junction of All Saints Villa Road, 7th March :- [https://www.fixmystreet.com/report/4289341](https://www.fixmystreet.com/report/4289341)
 - Dog fouling, 7th March :- [https://www.fixmystreet.com/report/4288604](https://www.fixmystreet.com/report/4288604)
 - Pothole near the lay-by when travelling towards Gloucester from Cheltenham, 6th March :- [https://www.fixmystreet.com/report/4288144](https://www.fixmystreet.com/report/4288144)
-- Pitholes, 6th March :- [https://www.fixmystreet.com/report/4287506](https://www.fixmystreet.com/report/4287506)
-- YET another Flytip, 6th March :- [https://www.fixmystreet.com/report/4287253](https://www.fixmystreet.com/report/4287253)
-- Leaves needing clearance, 6th March :- [https://www.fixmystreet.com/report/4285963](https://www.fixmystreet.com/report/4285963)
-- Discarded civils, 6th March :- [https://www.fixmystreet.com/report/4285839](https://www.fixmystreet.com/report/4285839)
-- Pot hole down to sub stone layer, 6th March :- [https://www.fixmystreet.com/report/4285585](https://www.fixmystreet.com/report/4285585)
 
 <!-- fix_marker ends -->
