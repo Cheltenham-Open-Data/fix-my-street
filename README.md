@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drain outside 311 Old Bath Road, 10th March :- [https://www.fixmystreet.com/report/4296886](https://www.fixmystreet.com/report/4296886)
+- More potholes, 9th March :- [https://www.fixmystreet.com/report/4296440](https://www.fixmystreet.com/report/4296440)
+- Pothole is back again, 9th March :- [https://www.fixmystreet.com/report/4296437](https://www.fixmystreet.com/report/4296437)
 - Manhole cover, 9th March :- [https://www.fixmystreet.com/report/4296016](https://www.fixmystreet.com/report/4296016)
 - Pothole, 9th March :- [https://www.fixmystreet.com/report/4296007](https://www.fixmystreet.com/report/4296007)
 - Potholes, 9th March :- [https://www.fixmystreet.com/report/4296003](https://www.fixmystreet.com/report/4296003)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 long and deep Potholes in middle of the road, 7th March :- [https://www.fixmystreet.com/report/4289391](https://www.fixmystreet.com/report/4289391)
 - Very long pothole, 7th March :- [https://www.fixmystreet.com/report/4289358](https://www.fixmystreet.com/report/4289358)
 - Blocked drain, 7th March :- [https://www.fixmystreet.com/report/4289349](https://www.fixmystreet.com/report/4289349)
-- 2 potholes at junction of All Saints Villa Road, 7th March :- [https://www.fixmystreet.com/report/4289341](https://www.fixmystreet.com/report/4289341)
-- Dog fouling, 7th March :- [https://www.fixmystreet.com/report/4288604](https://www.fixmystreet.com/report/4288604)
-- Pothole near the lay-by when travelling towards Gloucester from Cheltenham, 6th March :- [https://www.fixmystreet.com/report/4288144](https://www.fixmystreet.com/report/4288144)
 
 <!-- fix_marker ends -->
