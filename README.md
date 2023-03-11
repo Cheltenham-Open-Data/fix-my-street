@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Clanking drain, again., 10th March :- [https://www.fixmystreet.com/report/4300057](https://www.fixmystreet.com/report/4300057)
+- Deep and large pothole, 10th March :- [https://www.fixmystreet.com/report/4300047](https://www.fixmystreet.com/report/4300047)
 - Pedestrian lights out of order, 10th March :- [https://www.fixmystreet.com/report/4299468](https://www.fixmystreet.com/report/4299468)
 - Road Floods - Drains Blocked?, 10th March :- [https://www.fixmystreet.com/report/4298633](https://www.fixmystreet.com/report/4298633)
 - Large pothole in path., 10th March :- [https://www.fixmystreet.com/report/4298414](https://www.fixmystreet.com/report/4298414)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bushes growing into the road, 8th March :- [https://www.fixmystreet.com/report/4292202](https://www.fixmystreet.com/report/4292202)
 - Streetlight has outside number 4 Little Grebe Road working/not working intermittently, 7th March :- [https://www.fixmystreet.com/report/4291096](https://www.fixmystreet.com/report/4291096)
 - Multiple potholes Everest Road, 7th March :- [https://www.fixmystreet.com/report/4290370](https://www.fixmystreet.com/report/4290370)
-- Failure to restore path and verge following cable works, 7th March :- [https://www.fixmystreet.com/report/4290230](https://www.fixmystreet.com/report/4290230)
-- Road falling apart, 7th March :- [https://www.fixmystreet.com/report/4290064](https://www.fixmystreet.com/report/4290064)
 
 <!-- fix_marker ends -->
