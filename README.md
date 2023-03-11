@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole not yet repaired at end of Acomb crescent, 11th March :- [https://www.fixmystreet.com/report/4301748](https://www.fixmystreet.com/report/4301748)
+- Humungous Pothole, 11th March :- [https://www.fixmystreet.com/report/4301648](https://www.fixmystreet.com/report/4301648)
+- New pothole on Caernarvon Road nr Junction with Ansell Close, 11th March :- [https://www.fixmystreet.com/report/4301132](https://www.fixmystreet.com/report/4301132)
+- 3 x new potholes on Caernarvon Road nr junction with Broad Oak Way, 11th March :- [https://www.fixmystreet.com/report/4301126](https://www.fixmystreet.com/report/4301126)
+- New pothole on Caernarvon Road nr junction with Broad Oak Way, 11th March :- [https://www.fixmystreet.com/report/4301114](https://www.fixmystreet.com/report/4301114)
+- 3 x New potholes on Caernarvon Road, 11th March :- [https://www.fixmystreet.com/report/4301094](https://www.fixmystreet.com/report/4301094)
+- New pothole on Caernarvon Road, 11th March :- [https://www.fixmystreet.com/report/4301089](https://www.fixmystreet.com/report/4301089)
+- New potholes nr previous patching on Caernarvon Rd near Hulbert Cres junction, 11th March :- [https://www.fixmystreet.com/report/4301080](https://www.fixmystreet.com/report/4301080)
+- Cans and broken glass - again, 11th March :- [https://www.fixmystreet.com/report/4300892](https://www.fixmystreet.com/report/4300892)
+- 30mph Sign has been knocked down, 11th March :- [https://www.fixmystreet.com/report/4300707](https://www.fixmystreet.com/report/4300707)
 - Clanking drain, again., 10th March :- [https://www.fixmystreet.com/report/4300057](https://www.fixmystreet.com/report/4300057)
 - Deep and large pothole, 10th March :- [https://www.fixmystreet.com/report/4300047](https://www.fixmystreet.com/report/4300047)
 - Pedestrian lights out of order, 10th March :- [https://www.fixmystreet.com/report/4299468](https://www.fixmystreet.com/report/4299468)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes in the entrance of our road, 10th March :- [https://www.fixmystreet.com/report/4296979](https://www.fixmystreet.com/report/4296979)
 - Blocked drain outside 311 Old Bath Road, 10th March :- [https://www.fixmystreet.com/report/4296886](https://www.fixmystreet.com/report/4296886)
 - More potholes, 9th March :- [https://www.fixmystreet.com/report/4296440](https://www.fixmystreet.com/report/4296440)
-- Pothole is back again, 9th March :- [https://www.fixmystreet.com/report/4296437](https://www.fixmystreet.com/report/4296437)
-- Manhole cover, 9th March :- [https://www.fixmystreet.com/report/4296016](https://www.fixmystreet.com/report/4296016)
-- Pothole, 9th March :- [https://www.fixmystreet.com/report/4296007](https://www.fixmystreet.com/report/4296007)
-- Potholes, 9th March :- [https://www.fixmystreet.com/report/4296003](https://www.fixmystreet.com/report/4296003)
-- Potholes, 9th March :- [https://www.fixmystreet.com/report/4296000](https://www.fixmystreet.com/report/4296000)
-- Road in poor condition, 9th March :- [https://www.fixmystreet.com/report/4295995](https://www.fixmystreet.com/report/4295995)
-- Shopping trolleys on top of sign post., 8th March :- [https://www.fixmystreet.com/report/4293611](https://www.fixmystreet.com/report/4293611)
-- Bushes growing into the road, 8th March :- [https://www.fixmystreet.com/report/4292202](https://www.fixmystreet.com/report/4292202)
-- Streetlight has outside number 4 Little Grebe Road working/not working intermittently, 7th March :- [https://www.fixmystreet.com/report/4291096](https://www.fixmystreet.com/report/4291096)
-- Multiple potholes Everest Road, 7th March :- [https://www.fixmystreet.com/report/4290370](https://www.fixmystreet.com/report/4290370)
 
 <!-- fix_marker ends -->
