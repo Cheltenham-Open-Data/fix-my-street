@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole before zebra crossing, 11th March :- [https://www.fixmystreet.com/report/4302548](https://www.fixmystreet.com/report/4302548)
+- Another large pothole close to the kerb, 11th March :- [https://www.fixmystreet.com/report/4302545](https://www.fixmystreet.com/report/4302545)
+- Large pothole just after bend in the road., 11th March :- [https://www.fixmystreet.com/report/4302542](https://www.fixmystreet.com/report/4302542)
 - Pothole not yet repaired at end of Acomb crescent, 11th March :- [https://www.fixmystreet.com/report/4301748](https://www.fixmystreet.com/report/4301748)
 - Humungous Pothole, 11th March :- [https://www.fixmystreet.com/report/4301648](https://www.fixmystreet.com/report/4301648)
 - New pothole on Caernarvon Road nr Junction with Ansell Close, 11th March :- [https://www.fixmystreet.com/report/4301132](https://www.fixmystreet.com/report/4301132)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole in path., 10th March :- [https://www.fixmystreet.com/report/4298414](https://www.fixmystreet.com/report/4298414)
 - Huge pothole Salisbury Ave/Canterbury Walk - please fill urgently!, 10th March :- [https://www.fixmystreet.com/report/4298049](https://www.fixmystreet.com/report/4298049)
 - Possible Dangerous (Deep) Pothole, 10th March :- [https://www.fixmystreet.com/report/4297577](https://www.fixmystreet.com/report/4297577)
-- Potholes in the entrance of our road, 10th March :- [https://www.fixmystreet.com/report/4296979](https://www.fixmystreet.com/report/4296979)
-- Blocked drain outside 311 Old Bath Road, 10th March :- [https://www.fixmystreet.com/report/4296886](https://www.fixmystreet.com/report/4296886)
-- More potholes, 9th March :- [https://www.fixmystreet.com/report/4296440](https://www.fixmystreet.com/report/4296440)
 
 <!-- fix_marker ends -->
