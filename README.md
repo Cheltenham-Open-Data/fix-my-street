@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, 13th March :- [https://www.fixmystreet.com/report/4305482](https://www.fixmystreet.com/report/4305482)
+- Flytipping in lay-by, 12th March :- [https://www.fixmystreet.com/report/4305085](https://www.fixmystreet.com/report/4305085)
 - Very deep hole, plus more problems., 12th March :- [https://www.fixmystreet.com/report/4304649](https://www.fixmystreet.com/report/4304649)
 - Mattress and chair left behind., 12th March :- [https://www.fixmystreet.com/report/4304053](https://www.fixmystreet.com/report/4304053)
 - Abandoned shopping trolley, 12th March :- [https://www.fixmystreet.com/report/4303830](https://www.fixmystreet.com/report/4303830)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - New pothole on Caernarvon Road, 11th March :- [https://www.fixmystreet.com/report/4301089](https://www.fixmystreet.com/report/4301089)
 - New potholes nr previous patching on Caernarvon Rd near Hulbert Cres junction, 11th March :- [https://www.fixmystreet.com/report/4301080](https://www.fixmystreet.com/report/4301080)
 - Cans and broken glass - again, 11th March :- [https://www.fixmystreet.com/report/4300892](https://www.fixmystreet.com/report/4300892)
-- 30mph Sign has been knocked down, 11th March :- [https://www.fixmystreet.com/report/4300707](https://www.fixmystreet.com/report/4300707)
-- Clanking drain, again., 10th March :- [https://www.fixmystreet.com/report/4300057](https://www.fixmystreet.com/report/4300057)
 
 <!-- fix_marker ends -->
