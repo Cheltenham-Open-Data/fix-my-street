@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole at edge of speed bump, 15th March :- [https://www.fixmystreet.com/report/4317832](https://www.fixmystreet.com/report/4317832)
+- Litter on motorway slip road, 15th March :- [https://www.fixmystreet.com/report/4317113](https://www.fixmystreet.com/report/4317113)
+- Bags of rubbish/fridge freezer, 15th March :- [https://www.fixmystreet.com/report/4316825](https://www.fixmystreet.com/report/4316825)
+- Regular flytipper, 15th March :- [https://www.fixmystreet.com/report/4316758](https://www.fixmystreet.com/report/4316758)
+- Pothole on Brooklyn Road outside the community centre, 15th March :- [https://www.fixmystreet.com/report/4315477](https://www.fixmystreet.com/report/4315477)
+- Put all about 10 cm deep on Brooklyn Road at the approach to Tennyson Road roundabou, 15th March :- [https://www.fixmystreet.com/report/4315445](https://www.fixmystreet.com/report/4315445)
+- Incredibly large/deep pothole, 15th March :- [https://www.fixmystreet.com/report/4315239](https://www.fixmystreet.com/report/4315239)
+- Potholes next to a school, 15th March :- [https://www.fixmystreet.com/report/4315196](https://www.fixmystreet.com/report/4315196)
+- Dumped Tyres, 15th March :- [https://www.fixmystreet.com/report/4315122](https://www.fixmystreet.com/report/4315122)
 - Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314056](https://www.fixmystreet.com/report/4314056)
 - Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314038](https://www.fixmystreet.com/report/4314038)
 - Multiple potholes on both sides of road, 14th March :- [https://www.fixmystreet.com/report/4313942](https://www.fixmystreet.com/report/4313942)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Van parked on Double Yellow Line, 14th March :- [https://www.fixmystreet.com/report/4311724](https://www.fixmystreet.com/report/4311724)
 - Pot hole Charlton Abbotts village, 14th March :- [https://www.fixmystreet.com/report/4311244](https://www.fixmystreet.com/report/4311244)
 - Beer cans...., 14th March :- [https://www.fixmystreet.com/report/4310998](https://www.fixmystreet.com/report/4310998)
-- Pothole on Pilley Lane, 14th March :- [https://www.fixmystreet.com/report/4310686](https://www.fixmystreet.com/report/4310686)
-- IDS Cover, traffic lights and street lighting has been removed and put back Bradley, 14th March :- [https://www.fixmystreet.com/report/4310664](https://www.fixmystreet.com/report/4310664)
-- Deep pothole again on church Road, 14th March :- [https://www.fixmystreet.com/report/4310657](https://www.fixmystreet.com/report/4310657)
-- Deteriorating road surface, 14th March :- [https://www.fixmystreet.com/report/4310376](https://www.fixmystreet.com/report/4310376)
-- Drain outside number 43 blocked, 13th March :- [https://www.fixmystreet.com/report/4308806](https://www.fixmystreet.com/report/4308806)
-- Pothole inUpper Bath Street, 13th March :- [https://www.fixmystreet.com/report/4307544](https://www.fixmystreet.com/report/4307544)
-- Potholes in Bath Terrace car park, 13th March :- [https://www.fixmystreet.com/report/4307530](https://www.fixmystreet.com/report/4307530)
-- Dumped tyre, 13th March :- [https://www.fixmystreet.com/report/4307114](https://www.fixmystreet.com/report/4307114)
-- Potholes outside 43 Whittington rd, 13th March :- [https://www.fixmystreet.com/report/4306967](https://www.fixmystreet.com/report/4306967)
 
 <!-- fix_marker ends -->
