@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314056](https://www.fixmystreet.com/report/4314056)
+- Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314038](https://www.fixmystreet.com/report/4314038)
+- Multiple potholes on both sides of road, 14th March :- [https://www.fixmystreet.com/report/4313942](https://www.fixmystreet.com/report/4313942)
 - Cleeve Common Road, 14th March :- [https://www.fixmystreet.com/report/4313219](https://www.fixmystreet.com/report/4313219)
 - 'Split' in road where concrete plates meet, 14th March :- [https://www.fixmystreet.com/report/4313135](https://www.fixmystreet.com/report/4313135)
 - Graffiti in 3 places,in Manor Rd near Swindon Hall and by stile near village hall. Also on Road sign for Manor Court, 14th March :- [https://www.fixmystreet.com/report/4312648](https://www.fixmystreet.com/report/4312648)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes in Bath Terrace car park, 13th March :- [https://www.fixmystreet.com/report/4307530](https://www.fixmystreet.com/report/4307530)
 - Dumped tyre, 13th March :- [https://www.fixmystreet.com/report/4307114](https://www.fixmystreet.com/report/4307114)
 - Potholes outside 43 Whittington rd, 13th March :- [https://www.fixmystreet.com/report/4306967](https://www.fixmystreet.com/report/4306967)
-- Road sign left since December, 13th March :- [https://www.fixmystreet.com/report/4306711](https://www.fixmystreet.com/report/4306711)
-- Litter bin overflowing, 13th March :- [https://www.fixmystreet.com/report/4306694](https://www.fixmystreet.com/report/4306694)
-- Pothole on mini roundabout at Caernarvon Road/Alma Road, 13th March :- [https://www.fixmystreet.com/report/4306269](https://www.fixmystreet.com/report/4306269)
 
 <!-- fix_marker ends -->
