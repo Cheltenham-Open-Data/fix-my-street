@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 15th March :- [https://www.fixmystreet.com/report/4318498](https://www.fixmystreet.com/report/4318498)
 - Pothole at edge of speed bump, 15th March :- [https://www.fixmystreet.com/report/4317832](https://www.fixmystreet.com/report/4317832)
 - Litter on motorway slip road, 15th March :- [https://www.fixmystreet.com/report/4317113](https://www.fixmystreet.com/report/4317113)
 - Bags of rubbish/fridge freezer, 15th March :- [https://www.fixmystreet.com/report/4316825](https://www.fixmystreet.com/report/4316825)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Wood on bridge rotten, 14th March :- [https://www.fixmystreet.com/report/4312297](https://www.fixmystreet.com/report/4312297)
 - Van parked on Double Yellow Line, 14th March :- [https://www.fixmystreet.com/report/4311724](https://www.fixmystreet.com/report/4311724)
 - Pot hole Charlton Abbotts village, 14th March :- [https://www.fixmystreet.com/report/4311244](https://www.fixmystreet.com/report/4311244)
-- Beer cans...., 14th March :- [https://www.fixmystreet.com/report/4310998](https://www.fixmystreet.com/report/4310998)
 
 <!-- fix_marker ends -->
