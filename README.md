@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large section of potholes on Leckhampton Road, 16th March :- [https://www.fixmystreet.com/report/4322247](https://www.fixmystreet.com/report/4322247)
+- Just before j11a southbound middle lane, 16th March :- [https://www.fixmystreet.com/report/4321912](https://www.fixmystreet.com/report/4321912)
+- 2 pothole side by side, 16th March :- [https://www.fixmystreet.com/report/4321039](https://www.fixmystreet.com/report/4321039)
+- Pothole in road opposite 23 St Paul’s Road Cheltenham, 16th March :- [https://www.fixmystreet.com/report/4320382](https://www.fixmystreet.com/report/4320382)
+- Litter dumped, 16th March :- [https://www.fixmystreet.com/report/4319994](https://www.fixmystreet.com/report/4319994)
+- Very deep pothole, 16th March :- [https://www.fixmystreet.com/report/4319948](https://www.fixmystreet.com/report/4319948)
+- Road is in bits, 16th March :- [https://www.fixmystreet.com/report/4319926](https://www.fixmystreet.com/report/4319926)
+- Broken glass in Humpty Dumps playground, 16th March :- [https://www.fixmystreet.com/report/4319450](https://www.fixmystreet.com/report/4319450)
+- Pavement subsidence causing trip hazard, 16th March :- [https://www.fixmystreet.com/report/4319166](https://www.fixmystreet.com/report/4319166)
 - Blocked drain, 15th March :- [https://www.fixmystreet.com/report/4318498](https://www.fixmystreet.com/report/4318498)
 - Pothole at edge of speed bump, 15th March :- [https://www.fixmystreet.com/report/4317832](https://www.fixmystreet.com/report/4317832)
 - Litter on motorway slip road, 15th March :- [https://www.fixmystreet.com/report/4317113](https://www.fixmystreet.com/report/4317113)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes next to a school, 15th March :- [https://www.fixmystreet.com/report/4315196](https://www.fixmystreet.com/report/4315196)
 - Dumped Tyres, 15th March :- [https://www.fixmystreet.com/report/4315122](https://www.fixmystreet.com/report/4315122)
 - Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314056](https://www.fixmystreet.com/report/4314056)
-- Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314038](https://www.fixmystreet.com/report/4314038)
-- Multiple potholes on both sides of road, 14th March :- [https://www.fixmystreet.com/report/4313942](https://www.fixmystreet.com/report/4313942)
-- Cleeve Common Road, 14th March :- [https://www.fixmystreet.com/report/4313219](https://www.fixmystreet.com/report/4313219)
-- 'Split' in road where concrete plates meet, 14th March :- [https://www.fixmystreet.com/report/4313135](https://www.fixmystreet.com/report/4313135)
-- Graffiti in 3 places,in Manor Rd near Swindon Hall and by stile near village hall. Also on Road sign for Manor Court, 14th March :- [https://www.fixmystreet.com/report/4312648](https://www.fixmystreet.com/report/4312648)
-- Coach parking on pavement and double yellow lines, 14th March :- [https://www.fixmystreet.com/report/4312515](https://www.fixmystreet.com/report/4312515)
-- Wood on bridge rotten, 14th March :- [https://www.fixmystreet.com/report/4312297](https://www.fixmystreet.com/report/4312297)
-- Van parked on Double Yellow Line, 14th March :- [https://www.fixmystreet.com/report/4311724](https://www.fixmystreet.com/report/4311724)
-- Pot hole Charlton Abbotts village, 14th March :- [https://www.fixmystreet.com/report/4311244](https://www.fixmystreet.com/report/4311244)
 
 <!-- fix_marker ends -->
