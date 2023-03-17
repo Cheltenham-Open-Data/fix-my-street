@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole opposite Post Office (has returned), 16th March :- [https://www.fixmystreet.com/report/4323132](https://www.fixmystreet.com/report/4323132)
+- Gravel & other debris in road, 16th March :- [https://www.fixmystreet.com/report/4323124](https://www.fixmystreet.com/report/4323124)
 - Large section of potholes on Leckhampton Road, 16th March :- [https://www.fixmystreet.com/report/4322247](https://www.fixmystreet.com/report/4322247)
 - Just before j11a southbound middle lane, 16th March :- [https://www.fixmystreet.com/report/4321912](https://www.fixmystreet.com/report/4321912)
 - 2 pothole side by side, 16th March :- [https://www.fixmystreet.com/report/4321039](https://www.fixmystreet.com/report/4321039)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Put all about 10 cm deep on Brooklyn Road at the approach to Tennyson Road roundabou, 15th March :- [https://www.fixmystreet.com/report/4315445](https://www.fixmystreet.com/report/4315445)
 - Incredibly large/deep pothole, 15th March :- [https://www.fixmystreet.com/report/4315239](https://www.fixmystreet.com/report/4315239)
 - Potholes next to a school, 15th March :- [https://www.fixmystreet.com/report/4315196](https://www.fixmystreet.com/report/4315196)
-- Dumped Tyres, 15th March :- [https://www.fixmystreet.com/report/4315122](https://www.fixmystreet.com/report/4315122)
-- Road falling apart, 14th March :- [https://www.fixmystreet.com/report/4314056](https://www.fixmystreet.com/report/4314056)
 
 <!-- fix_marker ends -->
