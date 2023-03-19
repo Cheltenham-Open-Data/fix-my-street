@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street Lights and Crossing Not Working, 18th March :- [https://www.fixmystreet.com/report/4329487](https://www.fixmystreet.com/report/4329487)
 - ,3 potholes reappeared after recent repair, 18th March :- [https://www.fixmystreet.com/report/4329079](https://www.fixmystreet.com/report/4329079)
 - Potholes, 18th March :- [https://www.fixmystreet.com/report/4328690](https://www.fixmystreet.com/report/4328690)
 - Graffiti on benchh, 18th March :- [https://www.fixmystreet.com/report/4328542](https://www.fixmystreet.com/report/4328542)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 17th March :- [https://www.fixmystreet.com/report/4323388](https://www.fixmystreet.com/report/4323388)
 - Pothole opposite Post Office (has returned), 16th March :- [https://www.fixmystreet.com/report/4323132](https://www.fixmystreet.com/report/4323132)
 - Gravel & other debris in road, 16th March :- [https://www.fixmystreet.com/report/4323124](https://www.fixmystreet.com/report/4323124)
-- Large section of potholes on Leckhampton Road, 16th March :- [https://www.fixmystreet.com/report/4322247](https://www.fixmystreet.com/report/4322247)
 
 <!-- fix_marker ends -->
