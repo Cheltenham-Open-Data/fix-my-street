@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street bench outside Paddy Power missing a bit, 20th March :- [https://www.fixmystreet.com/report/4336845](https://www.fixmystreet.com/report/4336845)
+- Numerous potholes in Kayte lane starting at two hedges rad, 20th March :- [https://www.fixmystreet.com/report/4336827](https://www.fixmystreet.com/report/4336827)
+- Right turn only being ignored by car drivers, 20th March :- [https://www.fixmystreet.com/report/4336678](https://www.fixmystreet.com/report/4336678)
+- 3 large potholes on Shurdington Road heading towards Bath Road, at roundabout, 20th March :- [https://www.fixmystreet.com/report/4336669](https://www.fixmystreet.com/report/4336669)
+- Leaf litter/street cleaning., 20th March :- [https://www.fixmystreet.com/report/4334713](https://www.fixmystreet.com/report/4334713)
+- Bench seats missing, 20th March :- [https://www.fixmystreet.com/report/4334500](https://www.fixmystreet.com/report/4334500)
+- Broken Gate, 20th March :- [https://www.fixmystreet.com/report/4333788](https://www.fixmystreet.com/report/4333788)
+- Damaged street plate, 20th March :- [https://www.fixmystreet.com/report/4333784](https://www.fixmystreet.com/report/4333784)
+- Pothole next to school, 20th March :- [https://www.fixmystreet.com/report/4332952](https://www.fixmystreet.com/report/4332952)
+- Deep pothole at entrance of school, 20th March :- [https://www.fixmystreet.com/report/4332946](https://www.fixmystreet.com/report/4332946)
 - Multiple potholes., 19th March :- [https://www.fixmystreet.com/report/4332655](https://www.fixmystreet.com/report/4332655)
 - Flytipped fridge, 19th March :- [https://www.fixmystreet.com/report/4331858](https://www.fixmystreet.com/report/4331858)
 - Large hole, 19th March :- [https://www.fixmystreet.com/report/4331857](https://www.fixmystreet.com/report/4331857)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large amount of broken glass from last night maybe four or five bottles thrown onto the floor, 19th March :- [https://www.fixmystreet.com/report/4330825](https://www.fixmystreet.com/report/4330825)
 - Offensive Graffiti on Green Cabinet, 19th March :- [https://www.fixmystreet.com/report/4330771](https://www.fixmystreet.com/report/4330771)
 - Very big pothole and road crumbling, 19th March :- [https://www.fixmystreet.com/report/4330601](https://www.fixmystreet.com/report/4330601)
-- Pedestrian crossing not working, 19th March :- [https://www.fixmystreet.com/report/4330161](https://www.fixmystreet.com/report/4330161)
-- Blocked drains - could not pass on bike!, 19th March :- [https://www.fixmystreet.com/report/4330119](https://www.fixmystreet.com/report/4330119)
-- Several deep potholes near bend causing cars to move out, 19th March :- [https://www.fixmystreet.com/report/4330092](https://www.fixmystreet.com/report/4330092)
-- Street Lights and Crossing Not Working, 18th March :- [https://www.fixmystreet.com/report/4329487](https://www.fixmystreet.com/report/4329487)
-- ,3 potholes reappeared after recent repair, 18th March :- [https://www.fixmystreet.com/report/4329079](https://www.fixmystreet.com/report/4329079)
-- Potholes, 18th March :- [https://www.fixmystreet.com/report/4328690](https://www.fixmystreet.com/report/4328690)
-- Graffiti on benchh, 18th March :- [https://www.fixmystreet.com/report/4328542](https://www.fixmystreet.com/report/4328542)
-- Wide and deep pothole, 18th March :- [https://www.fixmystreet.com/report/4328447](https://www.fixmystreet.com/report/4328447)
-- Wide and deep pothole, 18th March :- [https://www.fixmystreet.com/report/4328443](https://www.fixmystreet.com/report/4328443)
-- Surface of a parkbury close at the junction with Ron Field Road has deteriorated to the level of a dirt track, 18th March :- [https://www.fixmystreet.com/report/4328063](https://www.fixmystreet.com/report/4328063)
 
 <!-- fix_marker ends -->
