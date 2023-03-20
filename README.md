@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes., 19th March :- [https://www.fixmystreet.com/report/4332655](https://www.fixmystreet.com/report/4332655)
 - Flytipped fridge, 19th March :- [https://www.fixmystreet.com/report/4331858](https://www.fixmystreet.com/report/4331858)
 - Large hole, 19th March :- [https://www.fixmystreet.com/report/4331857](https://www.fixmystreet.com/report/4331857)
 - Numerous potholes, 19th March :- [https://www.fixmystreet.com/report/4331394](https://www.fixmystreet.com/report/4331394)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Wide and deep pothole, 18th March :- [https://www.fixmystreet.com/report/4328447](https://www.fixmystreet.com/report/4328447)
 - Wide and deep pothole, 18th March :- [https://www.fixmystreet.com/report/4328443](https://www.fixmystreet.com/report/4328443)
 - Surface of a parkbury close at the junction with Ron Field Road has deteriorated to the level of a dirt track, 18th March :- [https://www.fixmystreet.com/report/4328063](https://www.fixmystreet.com/report/4328063)
-- Three. Deep holes and deteriorating surface junction of Sussex Avenue, and Rowan Field Road., 18th March :- [https://www.fixmystreet.com/report/4328043](https://www.fixmystreet.com/report/4328043)
 
 <!-- fix_marker ends -->
