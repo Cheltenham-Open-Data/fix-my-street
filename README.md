@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Steps to park falling apart, 20th March :- [https://www.fixmystreet.com/report/4337588](https://www.fixmystreet.com/report/4337588)
+- Pothole on sharp bend, 20th March :- [https://www.fixmystreet.com/report/4337549](https://www.fixmystreet.com/report/4337549)
 - Street bench outside Paddy Power missing a bit, 20th March :- [https://www.fixmystreet.com/report/4336845](https://www.fixmystreet.com/report/4336845)
 - Numerous potholes in Kayte lane starting at two hedges rad, 20th March :- [https://www.fixmystreet.com/report/4336827](https://www.fixmystreet.com/report/4336827)
 - Right turn only being ignored by car drivers, 20th March :- [https://www.fixmystreet.com/report/4336678](https://www.fixmystreet.com/report/4336678)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lack of signage, 19th March :- [https://www.fixmystreet.com/report/4330844](https://www.fixmystreet.com/report/4330844)
 - Large graffiti/profanity on bus shelter, 19th March :- [https://www.fixmystreet.com/report/4330828](https://www.fixmystreet.com/report/4330828)
 - Large amount of broken glass from last night maybe four or five bottles thrown onto the floor, 19th March :- [https://www.fixmystreet.com/report/4330825](https://www.fixmystreet.com/report/4330825)
-- Offensive Graffiti on Green Cabinet, 19th March :- [https://www.fixmystreet.com/report/4330771](https://www.fixmystreet.com/report/4330771)
-- Very big pothole and road crumbling, 19th March :- [https://www.fixmystreet.com/report/4330601](https://www.fixmystreet.com/report/4330601)
 
 <!-- fix_marker ends -->
