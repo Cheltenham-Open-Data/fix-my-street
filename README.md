@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 4 pot holes outside house, 21st March :- [https://www.fixmystreet.com/report/4342937](https://www.fixmystreet.com/report/4342937)
+- Overgrown access, 21st March :- [https://www.fixmystreet.com/report/4342650](https://www.fixmystreet.com/report/4342650)
+- Broken Stile, 21st March :- [https://www.fixmystreet.com/report/4342635](https://www.fixmystreet.com/report/4342635)
+- RoW inaccessible, 21st March :- [https://www.fixmystreet.com/report/4342599](https://www.fixmystreet.com/report/4342599)
+- Overgrown access, 21st March :- [https://www.fixmystreet.com/report/4342538](https://www.fixmystreet.com/report/4342538)
+- Overgrown right of way access, 21st March :- [https://www.fixmystreet.com/report/4342531](https://www.fixmystreet.com/report/4342531)
+- Pothole in road, 21st March :- [https://www.fixmystreet.com/report/4342517](https://www.fixmystreet.com/report/4342517)
 - Entire stretch of road is falling to bits, 21st March :- [https://www.fixmystreet.com/report/4341688](https://www.fixmystreet.com/report/4341688)
 - Awful repair, 21st March :- [https://www.fixmystreet.com/report/4341663](https://www.fixmystreet.com/report/4341663)
 - Very loose stone slab., 21st March :- [https://www.fixmystreet.com/report/4340803](https://www.fixmystreet.com/report/4340803)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole at junction, 21st March :- [https://www.fixmystreet.com/report/4338394](https://www.fixmystreet.com/report/4338394)
 - Large hole, 21st March :- [https://www.fixmystreet.com/report/4338266](https://www.fixmystreet.com/report/4338266)
 - Large hole, 21st March :- [https://www.fixmystreet.com/report/4338264](https://www.fixmystreet.com/report/4338264)
-- Large hole, 21st March :- [https://www.fixmystreet.com/report/4338256](https://www.fixmystreet.com/report/4338256)
-- Steps to park falling apart, 20th March :- [https://www.fixmystreet.com/report/4337588](https://www.fixmystreet.com/report/4337588)
-- Pothole on sharp bend, 20th March :- [https://www.fixmystreet.com/report/4337549](https://www.fixmystreet.com/report/4337549)
-- Street bench outside Paddy Power missing a bit, 20th March :- [https://www.fixmystreet.com/report/4336845](https://www.fixmystreet.com/report/4336845)
-- Numerous potholes in Kayte lane starting at two hedges rad, 20th March :- [https://www.fixmystreet.com/report/4336827](https://www.fixmystreet.com/report/4336827)
-- Right turn only being ignored by car drivers, 20th March :- [https://www.fixmystreet.com/report/4336678](https://www.fixmystreet.com/report/4336678)
-- 3 large potholes on Shurdington Road heading towards Bath Road, at roundabout, 20th March :- [https://www.fixmystreet.com/report/4336669](https://www.fixmystreet.com/report/4336669)
 
 <!-- fix_marker ends -->
