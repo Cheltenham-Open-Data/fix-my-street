@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes, 22nd March :- [https://www.fixmystreet.com/report/4347841](https://www.fixmystreet.com/report/4347841)
 - 4 pot holes outside house, 21st March :- [https://www.fixmystreet.com/report/4342937](https://www.fixmystreet.com/report/4342937)
 - Overgrown access, 21st March :- [https://www.fixmystreet.com/report/4342650](https://www.fixmystreet.com/report/4342650)
 - Broken Stile, 21st March :- [https://www.fixmystreet.com/report/4342635](https://www.fixmystreet.com/report/4342635)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes outside Auckland House, 21st March :- [https://www.fixmystreet.com/report/4338396](https://www.fixmystreet.com/report/4338396)
 - Pothole at junction, 21st March :- [https://www.fixmystreet.com/report/4338394](https://www.fixmystreet.com/report/4338394)
 - Large hole, 21st March :- [https://www.fixmystreet.com/report/4338266](https://www.fixmystreet.com/report/4338266)
-- Large hole, 21st March :- [https://www.fixmystreet.com/report/4338264](https://www.fixmystreet.com/report/4338264)
 
 <!-- fix_marker ends -->
