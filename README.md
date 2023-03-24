@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large potholes, 23rd March :- [https://www.fixmystreet.com/report/4351754](https://www.fixmystreet.com/report/4351754)
+- Pothole, 23rd March :- [https://www.fixmystreet.com/report/4351747](https://www.fixmystreet.com/report/4351747)
+- Pothole, 23rd March :- [https://www.fixmystreet.com/report/4351745](https://www.fixmystreet.com/report/4351745)
+- Awful pothole, 23rd March :- [https://www.fixmystreet.com/report/4351739](https://www.fixmystreet.com/report/4351739)
 - Two small but deep potholes, where the road surface Jones, 23rd March :- [https://www.fixmystreet.com/report/4351223](https://www.fixmystreet.com/report/4351223)
 - Hole in road, 23rd March :- [https://www.fixmystreet.com/report/4351187](https://www.fixmystreet.com/report/4351187)
 - Lights do not work for bikes, 23rd March :- [https://www.fixmystreet.com/report/4351116](https://www.fixmystreet.com/report/4351116)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken Stile, 21st March :- [https://www.fixmystreet.com/report/4342635](https://www.fixmystreet.com/report/4342635)
 - RoW inaccessible, 21st March :- [https://www.fixmystreet.com/report/4342599](https://www.fixmystreet.com/report/4342599)
 - Overgrown access, 21st March :- [https://www.fixmystreet.com/report/4342538](https://www.fixmystreet.com/report/4342538)
-- Overgrown right of way access, 21st March :- [https://www.fixmystreet.com/report/4342531](https://www.fixmystreet.com/report/4342531)
-- Pothole in road, 21st March :- [https://www.fixmystreet.com/report/4342517](https://www.fixmystreet.com/report/4342517)
-- Entire stretch of road is falling to bits, 21st March :- [https://www.fixmystreet.com/report/4341688](https://www.fixmystreet.com/report/4341688)
-- Awful repair, 21st March :- [https://www.fixmystreet.com/report/4341663](https://www.fixmystreet.com/report/4341663)
 
 <!-- fix_marker ends -->
