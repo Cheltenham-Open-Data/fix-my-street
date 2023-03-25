@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Three potholes close together on Norwood Road, just south of its junction with Grafton Road, 25th March :- [https://www.fixmystreet.com/report/4358372](https://www.fixmystreet.com/report/4358372)
+- Four potholes at the junction of Great Norwood Street and Norwood Road, 25th March :- [https://www.fixmystreet.com/report/4358356](https://www.fixmystreet.com/report/4358356)
+- Queens rd, plus by garage and along Lansdown rd, 25th March :- [https://www.fixmystreet.com/report/4358243](https://www.fixmystreet.com/report/4358243)
+- Biggest driveways in the street lol, 25th March :- [https://www.fixmystreet.com/report/4357480](https://www.fixmystreet.com/report/4357480)
+- Massive pothole outside no23, 25th March :- [https://www.fixmystreet.com/report/4357057](https://www.fixmystreet.com/report/4357057)
+- Graffiti on bin, 25th March :- [https://www.fixmystreet.com/report/4357029](https://www.fixmystreet.com/report/4357029)
+- Lots of dog poo in this alleyway, 25th March :- [https://www.fixmystreet.com/report/4356480](https://www.fixmystreet.com/report/4356480)
+- Deep pothole, 25th March :- [https://www.fixmystreet.com/report/4356340](https://www.fixmystreet.com/report/4356340)
 - Series of Potholes, 24th March :- [https://www.fixmystreet.com/report/4355576](https://www.fixmystreet.com/report/4355576)
 - Hole, 24th March :- [https://www.fixmystreet.com/report/4355446](https://www.fixmystreet.com/report/4355446)
 - Road in poor condition, 24th March :- [https://www.fixmystreet.com/report/4355038](https://www.fixmystreet.com/report/4355038)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 23rd March :- [https://www.fixmystreet.com/report/4351747](https://www.fixmystreet.com/report/4351747)
 - Pothole, 23rd March :- [https://www.fixmystreet.com/report/4351745](https://www.fixmystreet.com/report/4351745)
 - Awful pothole, 23rd March :- [https://www.fixmystreet.com/report/4351739](https://www.fixmystreet.com/report/4351739)
-- Two small but deep potholes, where the road surface Jones, 23rd March :- [https://www.fixmystreet.com/report/4351223](https://www.fixmystreet.com/report/4351223)
-- Hole in road, 23rd March :- [https://www.fixmystreet.com/report/4351187](https://www.fixmystreet.com/report/4351187)
-- Lights do not work for bikes, 23rd March :- [https://www.fixmystreet.com/report/4351116](https://www.fixmystreet.com/report/4351116)
-- Traffic lights do not detect cyclists, 23rd March :- [https://www.fixmystreet.com/report/4351111](https://www.fixmystreet.com/report/4351111)
-- Two Large and Deep Potholes, 23rd March :- [https://www.fixmystreet.com/report/4350385](https://www.fixmystreet.com/report/4350385)
-- Multiply Potholes and Road broken up, 23rd March :- [https://www.fixmystreet.com/report/4350342](https://www.fixmystreet.com/report/4350342)
-- 50cm/20” width, 23rd March :- [https://www.fixmystreet.com/report/4350321](https://www.fixmystreet.com/report/4350321)
-- Exceptionally dangerous stretch - numerous potholes, 23rd March :- [https://www.fixmystreet.com/report/4349371](https://www.fixmystreet.com/report/4349371)
 
 <!-- fix_marker ends -->
