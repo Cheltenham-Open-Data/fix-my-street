@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3 x potholes, 26th March :- [https://www.fixmystreet.com/report/4361198](https://www.fixmystreet.com/report/4361198)
+- Abandoned tyre and drain cover fallen in, 26th March :- [https://www.fixmystreet.com/report/4360219](https://www.fixmystreet.com/report/4360219)
+- Very large pothole, 26th March :- [https://www.fixmystreet.com/report/4360195](https://www.fixmystreet.com/report/4360195)
+- Pot hole as you drive in, 26th March :- [https://www.fixmystreet.com/report/4360194](https://www.fixmystreet.com/report/4360194)
+- Abandoned road signs, 26th March :- [https://www.fixmystreet.com/report/4360177](https://www.fixmystreet.com/report/4360177)
 - Three potholes close together on Norwood Road, just south of its junction with Grafton Road, 25th March :- [https://www.fixmystreet.com/report/4358372](https://www.fixmystreet.com/report/4358372)
 - Four potholes at the junction of Great Norwood Street and Norwood Road, 25th March :- [https://www.fixmystreet.com/report/4358356](https://www.fixmystreet.com/report/4358356)
 - Queens rd, plus by garage and along Lansdown rd, 25th March :- [https://www.fixmystreet.com/report/4358243](https://www.fixmystreet.com/report/4358243)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole developing in Swindon Lane outside of Windyridge Cottage, 24th March :- [https://www.fixmystreet.com/report/4352912](https://www.fixmystreet.com/report/4352912)
 - Potholes outside house with postal address 50 Mandarin Way. Holes in centre of road and by kerb. Cars crossing into wrong side of road to avoid, 24th March :- [https://www.fixmystreet.com/report/4352904](https://www.fixmystreet.com/report/4352904)
 - Deep pothole, 24th March :- [https://www.fixmystreet.com/report/4352432](https://www.fixmystreet.com/report/4352432)
-- The whole road is a mess!, 24th March :- [https://www.fixmystreet.com/report/4352390](https://www.fixmystreet.com/report/4352390)
-- Large potholes, 23rd March :- [https://www.fixmystreet.com/report/4351754](https://www.fixmystreet.com/report/4351754)
-- Pothole, 23rd March :- [https://www.fixmystreet.com/report/4351747](https://www.fixmystreet.com/report/4351747)
-- Pothole, 23rd March :- [https://www.fixmystreet.com/report/4351745](https://www.fixmystreet.com/report/4351745)
-- Awful pothole, 23rd March :- [https://www.fixmystreet.com/report/4351739](https://www.fixmystreet.com/report/4351739)
 
 <!-- fix_marker ends -->
