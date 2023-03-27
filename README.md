@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes on mini roundabout, 27th March :- [https://www.fixmystreet.com/report/4361840](https://www.fixmystreet.com/report/4361840)
+- 3 of several on traffic island, 27th March :- [https://www.fixmystreet.com/report/4361837](https://www.fixmystreet.com/report/4361837)
+- 2 of several potholes around island, 27th March :- [https://www.fixmystreet.com/report/4361833](https://www.fixmystreet.com/report/4361833)
+- 1 of several on this traffic island, 27th March :- [https://www.fixmystreet.com/report/4361831](https://www.fixmystreet.com/report/4361831)
 - 3 x potholes, 26th March :- [https://www.fixmystreet.com/report/4361198](https://www.fixmystreet.com/report/4361198)
 - Abandoned tyre and drain cover fallen in, 26th March :- [https://www.fixmystreet.com/report/4360219](https://www.fixmystreet.com/report/4360219)
 - Very large pothole, 26th March :- [https://www.fixmystreet.com/report/4360195](https://www.fixmystreet.com/report/4360195)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Series of Potholes, 24th March :- [https://www.fixmystreet.com/report/4355576](https://www.fixmystreet.com/report/4355576)
 - Hole, 24th March :- [https://www.fixmystreet.com/report/4355446](https://www.fixmystreet.com/report/4355446)
 - Road in poor condition, 24th March :- [https://www.fixmystreet.com/report/4355038](https://www.fixmystreet.com/report/4355038)
-- Potholes to report, 24th March :- [https://www.fixmystreet.com/report/4354085](https://www.fixmystreet.com/report/4354085)
-- Deep pothole developing in Swindon Lane outside of Windyridge Cottage, 24th March :- [https://www.fixmystreet.com/report/4352912](https://www.fixmystreet.com/report/4352912)
-- Potholes outside house with postal address 50 Mandarin Way. Holes in centre of road and by kerb. Cars crossing into wrong side of road to avoid, 24th March :- [https://www.fixmystreet.com/report/4352904](https://www.fixmystreet.com/report/4352904)
-- Deep pothole, 24th March :- [https://www.fixmystreet.com/report/4352432](https://www.fixmystreet.com/report/4352432)
 
 <!-- fix_marker ends -->
