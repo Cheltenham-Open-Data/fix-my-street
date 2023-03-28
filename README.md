@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bin bags in tree, 28th March :- [https://www.fixmystreet.com/report/4366842](https://www.fixmystreet.com/report/4366842)
+- Whole road surface gone, 28th March :- [https://www.fixmystreet.com/report/4366729](https://www.fixmystreet.com/report/4366729)
+- Blocked gullies in Montpellier Gardens, 28th March :- [https://www.fixmystreet.com/report/4366727](https://www.fixmystreet.com/report/4366727)
+- Sofa flytipped, 27th March :- [https://www.fixmystreet.com/report/4365915](https://www.fixmystreet.com/report/4365915)
 - More potholes on the bad bend, 27th March :- [https://www.fixmystreet.com/report/4365806](https://www.fixmystreet.com/report/4365806)
 - Fly tipping, 27th March :- [https://www.fixmystreet.com/report/4365782](https://www.fixmystreet.com/report/4365782)
 - Potholes and damaged road surface in Horsefair St, 27th March :- [https://www.fixmystreet.com/report/4365478](https://www.fixmystreet.com/report/4365478)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 of several potholes around island, 27th March :- [https://www.fixmystreet.com/report/4361833](https://www.fixmystreet.com/report/4361833)
 - 1 of several on this traffic island, 27th March :- [https://www.fixmystreet.com/report/4361831](https://www.fixmystreet.com/report/4361831)
 - 3 x potholes, 26th March :- [https://www.fixmystreet.com/report/4361198](https://www.fixmystreet.com/report/4361198)
-- Abandoned tyre and drain cover fallen in, 26th March :- [https://www.fixmystreet.com/report/4360219](https://www.fixmystreet.com/report/4360219)
-- Very large pothole, 26th March :- [https://www.fixmystreet.com/report/4360195](https://www.fixmystreet.com/report/4360195)
-- Pot hole as you drive in, 26th March :- [https://www.fixmystreet.com/report/4360194](https://www.fixmystreet.com/report/4360194)
-- Abandoned road signs, 26th March :- [https://www.fixmystreet.com/report/4360177](https://www.fixmystreet.com/report/4360177)
 
 <!-- fix_marker ends -->
