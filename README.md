@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Awful Potholes, 28th March :- [https://www.fixmystreet.com/report/4369616](https://www.fixmystreet.com/report/4369616)
+- Large pothole, 28th March :- [https://www.fixmystreet.com/report/4369195](https://www.fixmystreet.com/report/4369195)
+- Potholes again outside the village hall, 28th March :- [https://www.fixmystreet.com/report/4368288](https://www.fixmystreet.com/report/4368288)
+- Large pothole in second lane, 28th March :- [https://www.fixmystreet.com/report/4366999](https://www.fixmystreet.com/report/4366999)
 - Bin bags in tree, 28th March :- [https://www.fixmystreet.com/report/4366842](https://www.fixmystreet.com/report/4366842)
 - Whole road surface gone, 28th March :- [https://www.fixmystreet.com/report/4366729](https://www.fixmystreet.com/report/4366729)
 - Blocked gullies in Montpellier Gardens, 28th March :- [https://www.fixmystreet.com/report/4366727](https://www.fixmystreet.com/report/4366727)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Various deep potholes, 27th March :- [https://www.fixmystreet.com/report/4362998](https://www.fixmystreet.com/report/4362998)
 - Various potholes, 27th March :- [https://www.fixmystreet.com/report/4362922](https://www.fixmystreet.com/report/4362922)
 - Potholes on mini roundabout, 27th March :- [https://www.fixmystreet.com/report/4361840](https://www.fixmystreet.com/report/4361840)
-- 3 of several on traffic island, 27th March :- [https://www.fixmystreet.com/report/4361837](https://www.fixmystreet.com/report/4361837)
-- 2 of several potholes around island, 27th March :- [https://www.fixmystreet.com/report/4361833](https://www.fixmystreet.com/report/4361833)
-- 1 of several on this traffic island, 27th March :- [https://www.fixmystreet.com/report/4361831](https://www.fixmystreet.com/report/4361831)
-- 3 x potholes, 26th March :- [https://www.fixmystreet.com/report/4361198](https://www.fixmystreet.com/report/4361198)
 
 <!-- fix_marker ends -->
