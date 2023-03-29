@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes on Parton Road, 29th March :- [https://www.fixmystreet.com/report/4374233](https://www.fixmystreet.com/report/4374233)
+- Pothole, 29th March :- [https://www.fixmystreet.com/report/4374020](https://www.fixmystreet.com/report/4374020)
+- Over grown hedges and pavement covered in slippery leaves, 29th March :- [https://www.fixmystreet.com/report/4371208](https://www.fixmystreet.com/report/4371208)
+- Deep potholes, 29th March :- [https://www.fixmystreet.com/report/4371183](https://www.fixmystreet.com/report/4371183)
 - A few pot holes on the entrance to the 4 houses at bottom of road on the right, 28th March :- [https://www.fixmystreet.com/report/4370256](https://www.fixmystreet.com/report/4370256)
 - Vegetation/clearing., 28th March :- [https://www.fixmystreet.com/report/4370244](https://www.fixmystreet.com/report/4370244)
 - Long jagged edged pot hole, 28th March :- [https://www.fixmystreet.com/report/4370226](https://www.fixmystreet.com/report/4370226)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipping, 27th March :- [https://www.fixmystreet.com/report/4365782](https://www.fixmystreet.com/report/4365782)
 - Potholes and damaged road surface in Horsefair St, 27th March :- [https://www.fixmystreet.com/report/4365478](https://www.fixmystreet.com/report/4365478)
 - Potholes and damaged road surface in Horsefair St, 27th March :- [https://www.fixmystreet.com/report/4365400](https://www.fixmystreet.com/report/4365400)
-- Potholes outside school entrance, 27th March :- [https://www.fixmystreet.com/report/4365377](https://www.fixmystreet.com/report/4365377)
-- No consideration, 27th March :- [https://www.fixmystreet.com/report/4365148](https://www.fixmystreet.com/report/4365148)
-- Several craters the size of the moon appearing!, 27th March :- [https://www.fixmystreet.com/report/4364916](https://www.fixmystreet.com/report/4364916)
-- At Manhole, 27th March :- [https://www.fixmystreet.com/report/4363151](https://www.fixmystreet.com/report/4363151)
 
 <!-- fix_marker ends -->
