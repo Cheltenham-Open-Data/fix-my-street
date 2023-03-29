@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A few pot holes on the entrance to the 4 houses at bottom of road on the right, 28th March :- [https://www.fixmystreet.com/report/4370256](https://www.fixmystreet.com/report/4370256)
+- Vegetation/clearing., 28th March :- [https://www.fixmystreet.com/report/4370244](https://www.fixmystreet.com/report/4370244)
+- Long jagged edged pot hole, 28th March :- [https://www.fixmystreet.com/report/4370226](https://www.fixmystreet.com/report/4370226)
+- Numerous potholes, 28th March :- [https://www.fixmystreet.com/report/4370217](https://www.fixmystreet.com/report/4370217)
 - Awful Potholes, 28th March :- [https://www.fixmystreet.com/report/4369616](https://www.fixmystreet.com/report/4369616)
 - Large pothole, 28th March :- [https://www.fixmystreet.com/report/4369195](https://www.fixmystreet.com/report/4369195)
 - Potholes again outside the village hall, 28th March :- [https://www.fixmystreet.com/report/4368288](https://www.fixmystreet.com/report/4368288)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - No consideration, 27th March :- [https://www.fixmystreet.com/report/4365148](https://www.fixmystreet.com/report/4365148)
 - Several craters the size of the moon appearing!, 27th March :- [https://www.fixmystreet.com/report/4364916](https://www.fixmystreet.com/report/4364916)
 - At Manhole, 27th March :- [https://www.fixmystreet.com/report/4363151](https://www.fixmystreet.com/report/4363151)
-- Bin Overflowing - Dog Waste, 27th March :- [https://www.fixmystreet.com/report/4363057](https://www.fixmystreet.com/report/4363057)
-- Various deep potholes, 27th March :- [https://www.fixmystreet.com/report/4362998](https://www.fixmystreet.com/report/4362998)
-- Various potholes, 27th March :- [https://www.fixmystreet.com/report/4362922](https://www.fixmystreet.com/report/4362922)
-- Potholes on mini roundabout, 27th March :- [https://www.fixmystreet.com/report/4361840](https://www.fixmystreet.com/report/4361840)
 
 <!-- fix_marker ends -->
