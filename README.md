@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road surface fragmenting, 30th March :- [https://www.fixmystreet.com/report/4375321](https://www.fixmystreet.com/report/4375321)
+- Multiple holes, 30th March :- [https://www.fixmystreet.com/report/4375312](https://www.fixmystreet.com/report/4375312)
+- 0.5m potholes approx 50cm deep, 30th March :- [https://www.fixmystreet.com/report/4375106](https://www.fixmystreet.com/report/4375106)
+- Subsidence on Telstar Way causing flooding, 29th March :- [https://www.fixmystreet.com/report/4374367](https://www.fixmystreet.com/report/4374367)
 - Potholes on Parton Road, 29th March :- [https://www.fixmystreet.com/report/4374233](https://www.fixmystreet.com/report/4374233)
 - Pothole, 29th March :- [https://www.fixmystreet.com/report/4374020](https://www.fixmystreet.com/report/4374020)
 - Over grown hedges and pavement covered in slippery leaves, 29th March :- [https://www.fixmystreet.com/report/4371208](https://www.fixmystreet.com/report/4371208)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Whole road surface gone, 28th March :- [https://www.fixmystreet.com/report/4366729](https://www.fixmystreet.com/report/4366729)
 - Blocked gullies in Montpellier Gardens, 28th March :- [https://www.fixmystreet.com/report/4366727](https://www.fixmystreet.com/report/4366727)
 - Sofa flytipped, 27th March :- [https://www.fixmystreet.com/report/4365915](https://www.fixmystreet.com/report/4365915)
-- More potholes on the bad bend, 27th March :- [https://www.fixmystreet.com/report/4365806](https://www.fixmystreet.com/report/4365806)
-- Fly tipping, 27th March :- [https://www.fixmystreet.com/report/4365782](https://www.fixmystreet.com/report/4365782)
-- Potholes and damaged road surface in Horsefair St, 27th March :- [https://www.fixmystreet.com/report/4365478](https://www.fixmystreet.com/report/4365478)
-- Potholes and damaged road surface in Horsefair St, 27th March :- [https://www.fixmystreet.com/report/4365400](https://www.fixmystreet.com/report/4365400)
 
 <!-- fix_marker ends -->
