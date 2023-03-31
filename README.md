@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Shurdington Main Road, 31st March :- [https://www.fixmystreet.com/report/4383205](https://www.fixmystreet.com/report/4383205)
+- Blocked drain, 31st March :- [https://www.fixmystreet.com/report/4382761](https://www.fixmystreet.com/report/4382761)
+- Wide and deep holes, 31st March :- [https://www.fixmystreet.com/report/4382308](https://www.fixmystreet.com/report/4382308)
+- Road gullies blocked, 31st March :- [https://www.fixmystreet.com/report/4382182](https://www.fixmystreet.com/report/4382182)
+- Several potholes, 31st March :- [https://www.fixmystreet.com/report/4381682](https://www.fixmystreet.com/report/4381682)
+- Several large potholes, 31st March :- [https://www.fixmystreet.com/report/4381675](https://www.fixmystreet.com/report/4381675)
+- Pothole at School entrance, 31st March :- [https://www.fixmystreet.com/report/4380932](https://www.fixmystreet.com/report/4380932)
+- Potholes x 2 at entrance to school, 31st March :- [https://www.fixmystreet.com/report/4380920](https://www.fixmystreet.com/report/4380920)
 - Large hole, 31st March :- [https://www.fixmystreet.com/report/4379855](https://www.fixmystreet.com/report/4379855)
 - Several deep potholes, 30th March :- [https://www.fixmystreet.com/report/4379456](https://www.fixmystreet.com/report/4379456)
 - A further run of potholes down the street, 30th March :- [https://www.fixmystreet.com/report/4379347](https://www.fixmystreet.com/report/4379347)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Rubbish bins and recycling bins on pavement, 30th March :- [https://www.fixmystreet.com/report/4376737](https://www.fixmystreet.com/report/4376737)
 - Potholes, 30th March :- [https://www.fixmystreet.com/report/4376698](https://www.fixmystreet.com/report/4376698)
 - 12" pot hole on corner of Manser street and Folley Lane, 30th March :- [https://www.fixmystreet.com/report/4376690](https://www.fixmystreet.com/report/4376690)
-- Shopping Trolley, 30th March :- [https://www.fixmystreet.com/report/4376678](https://www.fixmystreet.com/report/4376678)
-- Abandon roadwork signs on Brooklyn Road, 30th March :- [https://www.fixmystreet.com/report/4375446](https://www.fixmystreet.com/report/4375446)
-- Road surface fragmenting, 30th March :- [https://www.fixmystreet.com/report/4375321](https://www.fixmystreet.com/report/4375321)
-- Multiple holes, 30th March :- [https://www.fixmystreet.com/report/4375312](https://www.fixmystreet.com/report/4375312)
-- 0.5m potholes approx 50cm deep, 30th March :- [https://www.fixmystreet.com/report/4375106](https://www.fixmystreet.com/report/4375106)
-- Subsidence on Telstar Way causing flooding, 29th March :- [https://www.fixmystreet.com/report/4374367](https://www.fixmystreet.com/report/4374367)
-- Potholes on Parton Road, 29th March :- [https://www.fixmystreet.com/report/4374233](https://www.fixmystreet.com/report/4374233)
-- Pothole, 29th March :- [https://www.fixmystreet.com/report/4374020](https://www.fixmystreet.com/report/4374020)
 
 <!-- fix_marker ends -->
