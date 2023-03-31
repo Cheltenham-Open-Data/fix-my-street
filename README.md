@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large hole, 31st March :- [https://www.fixmystreet.com/report/4379855](https://www.fixmystreet.com/report/4379855)
+- Several deep potholes, 30th March :- [https://www.fixmystreet.com/report/4379456](https://www.fixmystreet.com/report/4379456)
+- A further run of potholes down the street, 30th March :- [https://www.fixmystreet.com/report/4379347](https://www.fixmystreet.com/report/4379347)
+- A run of potholes in the road, 30th March :- [https://www.fixmystreet.com/report/4379336](https://www.fixmystreet.com/report/4379336)
 - Old fence panels dumped, 30th March :- [https://www.fixmystreet.com/report/4378319](https://www.fixmystreet.com/report/4378319)
 - Large & deep potholes along Cudnall St in 3 places, 30th March :- [https://www.fixmystreet.com/report/4377708](https://www.fixmystreet.com/report/4377708)
 - More potholes than road surface, 30th March :- [https://www.fixmystreet.com/report/4377470](https://www.fixmystreet.com/report/4377470)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Subsidence on Telstar Way causing flooding, 29th March :- [https://www.fixmystreet.com/report/4374367](https://www.fixmystreet.com/report/4374367)
 - Potholes on Parton Road, 29th March :- [https://www.fixmystreet.com/report/4374233](https://www.fixmystreet.com/report/4374233)
 - Pothole, 29th March :- [https://www.fixmystreet.com/report/4374020](https://www.fixmystreet.com/report/4374020)
-- Over grown hedges and pavement covered in slippery leaves, 29th March :- [https://www.fixmystreet.com/report/4371208](https://www.fixmystreet.com/report/4371208)
-- Deep potholes, 29th March :- [https://www.fixmystreet.com/report/4371183](https://www.fixmystreet.com/report/4371183)
-- A few pot holes on the entrance to the 4 houses at bottom of road on the right, 28th March :- [https://www.fixmystreet.com/report/4370256](https://www.fixmystreet.com/report/4370256)
-- Vegetation/clearing., 28th March :- [https://www.fixmystreet.com/report/4370244](https://www.fixmystreet.com/report/4370244)
 
 <!-- fix_marker ends -->
