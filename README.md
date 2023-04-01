@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pot holes sending stoned over cars outside number 15, 1st April :- [https://www.fixmystreet.com/report/4384218](https://www.fixmystreet.com/report/4384218)
 - Shurdington Main Road, 31st March :- [https://www.fixmystreet.com/report/4383205](https://www.fixmystreet.com/report/4383205)
 - Blocked drain, 31st March :- [https://www.fixmystreet.com/report/4382761](https://www.fixmystreet.com/report/4382761)
 - Wide and deep holes, 31st March :- [https://www.fixmystreet.com/report/4382308](https://www.fixmystreet.com/report/4382308)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road closure signs left behind, 30th March :- [https://www.fixmystreet.com/report/4376890](https://www.fixmystreet.com/report/4376890)
 - Rubbish bins and recycling bins on pavement, 30th March :- [https://www.fixmystreet.com/report/4376737](https://www.fixmystreet.com/report/4376737)
 - Potholes, 30th March :- [https://www.fixmystreet.com/report/4376698](https://www.fixmystreet.com/report/4376698)
-- 12" pot hole on corner of Manser street and Folley Lane, 30th March :- [https://www.fixmystreet.com/report/4376690](https://www.fixmystreet.com/report/4376690)
 
 <!-- fix_marker ends -->
