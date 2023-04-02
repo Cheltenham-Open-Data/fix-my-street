@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several potholes down Wellington Lane, 1st April :- [https://www.fixmystreet.com/report/4387243](https://www.fixmystreet.com/report/4387243)
+- Large & deep pothole on St Pauls Road, near Marle Hill Parade Junction, 1st April :- [https://www.fixmystreet.com/report/4387204](https://www.fixmystreet.com/report/4387204)
 - Pothole opened up again, 1st April :- [https://www.fixmystreet.com/report/4386551](https://www.fixmystreet.com/report/4386551)
 - Deep potholes, 1st April :- [https://www.fixmystreet.com/report/4386403](https://www.fixmystreet.com/report/4386403)
 - Deep Pothole, 1st April :- [https://www.fixmystreet.com/report/4386305](https://www.fixmystreet.com/report/4386305)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Multiple very large potholes, 1st April :- [https://www.fixmystreet.com/report/4384519](https://www.fixmystreet.com/report/4384519)
 - Pot Hole on left hand side of road as you come out of estate, 1st April :- [https://www.fixmystreet.com/report/4384504](https://www.fixmystreet.com/report/4384504)
 - Deep flooding due to blocked drain, 1st April :- [https://www.fixmystreet.com/report/4384417](https://www.fixmystreet.com/report/4384417)
-- Deep pot holes sending stoned over cars outside number 15, 1st April :- [https://www.fixmystreet.com/report/4384218](https://www.fixmystreet.com/report/4384218)
-- Shurdington Main Road, 31st March :- [https://www.fixmystreet.com/report/4383205](https://www.fixmystreet.com/report/4383205)
 
 <!-- fix_marker ends -->
