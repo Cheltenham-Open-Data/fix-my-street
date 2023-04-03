@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole Middle of the road, 3rd April :- [https://www.fixmystreet.com/report/4390926](https://www.fixmystreet.com/report/4390926)
+- Sunken drain covers x 2, 3rd April :- [https://www.fixmystreet.com/report/4390923](https://www.fixmystreet.com/report/4390923)
+- Lots of potholes, 2nd April :- [https://www.fixmystreet.com/report/4390623](https://www.fixmystreet.com/report/4390623)
+- Numerous Potholes Hearne Way, 2nd April :- [https://www.fixmystreet.com/report/4390495](https://www.fixmystreet.com/report/4390495)
+- Blocked drain, 2nd April :- [https://www.fixmystreet.com/report/4390481](https://www.fixmystreet.com/report/4390481)
 - Just fixed potholes and there again, 2nd April :- [https://www.fixmystreet.com/report/4389868](https://www.fixmystreet.com/report/4389868)
 - Potholes, 2nd April :- [https://www.fixmystreet.com/report/4389807](https://www.fixmystreet.com/report/4389807)
 - Flytipping next to houses, 2nd April :- [https://www.fixmystreet.com/report/4389487](https://www.fixmystreet.com/report/4389487)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Used condom and wrapper discarded, 1st April :- [https://www.fixmystreet.com/report/4386022](https://www.fixmystreet.com/report/4386022)
 - Large pothole, 1st April :- [https://www.fixmystreet.com/report/4385999](https://www.fixmystreet.com/report/4385999)
 - Very big pothole, 1st April :- [https://www.fixmystreet.com/report/4385989](https://www.fixmystreet.com/report/4385989)
-- Graffiti back on public loos, 1st April :- [https://www.fixmystreet.com/report/4385796](https://www.fixmystreet.com/report/4385796)
-- Rubbish being left outside, 1st April :- [https://www.fixmystreet.com/report/4385794](https://www.fixmystreet.com/report/4385794)
-- Massive Pothole, 1st April :- [https://www.fixmystreet.com/report/4385769](https://www.fixmystreet.com/report/4385769)
-- Obscene graffiti on pavement, 1st April :- [https://www.fixmystreet.com/report/4385746](https://www.fixmystreet.com/report/4385746)
-- Huge dangerous pothole, 1st April :- [https://www.fixmystreet.com/report/4385734](https://www.fixmystreet.com/report/4385734)
 
 <!-- fix_marker ends -->
