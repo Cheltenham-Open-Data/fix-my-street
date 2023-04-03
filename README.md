@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Please arrange for the dog poo bin, 3rd April :- [https://www.fixmystreet.com/report/4394672](https://www.fixmystreet.com/report/4394672)
+- Carpets and rugs dumped behind electrical boxes on Shelly Road, 3rd April :- [https://www.fixmystreet.com/report/4394449](https://www.fixmystreet.com/report/4394449)
+- Large pothole approaching traffic lights from Treddington, 3rd April :- [https://www.fixmystreet.com/report/4394394](https://www.fixmystreet.com/report/4394394)
+- Street light broken by dog bin, 3rd April :- [https://www.fixmystreet.com/report/4393631](https://www.fixmystreet.com/report/4393631)
+- Large Pothole, 3rd April :- [https://www.fixmystreet.com/report/4392449](https://www.fixmystreet.com/report/4392449)
+- Axel breaking pothole, 3rd April :- [https://www.fixmystreet.com/report/4391822](https://www.fixmystreet.com/report/4391822)
 - Large pothole Middle of the road, 3rd April :- [https://www.fixmystreet.com/report/4390926](https://www.fixmystreet.com/report/4390926)
 - Sunken drain covers x 2, 3rd April :- [https://www.fixmystreet.com/report/4390923](https://www.fixmystreet.com/report/4390923)
 - Lots of potholes, 2nd April :- [https://www.fixmystreet.com/report/4390623](https://www.fixmystreet.com/report/4390623)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large deep pothole, 2nd April :- [https://www.fixmystreet.com/report/4387921](https://www.fixmystreet.com/report/4387921)
 - Several potholes down Wellington Lane, 1st April :- [https://www.fixmystreet.com/report/4387243](https://www.fixmystreet.com/report/4387243)
 - Large & deep pothole on St Pauls Road, near Marle Hill Parade Junction, 1st April :- [https://www.fixmystreet.com/report/4387204](https://www.fixmystreet.com/report/4387204)
-- Pothole opened up again, 1st April :- [https://www.fixmystreet.com/report/4386551](https://www.fixmystreet.com/report/4386551)
-- Deep potholes, 1st April :- [https://www.fixmystreet.com/report/4386403](https://www.fixmystreet.com/report/4386403)
-- Deep Pothole, 1st April :- [https://www.fixmystreet.com/report/4386305](https://www.fixmystreet.com/report/4386305)
-- Used condom and wrapper discarded, 1st April :- [https://www.fixmystreet.com/report/4386022](https://www.fixmystreet.com/report/4386022)
-- Large pothole, 1st April :- [https://www.fixmystreet.com/report/4385999](https://www.fixmystreet.com/report/4385999)
-- Very big pothole, 1st April :- [https://www.fixmystreet.com/report/4385989](https://www.fixmystreet.com/report/4385989)
 
 <!-- fix_marker ends -->
