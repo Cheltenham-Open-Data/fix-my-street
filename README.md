@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Almost unusable footpaths, 4th April :- [https://www.fixmystreet.com/report/4396574](https://www.fixmystreet.com/report/4396574)
+- A series of potholes which are getting worse., 4th April :- [https://www.fixmystreet.com/report/4396483](https://www.fixmystreet.com/report/4396483)
+- Hold on centre of road, 4th April :- [https://www.fixmystreet.com/report/4396322](https://www.fixmystreet.com/report/4396322)
+- Multiple holes, 4th April :- [https://www.fixmystreet.com/report/4396319](https://www.fixmystreet.com/report/4396319)
+- Newhall open up to at the end of Shelly Avenue, 4th April :- [https://www.fixmystreet.com/report/4396009](https://www.fixmystreet.com/report/4396009)
+- Dead fox on verge, 4th April :- [https://www.fixmystreet.com/report/4395979](https://www.fixmystreet.com/report/4395979)
 - Two extremely large and dangerous potholes, 4th April :- [https://www.fixmystreet.com/report/4395747](https://www.fixmystreet.com/report/4395747)
 - Please arrange for the dog poo bin, 3rd April :- [https://www.fixmystreet.com/report/4394672](https://www.fixmystreet.com/report/4394672)
 - Near entrance to French Car Centre, 3rd April :- [https://www.fixmystreet.com/report/4394581](https://www.fixmystreet.com/report/4394581)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sunken drain covers x 2, 3rd April :- [https://www.fixmystreet.com/report/4390923](https://www.fixmystreet.com/report/4390923)
 - Lots of potholes, 2nd April :- [https://www.fixmystreet.com/report/4390623](https://www.fixmystreet.com/report/4390623)
 - Numerous Potholes Hearne Way, 2nd April :- [https://www.fixmystreet.com/report/4390495](https://www.fixmystreet.com/report/4390495)
-- Blocked drain, 2nd April :- [https://www.fixmystreet.com/report/4390481](https://www.fixmystreet.com/report/4390481)
-- Just fixed potholes and there again, 2nd April :- [https://www.fixmystreet.com/report/4389868](https://www.fixmystreet.com/report/4389868)
-- Potholes, 2nd April :- [https://www.fixmystreet.com/report/4389807](https://www.fixmystreet.com/report/4389807)
-- Flytipping next to houses, 2nd April :- [https://www.fixmystreet.com/report/4389487](https://www.fixmystreet.com/report/4389487)
-- Several potholes together on Leckhampton Road, 2nd April :- [https://www.fixmystreet.com/report/4389025](https://www.fixmystreet.com/report/4389025)
-- 2 potholes, 2nd April :- [https://www.fixmystreet.com/report/4388409](https://www.fixmystreet.com/report/4388409)
 
 <!-- fix_marker ends -->
