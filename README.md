@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Washing machine and bag of litter dumped, 4th April :- [https://www.fixmystreet.com/report/4399573](https://www.fixmystreet.com/report/4399573)
+- A stretch of potholes along the length of street, 4th April :- [https://www.fixmystreet.com/report/4399473](https://www.fixmystreet.com/report/4399473)
+- Massive pothole, 4th April :- [https://www.fixmystreet.com/report/4399396](https://www.fixmystreet.com/report/4399396)
+- 5 Potholes, 4th April :- [https://www.fixmystreet.com/report/4399201](https://www.fixmystreet.com/report/4399201)
+- Severely deteriorating road surface, 4th April :- [https://www.fixmystreet.com/report/4399199](https://www.fixmystreet.com/report/4399199)
+- Series of potholes, 4th April :- [https://www.fixmystreet.com/report/4399192](https://www.fixmystreet.com/report/4399192)
+- Parking, 4th April :- [https://www.fixmystreet.com/report/4398808](https://www.fixmystreet.com/report/4398808)
 - Almost unusable footpaths, 4th April :- [https://www.fixmystreet.com/report/4396574](https://www.fixmystreet.com/report/4396574)
 - A series of potholes which are getting worse., 4th April :- [https://www.fixmystreet.com/report/4396483](https://www.fixmystreet.com/report/4396483)
 - Hold on centre of road, 4th April :- [https://www.fixmystreet.com/report/4396322](https://www.fixmystreet.com/report/4396322)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Outside Toolstation Entrance, 3rd April :- [https://www.fixmystreet.com/report/4394546](https://www.fixmystreet.com/report/4394546)
 - Carpets and rugs dumped behind electrical boxes on Shelly Road, 3rd April :- [https://www.fixmystreet.com/report/4394449](https://www.fixmystreet.com/report/4394449)
 - Large pothole approaching traffic lights from Treddington, 3rd April :- [https://www.fixmystreet.com/report/4394394](https://www.fixmystreet.com/report/4394394)
-- Street light broken by dog bin, 3rd April :- [https://www.fixmystreet.com/report/4393631](https://www.fixmystreet.com/report/4393631)
-- Large Pothole, 3rd April :- [https://www.fixmystreet.com/report/4392449](https://www.fixmystreet.com/report/4392449)
-- Axel breaking pothole, 3rd April :- [https://www.fixmystreet.com/report/4391822](https://www.fixmystreet.com/report/4391822)
-- Large pothole Middle of the road, 3rd April :- [https://www.fixmystreet.com/report/4390926](https://www.fixmystreet.com/report/4390926)
-- Sunken drain covers x 2, 3rd April :- [https://www.fixmystreet.com/report/4390923](https://www.fixmystreet.com/report/4390923)
-- Lots of potholes, 2nd April :- [https://www.fixmystreet.com/report/4390623](https://www.fixmystreet.com/report/4390623)
-- Numerous Potholes Hearne Way, 2nd April :- [https://www.fixmystreet.com/report/4390495](https://www.fixmystreet.com/report/4390495)
 
 <!-- fix_marker ends -->
