@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bench broken, 7th April :- [https://www.fixmystreet.com/report/4410203](https://www.fixmystreet.com/report/4410203)
+- Graffiti on sogn, 7th April :- [https://www.fixmystreet.com/report/4410169](https://www.fixmystreet.com/report/4410169)
+- A40 Lansdown Road - abandoned roadworks sign, 7th April :- [https://www.fixmystreet.com/report/4408583](https://www.fixmystreet.com/report/4408583)
+- Potholes, 7th April :- [https://www.fixmystreet.com/report/4408476](https://www.fixmystreet.com/report/4408476)
+- Large potholes, 7th April :- [https://www.fixmystreet.com/report/4408474](https://www.fixmystreet.com/report/4408474)
 - Large numerous potholes, 7th April :- [https://www.fixmystreet.com/report/4408381](https://www.fixmystreet.com/report/4408381)
 - Road falling apart, 6th April :- [https://www.fixmystreet.com/report/4408208](https://www.fixmystreet.com/report/4408208)
 - Road in a really bad state, 6th April :- [https://www.fixmystreet.com/report/4408207](https://www.fixmystreet.com/report/4408207)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Outside no 47, 6th April :- [https://www.fixmystreet.com/report/4406856](https://www.fixmystreet.com/report/4406856)
 - Outside no 124, 6th April :- [https://www.fixmystreet.com/report/4406841](https://www.fixmystreet.com/report/4406841)
 - Outside no 130, 6th April :- [https://www.fixmystreet.com/report/4406824](https://www.fixmystreet.com/report/4406824)
-- Blocked drain, 6th April :- [https://www.fixmystreet.com/report/4406793](https://www.fixmystreet.com/report/4406793)
-- Outside entrance to Commonwealth Graves, 6th April :- [https://www.fixmystreet.com/report/4406766](https://www.fixmystreet.com/report/4406766)
-- Outside no 56, 6th April :- [https://www.fixmystreet.com/report/4406715](https://www.fixmystreet.com/report/4406715)
-- On junction, 6th April :- [https://www.fixmystreet.com/report/4406704](https://www.fixmystreet.com/report/4406704)
-- Outside gate to Church, 6th April :- [https://www.fixmystreet.com/report/4406676](https://www.fixmystreet.com/report/4406676)
 
 <!-- fix_marker ends -->
