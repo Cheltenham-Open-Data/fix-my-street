@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Litter, 7th April :- [https://www.fixmystreet.com/report/4410741](https://www.fixmystreet.com/report/4410741)
+- Road surface around roundabout, 7th April :- [https://www.fixmystreet.com/report/4410735](https://www.fixmystreet.com/report/4410735)
+- Left Traffic light out, 7th April :- [https://www.fixmystreet.com/report/4410720](https://www.fixmystreet.com/report/4410720)
 - Bench broken, 7th April :- [https://www.fixmystreet.com/report/4410203](https://www.fixmystreet.com/report/4410203)
 - Graffiti on sogn, 7th April :- [https://www.fixmystreet.com/report/4410169](https://www.fixmystreet.com/report/4410169)
 - A40 Lansdown Road - abandoned roadworks sign, 7th April :- [https://www.fixmystreet.com/report/4408583](https://www.fixmystreet.com/report/4408583)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Beer cans.....again, 6th April :- [https://www.fixmystreet.com/report/4407180](https://www.fixmystreet.com/report/4407180)
 - Multiple potholes all along ages hill, 6th April :- [https://www.fixmystreet.com/report/4407034](https://www.fixmystreet.com/report/4407034)
 - Outside no 39, 6th April :- [https://www.fixmystreet.com/report/4406875](https://www.fixmystreet.com/report/4406875)
-- Outside no 47, 6th April :- [https://www.fixmystreet.com/report/4406856](https://www.fixmystreet.com/report/4406856)
-- Outside no 124, 6th April :- [https://www.fixmystreet.com/report/4406841](https://www.fixmystreet.com/report/4406841)
-- Outside no 130, 6th April :- [https://www.fixmystreet.com/report/4406824](https://www.fixmystreet.com/report/4406824)
 
 <!-- fix_marker ends -->
