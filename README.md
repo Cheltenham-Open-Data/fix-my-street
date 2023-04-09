@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole on the north carriage way (heading towards Birdlip), 8th April :- [https://www.fixmystreet.com/report/4414491](https://www.fixmystreet.com/report/4414491)
+- Deep pothole near junction, 8th April :- [https://www.fixmystreet.com/report/4414486](https://www.fixmystreet.com/report/4414486)
+- Overgrown Hedge, 8th April :- [https://www.fixmystreet.com/report/4414340](https://www.fixmystreet.com/report/4414340)
+- Loose Stone Chippings, 8th April :- [https://www.fixmystreet.com/report/4414265](https://www.fixmystreet.com/report/4414265)
+- Deep pothole, 8th April :- [https://www.fixmystreet.com/report/4413088](https://www.fixmystreet.com/report/4413088)
 - Horsefair street between church and Croft Drive, 8th April :- [https://www.fixmystreet.com/report/4412319](https://www.fixmystreet.com/report/4412319)
 - Overhanging branch, 8th April :- [https://www.fixmystreet.com/report/4412061](https://www.fixmystreet.com/report/4412061)
 - Fly tipping of paving slabs in the Saracens car park at the top of KGV, 8th April :- [https://www.fixmystreet.com/report/4411686](https://www.fixmystreet.com/report/4411686)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 7th April :- [https://www.fixmystreet.com/report/4408476](https://www.fixmystreet.com/report/4408476)
 - Large potholes, 7th April :- [https://www.fixmystreet.com/report/4408474](https://www.fixmystreet.com/report/4408474)
 - Large numerous potholes, 7th April :- [https://www.fixmystreet.com/report/4408381](https://www.fixmystreet.com/report/4408381)
-- Road falling apart, 6th April :- [https://www.fixmystreet.com/report/4408208](https://www.fixmystreet.com/report/4408208)
-- Road in a really bad state, 6th April :- [https://www.fixmystreet.com/report/4408207](https://www.fixmystreet.com/report/4408207)
-- Broken bollard, 6th April :- [https://www.fixmystreet.com/report/4407930](https://www.fixmystreet.com/report/4407930)
-- Poor quality road surface in middle lane just after bridge., 6th April :- [https://www.fixmystreet.com/report/4407689](https://www.fixmystreet.com/report/4407689)
-- Poor quality road surface in middle lane just after bridge., 6th April :- [https://www.fixmystreet.com/report/4407687](https://www.fixmystreet.com/report/4407687)
 
 <!-- fix_marker ends -->
