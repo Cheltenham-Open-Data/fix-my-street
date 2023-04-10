@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large long pothole, 10th April :- [https://www.fixmystreet.com/report/4420220](https://www.fixmystreet.com/report/4420220)
+- Blocked drain, 10th April :- [https://www.fixmystreet.com/report/4419762](https://www.fixmystreet.com/report/4419762)
+- Road surface has completely failed, 10th April :- [https://www.fixmystreet.com/report/4419318](https://www.fixmystreet.com/report/4419318)
+- Flytip at Location, 10th April :- [https://www.fixmystreet.com/report/4419264](https://www.fixmystreet.com/report/4419264)
+- Second Report of Flytipping at Location, 10th April :- [https://www.fixmystreet.com/report/4419250](https://www.fixmystreet.com/report/4419250)
+- Fly tip at Location, 10th April :- [https://www.fixmystreet.com/report/4419225](https://www.fixmystreet.com/report/4419225)
+- Small Flytip at Location, 10th April :- [https://www.fixmystreet.com/report/4419181](https://www.fixmystreet.com/report/4419181)
+- No central road marking on bend or sign to say single carriageway, 10th April :- [https://www.fixmystreet.com/report/4419131](https://www.fixmystreet.com/report/4419131)
+- About a mile of potholes, 10th April :- [https://www.fixmystreet.com/report/4419128](https://www.fixmystreet.com/report/4419128)
+- 2 large potholes both carrigeway, 10th April :- [https://www.fixmystreet.com/report/4419111](https://www.fixmystreet.com/report/4419111)
 - Incorrectly sequenced lights, 9th April :- [https://www.fixmystreet.com/report/4418268](https://www.fixmystreet.com/report/4418268)
 - Deep and wide dangerous pothole, 9th April :- [https://www.fixmystreet.com/report/4418262](https://www.fixmystreet.com/report/4418262)
 - Large Deep Potholes at bottom of Hill, dangerous for bikes, 9th April :- [https://www.fixmystreet.com/report/4417417](https://www.fixmystreet.com/report/4417417)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pedestrian Crossing not working, 9th April :- [https://www.fixmystreet.com/report/4416021](https://www.fixmystreet.com/report/4416021)
 - Deep pothole, 9th April :- [https://www.fixmystreet.com/report/4415715](https://www.fixmystreet.com/report/4415715)
 - Bushes growing across the road, 9th April :- [https://www.fixmystreet.com/report/4415221](https://www.fixmystreet.com/report/4415221)
-- Pothole on the north carriage way (heading towards Birdlip), 8th April :- [https://www.fixmystreet.com/report/4414491](https://www.fixmystreet.com/report/4414491)
-- Deep pothole near junction, 8th April :- [https://www.fixmystreet.com/report/4414486](https://www.fixmystreet.com/report/4414486)
-- Overgrown Hedge, 8th April :- [https://www.fixmystreet.com/report/4414340](https://www.fixmystreet.com/report/4414340)
-- Loose Stone Chippings, 8th April :- [https://www.fixmystreet.com/report/4414265](https://www.fixmystreet.com/report/4414265)
-- Deep pothole, 8th April :- [https://www.fixmystreet.com/report/4413088](https://www.fixmystreet.com/report/4413088)
-- From the Sainsburys side, 9th April :- [https://www.fixmystreet.com/report/4412577](https://www.fixmystreet.com/report/4412577)
-- Drain blocked, 9th April :- [https://www.fixmystreet.com/report/4412573](https://www.fixmystreet.com/report/4412573)
-- Horsefair street between church and Croft Drive, 8th April :- [https://www.fixmystreet.com/report/4412319](https://www.fixmystreet.com/report/4412319)
-- Overhanging branch, 8th April :- [https://www.fixmystreet.com/report/4412061](https://www.fixmystreet.com/report/4412061)
-- Fly tipping of paving slabs in the Saracens car park at the top of KGV, 8th April :- [https://www.fixmystreet.com/report/4411686](https://www.fixmystreet.com/report/4411686)
 
 <!-- fix_marker ends -->
