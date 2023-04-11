@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 potholes., 11th April :- [https://www.fixmystreet.com/report/4426433](https://www.fixmystreet.com/report/4426433)
+- 3 or 4 potholes at the bus stop, 11th April :- [https://www.fixmystreet.com/report/4426429](https://www.fixmystreet.com/report/4426429)
+- About 10 potholes along the road., 11th April :- [https://www.fixmystreet.com/report/4426422](https://www.fixmystreet.com/report/4426422)
+- Middle lane southbound just before Junc11a, 11th April :- [https://www.fixmystreet.com/report/4424947](https://www.fixmystreet.com/report/4424947)
+- Blocked road drain - causes road flooding, 11th April :- [https://www.fixmystreet.com/report/4424864](https://www.fixmystreet.com/report/4424864)
+- Large hole, 11th April :- [https://www.fixmystreet.com/report/4424714](https://www.fixmystreet.com/report/4424714)
+- Pothole on Woodlands Road outside number 2, 11th April :- [https://www.fixmystreet.com/report/4424690](https://www.fixmystreet.com/report/4424690)
+- Pothole on Woodlands Road outside number 23, 11th April :- [https://www.fixmystreet.com/report/4424671](https://www.fixmystreet.com/report/4424671)
+- Pothole at Salisbury Ave/St Michael’s Road junction, 11th April :- [https://www.fixmystreet.com/report/4424660](https://www.fixmystreet.com/report/4424660)
+- KEEP CLEAR marking worn away, 11th April :- [https://www.fixmystreet.com/report/4423288](https://www.fixmystreet.com/report/4423288)
+- 4 street lights out, 11th April :- [https://www.fixmystreet.com/report/4422818](https://www.fixmystreet.com/report/4422818)
 - Badly patched pothole has returned, 11th April :- [https://www.fixmystreet.com/report/4422752](https://www.fixmystreet.com/report/4422752)
 - Large & Deep Pothole on the roundabout, 11th April :- [https://www.fixmystreet.com/report/4422747](https://www.fixmystreet.com/report/4422747)
 - Potholes in designated turning area, 11th April :- [https://www.fixmystreet.com/report/4422552](https://www.fixmystreet.com/report/4422552)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road surface has completely failed, 10th April :- [https://www.fixmystreet.com/report/4419318](https://www.fixmystreet.com/report/4419318)
 - Flytip at Location, 10th April :- [https://www.fixmystreet.com/report/4419264](https://www.fixmystreet.com/report/4419264)
 - Second Report of Flytipping at Location, 10th April :- [https://www.fixmystreet.com/report/4419250](https://www.fixmystreet.com/report/4419250)
-- Fly tip at Location, 10th April :- [https://www.fixmystreet.com/report/4419225](https://www.fixmystreet.com/report/4419225)
-- Small Flytip at Location, 10th April :- [https://www.fixmystreet.com/report/4419181](https://www.fixmystreet.com/report/4419181)
-- No central road marking on bend or sign to say single carriageway, 10th April :- [https://www.fixmystreet.com/report/4419131](https://www.fixmystreet.com/report/4419131)
-- About a mile of potholes, 10th April :- [https://www.fixmystreet.com/report/4419128](https://www.fixmystreet.com/report/4419128)
-- 2 large potholes both carrigeway, 10th April :- [https://www.fixmystreet.com/report/4419111](https://www.fixmystreet.com/report/4419111)
-- Incorrectly sequenced lights, 9th April :- [https://www.fixmystreet.com/report/4418268](https://www.fixmystreet.com/report/4418268)
-- Deep and wide dangerous pothole, 9th April :- [https://www.fixmystreet.com/report/4418262](https://www.fixmystreet.com/report/4418262)
-- Large Deep Potholes at bottom of Hill, dangerous for bikes, 9th April :- [https://www.fixmystreet.com/report/4417417](https://www.fixmystreet.com/report/4417417)
-- Aldi trolley, 9th April :- [https://www.fixmystreet.com/report/4417104](https://www.fixmystreet.com/report/4417104)
-- Unidentified trolley, 9th April :- [https://www.fixmystreet.com/report/4417100](https://www.fixmystreet.com/report/4417100)
-- Crushed slab on the promenade, overnight trip hazard, 9th April :- [https://www.fixmystreet.com/report/4416232](https://www.fixmystreet.com/report/4416232)
 
 <!-- fix_marker ends -->
