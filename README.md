@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Badly patched pothole has returned, 11th April :- [https://www.fixmystreet.com/report/4422752](https://www.fixmystreet.com/report/4422752)
+- Large & Deep Pothole on the roundabout, 11th April :- [https://www.fixmystreet.com/report/4422747](https://www.fixmystreet.com/report/4422747)
+- Potholes in designated turning area, 11th April :- [https://www.fixmystreet.com/report/4422552](https://www.fixmystreet.com/report/4422552)
+- Potholes, 11th April :- [https://www.fixmystreet.com/report/4422549](https://www.fixmystreet.com/report/4422549)
 - Large long pothole, 10th April :- [https://www.fixmystreet.com/report/4420220](https://www.fixmystreet.com/report/4420220)
 - Blocked drain, 10th April :- [https://www.fixmystreet.com/report/4419762](https://www.fixmystreet.com/report/4419762)
 - Road surface has completely failed, 10th April :- [https://www.fixmystreet.com/report/4419318](https://www.fixmystreet.com/report/4419318)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Aldi trolley, 9th April :- [https://www.fixmystreet.com/report/4417104](https://www.fixmystreet.com/report/4417104)
 - Unidentified trolley, 9th April :- [https://www.fixmystreet.com/report/4417100](https://www.fixmystreet.com/report/4417100)
 - Crushed slab on the promenade, overnight trip hazard, 9th April :- [https://www.fixmystreet.com/report/4416232](https://www.fixmystreet.com/report/4416232)
-- Large potholes, 9th April :- [https://www.fixmystreet.com/report/4416022](https://www.fixmystreet.com/report/4416022)
-- Pedestrian Crossing not working, 9th April :- [https://www.fixmystreet.com/report/4416021](https://www.fixmystreet.com/report/4416021)
-- Deep pothole, 9th April :- [https://www.fixmystreet.com/report/4415715](https://www.fixmystreet.com/report/4415715)
-- Bushes growing across the road, 9th April :- [https://www.fixmystreet.com/report/4415221](https://www.fixmystreet.com/report/4415221)
 
 <!-- fix_marker ends -->
