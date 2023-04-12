@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Properly deep pothole on Shelley Road, 12th April :- [https://www.fixmystreet.com/report/4427569](https://www.fixmystreet.com/report/4427569)
+- Traffic Light Timing, 11th April :- [https://www.fixmystreet.com/report/4427158](https://www.fixmystreet.com/report/4427158)
 - 2 potholes., 11th April :- [https://www.fixmystreet.com/report/4426433](https://www.fixmystreet.com/report/4426433)
 - 3 or 4 potholes at the bus stop, 11th April :- [https://www.fixmystreet.com/report/4426429](https://www.fixmystreet.com/report/4426429)
 - About 10 potholes along the road., 11th April :- [https://www.fixmystreet.com/report/4426422](https://www.fixmystreet.com/report/4426422)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large long pothole, 10th April :- [https://www.fixmystreet.com/report/4420220](https://www.fixmystreet.com/report/4420220)
 - Blocked drain, 10th April :- [https://www.fixmystreet.com/report/4419762](https://www.fixmystreet.com/report/4419762)
 - Road surface has completely failed, 10th April :- [https://www.fixmystreet.com/report/4419318](https://www.fixmystreet.com/report/4419318)
-- Flytip at Location, 10th April :- [https://www.fixmystreet.com/report/4419264](https://www.fixmystreet.com/report/4419264)
-- Second Report of Flytipping at Location, 10th April :- [https://www.fixmystreet.com/report/4419250](https://www.fixmystreet.com/report/4419250)
 
 <!-- fix_marker ends -->
