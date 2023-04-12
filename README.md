@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dislodged slab, 12th April :- [https://www.fixmystreet.com/report/4430905](https://www.fixmystreet.com/report/4430905)
+- Potholes & surface - extended area, 12th April :- [https://www.fixmystreet.com/report/4430861](https://www.fixmystreet.com/report/4430861)
+- Pot hole by slow sign, 12th April :- [https://www.fixmystreet.com/report/4429575](https://www.fixmystreet.com/report/4429575)
+- Pot hole, sink hole and poor surface, 12th April :- [https://www.fixmystreet.com/report/4429337](https://www.fixmystreet.com/report/4429337)
+- Pot hole, sink hole and poor surface, 12th April :- [https://www.fixmystreet.com/report/4429029](https://www.fixmystreet.com/report/4429029)
+- Fridge Freezer dumped outside garden wall of number 15, 12th April :- [https://www.fixmystreet.com/report/4428827](https://www.fixmystreet.com/report/4428827)
+- Damage to grass area next to footpath, 12th April :- [https://www.fixmystreet.com/report/4428722](https://www.fixmystreet.com/report/4428722)
 - Properly deep pothole on Shelley Road, 12th April :- [https://www.fixmystreet.com/report/4427569](https://www.fixmystreet.com/report/4427569)
 - Traffic Light Timing, 11th April :- [https://www.fixmystreet.com/report/4427158](https://www.fixmystreet.com/report/4427158)
 - 2 potholes., 11th April :- [https://www.fixmystreet.com/report/4426433](https://www.fixmystreet.com/report/4426433)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole at Salisbury Ave/St Michael’s Road junction, 11th April :- [https://www.fixmystreet.com/report/4424660](https://www.fixmystreet.com/report/4424660)
 - KEEP CLEAR marking worn away, 11th April :- [https://www.fixmystreet.com/report/4423288](https://www.fixmystreet.com/report/4423288)
 - 4 street lights out, 11th April :- [https://www.fixmystreet.com/report/4422818](https://www.fixmystreet.com/report/4422818)
-- Badly patched pothole has returned, 11th April :- [https://www.fixmystreet.com/report/4422752](https://www.fixmystreet.com/report/4422752)
-- Large & Deep Pothole on the roundabout, 11th April :- [https://www.fixmystreet.com/report/4422747](https://www.fixmystreet.com/report/4422747)
-- Potholes in designated turning area, 11th April :- [https://www.fixmystreet.com/report/4422552](https://www.fixmystreet.com/report/4422552)
-- Potholes, 11th April :- [https://www.fixmystreet.com/report/4422549](https://www.fixmystreet.com/report/4422549)
-- Large long pothole, 10th April :- [https://www.fixmystreet.com/report/4420220](https://www.fixmystreet.com/report/4420220)
-- Blocked drain, 10th April :- [https://www.fixmystreet.com/report/4419762](https://www.fixmystreet.com/report/4419762)
-- Road surface has completely failed, 10th April :- [https://www.fixmystreet.com/report/4419318](https://www.fixmystreet.com/report/4419318)
 
 <!-- fix_marker ends -->
