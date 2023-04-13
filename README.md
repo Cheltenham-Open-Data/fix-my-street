@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pavement & road falling apart, 13th April :- [https://www.fixmystreet.com/report/4435850](https://www.fixmystreet.com/report/4435850)
+- Road in awful condition, 13th April :- [https://www.fixmystreet.com/report/4435812](https://www.fixmystreet.com/report/4435812)
+- Very deep pothole, 13th April :- [https://www.fixmystreet.com/report/4435799](https://www.fixmystreet.com/report/4435799)
+- 2 Road Works Signs at Location NOW for 6 Months!!!, 13th April :- [https://www.fixmystreet.com/report/4433486](https://www.fixmystreet.com/report/4433486)
+- 12ins round pothole, 13th April :- [https://www.fixmystreet.com/report/4432873](https://www.fixmystreet.com/report/4432873)
 - Dislodged slab, 12th April :- [https://www.fixmystreet.com/report/4430905](https://www.fixmystreet.com/report/4430905)
 - Potholes & surface - extended area, 12th April :- [https://www.fixmystreet.com/report/4430861](https://www.fixmystreet.com/report/4430861)
 - Pot hole by slow sign, 12th April :- [https://www.fixmystreet.com/report/4429575](https://www.fixmystreet.com/report/4429575)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Middle lane southbound just before Junc11a, 11th April :- [https://www.fixmystreet.com/report/4424947](https://www.fixmystreet.com/report/4424947)
 - Blocked road drain - causes road flooding, 11th April :- [https://www.fixmystreet.com/report/4424864](https://www.fixmystreet.com/report/4424864)
 - Large hole, 11th April :- [https://www.fixmystreet.com/report/4424714](https://www.fixmystreet.com/report/4424714)
-- Pothole on Woodlands Road outside number 2, 11th April :- [https://www.fixmystreet.com/report/4424690](https://www.fixmystreet.com/report/4424690)
-- Pothole on Woodlands Road outside number 23, 11th April :- [https://www.fixmystreet.com/report/4424671](https://www.fixmystreet.com/report/4424671)
-- Pothole at Salisbury Ave/St Michael’s Road junction, 11th April :- [https://www.fixmystreet.com/report/4424660](https://www.fixmystreet.com/report/4424660)
-- KEEP CLEAR marking worn away, 11th April :- [https://www.fixmystreet.com/report/4423288](https://www.fixmystreet.com/report/4423288)
-- 4 street lights out, 11th April :- [https://www.fixmystreet.com/report/4422818](https://www.fixmystreet.com/report/4422818)
 
 <!-- fix_marker ends -->
