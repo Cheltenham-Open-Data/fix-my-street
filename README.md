@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass, 13th April :- [https://www.fixmystreet.com/report/4436691](https://www.fixmystreet.com/report/4436691)
+- Flytipping, 13th April :- [https://www.fixmystreet.com/report/4436663](https://www.fixmystreet.com/report/4436663)
 - Pavement & road falling apart, 13th April :- [https://www.fixmystreet.com/report/4435850](https://www.fixmystreet.com/report/4435850)
 - Road in awful condition, 13th April :- [https://www.fixmystreet.com/report/4435812](https://www.fixmystreet.com/report/4435812)
 - Very deep pothole, 13th April :- [https://www.fixmystreet.com/report/4435799](https://www.fixmystreet.com/report/4435799)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 3 or 4 potholes at the bus stop, 11th April :- [https://www.fixmystreet.com/report/4426429](https://www.fixmystreet.com/report/4426429)
 - About 10 potholes along the road., 11th April :- [https://www.fixmystreet.com/report/4426422](https://www.fixmystreet.com/report/4426422)
 - Middle lane southbound just before Junc11a, 11th April :- [https://www.fixmystreet.com/report/4424947](https://www.fixmystreet.com/report/4424947)
-- Blocked road drain - causes road flooding, 11th April :- [https://www.fixmystreet.com/report/4424864](https://www.fixmystreet.com/report/4424864)
-- Large hole, 11th April :- [https://www.fixmystreet.com/report/4424714](https://www.fixmystreet.com/report/4424714)
 
 <!-- fix_marker ends -->
