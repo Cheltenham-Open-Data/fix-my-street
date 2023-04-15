@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hige pothole on mini roundabout by Swindon road and Tommy Taylors lane, 14th April :- [https://www.fixmystreet.com/report/4441480](https://www.fixmystreet.com/report/4441480)
+- Loose paving stones, sinking and causing holes. Trip hazard., 14th April :- [https://www.fixmystreet.com/report/4441333](https://www.fixmystreet.com/report/4441333)
+- Multiple potholes, 14th April :- [https://www.fixmystreet.com/report/4441002](https://www.fixmystreet.com/report/4441002)
 - 6 potholes more than 75mm deep, 14th April :- [https://www.fixmystreet.com/report/4440762](https://www.fixmystreet.com/report/4440762)
 - 5 large potholes over 75mm deep, 14th April :- [https://www.fixmystreet.com/report/4440759](https://www.fixmystreet.com/report/4440759)
 - Pothole, 14th April :- [https://www.fixmystreet.com/report/4440701](https://www.fixmystreet.com/report/4440701)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very deep pothole, 13th April :- [https://www.fixmystreet.com/report/4435799](https://www.fixmystreet.com/report/4435799)
 - 2 Road Works Signs at Location NOW for 6 Months!!!, 13th April :- [https://www.fixmystreet.com/report/4433486](https://www.fixmystreet.com/report/4433486)
 - 12ins round pothole, 13th April :- [https://www.fixmystreet.com/report/4432873](https://www.fixmystreet.com/report/4432873)
-- Dislodged slab, 12th April :- [https://www.fixmystreet.com/report/4430905](https://www.fixmystreet.com/report/4430905)
-- Potholes & surface - extended area, 12th April :- [https://www.fixmystreet.com/report/4430861](https://www.fixmystreet.com/report/4430861)
-- Pot hole by slow sign, 12th April :- [https://www.fixmystreet.com/report/4429575](https://www.fixmystreet.com/report/4429575)
 
 <!-- fix_marker ends -->
