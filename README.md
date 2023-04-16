@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mega pothole from roundabout to petrol station, 15th April :- [https://www.fixmystreet.com/report/4444414](https://www.fixmystreet.com/report/4444414)
 - Pothole, 15th April :- [https://www.fixmystreet.com/report/4444110](https://www.fixmystreet.com/report/4444110)
 - Rut across road, 15th April :- [https://www.fixmystreet.com/report/4444100](https://www.fixmystreet.com/report/4444100)
 - Latch missing on gate, 15th April :- [https://www.fixmystreet.com/report/4443642](https://www.fixmystreet.com/report/4443642)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep potholes, 14th April :- [https://www.fixmystreet.com/report/4439755](https://www.fixmystreet.com/report/4439755)
 - Massive vehicle damaging pothole, 14th April :- [https://www.fixmystreet.com/report/4439207](https://www.fixmystreet.com/report/4439207)
 - Three potholes up this road, 14th April :- [https://www.fixmystreet.com/report/4437995](https://www.fixmystreet.com/report/4437995)
-- Deep pot holes through newly repainted double yellows, 14th April :- [https://www.fixmystreet.com/report/4437653](https://www.fixmystreet.com/report/4437653)
 
 <!-- fix_marker ends -->
