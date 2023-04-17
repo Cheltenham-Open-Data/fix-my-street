@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Packing on corners, 17th April :- [https://www.fixmystreet.com/report/4450061](https://www.fixmystreet.com/report/4450061)
 - Pothole, 17th April :- [https://www.fixmystreet.com/report/4448531](https://www.fixmystreet.com/report/4448531)
 - Large pitholes on Bibury road also road damaged on junction out of sheepscombe close, 16th April :- [https://www.fixmystreet.com/report/4447562](https://www.fixmystreet.com/report/4447562)
 - Smyths trolley in Clevedon Square, 16th April :- [https://www.fixmystreet.com/report/4447443](https://www.fixmystreet.com/report/4447443)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mega pothole from roundabout to petrol station, 15th April :- [https://www.fixmystreet.com/report/4444414](https://www.fixmystreet.com/report/4444414)
 - Pothole, 15th April :- [https://www.fixmystreet.com/report/4444110](https://www.fixmystreet.com/report/4444110)
 - Rut across road, 15th April :- [https://www.fixmystreet.com/report/4444100](https://www.fixmystreet.com/report/4444100)
-- Latch missing on gate, 15th April :- [https://www.fixmystreet.com/report/4443642](https://www.fixmystreet.com/report/4443642)
 
 <!-- fix_marker ends -->
