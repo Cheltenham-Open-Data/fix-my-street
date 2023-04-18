@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- "Incident" Cyclist doored by car driver, 18th April :- [https://www.fixmystreet.com/report/4456024](https://www.fixmystreet.com/report/4456024)
 - Severn Trent Manhole cover on London Road, 18th April :- [https://www.fixmystreet.com/report/4454034](https://www.fixmystreet.com/report/4454034)
 - Faulty manhole cover, 18th April :- [https://www.fixmystreet.com/report/4453960](https://www.fixmystreet.com/report/4453960)
 - 7 inch pothole about 3ft long by 2ft wide, 17th April :- [https://www.fixmystreet.com/report/4453800](https://www.fixmystreet.com/report/4453800)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street lamps shining through windows overnight, 16th April :- [https://www.fixmystreet.com/report/4445653](https://www.fixmystreet.com/report/4445653)
 - Blown street lamp bulb, 16th April :- [https://www.fixmystreet.com/report/4445632](https://www.fixmystreet.com/report/4445632)
 - Deep pothole. Dropped a front wheel into it last night. Hope there's no damage., 16th April :- [https://www.fixmystreet.com/report/4444962](https://www.fixmystreet.com/report/4444962)
-- Pothole/road surface lifting in New Barn Lane., 16th April :- [https://www.fixmystreet.com/report/4444846](https://www.fixmystreet.com/report/4444846)
 
 <!-- fix_marker ends -->
