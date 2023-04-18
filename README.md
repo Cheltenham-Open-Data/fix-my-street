@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Severn Trent Manhole cover on London Road, 18th April :- [https://www.fixmystreet.com/report/4454034](https://www.fixmystreet.com/report/4454034)
+- Faulty manhole cover, 18th April :- [https://www.fixmystreet.com/report/4453960](https://www.fixmystreet.com/report/4453960)
+- 7 inch pothole about 3ft long by 2ft wide, 17th April :- [https://www.fixmystreet.com/report/4453800](https://www.fixmystreet.com/report/4453800)
+- Fridge dumped, 17th April :- [https://www.fixmystreet.com/report/4453507](https://www.fixmystreet.com/report/4453507)
+- A series of potholes on the junction of Hewlett Road ans Ariel Lodge Road, 17th April :- [https://www.fixmystreet.com/report/4453145](https://www.fixmystreet.com/report/4453145)
+- Fly tipping in water way, 17th April :- [https://www.fixmystreet.com/report/4453061](https://www.fixmystreet.com/report/4453061)
+- Huge pothole going to cause wheel damage, 17th April :- [https://www.fixmystreet.com/report/4453049](https://www.fixmystreet.com/report/4453049)
 - Packing on corners, 17th April :- [https://www.fixmystreet.com/report/4450061](https://www.fixmystreet.com/report/4450061)
 - Pothole, 17th April :- [https://www.fixmystreet.com/report/4448531](https://www.fixmystreet.com/report/4448531)
 - Large pitholes on Bibury road also road damaged on junction out of sheepscombe close, 16th April :- [https://www.fixmystreet.com/report/4447562](https://www.fixmystreet.com/report/4447562)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blown street lamp bulb, 16th April :- [https://www.fixmystreet.com/report/4445632](https://www.fixmystreet.com/report/4445632)
 - Deep pothole. Dropped a front wheel into it last night. Hope there's no damage., 16th April :- [https://www.fixmystreet.com/report/4444962](https://www.fixmystreet.com/report/4444962)
 - Pothole/road surface lifting in New Barn Lane., 16th April :- [https://www.fixmystreet.com/report/4444846](https://www.fixmystreet.com/report/4444846)
-- Pothole in New Barn Lane., 16th April :- [https://www.fixmystreet.com/report/4444838](https://www.fixmystreet.com/report/4444838)
-- Pothole/road surface lifting in New Barn Lane., 16th April :- [https://www.fixmystreet.com/report/4444836](https://www.fixmystreet.com/report/4444836)
-- Pothole in Brymore Close, 16th April :- [https://www.fixmystreet.com/report/4444834](https://www.fixmystreet.com/report/4444834)
-- Two potholes in Brymore Close, 16th April :- [https://www.fixmystreet.com/report/4444833](https://www.fixmystreet.com/report/4444833)
-- Mega pothole from roundabout to petrol station, 15th April :- [https://www.fixmystreet.com/report/4444414](https://www.fixmystreet.com/report/4444414)
-- Pothole, 15th April :- [https://www.fixmystreet.com/report/4444110](https://www.fixmystreet.com/report/4444110)
-- Rut across road, 15th April :- [https://www.fixmystreet.com/report/4444100](https://www.fixmystreet.com/report/4444100)
 
 <!-- fix_marker ends -->
