@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sinkhole is opening up 30 to 40 cm deep, but quite small, but possibly joined under the ground, 19th April :- [https://www.fixmystreet.com/report/4458802](https://www.fixmystreet.com/report/4458802)
+- Abandoned barrier on the corner of Amberley Road, killing the grass, 19th April :- [https://www.fixmystreet.com/report/4458793](https://www.fixmystreet.com/report/4458793)
+- Cardboard box and bags of rubbish dumped, 18th April :- [https://www.fixmystreet.com/report/4458436](https://www.fixmystreet.com/report/4458436)
+- Pothole in centre of road, 18th April :- [https://www.fixmystreet.com/report/4458351](https://www.fixmystreet.com/report/4458351)
+- Deep pothole widening in a second which will soon become a crater, 18th April :- [https://www.fixmystreet.com/report/4458341](https://www.fixmystreet.com/report/4458341)
 - "Incident" Cyclist doored by car driver, 18th April :- [https://www.fixmystreet.com/report/4456024](https://www.fixmystreet.com/report/4456024)
 - Severn Trent Manhole cover on London Road, 18th April :- [https://www.fixmystreet.com/report/4454034](https://www.fixmystreet.com/report/4454034)
 - Faulty manhole cover, 18th April :- [https://www.fixmystreet.com/report/4453960](https://www.fixmystreet.com/report/4453960)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deepening pothole/s, 16th April :- [https://www.fixmystreet.com/report/4447079](https://www.fixmystreet.com/report/4447079)
 - Several potholes, 16th April :- [https://www.fixmystreet.com/report/4446934](https://www.fixmystreet.com/report/4446934)
 - Litter and rubbish in undergrowth adjacent to path, 16th April :- [https://www.fixmystreet.com/report/4446624](https://www.fixmystreet.com/report/4446624)
-- Graffiti on tourist sign, 16th April :- [https://www.fixmystreet.com/report/4446474](https://www.fixmystreet.com/report/4446474)
-- Restaurant fly tipping on pavement, 16th April :- [https://www.fixmystreet.com/report/4446266](https://www.fixmystreet.com/report/4446266)
-- Street lamps shining through windows overnight, 16th April :- [https://www.fixmystreet.com/report/4445653](https://www.fixmystreet.com/report/4445653)
-- Blown street lamp bulb, 16th April :- [https://www.fixmystreet.com/report/4445632](https://www.fixmystreet.com/report/4445632)
-- Deep pothole. Dropped a front wheel into it last night. Hope there's no damage., 16th April :- [https://www.fixmystreet.com/report/4444962](https://www.fixmystreet.com/report/4444962)
 
 <!-- fix_marker ends -->
