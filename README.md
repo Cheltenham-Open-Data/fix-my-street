@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Two potholes, 20th April :- [https://www.fixmystreet.com/report/4467192](https://www.fixmystreet.com/report/4467192)
+- Two potholes., 20th April :- [https://www.fixmystreet.com/report/4467162](https://www.fixmystreet.com/report/4467162)
+- Unauthorised Camping, 20th April :- [https://www.fixmystreet.com/report/4466079](https://www.fixmystreet.com/report/4466079)
 - Potholes here and there in Tobyfield Road, 20th April :- [https://www.fixmystreet.com/report/4464280](https://www.fixmystreet.com/report/4464280)
 - Potholes all along Kayte Lane, 20th April :- [https://www.fixmystreet.com/report/4464271](https://www.fixmystreet.com/report/4464271)
 - Road breaking up plus potholes, 20th April :- [https://www.fixmystreet.com/report/4464264](https://www.fixmystreet.com/report/4464264)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in centre of road, 18th April :- [https://www.fixmystreet.com/report/4458351](https://www.fixmystreet.com/report/4458351)
 - Deep pothole widening in a second which will soon become a crater, 18th April :- [https://www.fixmystreet.com/report/4458341](https://www.fixmystreet.com/report/4458341)
 - "Incident" Cyclist doored by car driver, 18th April :- [https://www.fixmystreet.com/report/4456024](https://www.fixmystreet.com/report/4456024)
-- Severn Trent Manhole cover on London Road, 18th April :- [https://www.fixmystreet.com/report/4454034](https://www.fixmystreet.com/report/4454034)
-- Faulty manhole cover, 18th April :- [https://www.fixmystreet.com/report/4453960](https://www.fixmystreet.com/report/4453960)
-- 7 inch pothole about 3ft long by 2ft wide, 17th April :- [https://www.fixmystreet.com/report/4453800](https://www.fixmystreet.com/report/4453800)
 
 <!-- fix_marker ends -->
