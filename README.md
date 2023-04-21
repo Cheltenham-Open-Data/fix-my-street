@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Right filter lane vehicle detection, 20th April :- [https://www.fixmystreet.com/report/4468364](https://www.fixmystreet.com/report/4468364)
 - Two potholes, 20th April :- [https://www.fixmystreet.com/report/4467192](https://www.fixmystreet.com/report/4467192)
 - Two potholes., 20th April :- [https://www.fixmystreet.com/report/4467162](https://www.fixmystreet.com/report/4467162)
 - Unauthorised Camping, 20th April :- [https://www.fixmystreet.com/report/4466079](https://www.fixmystreet.com/report/4466079)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Cardboard box and bags of rubbish dumped, 18th April :- [https://www.fixmystreet.com/report/4458436](https://www.fixmystreet.com/report/4458436)
 - Pothole in centre of road, 18th April :- [https://www.fixmystreet.com/report/4458351](https://www.fixmystreet.com/report/4458351)
 - Deep pothole widening in a second which will soon become a crater, 18th April :- [https://www.fixmystreet.com/report/4458341](https://www.fixmystreet.com/report/4458341)
-- "Incident" Cyclist doored by car driver, 18th April :- [https://www.fixmystreet.com/report/4456024](https://www.fixmystreet.com/report/4456024)
 
 <!-- fix_marker ends -->
