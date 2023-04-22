@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large potholes St Paul’s Road Cheltenham, 22nd April :- [https://www.fixmystreet.com/report/4473463](https://www.fixmystreet.com/report/4473463)
+- 2 deep potholes St Paul’s Road opposite Clarke Way, 22nd April :- [https://www.fixmystreet.com/report/4473396](https://www.fixmystreet.com/report/4473396)
+- Street Light out, 22nd April :- [https://www.fixmystreet.com/report/4472398](https://www.fixmystreet.com/report/4472398)
 - Right filter lane vehicle detection, 20th April :- [https://www.fixmystreet.com/report/4468364](https://www.fixmystreet.com/report/4468364)
 - Two potholes, 20th April :- [https://www.fixmystreet.com/report/4467192](https://www.fixmystreet.com/report/4467192)
 - Two potholes., 20th April :- [https://www.fixmystreet.com/report/4467162](https://www.fixmystreet.com/report/4467162)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole., 19th April :- [https://www.fixmystreet.com/report/4460147](https://www.fixmystreet.com/report/4460147)
 - Sinkhole is opening up 30 to 40 cm deep, but quite small, but possibly joined under the ground, 19th April :- [https://www.fixmystreet.com/report/4458802](https://www.fixmystreet.com/report/4458802)
 - Abandoned barrier on the corner of Amberley Road, killing the grass, 19th April :- [https://www.fixmystreet.com/report/4458793](https://www.fixmystreet.com/report/4458793)
-- Cardboard box and bags of rubbish dumped, 18th April :- [https://www.fixmystreet.com/report/4458436](https://www.fixmystreet.com/report/4458436)
-- Pothole in centre of road, 18th April :- [https://www.fixmystreet.com/report/4458351](https://www.fixmystreet.com/report/4458351)
-- Deep pothole widening in a second which will soon become a crater, 18th April :- [https://www.fixmystreet.com/report/4458341](https://www.fixmystreet.com/report/4458341)
 
 <!-- fix_marker ends -->
