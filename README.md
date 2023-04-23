@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipping in Duncroft Park hedge near alleyway to Barnett Way, 23rd April :- [https://www.fixmystreet.com/report/4475956](https://www.fixmystreet.com/report/4475956)
+- Ruined road verge, 23rd April :- [https://www.fixmystreet.com/report/4475382](https://www.fixmystreet.com/report/4475382)
+- Street lighting is out in the whole area.please turn it back on, 23rd April :- [https://www.fixmystreet.com/report/4475149](https://www.fixmystreet.com/report/4475149)
 - Streetlights not working, 22nd April :- [https://www.fixmystreet.com/report/4475001](https://www.fixmystreet.com/report/4475001)
 - Massive, car swallowing, gaping chasms in road, 22nd April :- [https://www.fixmystreet.com/report/4474906](https://www.fixmystreet.com/report/4474906)
 - Millions of potholes. Meteor strike caused multiple craters., 22nd April :- [https://www.fixmystreet.com/report/4474902](https://www.fixmystreet.com/report/4474902)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Box of rubbish dumped, 20th April :- [https://www.fixmystreet.com/report/4464220](https://www.fixmystreet.com/report/4464220)
 - 12 inch and deep., 19th April :- [https://www.fixmystreet.com/report/4463724](https://www.fixmystreet.com/report/4463724)
 - Deep pothole, 19th April :- [https://www.fixmystreet.com/report/4463409](https://www.fixmystreet.com/report/4463409)
-- Over 10inch potholes down bishops drive, 19th April :- [https://www.fixmystreet.com/report/4463095](https://www.fixmystreet.com/report/4463095)
-- Numerous pot holes down this road some large ones, 19th April :- [https://www.fixmystreet.com/report/4463065](https://www.fixmystreet.com/report/4463065)
-- Lots of potholes on road between Crickley Hill & National Star Turnoff, 19th April :- [https://www.fixmystreet.com/report/4462687](https://www.fixmystreet.com/report/4462687)
 
 <!-- fix_marker ends -->
