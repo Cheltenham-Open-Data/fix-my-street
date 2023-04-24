@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Danger to life, 24th April :- [https://www.fixmystreet.com/report/4481605](https://www.fixmystreet.com/report/4481605)
+- Broken Glass on cycle path, 24th April :- [https://www.fixmystreet.com/report/4478654](https://www.fixmystreet.com/report/4478654)
+- Road falling apart, 24th April :- [https://www.fixmystreet.com/report/4478465](https://www.fixmystreet.com/report/4478465)
+- Very deep potholes, 24th April :- [https://www.fixmystreet.com/report/4478457](https://www.fixmystreet.com/report/4478457)
+- Very deep potholes, 24th April :- [https://www.fixmystreet.com/report/4478450](https://www.fixmystreet.com/report/4478450)
+- Pothole in front of lights, 24th April :- [https://www.fixmystreet.com/report/4478386](https://www.fixmystreet.com/report/4478386)
 - Street lighting not working, 24th April :- [https://www.fixmystreet.com/report/4477788](https://www.fixmystreet.com/report/4477788)
 - Street lights not working, 24th April :- [https://www.fixmystreet.com/report/4477787](https://www.fixmystreet.com/report/4477787)
 - Uneven road surface, 23rd April :- [https://www.fixmystreet.com/report/4477685](https://www.fixmystreet.com/report/4477685)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ruined road verge, 23rd April :- [https://www.fixmystreet.com/report/4475382](https://www.fixmystreet.com/report/4475382)
 - Street lighting is out in the whole area.please turn it back on, 23rd April :- [https://www.fixmystreet.com/report/4475149](https://www.fixmystreet.com/report/4475149)
 - Streetlights not working, 22nd April :- [https://www.fixmystreet.com/report/4475001](https://www.fixmystreet.com/report/4475001)
-- Massive, car swallowing, gaping chasms in road, 22nd April :- [https://www.fixmystreet.com/report/4474906](https://www.fixmystreet.com/report/4474906)
-- Millions of potholes. Meteor strike caused multiple craters., 22nd April :- [https://www.fixmystreet.com/report/4474902](https://www.fixmystreet.com/report/4474902)
-- Every single Streetlight in Marsh Lane is not working, 22nd April :- [https://www.fixmystreet.com/report/4474859](https://www.fixmystreet.com/report/4474859)
-- Large potholes St Paul’s Road Cheltenham, 22nd April :- [https://www.fixmystreet.com/report/4473463](https://www.fixmystreet.com/report/4473463)
-- 2 deep potholes St Paul’s Road opposite Clarke Way, 22nd April :- [https://www.fixmystreet.com/report/4473396](https://www.fixmystreet.com/report/4473396)
-- Street Light out, 22nd April :- [https://www.fixmystreet.com/report/4472398](https://www.fixmystreet.com/report/4472398)
 
 <!-- fix_marker ends -->
