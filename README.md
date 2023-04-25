@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Microwave dumped in alleyway, access to main road, 25th April :- [https://www.fixmystreet.com/report/4483648](https://www.fixmystreet.com/report/4483648)
+- Waste bin is close to overflowing, 25th April :- [https://www.fixmystreet.com/report/4483424](https://www.fixmystreet.com/report/4483424)
 - Danger to life, 24th April :- [https://www.fixmystreet.com/report/4481605](https://www.fixmystreet.com/report/4481605)
 - Broken Glass on cycle path, 24th April :- [https://www.fixmystreet.com/report/4478654](https://www.fixmystreet.com/report/4478654)
 - Road falling apart, 24th April :- [https://www.fixmystreet.com/report/4478465](https://www.fixmystreet.com/report/4478465)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes everywhere, 23rd April :- [https://www.fixmystreet.com/report/4477495](https://www.fixmystreet.com/report/4477495)
 - Fly tipping in Duncroft Park hedge near alleyway to Barnett Way, 23rd April :- [https://www.fixmystreet.com/report/4475956](https://www.fixmystreet.com/report/4475956)
 - Ruined road verge, 23rd April :- [https://www.fixmystreet.com/report/4475382](https://www.fixmystreet.com/report/4475382)
-- Street lighting is out in the whole area.please turn it back on, 23rd April :- [https://www.fixmystreet.com/report/4475149](https://www.fixmystreet.com/report/4475149)
-- Streetlights not working, 22nd April :- [https://www.fixmystreet.com/report/4475001](https://www.fixmystreet.com/report/4475001)
 
 <!-- fix_marker ends -->
