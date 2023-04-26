@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple pot holes, 26th April :- [https://www.fixmystreet.com/report/4486536](https://www.fixmystreet.com/report/4486536)
+- Damage to bridge over M5, 26th April :- [https://www.fixmystreet.com/report/4486315](https://www.fixmystreet.com/report/4486315)
+- Pothole, foot of Charlton abbots hill, 25th April :- [https://www.fixmystreet.com/report/4486086](https://www.fixmystreet.com/report/4486086)
+- Road still continues to be In bad repair, 25th April :- [https://www.fixmystreet.com/report/4486061](https://www.fixmystreet.com/report/4486061)
+- Hedges over the footpath, 25th April :- [https://www.fixmystreet.com/report/4485791](https://www.fixmystreet.com/report/4485791)
 - Microwave dumped in alleyway, access to main road, 25th April :- [https://www.fixmystreet.com/report/4483648](https://www.fixmystreet.com/report/4483648)
 - Waste bin is close to overflowing, 25th April :- [https://www.fixmystreet.com/report/4483424](https://www.fixmystreet.com/report/4483424)
 - Danger to life, 24th April :- [https://www.fixmystreet.com/report/4481605](https://www.fixmystreet.com/report/4481605)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose man hole cover, 23rd April :- [https://www.fixmystreet.com/report/4477671](https://www.fixmystreet.com/report/4477671)
 - Potholes still exist on roundabout, 23rd April :- [https://www.fixmystreet.com/report/4477670](https://www.fixmystreet.com/report/4477670)
 - Street lights are all out, 23rd April :- [https://www.fixmystreet.com/report/4477669](https://www.fixmystreet.com/report/4477669)
-- Street light not working, 23rd April :- [https://www.fixmystreet.com/report/4477660](https://www.fixmystreet.com/report/4477660)
-- Street light not working, 23rd April :- [https://www.fixmystreet.com/report/4477658](https://www.fixmystreet.com/report/4477658)
-- Potholes everywhere, 23rd April :- [https://www.fixmystreet.com/report/4477495](https://www.fixmystreet.com/report/4477495)
-- Fly tipping in Duncroft Park hedge near alleyway to Barnett Way, 23rd April :- [https://www.fixmystreet.com/report/4475956](https://www.fixmystreet.com/report/4475956)
-- Ruined road verge, 23rd April :- [https://www.fixmystreet.com/report/4475382](https://www.fixmystreet.com/report/4475382)
 
 <!-- fix_marker ends -->
