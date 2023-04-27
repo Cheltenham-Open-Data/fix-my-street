@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large hole in road, 27th April :- [https://www.fixmystreet.com/report/4491037](https://www.fixmystreet.com/report/4491037)
+- Stone chippings covering pavement, 27th April :- [https://www.fixmystreet.com/report/4491000](https://www.fixmystreet.com/report/4491000)
+- Extremely deep and damaging series of potholes, 26th April :- [https://www.fixmystreet.com/report/4490693](https://www.fixmystreet.com/report/4490693)
+- Lots of potholes together, 26th April :- [https://www.fixmystreet.com/report/4490344](https://www.fixmystreet.com/report/4490344)
 - Collapsed Manhole Cover, 26th April :- [https://www.fixmystreet.com/report/4489663](https://www.fixmystreet.com/report/4489663)
 - Very noisy manhole cover/pothole, 26th April :- [https://www.fixmystreet.com/report/4488713](https://www.fixmystreet.com/report/4488713)
 - Rubbish dumped on green, 26th April :- [https://www.fixmystreet.com/report/4488684](https://www.fixmystreet.com/report/4488684)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Failed pothole repair, 26th April :- [https://www.fixmystreet.com/report/4486750](https://www.fixmystreet.com/report/4486750)
 - Failed pothole repair, 26th April :- [https://www.fixmystreet.com/report/4486746](https://www.fixmystreet.com/report/4486746)
 - Failed pothole repair, 26th April :- [https://www.fixmystreet.com/report/4486743](https://www.fixmystreet.com/report/4486743)
-- Failed pothole repair, 26th April :- [https://www.fixmystreet.com/report/4486742](https://www.fixmystreet.com/report/4486742)
-- Failed repair of pothole, 26th April :- [https://www.fixmystreet.com/report/4486740](https://www.fixmystreet.com/report/4486740)
-- Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486733](https://www.fixmystreet.com/report/4486733)
-- Failed repair potholes, 26th April :- [https://www.fixmystreet.com/report/4486731](https://www.fixmystreet.com/report/4486731)
 
 <!-- fix_marker ends -->
