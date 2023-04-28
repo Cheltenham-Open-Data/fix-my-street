@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Disintegrating road surface, 28th April :- [https://www.fixmystreet.com/report/4494929](https://www.fixmystreet.com/report/4494929)
+- Long stretch of potholes, 27th April :- [https://www.fixmystreet.com/report/4494733](https://www.fixmystreet.com/report/4494733)
+- Large pothole, 27th April :- [https://www.fixmystreet.com/report/4494711](https://www.fixmystreet.com/report/4494711)
 - Large pot hole when turning left into shearwater grove, 27th April :- [https://www.fixmystreet.com/report/4493480](https://www.fixmystreet.com/report/4493480)
 - Pothole damaged my car, 27th April :- [https://www.fixmystreet.com/report/4492833](https://www.fixmystreet.com/report/4492833)
 - Pothole, 27th April :- [https://www.fixmystreet.com/report/4491349](https://www.fixmystreet.com/report/4491349)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486768](https://www.fixmystreet.com/report/4486768)
 - Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486766](https://www.fixmystreet.com/report/4486766)
 - Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486762](https://www.fixmystreet.com/report/4486762)
-- Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486759](https://www.fixmystreet.com/report/4486759)
-- Failed potholes repair, 26th April :- [https://www.fixmystreet.com/report/4486756](https://www.fixmystreet.com/report/4486756)
-- Failed pothole repair, 26th April :- [https://www.fixmystreet.com/report/4486755](https://www.fixmystreet.com/report/4486755)
 
 <!-- fix_marker ends -->
