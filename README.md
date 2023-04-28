@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffitied aign, 28th April :- [https://www.fixmystreet.com/report/4497506](https://www.fixmystreet.com/report/4497506)
+- Potential sink hole, 28th April :- [https://www.fixmystreet.com/report/4497260](https://www.fixmystreet.com/report/4497260)
+- Aldi trolley dumped, 28th April :- [https://www.fixmystreet.com/report/4497060](https://www.fixmystreet.com/report/4497060)
+- Pothole, 28th April :- [https://www.fixmystreet.com/report/4496211](https://www.fixmystreet.com/report/4496211)
+- Significant fly tipping, 28th April :- [https://www.fixmystreet.com/report/4495798](https://www.fixmystreet.com/report/4495798)
+- Poor and inadequate repairs, 28th April :- [https://www.fixmystreet.com/report/4495644](https://www.fixmystreet.com/report/4495644)
 - Disintegrating road surface, 28th April :- [https://www.fixmystreet.com/report/4494929](https://www.fixmystreet.com/report/4494929)
 - Long stretch of potholes, 27th April :- [https://www.fixmystreet.com/report/4494733](https://www.fixmystreet.com/report/4494733)
 - Large pothole, 27th April :- [https://www.fixmystreet.com/report/4494711](https://www.fixmystreet.com/report/4494711)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very noisy manhole cover/pothole, 26th April :- [https://www.fixmystreet.com/report/4488713](https://www.fixmystreet.com/report/4488713)
 - Rubbish dumped on green, 26th April :- [https://www.fixmystreet.com/report/4488684](https://www.fixmystreet.com/report/4488684)
 - Large deep pothole, 26th April :- [https://www.fixmystreet.com/report/4487032](https://www.fixmystreet.com/report/4487032)
-- Sub-standard road side water drainage, 26th April :- [https://www.fixmystreet.com/report/4486935](https://www.fixmystreet.com/report/4486935)
-- Badly repaired pot holes A40, 26th April :- [https://www.fixmystreet.com/report/4486826](https://www.fixmystreet.com/report/4486826)
-- Blocked drain holes, 26th April :- [https://www.fixmystreet.com/report/4486795](https://www.fixmystreet.com/report/4486795)
-- Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486768](https://www.fixmystreet.com/report/4486768)
-- Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486766](https://www.fixmystreet.com/report/4486766)
-- Failed repair, 26th April :- [https://www.fixmystreet.com/report/4486762](https://www.fixmystreet.com/report/4486762)
 
 <!-- fix_marker ends -->
