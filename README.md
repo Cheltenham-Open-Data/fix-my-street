@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole in the road at the entrance to the car park/St Edwards school., 28th April :- [https://www.fixmystreet.com/report/4498161](https://www.fixmystreet.com/report/4498161)
+- Large pothole in the road at the entrance to the car park/St Edwards school., 28th April :- [https://www.fixmystreet.com/report/4498153](https://www.fixmystreet.com/report/4498153)
 - Graffitied aign, 28th April :- [https://www.fixmystreet.com/report/4497506](https://www.fixmystreet.com/report/4497506)
 - Potential sink hole, 28th April :- [https://www.fixmystreet.com/report/4497260](https://www.fixmystreet.com/report/4497260)
 - Aldi trolley dumped, 28th April :- [https://www.fixmystreet.com/report/4497060](https://www.fixmystreet.com/report/4497060)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lots of potholes together, 26th April :- [https://www.fixmystreet.com/report/4490344](https://www.fixmystreet.com/report/4490344)
 - Collapsed Manhole Cover, 26th April :- [https://www.fixmystreet.com/report/4489663](https://www.fixmystreet.com/report/4489663)
 - Very noisy manhole cover/pothole, 26th April :- [https://www.fixmystreet.com/report/4488713](https://www.fixmystreet.com/report/4488713)
-- Rubbish dumped on green, 26th April :- [https://www.fixmystreet.com/report/4488684](https://www.fixmystreet.com/report/4488684)
-- Large deep pothole, 26th April :- [https://www.fixmystreet.com/report/4487032](https://www.fixmystreet.com/report/4487032)
 
 <!-- fix_marker ends -->
