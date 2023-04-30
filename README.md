@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Huge potholes, 30th April :- [https://www.fixmystreet.com/report/4501732](https://www.fixmystreet.com/report/4501732)
 - Hedges over growing pavement, 29th April :- [https://www.fixmystreet.com/report/4500200](https://www.fixmystreet.com/report/4500200)
 - Flytipped rubbish, 29th April :- [https://www.fixmystreet.com/report/4500006](https://www.fixmystreet.com/report/4500006)
 - Ongoing pothole - we hit it at 11.00am on Sunday 23rd April '23., 29th April :- [https://www.fixmystreet.com/report/4499923](https://www.fixmystreet.com/report/4499923)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Significant fly tipping, 28th April :- [https://www.fixmystreet.com/report/4495798](https://www.fixmystreet.com/report/4495798)
 - Poor and inadequate repairs, 28th April :- [https://www.fixmystreet.com/report/4495644](https://www.fixmystreet.com/report/4495644)
 - Disintegrating road surface, 28th April :- [https://www.fixmystreet.com/report/4494929](https://www.fixmystreet.com/report/4494929)
-- Long stretch of potholes, 27th April :- [https://www.fixmystreet.com/report/4494733](https://www.fixmystreet.com/report/4494733)
 
 <!-- fix_marker ends -->
