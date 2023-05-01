@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Barriers and a bollard on side of Cranham Road., 30th April :- [https://www.fixmystreet.com/report/4502995](https://www.fixmystreet.com/report/4502995)
+- Abandoned Corsa on road, 30th April :- [https://www.fixmystreet.com/report/4502863](https://www.fixmystreet.com/report/4502863)
 - Huge potholes, 30th April :- [https://www.fixmystreet.com/report/4501732](https://www.fixmystreet.com/report/4501732)
 - Hedges over growing pavement, 29th April :- [https://www.fixmystreet.com/report/4500200](https://www.fixmystreet.com/report/4500200)
 - Flytipped rubbish, 29th April :- [https://www.fixmystreet.com/report/4500006](https://www.fixmystreet.com/report/4500006)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Aldi trolley dumped, 28th April :- [https://www.fixmystreet.com/report/4497060](https://www.fixmystreet.com/report/4497060)
 - Pothole, 28th April :- [https://www.fixmystreet.com/report/4496211](https://www.fixmystreet.com/report/4496211)
 - Significant fly tipping, 28th April :- [https://www.fixmystreet.com/report/4495798](https://www.fixmystreet.com/report/4495798)
-- Poor and inadequate repairs, 28th April :- [https://www.fixmystreet.com/report/4495644](https://www.fixmystreet.com/report/4495644)
-- Disintegrating road surface, 28th April :- [https://www.fixmystreet.com/report/4494929](https://www.fixmystreet.com/report/4494929)
 
 <!-- fix_marker ends -->
