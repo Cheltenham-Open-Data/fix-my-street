@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipped oven, chair and other items, 1st May :- [https://www.fixmystreet.com/report/4505863](https://www.fixmystreet.com/report/4505863)
+- Flytipped sofa, 1st May :- [https://www.fixmystreet.com/report/4505829](https://www.fixmystreet.com/report/4505829)
 - Bags of rubbish near bin, 1st May :- [https://www.fixmystreet.com/report/4505099](https://www.fixmystreet.com/report/4505099)
 - Rubbish, 1st May :- [https://www.fixmystreet.com/report/4504038](https://www.fixmystreet.com/report/4504038)
 - Street lights on this section of Evesham Road are all broken again!, 1st May :- [https://www.fixmystreet.com/report/4503864](https://www.fixmystreet.com/report/4503864)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Series of potholes, 29th April :- [https://www.fixmystreet.com/report/4499871](https://www.fixmystreet.com/report/4499871)
 - Potholed and deteriorating Road surface, 29th April :- [https://www.fixmystreet.com/report/4499864](https://www.fixmystreet.com/report/4499864)
 - Offensive graffiti on old next shop, 29th April :- [https://www.fixmystreet.com/report/4499709](https://www.fixmystreet.com/report/4499709)
-- Drain completely blocked, 29th April :- [https://www.fixmystreet.com/report/4499100](https://www.fixmystreet.com/report/4499100)
-- Overgrown bushes 18 St Paul’s Road, 29th April :- [https://www.fixmystreet.com/report/4499029](https://www.fixmystreet.com/report/4499029)
 
 <!-- fix_marker ends -->
