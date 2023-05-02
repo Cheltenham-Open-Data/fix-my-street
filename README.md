@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping, 2nd May :- [https://www.fixmystreet.com/report/4510087](https://www.fixmystreet.com/report/4510087)
+- Multiple potholes, 2nd May :- [https://www.fixmystreet.com/report/4510060](https://www.fixmystreet.com/report/4510060)
+- Various items dumped, 2nd May :- [https://www.fixmystreet.com/report/4509785](https://www.fixmystreet.com/report/4509785)
+- Deep potholes on high speed curve. Cars see late and often swerve into opposite lane to avoid risking running into traffic in other direction., 2nd May :- [https://www.fixmystreet.com/report/4509516](https://www.fixmystreet.com/report/4509516)
+- Large pothole on carriageway of M5 northbound between gloucester services and j11A, 2nd May :- [https://www.fixmystreet.com/report/4509259](https://www.fixmystreet.com/report/4509259)
 - Flytipped oven, chair and other items, 1st May :- [https://www.fixmystreet.com/report/4505863](https://www.fixmystreet.com/report/4505863)
 - Flytipped sofa, 1st May :- [https://www.fixmystreet.com/report/4505829](https://www.fixmystreet.com/report/4505829)
 - Bags of rubbish near bin, 1st May :- [https://www.fixmystreet.com/report/4505099](https://www.fixmystreet.com/report/4505099)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Huge potholes, 30th April :- [https://www.fixmystreet.com/report/4501732](https://www.fixmystreet.com/report/4501732)
 - Hedges over growing pavement, 29th April :- [https://www.fixmystreet.com/report/4500200](https://www.fixmystreet.com/report/4500200)
 - Flytipped rubbish, 29th April :- [https://www.fixmystreet.com/report/4500006](https://www.fixmystreet.com/report/4500006)
-- Ongoing pothole - we hit it at 11.00am on Sunday 23rd April '23., 29th April :- [https://www.fixmystreet.com/report/4499923](https://www.fixmystreet.com/report/4499923)
-- Deep pothole in the middle of the carriageway, 29th April :- [https://www.fixmystreet.com/report/4499877](https://www.fixmystreet.com/report/4499877)
-- Series of potholes, 29th April :- [https://www.fixmystreet.com/report/4499871](https://www.fixmystreet.com/report/4499871)
-- Potholed and deteriorating Road surface, 29th April :- [https://www.fixmystreet.com/report/4499864](https://www.fixmystreet.com/report/4499864)
-- Offensive graffiti on old next shop, 29th April :- [https://www.fixmystreet.com/report/4499709](https://www.fixmystreet.com/report/4499709)
 
 <!-- fix_marker ends -->
