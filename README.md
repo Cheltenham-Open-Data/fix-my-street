@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bed dumped, 3rd May :- [https://www.fixmystreet.com/report/4513274](https://www.fixmystreet.com/report/4513274)
+- Flytipped freezer, 3rd May :- [https://www.fixmystreet.com/report/4513039](https://www.fixmystreet.com/report/4513039)
+- Grass narrowing footpath, 3rd May :- [https://www.fixmystreet.com/report/4512508](https://www.fixmystreet.com/report/4512508)
+- All of the verges and grass areas on symphony road are massively overgrown. They haven’t been cut for ages. Weeds everywhere it looks awful, 3rd May :- [https://www.fixmystreet.com/report/4511562](https://www.fixmystreet.com/report/4511562)
 - Flytipping, 2nd May :- [https://www.fixmystreet.com/report/4510087](https://www.fixmystreet.com/report/4510087)
 - Multiple potholes, 2nd May :- [https://www.fixmystreet.com/report/4510060](https://www.fixmystreet.com/report/4510060)
 - Various items dumped, 2nd May :- [https://www.fixmystreet.com/report/4509785](https://www.fixmystreet.com/report/4509785)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned Iceland Trolley, 1st May :- [https://www.fixmystreet.com/report/4503606](https://www.fixmystreet.com/report/4503606)
 - Cockerel - noise pollution, 1st May :- [https://www.fixmystreet.com/report/4503602](https://www.fixmystreet.com/report/4503602)
 - Barriers and a bollard on side of Cranham Road., 30th April :- [https://www.fixmystreet.com/report/4502995](https://www.fixmystreet.com/report/4502995)
-- Abandoned Corsa on road, 30th April :- [https://www.fixmystreet.com/report/4502863](https://www.fixmystreet.com/report/4502863)
-- Huge potholes, 30th April :- [https://www.fixmystreet.com/report/4501732](https://www.fixmystreet.com/report/4501732)
-- Hedges over growing pavement, 29th April :- [https://www.fixmystreet.com/report/4500200](https://www.fixmystreet.com/report/4500200)
-- Flytipped rubbish, 29th April :- [https://www.fixmystreet.com/report/4500006](https://www.fixmystreet.com/report/4500006)
 
 <!-- fix_marker ends -->
