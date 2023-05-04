@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very large pothole dangerous for cars, 4th May :- [https://www.fixmystreet.com/report/4518131](https://www.fixmystreet.com/report/4518131)
+- Failed repair of pothole, 4th May :- [https://www.fixmystreet.com/report/4516502](https://www.fixmystreet.com/report/4516502)
+- Glass on pavement, 4th May :- [https://www.fixmystreet.com/report/4516062](https://www.fixmystreet.com/report/4516062)
 - Very deep pothole, Extremely dangerous for motorcyclists., 3rd May :- [https://www.fixmystreet.com/report/4514979](https://www.fixmystreet.com/report/4514979)
 - Bed dumped, 3rd May :- [https://www.fixmystreet.com/report/4513274](https://www.fixmystreet.com/report/4513274)
 - Flytipped freezer, 3rd May :- [https://www.fixmystreet.com/report/4513039](https://www.fixmystreet.com/report/4513039)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street lights on this section of Evesham Road are all broken again!, 1st May :- [https://www.fixmystreet.com/report/4503864](https://www.fixmystreet.com/report/4503864)
 - Bags of rubbish left outside, 1st May :- [https://www.fixmystreet.com/report/4503669](https://www.fixmystreet.com/report/4503669)
 - Multiple potholes, 1st May :- [https://www.fixmystreet.com/report/4503662](https://www.fixmystreet.com/report/4503662)
-- Multiple potholes on road, 1st May :- [https://www.fixmystreet.com/report/4503652](https://www.fixmystreet.com/report/4503652)
-- Abandoned Iceland Trolley, 1st May :- [https://www.fixmystreet.com/report/4503606](https://www.fixmystreet.com/report/4503606)
-- Cockerel - noise pollution, 1st May :- [https://www.fixmystreet.com/report/4503602](https://www.fixmystreet.com/report/4503602)
 
 <!-- fix_marker ends -->
