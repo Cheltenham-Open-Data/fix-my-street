@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very deep pothole, Extremely dangerous for motorcyclists., 3rd May :- [https://www.fixmystreet.com/report/4514979](https://www.fixmystreet.com/report/4514979)
 - Bed dumped, 3rd May :- [https://www.fixmystreet.com/report/4513274](https://www.fixmystreet.com/report/4513274)
 - Flytipped freezer, 3rd May :- [https://www.fixmystreet.com/report/4513039](https://www.fixmystreet.com/report/4513039)
 - Grass narrowing footpath, 3rd May :- [https://www.fixmystreet.com/report/4512508](https://www.fixmystreet.com/report/4512508)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Multiple potholes on road, 1st May :- [https://www.fixmystreet.com/report/4503652](https://www.fixmystreet.com/report/4503652)
 - Abandoned Iceland Trolley, 1st May :- [https://www.fixmystreet.com/report/4503606](https://www.fixmystreet.com/report/4503606)
 - Cockerel - noise pollution, 1st May :- [https://www.fixmystreet.com/report/4503602](https://www.fixmystreet.com/report/4503602)
-- Barriers and a bollard on side of Cranham Road., 30th April :- [https://www.fixmystreet.com/report/4502995](https://www.fixmystreet.com/report/4502995)
 
 <!-- fix_marker ends -->
