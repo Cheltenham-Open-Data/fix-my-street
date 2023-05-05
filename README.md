@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 16 inch long 10 inch wide 5 inch deep, 4th May :- [https://www.fixmystreet.com/report/4518450](https://www.fixmystreet.com/report/4518450)
+- Deep pothole on the junction of Westmead Road with Paygrove Lane, Longlevens, 4th May :- [https://www.fixmystreet.com/report/4518402](https://www.fixmystreet.com/report/4518402)
 - Very large pothole dangerous for cars, 4th May :- [https://www.fixmystreet.com/report/4518131](https://www.fixmystreet.com/report/4518131)
 - Failed repair of pothole, 4th May :- [https://www.fixmystreet.com/report/4516502](https://www.fixmystreet.com/report/4516502)
 - Glass on pavement, 4th May :- [https://www.fixmystreet.com/report/4516062](https://www.fixmystreet.com/report/4516062)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bags of rubbish near bin, 1st May :- [https://www.fixmystreet.com/report/4505099](https://www.fixmystreet.com/report/4505099)
 - Rubbish, 1st May :- [https://www.fixmystreet.com/report/4504038](https://www.fixmystreet.com/report/4504038)
 - Street lights on this section of Evesham Road are all broken again!, 1st May :- [https://www.fixmystreet.com/report/4503864](https://www.fixmystreet.com/report/4503864)
-- Bags of rubbish left outside, 1st May :- [https://www.fixmystreet.com/report/4503669](https://www.fixmystreet.com/report/4503669)
-- Multiple potholes, 1st May :- [https://www.fixmystreet.com/report/4503662](https://www.fixmystreet.com/report/4503662)
 
 <!-- fix_marker ends -->
