@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pothole, 5th May :- [https://www.fixmystreet.com/report/4522242](https://www.fixmystreet.com/report/4522242)
+- Potholes all over, 5th May :- [https://www.fixmystreet.com/report/4522169](https://www.fixmystreet.com/report/4522169)
 - Broken kurb moving and broken, 5th May :- [https://www.fixmystreet.com/report/4522160](https://www.fixmystreet.com/report/4522160)
 - No signs telling cyclists to dismount, 5th May :- [https://www.fixmystreet.com/report/4521734](https://www.fixmystreet.com/report/4521734)
 - Branches obscuring cycle path signs, 5th May :- [https://www.fixmystreet.com/report/4521709](https://www.fixmystreet.com/report/4521709)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Multiple potholes, 2nd May :- [https://www.fixmystreet.com/report/4510060](https://www.fixmystreet.com/report/4510060)
 - Various items dumped, 2nd May :- [https://www.fixmystreet.com/report/4509785](https://www.fixmystreet.com/report/4509785)
 - Deep potholes on high speed curve. Cars see late and often swerve into opposite lane to avoid risking running into traffic in other direction., 2nd May :- [https://www.fixmystreet.com/report/4509516](https://www.fixmystreet.com/report/4509516)
-- Large pothole on carriageway of M5 northbound between gloucester services and j11A, 2nd May :- [https://www.fixmystreet.com/report/4509259](https://www.fixmystreet.com/report/4509259)
-- Flytipped oven, chair and other items, 1st May :- [https://www.fixmystreet.com/report/4505863](https://www.fixmystreet.com/report/4505863)
 
 <!-- fix_marker ends -->
