@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Huge pot holes, 6th May :- [https://www.fixmystreet.com/report/4523727](https://www.fixmystreet.com/report/4523727)
+- 2 pot holes, 6th May :- [https://www.fixmystreet.com/report/4523719](https://www.fixmystreet.com/report/4523719)
+- Large pot holes, 6th May :- [https://www.fixmystreet.com/report/4523712](https://www.fixmystreet.com/report/4523712)
+- Overflowing bins, 6th May :- [https://www.fixmystreet.com/report/4523584](https://www.fixmystreet.com/report/4523584)
+- Potholes, 6th May :- [https://www.fixmystreet.com/report/4523583](https://www.fixmystreet.com/report/4523583)
 - Deep pothole, 5th May :- [https://www.fixmystreet.com/report/4522242](https://www.fixmystreet.com/report/4522242)
 - Potholes all over, 5th May :- [https://www.fixmystreet.com/report/4522169](https://www.fixmystreet.com/report/4522169)
 - Broken kurb moving and broken, 5th May :- [https://www.fixmystreet.com/report/4522160](https://www.fixmystreet.com/report/4522160)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bed dumped, 3rd May :- [https://www.fixmystreet.com/report/4513274](https://www.fixmystreet.com/report/4513274)
 - Flytipped freezer, 3rd May :- [https://www.fixmystreet.com/report/4513039](https://www.fixmystreet.com/report/4513039)
 - Grass narrowing footpath, 3rd May :- [https://www.fixmystreet.com/report/4512508](https://www.fixmystreet.com/report/4512508)
-- All of the verges and grass areas on symphony road are massively overgrown. They haven’t been cut for ages. Weeds everywhere it looks awful, 3rd May :- [https://www.fixmystreet.com/report/4511562](https://www.fixmystreet.com/report/4511562)
-- Flytipping, 2nd May :- [https://www.fixmystreet.com/report/4510087](https://www.fixmystreet.com/report/4510087)
-- Multiple potholes, 2nd May :- [https://www.fixmystreet.com/report/4510060](https://www.fixmystreet.com/report/4510060)
-- Various items dumped, 2nd May :- [https://www.fixmystreet.com/report/4509785](https://www.fixmystreet.com/report/4509785)
-- Deep potholes on high speed curve. Cars see late and often swerve into opposite lane to avoid risking running into traffic in other direction., 2nd May :- [https://www.fixmystreet.com/report/4509516](https://www.fixmystreet.com/report/4509516)
 
 <!-- fix_marker ends -->
