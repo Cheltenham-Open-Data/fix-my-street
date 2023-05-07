@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Glass, 7th May :- [https://www.fixmystreet.com/report/4526059](https://www.fixmystreet.com/report/4526059)
+- Flytipping in Mill Lane, 7th May :- [https://www.fixmystreet.com/report/4525180](https://www.fixmystreet.com/report/4525180)
+- Huge holes in road at junction, 7th May :- [https://www.fixmystreet.com/report/4525127](https://www.fixmystreet.com/report/4525127)
+- Road surface disintegrating, 7th May :- [https://www.fixmystreet.com/report/4525113](https://www.fixmystreet.com/report/4525113)
 - Huge pot holes, 6th May :- [https://www.fixmystreet.com/report/4523727](https://www.fixmystreet.com/report/4523727)
 - 2 pot holes, 6th May :- [https://www.fixmystreet.com/report/4523719](https://www.fixmystreet.com/report/4523719)
 - Large pot holes, 6th May :- [https://www.fixmystreet.com/report/4523712](https://www.fixmystreet.com/report/4523712)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very large pothole dangerous for cars, 4th May :- [https://www.fixmystreet.com/report/4518131](https://www.fixmystreet.com/report/4518131)
 - Failed repair of pothole, 4th May :- [https://www.fixmystreet.com/report/4516502](https://www.fixmystreet.com/report/4516502)
 - Glass on pavement, 4th May :- [https://www.fixmystreet.com/report/4516062](https://www.fixmystreet.com/report/4516062)
-- Very deep pothole, Extremely dangerous for motorcyclists., 3rd May :- [https://www.fixmystreet.com/report/4514979](https://www.fixmystreet.com/report/4514979)
-- Bed dumped, 3rd May :- [https://www.fixmystreet.com/report/4513274](https://www.fixmystreet.com/report/4513274)
-- Flytipped freezer, 3rd May :- [https://www.fixmystreet.com/report/4513039](https://www.fixmystreet.com/report/4513039)
-- Grass narrowing footpath, 3rd May :- [https://www.fixmystreet.com/report/4512508](https://www.fixmystreet.com/report/4512508)
 
 <!-- fix_marker ends -->
