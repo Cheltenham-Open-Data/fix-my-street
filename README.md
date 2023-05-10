@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lots of potholes, 10th May :- [https://www.fixmystreet.com/report/4534797](https://www.fixmystreet.com/report/4534797)
+- Many large potholes, 9th May :- [https://www.fixmystreet.com/report/4534187](https://www.fixmystreet.com/report/4534187)
 - 10inch pothole has appeared in last few days, 9th May :- [https://www.fixmystreet.com/report/4533327](https://www.fixmystreet.com/report/4533327)
 - Blocked drain?, 9th May :- [https://www.fixmystreet.com/report/4530515](https://www.fixmystreet.com/report/4530515)
 - Large pot holes, 7th May :- [https://www.fixmystreet.com/report/4526667](https://www.fixmystreet.com/report/4526667)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - No signs telling cyclists to dismount, 5th May :- [https://www.fixmystreet.com/report/4521734](https://www.fixmystreet.com/report/4521734)
 - Branches obscuring cycle path signs, 5th May :- [https://www.fixmystreet.com/report/4521709](https://www.fixmystreet.com/report/4521709)
 - Overgrown footpath, 5th May :- [https://www.fixmystreet.com/report/4521639](https://www.fixmystreet.com/report/4521639)
-- 16 inch long 10 inch wide 5 inch deep, 4th May :- [https://www.fixmystreet.com/report/4518450](https://www.fixmystreet.com/report/4518450)
-- Deep pothole on the junction of Westmead Road with Paygrove Lane, Longlevens, 4th May :- [https://www.fixmystreet.com/report/4518402](https://www.fixmystreet.com/report/4518402)
 
 <!-- fix_marker ends -->
