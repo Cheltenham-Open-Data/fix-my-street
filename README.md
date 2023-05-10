@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep large pothole, 10th May :- [https://www.fixmystreet.com/report/4538974](https://www.fixmystreet.com/report/4538974)
+- Dangerous highway, 10th May :- [https://www.fixmystreet.com/report/4538725](https://www.fixmystreet.com/report/4538725)
+- Black paths blocking path and split, 10th May :- [https://www.fixmystreet.com/report/4537742](https://www.fixmystreet.com/report/4537742)
 - Lots of potholes, 10th May :- [https://www.fixmystreet.com/report/4534797](https://www.fixmystreet.com/report/4534797)
 - Many large potholes, 9th May :- [https://www.fixmystreet.com/report/4534187](https://www.fixmystreet.com/report/4534187)
 - 10inch pothole has appeared in last few days, 9th May :- [https://www.fixmystreet.com/report/4533327](https://www.fixmystreet.com/report/4533327)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole, 5th May :- [https://www.fixmystreet.com/report/4522242](https://www.fixmystreet.com/report/4522242)
 - Potholes all over, 5th May :- [https://www.fixmystreet.com/report/4522169](https://www.fixmystreet.com/report/4522169)
 - Broken kurb moving and broken, 5th May :- [https://www.fixmystreet.com/report/4522160](https://www.fixmystreet.com/report/4522160)
-- No signs telling cyclists to dismount, 5th May :- [https://www.fixmystreet.com/report/4521734](https://www.fixmystreet.com/report/4521734)
-- Branches obscuring cycle path signs, 5th May :- [https://www.fixmystreet.com/report/4521709](https://www.fixmystreet.com/report/4521709)
-- Overgrown footpath, 5th May :- [https://www.fixmystreet.com/report/4521639](https://www.fixmystreet.com/report/4521639)
 
 <!-- fix_marker ends -->
