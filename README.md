@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Old carpet dumped outside 49 Clyde Cresent, Cheltenham., 11th May :- [https://www.fixmystreet.com/report/4543701](https://www.fixmystreet.com/report/4543701)
+- Flytipped mattress New Rutland Court, 11th May :- [https://www.fixmystreet.com/report/4543596](https://www.fixmystreet.com/report/4543596)
+- Pot hole on entering shearwater grove 1 large circle one and a longer 1 by the kerb, 11th May :- [https://www.fixmystreet.com/report/4543479](https://www.fixmystreet.com/report/4543479)
+- Damaged street light, 11th May :- [https://www.fixmystreet.com/report/4543014](https://www.fixmystreet.com/report/4543014)
+- Several Pot Holes, 11th May :- [https://www.fixmystreet.com/report/4542641](https://www.fixmystreet.com/report/4542641)
+- Pothole by The Green carpark entrance., 11th May :- [https://www.fixmystreet.com/report/4542578](https://www.fixmystreet.com/report/4542578)
 - Very deep pothole, 11th May :- [https://www.fixmystreet.com/report/4540059](https://www.fixmystreet.com/report/4540059)
 - Pothole, 10th May :- [https://www.fixmystreet.com/report/4539761](https://www.fixmystreet.com/report/4539761)
 - Nitrous Oxide cartridges in the road, 10th May :- [https://www.fixmystreet.com/report/4539749](https://www.fixmystreet.com/report/4539749)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Glass, 7th May :- [https://www.fixmystreet.com/report/4526059](https://www.fixmystreet.com/report/4526059)
 - Flytipping in Mill Lane, 7th May :- [https://www.fixmystreet.com/report/4525180](https://www.fixmystreet.com/report/4525180)
 - Huge holes in road at junction, 7th May :- [https://www.fixmystreet.com/report/4525127](https://www.fixmystreet.com/report/4525127)
-- Road surface disintegrating, 7th May :- [https://www.fixmystreet.com/report/4525113](https://www.fixmystreet.com/report/4525113)
-- Huge pot holes, 6th May :- [https://www.fixmystreet.com/report/4523727](https://www.fixmystreet.com/report/4523727)
-- 2 pot holes, 6th May :- [https://www.fixmystreet.com/report/4523719](https://www.fixmystreet.com/report/4523719)
-- Large pot holes, 6th May :- [https://www.fixmystreet.com/report/4523712](https://www.fixmystreet.com/report/4523712)
-- Overflowing bins, 6th May :- [https://www.fixmystreet.com/report/4523584](https://www.fixmystreet.com/report/4523584)
-- Potholes, 6th May :- [https://www.fixmystreet.com/report/4523583](https://www.fixmystreet.com/report/4523583)
 
 <!-- fix_marker ends -->
