@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very deep pothole, 11th May :- [https://www.fixmystreet.com/report/4540059](https://www.fixmystreet.com/report/4540059)
+- Pothole, 10th May :- [https://www.fixmystreet.com/report/4539761](https://www.fixmystreet.com/report/4539761)
+- Nitrous Oxide cartridges in the road, 10th May :- [https://www.fixmystreet.com/report/4539749](https://www.fixmystreet.com/report/4539749)
 - Deep large pothole, 10th May :- [https://www.fixmystreet.com/report/4538974](https://www.fixmystreet.com/report/4538974)
 - Dangerous highway, 10th May :- [https://www.fixmystreet.com/report/4538725](https://www.fixmystreet.com/report/4538725)
 - Black paths blocking path and split, 10th May :- [https://www.fixmystreet.com/report/4537742](https://www.fixmystreet.com/report/4537742)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pot holes, 6th May :- [https://www.fixmystreet.com/report/4523712](https://www.fixmystreet.com/report/4523712)
 - Overflowing bins, 6th May :- [https://www.fixmystreet.com/report/4523584](https://www.fixmystreet.com/report/4523584)
 - Potholes, 6th May :- [https://www.fixmystreet.com/report/4523583](https://www.fixmystreet.com/report/4523583)
-- Deep pothole, 5th May :- [https://www.fixmystreet.com/report/4522242](https://www.fixmystreet.com/report/4522242)
-- Potholes all over, 5th May :- [https://www.fixmystreet.com/report/4522169](https://www.fixmystreet.com/report/4522169)
-- Broken kurb moving and broken, 5th May :- [https://www.fixmystreet.com/report/4522160](https://www.fixmystreet.com/report/4522160)
 
 <!-- fix_marker ends -->
