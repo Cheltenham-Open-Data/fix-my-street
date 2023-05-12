@@ -2,7 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several Cracks and multiple potholes on crossover, 12th May :- [https://www.fixmystreet.com/report/4547783](https://www.fixmystreet.com/report/4547783)
 - Sunken service access points, 12th May :- [https://www.fixmystreet.com/report/4544801](https://www.fixmystreet.com/report/4544801)
+- Fallen traffic post, 12th May :- [https://www.fixmystreet.com/report/4544779](https://www.fixmystreet.com/report/4544779)
 - Illegal parking on bend and opposite junction., 11th May :- [https://www.fixmystreet.com/report/4544279](https://www.fixmystreet.com/report/4544279)
 - Old carpet dumped outside 49 Clyde Cresent, Cheltenham., 11th May :- [https://www.fixmystreet.com/report/4543701](https://www.fixmystreet.com/report/4543701)
 - Flytipped mattress New Rutland Court, 11th May :- [https://www.fixmystreet.com/report/4543596](https://www.fixmystreet.com/report/4543596)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Many large potholes, 9th May :- [https://www.fixmystreet.com/report/4534187](https://www.fixmystreet.com/report/4534187)
 - 10inch pothole has appeared in last few days, 9th May :- [https://www.fixmystreet.com/report/4533327](https://www.fixmystreet.com/report/4533327)
 - Blocked drain?, 9th May :- [https://www.fixmystreet.com/report/4530515](https://www.fixmystreet.com/report/4530515)
-- Large pot holes, 7th May :- [https://www.fixmystreet.com/report/4526667](https://www.fixmystreet.com/report/4526667)
-- Glass, 7th May :- [https://www.fixmystreet.com/report/4526059](https://www.fixmystreet.com/report/4526059)
 
 <!-- fix_marker ends -->
