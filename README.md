@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sunken service access points, 12th May :- [https://www.fixmystreet.com/report/4544801](https://www.fixmystreet.com/report/4544801)
+- Illegal parking on bend and opposite junction., 11th May :- [https://www.fixmystreet.com/report/4544279](https://www.fixmystreet.com/report/4544279)
 - Old carpet dumped outside 49 Clyde Cresent, Cheltenham., 11th May :- [https://www.fixmystreet.com/report/4543701](https://www.fixmystreet.com/report/4543701)
 - Flytipped mattress New Rutland Court, 11th May :- [https://www.fixmystreet.com/report/4543596](https://www.fixmystreet.com/report/4543596)
 - Pot hole on entering shearwater grove 1 large circle one and a longer 1 by the kerb, 11th May :- [https://www.fixmystreet.com/report/4543479](https://www.fixmystreet.com/report/4543479)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain?, 9th May :- [https://www.fixmystreet.com/report/4530515](https://www.fixmystreet.com/report/4530515)
 - Large pot holes, 7th May :- [https://www.fixmystreet.com/report/4526667](https://www.fixmystreet.com/report/4526667)
 - Glass, 7th May :- [https://www.fixmystreet.com/report/4526059](https://www.fixmystreet.com/report/4526059)
-- Flytipping in Mill Lane, 7th May :- [https://www.fixmystreet.com/report/4525180](https://www.fixmystreet.com/report/4525180)
-- Huge holes in road at junction, 7th May :- [https://www.fixmystreet.com/report/4525127](https://www.fixmystreet.com/report/4525127)
 
 <!-- fix_marker ends -->
