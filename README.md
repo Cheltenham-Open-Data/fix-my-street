@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sofa, fridge and other items dumped, 13th May :- [https://www.fixmystreet.com/report/4550575](https://www.fixmystreet.com/report/4550575)
 - Several Cracks and multiple potholes on crossover, 12th May :- [https://www.fixmystreet.com/report/4547783](https://www.fixmystreet.com/report/4547783)
 - Sunken service access points, 12th May :- [https://www.fixmystreet.com/report/4544801](https://www.fixmystreet.com/report/4544801)
 - Fallen traffic post, 12th May :- [https://www.fixmystreet.com/report/4544779](https://www.fixmystreet.com/report/4544779)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lots of potholes, 10th May :- [https://www.fixmystreet.com/report/4534797](https://www.fixmystreet.com/report/4534797)
 - Many large potholes, 9th May :- [https://www.fixmystreet.com/report/4534187](https://www.fixmystreet.com/report/4534187)
 - 10inch pothole has appeared in last few days, 9th May :- [https://www.fixmystreet.com/report/4533327](https://www.fixmystreet.com/report/4533327)
-- Blocked drain?, 9th May :- [https://www.fixmystreet.com/report/4530515](https://www.fixmystreet.com/report/4530515)
 
 <!-- fix_marker ends -->
