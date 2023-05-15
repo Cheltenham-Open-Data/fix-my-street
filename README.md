@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes, 14th May :- [https://www.fixmystreet.com/report/4553713](https://www.fixmystreet.com/report/4553713)
+- Potholes, 14th May :- [https://www.fixmystreet.com/report/4553706](https://www.fixmystreet.com/report/4553706)
+- Pothole, 14th May :- [https://www.fixmystreet.com/report/4553695](https://www.fixmystreet.com/report/4553695)
+- Multiple holes, 14th May :- [https://www.fixmystreet.com/report/4553690](https://www.fixmystreet.com/report/4553690)
+- Multiple areas of carrageway damage at junction, 14th May :- [https://www.fixmystreet.com/report/4553682](https://www.fixmystreet.com/report/4553682)
+- 57 Market St Cheltenham thorn bush on pavement., 14th May :- [https://www.fixmystreet.com/report/4553681](https://www.fixmystreet.com/report/4553681)
+- Pothole, 14th May :- [https://www.fixmystreet.com/report/4553674](https://www.fixmystreet.com/report/4553674)
+- Wide spread failure at centre of road with some deep potholes, 14th May :- [https://www.fixmystreet.com/report/4553668](https://www.fixmystreet.com/report/4553668)
 - Green filter light has popped out and is now facing to the side, 14th May :- [https://www.fixmystreet.com/report/4551788](https://www.fixmystreet.com/report/4551788)
 - Sofa, fridge and other items dumped, 13th May :- [https://www.fixmystreet.com/report/4550575](https://www.fixmystreet.com/report/4550575)
 - Several Cracks and multiple potholes on crossover, 12th May :- [https://www.fixmystreet.com/report/4547783](https://www.fixmystreet.com/report/4547783)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Damaged street light, 11th May :- [https://www.fixmystreet.com/report/4543014](https://www.fixmystreet.com/report/4543014)
 - Several Pot Holes, 11th May :- [https://www.fixmystreet.com/report/4542641](https://www.fixmystreet.com/report/4542641)
 - Pothole by The Green carpark entrance., 11th May :- [https://www.fixmystreet.com/report/4542578](https://www.fixmystreet.com/report/4542578)
-- Very deep pothole, 11th May :- [https://www.fixmystreet.com/report/4540059](https://www.fixmystreet.com/report/4540059)
-- Pothole, 10th May :- [https://www.fixmystreet.com/report/4539761](https://www.fixmystreet.com/report/4539761)
-- Nitrous Oxide cartridges in the road, 10th May :- [https://www.fixmystreet.com/report/4539749](https://www.fixmystreet.com/report/4539749)
-- Deep large pothole, 10th May :- [https://www.fixmystreet.com/report/4538974](https://www.fixmystreet.com/report/4538974)
-- Dangerous highway, 10th May :- [https://www.fixmystreet.com/report/4538725](https://www.fixmystreet.com/report/4538725)
-- Black paths blocking path and split, 10th May :- [https://www.fixmystreet.com/report/4537742](https://www.fixmystreet.com/report/4537742)
-- Lots of potholes, 10th May :- [https://www.fixmystreet.com/report/4534797](https://www.fixmystreet.com/report/4534797)
-- Many large potholes, 9th May :- [https://www.fixmystreet.com/report/4534187](https://www.fixmystreet.com/report/4534187)
 
 <!-- fix_marker ends -->
