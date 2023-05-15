@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown pathway, 15th May :- [https://www.fixmystreet.com/report/4557841](https://www.fixmystreet.com/report/4557841)
+- Badly patched pothole, 15th May :- [https://www.fixmystreet.com/report/4557732](https://www.fixmystreet.com/report/4557732)
+- Large pothole, 15th May :- [https://www.fixmystreet.com/report/4557708](https://www.fixmystreet.com/report/4557708)
+- Parking in front of drop kerb, and on a junction., 15th May :- [https://www.fixmystreet.com/report/4556249](https://www.fixmystreet.com/report/4556249)
 - Potholes, 14th May :- [https://www.fixmystreet.com/report/4553713](https://www.fixmystreet.com/report/4553713)
 - Potholes, 14th May :- [https://www.fixmystreet.com/report/4553706](https://www.fixmystreet.com/report/4553706)
 - Pothole, 14th May :- [https://www.fixmystreet.com/report/4553695](https://www.fixmystreet.com/report/4553695)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Illegal parking on bend and opposite junction., 11th May :- [https://www.fixmystreet.com/report/4544279](https://www.fixmystreet.com/report/4544279)
 - Old carpet dumped outside 49 Clyde Cresent, Cheltenham., 11th May :- [https://www.fixmystreet.com/report/4543701](https://www.fixmystreet.com/report/4543701)
 - Flytipped mattress New Rutland Court, 11th May :- [https://www.fixmystreet.com/report/4543596](https://www.fixmystreet.com/report/4543596)
-- Pot hole on entering shearwater grove 1 large circle one and a longer 1 by the kerb, 11th May :- [https://www.fixmystreet.com/report/4543479](https://www.fixmystreet.com/report/4543479)
-- Damaged street light, 11th May :- [https://www.fixmystreet.com/report/4543014](https://www.fixmystreet.com/report/4543014)
-- Several Pot Holes, 11th May :- [https://www.fixmystreet.com/report/4542641](https://www.fixmystreet.com/report/4542641)
-- Pothole by The Green carpark entrance., 11th May :- [https://www.fixmystreet.com/report/4542578](https://www.fixmystreet.com/report/4542578)
 
 <!-- fix_marker ends -->
