@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass, 16th May :- [https://www.fixmystreet.com/report/4562085](https://www.fixmystreet.com/report/4562085)
+- Start of cycle path impassable, 16th May :- [https://www.fixmystreet.com/report/4561726](https://www.fixmystreet.com/report/4561726)
+- Street lights flashing throughout the night, 16th May :- [https://www.fixmystreet.com/report/4561175](https://www.fixmystreet.com/report/4561175)
+- Loads of graffiti/tagging on walls, 16th May :- [https://www.fixmystreet.com/report/4560962](https://www.fixmystreet.com/report/4560962)
 - Japanese Knotweed, 15th May :- [https://www.fixmystreet.com/report/4558117](https://www.fixmystreet.com/report/4558117)
 - Overgrown pathway, 15th May :- [https://www.fixmystreet.com/report/4557841](https://www.fixmystreet.com/report/4557841)
 - Badly patched pothole, 15th May :- [https://www.fixmystreet.com/report/4557732](https://www.fixmystreet.com/report/4557732)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Green filter light has popped out and is now facing to the side, 14th May :- [https://www.fixmystreet.com/report/4551788](https://www.fixmystreet.com/report/4551788)
 - Sofa, fridge and other items dumped, 13th May :- [https://www.fixmystreet.com/report/4550575](https://www.fixmystreet.com/report/4550575)
 - Several Cracks and multiple potholes on crossover, 12th May :- [https://www.fixmystreet.com/report/4547783](https://www.fixmystreet.com/report/4547783)
-- Sunken service access points, 12th May :- [https://www.fixmystreet.com/report/4544801](https://www.fixmystreet.com/report/4544801)
-- Fallen traffic post, 12th May :- [https://www.fixmystreet.com/report/4544779](https://www.fixmystreet.com/report/4544779)
-- Illegal parking on bend and opposite junction., 11th May :- [https://www.fixmystreet.com/report/4544279](https://www.fixmystreet.com/report/4544279)
-- Old carpet dumped outside 49 Clyde Cresent, Cheltenham., 11th May :- [https://www.fixmystreet.com/report/4543701](https://www.fixmystreet.com/report/4543701)
 
 <!-- fix_marker ends -->
