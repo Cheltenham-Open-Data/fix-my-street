@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Japanese Knotweed, 15th May :- [https://www.fixmystreet.com/report/4558117](https://www.fixmystreet.com/report/4558117)
 - Overgrown pathway, 15th May :- [https://www.fixmystreet.com/report/4557841](https://www.fixmystreet.com/report/4557841)
 - Badly patched pothole, 15th May :- [https://www.fixmystreet.com/report/4557732](https://www.fixmystreet.com/report/4557732)
 - Large pothole, 15th May :- [https://www.fixmystreet.com/report/4557708](https://www.fixmystreet.com/report/4557708)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fallen traffic post, 12th May :- [https://www.fixmystreet.com/report/4544779](https://www.fixmystreet.com/report/4544779)
 - Illegal parking on bend and opposite junction., 11th May :- [https://www.fixmystreet.com/report/4544279](https://www.fixmystreet.com/report/4544279)
 - Old carpet dumped outside 49 Clyde Cresent, Cheltenham., 11th May :- [https://www.fixmystreet.com/report/4543701](https://www.fixmystreet.com/report/4543701)
-- Flytipped mattress New Rutland Court, 11th May :- [https://www.fixmystreet.com/report/4543596](https://www.fixmystreet.com/report/4543596)
 
 <!-- fix_marker ends -->
