@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Appalling series of potholes., 17th May :- [https://www.fixmystreet.com/report/4566698](https://www.fixmystreet.com/report/4566698)
+- Simply awful road conditions., 17th May :- [https://www.fixmystreet.com/report/4566671](https://www.fixmystreet.com/report/4566671)
+- 100 yards of simply appalling road surface., 17th May :- [https://www.fixmystreet.com/report/4566659](https://www.fixmystreet.com/report/4566659)
+- There are multiple serious potholes on this road between the roundabout and the BP garage. The buses and coaches coming from the Marchants depot are causing our house to shake when they go over this dreadful stretch of road., 17th May :- [https://www.fixmystreet.com/report/4565603](https://www.fixmystreet.com/report/4565603)
+- Potholes on Chatsworth Drive, 17th May :- [https://www.fixmystreet.com/report/4563993](https://www.fixmystreet.com/report/4563993)
 - Broken glass, 16th May :- [https://www.fixmystreet.com/report/4562085](https://www.fixmystreet.com/report/4562085)
 - Start of cycle path impassable, 16th May :- [https://www.fixmystreet.com/report/4561726](https://www.fixmystreet.com/report/4561726)
 - Street lights flashing throughout the night, 16th May :- [https://www.fixmystreet.com/report/4561175](https://www.fixmystreet.com/report/4561175)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Multiple holes, 14th May :- [https://www.fixmystreet.com/report/4553690](https://www.fixmystreet.com/report/4553690)
 - Multiple areas of carrageway damage at junction, 14th May :- [https://www.fixmystreet.com/report/4553682](https://www.fixmystreet.com/report/4553682)
 - 57 Market St Cheltenham thorn bush on pavement., 14th May :- [https://www.fixmystreet.com/report/4553681](https://www.fixmystreet.com/report/4553681)
-- Pothole, 14th May :- [https://www.fixmystreet.com/report/4553674](https://www.fixmystreet.com/report/4553674)
-- Wide spread failure at centre of road with some deep potholes, 14th May :- [https://www.fixmystreet.com/report/4553668](https://www.fixmystreet.com/report/4553668)
-- Green filter light has popped out and is now facing to the side, 14th May :- [https://www.fixmystreet.com/report/4551788](https://www.fixmystreet.com/report/4551788)
-- Sofa, fridge and other items dumped, 13th May :- [https://www.fixmystreet.com/report/4550575](https://www.fixmystreet.com/report/4550575)
-- Several Cracks and multiple potholes on crossover, 12th May :- [https://www.fixmystreet.com/report/4547783](https://www.fixmystreet.com/report/4547783)
 
 <!-- fix_marker ends -->
