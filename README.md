@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Weeds on newcourt road, 18th May :- [https://www.fixmystreet.com/report/4571393](https://www.fixmystreet.com/report/4571393)
+- The whole top end of Priors Road, 18th May :- [https://www.fixmystreet.com/report/4570926](https://www.fixmystreet.com/report/4570926)
+- Abandoned recycling boxes, 18th May :- [https://www.fixmystreet.com/report/4570026](https://www.fixmystreet.com/report/4570026)
+- Manhole sinking, 18th May :- [https://www.fixmystreet.com/report/4569934](https://www.fixmystreet.com/report/4569934)
+- Massive pothole, 18th May :- [https://www.fixmystreet.com/report/4569318](https://www.fixmystreet.com/report/4569318)
+- More potholes, 18th May :- [https://www.fixmystreet.com/report/4569291](https://www.fixmystreet.com/report/4569291)
+- Road in very bad condition, 18th May :- [https://www.fixmystreet.com/report/4569278](https://www.fixmystreet.com/report/4569278)
+- Cushion dumped, 18th May :- [https://www.fixmystreet.com/report/4569271](https://www.fixmystreet.com/report/4569271)
 - Large pothole, 17th May :- [https://www.fixmystreet.com/report/4567795](https://www.fixmystreet.com/report/4567795)
 - General building rubbish, 17th May :- [https://www.fixmystreet.com/report/4567542](https://www.fixmystreet.com/report/4567542)
 - Appalling series of potholes., 17th May :- [https://www.fixmystreet.com/report/4566698](https://www.fixmystreet.com/report/4566698)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street lights flashing throughout the night, 16th May :- [https://www.fixmystreet.com/report/4561175](https://www.fixmystreet.com/report/4561175)
 - Loads of graffiti/tagging on walls, 16th May :- [https://www.fixmystreet.com/report/4560962](https://www.fixmystreet.com/report/4560962)
 - Japanese Knotweed, 15th May :- [https://www.fixmystreet.com/report/4558117](https://www.fixmystreet.com/report/4558117)
-- Overgrown pathway, 15th May :- [https://www.fixmystreet.com/report/4557841](https://www.fixmystreet.com/report/4557841)
-- Badly patched pothole, 15th May :- [https://www.fixmystreet.com/report/4557732](https://www.fixmystreet.com/report/4557732)
-- Large pothole, 15th May :- [https://www.fixmystreet.com/report/4557708](https://www.fixmystreet.com/report/4557708)
-- Parking in front of drop kerb, and on a junction., 15th May :- [https://www.fixmystreet.com/report/4556249](https://www.fixmystreet.com/report/4556249)
-- Potholes, 14th May :- [https://www.fixmystreet.com/report/4553713](https://www.fixmystreet.com/report/4553713)
-- Potholes, 14th May :- [https://www.fixmystreet.com/report/4553706](https://www.fixmystreet.com/report/4553706)
-- Pothole, 14th May :- [https://www.fixmystreet.com/report/4553695](https://www.fixmystreet.com/report/4553695)
-- Multiple holes, 14th May :- [https://www.fixmystreet.com/report/4553690](https://www.fixmystreet.com/report/4553690)
 
 <!-- fix_marker ends -->
