@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole, 17th May :- [https://www.fixmystreet.com/report/4567795](https://www.fixmystreet.com/report/4567795)
+- General building rubbish, 17th May :- [https://www.fixmystreet.com/report/4567542](https://www.fixmystreet.com/report/4567542)
 - Appalling series of potholes., 17th May :- [https://www.fixmystreet.com/report/4566698](https://www.fixmystreet.com/report/4566698)
 - Simply awful road conditions., 17th May :- [https://www.fixmystreet.com/report/4566671](https://www.fixmystreet.com/report/4566671)
 - 100 yards of simply appalling road surface., 17th May :- [https://www.fixmystreet.com/report/4566659](https://www.fixmystreet.com/report/4566659)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 14th May :- [https://www.fixmystreet.com/report/4553706](https://www.fixmystreet.com/report/4553706)
 - Pothole, 14th May :- [https://www.fixmystreet.com/report/4553695](https://www.fixmystreet.com/report/4553695)
 - Multiple holes, 14th May :- [https://www.fixmystreet.com/report/4553690](https://www.fixmystreet.com/report/4553690)
-- Multiple areas of carrageway damage at junction, 14th May :- [https://www.fixmystreet.com/report/4553682](https://www.fixmystreet.com/report/4553682)
-- 57 Market St Cheltenham thorn bush on pavement., 14th May :- [https://www.fixmystreet.com/report/4553681](https://www.fixmystreet.com/report/4553681)
 
 <!-- fix_marker ends -->
