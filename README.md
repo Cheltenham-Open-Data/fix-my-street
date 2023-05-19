@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on bus stop timetable, 19th May :- [https://www.fixmystreet.com/report/4572292](https://www.fixmystreet.com/report/4572292)
 - Weeds on newcourt road, 18th May :- [https://www.fixmystreet.com/report/4571393](https://www.fixmystreet.com/report/4571393)
 - The whole top end of Priors Road, 18th May :- [https://www.fixmystreet.com/report/4570926](https://www.fixmystreet.com/report/4570926)
 - Abandoned recycling boxes, 18th May :- [https://www.fixmystreet.com/report/4570026](https://www.fixmystreet.com/report/4570026)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Start of cycle path impassable, 16th May :- [https://www.fixmystreet.com/report/4561726](https://www.fixmystreet.com/report/4561726)
 - Street lights flashing throughout the night, 16th May :- [https://www.fixmystreet.com/report/4561175](https://www.fixmystreet.com/report/4561175)
 - Loads of graffiti/tagging on walls, 16th May :- [https://www.fixmystreet.com/report/4560962](https://www.fixmystreet.com/report/4560962)
-- Japanese Knotweed, 15th May :- [https://www.fixmystreet.com/report/4558117](https://www.fixmystreet.com/report/4558117)
 
 <!-- fix_marker ends -->
