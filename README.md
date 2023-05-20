@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain is blocked and smells pretty bad, possible health hazard, 20th May :- [https://www.fixmystreet.com/report/4577067](https://www.fixmystreet.com/report/4577067)
+- Long deep pothole approx 10 feet in length, 20th May :- [https://www.fixmystreet.com/report/4576517](https://www.fixmystreet.com/report/4576517)
+- Broken glass and litter everywhere, 20th May :- [https://www.fixmystreet.com/report/4576274](https://www.fixmystreet.com/report/4576274)
+- Vehicles blocking pavement, 20th May :- [https://www.fixmystreet.com/report/4576191](https://www.fixmystreet.com/report/4576191)
+- Builders waste, 20th May :- [https://www.fixmystreet.com/report/4576110](https://www.fixmystreet.com/report/4576110)
 - Cycle path/footpath overgrown, 20th May :- [https://www.fixmystreet.com/report/4575802](https://www.fixmystreet.com/report/4575802)
 - Overgrown hedges blocking cycle path, 20th May :- [https://www.fixmystreet.com/report/4575799](https://www.fixmystreet.com/report/4575799)
 - Dangerous Parking, 19th May :- [https://www.fixmystreet.com/report/4575159](https://www.fixmystreet.com/report/4575159)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - More potholes, 18th May :- [https://www.fixmystreet.com/report/4569291](https://www.fixmystreet.com/report/4569291)
 - Road in very bad condition, 18th May :- [https://www.fixmystreet.com/report/4569278](https://www.fixmystreet.com/report/4569278)
 - Cushion dumped, 18th May :- [https://www.fixmystreet.com/report/4569271](https://www.fixmystreet.com/report/4569271)
-- Large pothole, 17th May :- [https://www.fixmystreet.com/report/4567795](https://www.fixmystreet.com/report/4567795)
-- General building rubbish, 17th May :- [https://www.fixmystreet.com/report/4567542](https://www.fixmystreet.com/report/4567542)
-- Appalling series of potholes., 17th May :- [https://www.fixmystreet.com/report/4566698](https://www.fixmystreet.com/report/4566698)
-- Simply awful road conditions., 17th May :- [https://www.fixmystreet.com/report/4566671](https://www.fixmystreet.com/report/4566671)
-- 100 yards of simply appalling road surface., 17th May :- [https://www.fixmystreet.com/report/4566659](https://www.fixmystreet.com/report/4566659)
 
 <!-- fix_marker ends -->
