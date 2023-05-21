@@ -2,7 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown Weeds on Pavements, 21st May :- [https://www.fixmystreet.com/report/4579806](https://www.fixmystreet.com/report/4579806)
+- Road surface or broken up between 7 Kingsley gardens and Tennyson Road, 21st May :- [https://www.fixmystreet.com/report/4578280](https://www.fixmystreet.com/report/4578280)
 - Loose and noisy manhole cover, 20th May :- [https://www.fixmystreet.com/report/4577958](https://www.fixmystreet.com/report/4577958)
+- Graffiti on brick wall, 21st May :- [https://www.fixmystreet.com/report/4577703](https://www.fixmystreet.com/report/4577703)
 - Drain is blocked and smells pretty bad, possible health hazard, 20th May :- [https://www.fixmystreet.com/report/4577067](https://www.fixmystreet.com/report/4577067)
 - Long deep pothole approx 10 feet in length, 20th May :- [https://www.fixmystreet.com/report/4576517](https://www.fixmystreet.com/report/4576517)
 - Broken glass and litter everywhere, 20th May :- [https://www.fixmystreet.com/report/4576274](https://www.fixmystreet.com/report/4576274)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The whole top end of Priors Road, 18th May :- [https://www.fixmystreet.com/report/4570926](https://www.fixmystreet.com/report/4570926)
 - Abandoned recycling boxes, 18th May :- [https://www.fixmystreet.com/report/4570026](https://www.fixmystreet.com/report/4570026)
 - Manhole sinking, 18th May :- [https://www.fixmystreet.com/report/4569934](https://www.fixmystreet.com/report/4569934)
-- Massive pothole, 18th May :- [https://www.fixmystreet.com/report/4569318](https://www.fixmystreet.com/report/4569318)
-- More potholes, 18th May :- [https://www.fixmystreet.com/report/4569291](https://www.fixmystreet.com/report/4569291)
-- Road in very bad condition, 18th May :- [https://www.fixmystreet.com/report/4569278](https://www.fixmystreet.com/report/4569278)
 
 <!-- fix_marker ends -->
