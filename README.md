@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Loose and noisy manhole cover, 20th May :- [https://www.fixmystreet.com/report/4577958](https://www.fixmystreet.com/report/4577958)
 - Drain is blocked and smells pretty bad, possible health hazard, 20th May :- [https://www.fixmystreet.com/report/4577067](https://www.fixmystreet.com/report/4577067)
 - Long deep pothole approx 10 feet in length, 20th May :- [https://www.fixmystreet.com/report/4576517](https://www.fixmystreet.com/report/4576517)
 - Broken glass and litter everywhere, 20th May :- [https://www.fixmystreet.com/report/4576274](https://www.fixmystreet.com/report/4576274)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Massive pothole, 18th May :- [https://www.fixmystreet.com/report/4569318](https://www.fixmystreet.com/report/4569318)
 - More potholes, 18th May :- [https://www.fixmystreet.com/report/4569291](https://www.fixmystreet.com/report/4569291)
 - Road in very bad condition, 18th May :- [https://www.fixmystreet.com/report/4569278](https://www.fixmystreet.com/report/4569278)
-- Cushion dumped, 18th May :- [https://www.fixmystreet.com/report/4569271](https://www.fixmystreet.com/report/4569271)
 
 <!-- fix_marker ends -->
