@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 21st May :- [https://www.fixmystreet.com/report/4580008](https://www.fixmystreet.com/report/4580008)
 - Overgrown Weeds on Pavements, 21st May :- [https://www.fixmystreet.com/report/4579806](https://www.fixmystreet.com/report/4579806)
 - Road surface or broken up between 7 Kingsley gardens and Tennyson Road, 21st May :- [https://www.fixmystreet.com/report/4578280](https://www.fixmystreet.com/report/4578280)
 - Loose and noisy manhole cover, 20th May :- [https://www.fixmystreet.com/report/4577958](https://www.fixmystreet.com/report/4577958)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Weeds on newcourt road, 18th May :- [https://www.fixmystreet.com/report/4571393](https://www.fixmystreet.com/report/4571393)
 - The whole top end of Priors Road, 18th May :- [https://www.fixmystreet.com/report/4570926](https://www.fixmystreet.com/report/4570926)
 - Abandoned recycling boxes, 18th May :- [https://www.fixmystreet.com/report/4570026](https://www.fixmystreet.com/report/4570026)
-- Manhole sinking, 18th May :- [https://www.fixmystreet.com/report/4569934](https://www.fixmystreet.com/report/4569934)
 
 <!-- fix_marker ends -->
