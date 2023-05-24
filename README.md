@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mattress, grill and chairs among assorted other litter, britten place, 24th May :- [https://www.fixmystreet.com/report/4589365](https://www.fixmystreet.com/report/4589365)
 - Poor and uneven reinstatement of pavement outside janes pantry following it being dug up for gas pipe works, 23rd May :- [https://www.fixmystreet.com/report/4588400](https://www.fixmystreet.com/report/4588400)
 - Overgrown hedge, 23rd May :- [https://www.fixmystreet.com/report/4587456](https://www.fixmystreet.com/report/4587456)
 - Hedge overgrown, 23rd May :- [https://www.fixmystreet.com/report/4587271](https://www.fixmystreet.com/report/4587271)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass and litter everywhere, 20th May :- [https://www.fixmystreet.com/report/4576274](https://www.fixmystreet.com/report/4576274)
 - Vehicles blocking pavement, 20th May :- [https://www.fixmystreet.com/report/4576191](https://www.fixmystreet.com/report/4576191)
 - Builders waste, 20th May :- [https://www.fixmystreet.com/report/4576110](https://www.fixmystreet.com/report/4576110)
-- Cycle path/footpath overgrown, 20th May :- [https://www.fixmystreet.com/report/4575802](https://www.fixmystreet.com/report/4575802)
 
 <!-- fix_marker ends -->
