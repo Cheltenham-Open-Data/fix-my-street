@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Manhole cover not sitting correctly, 25th May :- [https://www.fixmystreet.com/report/4594733](https://www.fixmystreet.com/report/4594733)
+- Potholes, very dangerous to 2 wheeled traffic as it can't be avoided, 25th May :- [https://www.fixmystreet.com/report/4594207](https://www.fixmystreet.com/report/4594207)
+- Tree urgently needs support, 25th May :- [https://www.fixmystreet.com/report/4593760](https://www.fixmystreet.com/report/4593760)
 - Wheelchair trolley abandoned end of Cooper Road junction of PE way, 25th May :- [https://www.fixmystreet.com/report/4593618](https://www.fixmystreet.com/report/4593618)
 - Protruding ironworks, 24th May :- [https://www.fixmystreet.com/report/4593349](https://www.fixmystreet.com/report/4593349)
 - Potholes, 24th May :- [https://www.fixmystreet.com/report/4592691](https://www.fixmystreet.com/report/4592691)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Needs some TLC, 23rd May :- [https://www.fixmystreet.com/report/4586369](https://www.fixmystreet.com/report/4586369)
 - Chippings on Pavement, 23rd May :- [https://www.fixmystreet.com/report/4586328](https://www.fixmystreet.com/report/4586328)
 - Hedge overgrown, 23rd May :- [https://www.fixmystreet.com/report/4586003](https://www.fixmystreet.com/report/4586003)
-- Potholes between railway station roundabout and Alstone lane traffic lights, 23rd May :- [https://www.fixmystreet.com/report/4585877](https://www.fixmystreet.com/report/4585877)
-- Numerous potholes & poor road surface in Malleson Rd, Gotherington, 22nd May :- [https://www.fixmystreet.com/report/4584359](https://www.fixmystreet.com/report/4584359)
-- Scandalous road condition, 22nd May :- [https://www.fixmystreet.com/report/4581231](https://www.fixmystreet.com/report/4581231)
 
 <!-- fix_marker ends -->
