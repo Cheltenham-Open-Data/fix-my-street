@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mattresses flytipped, 26th May :- [https://www.fixmystreet.com/report/4600987](https://www.fixmystreet.com/report/4600987)
+- Abandoned vehicle?, 26th May :- [https://www.fixmystreet.com/report/4600769](https://www.fixmystreet.com/report/4600769)
+- Cracked and wobbly slabs, 26th May :- [https://www.fixmystreet.com/report/4600514](https://www.fixmystreet.com/report/4600514)
+- Fly tipping at rear entrance to PoW Stadium., 26th May :- [https://www.fixmystreet.com/report/4599266](https://www.fixmystreet.com/report/4599266)
+- Hedge near school growing over footpath, 26th May :- [https://www.fixmystreet.com/report/4598435](https://www.fixmystreet.com/report/4598435)
 - Long pothole at kerb, 25th May :- [https://www.fixmystreet.com/report/4597986](https://www.fixmystreet.com/report/4597986)
 - Manhole cover not sitting correctly, 25th May :- [https://www.fixmystreet.com/report/4594733](https://www.fixmystreet.com/report/4594733)
 - Potholes, very dangerous to 2 wheeled traffic as it can't be avoided, 25th May :- [https://www.fixmystreet.com/report/4594207](https://www.fixmystreet.com/report/4594207)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken Manhole Cover, 24th May :- [https://www.fixmystreet.com/report/4590036](https://www.fixmystreet.com/report/4590036)
 - Mattress, grill and chairs among assorted other litter, britten place, 24th May :- [https://www.fixmystreet.com/report/4589365](https://www.fixmystreet.com/report/4589365)
 - Flytipped rubbish, 24th May :- [https://www.fixmystreet.com/report/4588748](https://www.fixmystreet.com/report/4588748)
-- Poor and uneven reinstatement of pavement outside janes pantry following it being dug up for gas pipe works, 23rd May :- [https://www.fixmystreet.com/report/4588400](https://www.fixmystreet.com/report/4588400)
-- Overgrown hedge, 23rd May :- [https://www.fixmystreet.com/report/4587456](https://www.fixmystreet.com/report/4587456)
-- Hedge overgrown, 23rd May :- [https://www.fixmystreet.com/report/4587271](https://www.fixmystreet.com/report/4587271)
-- Needs some TLC, 23rd May :- [https://www.fixmystreet.com/report/4586369](https://www.fixmystreet.com/report/4586369)
-- Chippings on Pavement, 23rd May :- [https://www.fixmystreet.com/report/4586328](https://www.fixmystreet.com/report/4586328)
 
 <!-- fix_marker ends -->
