@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Long pothole at kerb, 25th May :- [https://www.fixmystreet.com/report/4597986](https://www.fixmystreet.com/report/4597986)
 - Manhole cover not sitting correctly, 25th May :- [https://www.fixmystreet.com/report/4594733](https://www.fixmystreet.com/report/4594733)
 - Potholes, very dangerous to 2 wheeled traffic as it can't be avoided, 25th May :- [https://www.fixmystreet.com/report/4594207](https://www.fixmystreet.com/report/4594207)
 - Tree urgently needs support, 25th May :- [https://www.fixmystreet.com/report/4593760](https://www.fixmystreet.com/report/4593760)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Hedge overgrown, 23rd May :- [https://www.fixmystreet.com/report/4587271](https://www.fixmystreet.com/report/4587271)
 - Needs some TLC, 23rd May :- [https://www.fixmystreet.com/report/4586369](https://www.fixmystreet.com/report/4586369)
 - Chippings on Pavement, 23rd May :- [https://www.fixmystreet.com/report/4586328](https://www.fixmystreet.com/report/4586328)
-- Hedge overgrown, 23rd May :- [https://www.fixmystreet.com/report/4586003](https://www.fixmystreet.com/report/4586003)
 
 <!-- fix_marker ends -->
