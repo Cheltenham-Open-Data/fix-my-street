@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes, 27th May :- [https://www.fixmystreet.com/report/4602852](https://www.fixmystreet.com/report/4602852)
+- Flytipping, 27th May :- [https://www.fixmystreet.com/report/4602847](https://www.fixmystreet.com/report/4602847)
+- Tree growth blocking footpath, 27th May :- [https://www.fixmystreet.com/report/4602712](https://www.fixmystreet.com/report/4602712)
+- Overgrown trees on public footpath, 27th May :- [https://www.fixmystreet.com/report/4602695](https://www.fixmystreet.com/report/4602695)
+- Flytipped rubble, 27th May :- [https://www.fixmystreet.com/report/4602602](https://www.fixmystreet.com/report/4602602)
 - All traffic lights stuck on red, 26th May :- [https://www.fixmystreet.com/report/4601471](https://www.fixmystreet.com/report/4601471)
 - Mattresses flytipped, 26th May :- [https://www.fixmystreet.com/report/4600987](https://www.fixmystreet.com/report/4600987)
 - Abandoned vehicle?, 26th May :- [https://www.fixmystreet.com/report/4600769](https://www.fixmystreet.com/report/4600769)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 24th May :- [https://www.fixmystreet.com/report/4592691](https://www.fixmystreet.com/report/4592691)
 - Street light glass broken and lying on grass, 24th May :- [https://www.fixmystreet.com/report/4592491](https://www.fixmystreet.com/report/4592491)
 - Overgrown hedges, 24th May :- [https://www.fixmystreet.com/report/4591749](https://www.fixmystreet.com/report/4591749)
-- Large degradation of surface, 24th May :- [https://www.fixmystreet.com/report/4591668](https://www.fixmystreet.com/report/4591668)
-- Flytipped rubbish, 24th May :- [https://www.fixmystreet.com/report/4590267](https://www.fixmystreet.com/report/4590267)
-- Traffic lights hardly allowing traffic from Monson Avenue onto A4019 - prob less than 30 seconds, traffic backing up so people likely to be late for work - nearly 10 mins to get out of road because of traffic lights is unacceptable :(, 24th May :- [https://www.fixmystreet.com/report/4590053](https://www.fixmystreet.com/report/4590053)
-- Broken Manhole Cover, 24th May :- [https://www.fixmystreet.com/report/4590036](https://www.fixmystreet.com/report/4590036)
-- Mattress, grill and chairs among assorted other litter, britten place, 24th May :- [https://www.fixmystreet.com/report/4589365](https://www.fixmystreet.com/report/4589365)
 
 <!-- fix_marker ends -->
