@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- All traffic lights stuck on red, 26th May :- [https://www.fixmystreet.com/report/4601471](https://www.fixmystreet.com/report/4601471)
 - Mattresses flytipped, 26th May :- [https://www.fixmystreet.com/report/4600987](https://www.fixmystreet.com/report/4600987)
 - Abandoned vehicle?, 26th May :- [https://www.fixmystreet.com/report/4600769](https://www.fixmystreet.com/report/4600769)
 - Cracked and wobbly slabs, 26th May :- [https://www.fixmystreet.com/report/4600514](https://www.fixmystreet.com/report/4600514)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic lights hardly allowing traffic from Monson Avenue onto A4019 - prob less than 30 seconds, traffic backing up so people likely to be late for work - nearly 10 mins to get out of road because of traffic lights is unacceptable :(, 24th May :- [https://www.fixmystreet.com/report/4590053](https://www.fixmystreet.com/report/4590053)
 - Broken Manhole Cover, 24th May :- [https://www.fixmystreet.com/report/4590036](https://www.fixmystreet.com/report/4590036)
 - Mattress, grill and chairs among assorted other litter, britten place, 24th May :- [https://www.fixmystreet.com/report/4589365](https://www.fixmystreet.com/report/4589365)
-- Flytipped rubbish, 24th May :- [https://www.fixmystreet.com/report/4588748](https://www.fixmystreet.com/report/4588748)
 
 <!-- fix_marker ends -->
