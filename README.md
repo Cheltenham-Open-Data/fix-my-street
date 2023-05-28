@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown trees, 27th May :- [https://www.fixmystreet.com/report/4603735](https://www.fixmystreet.com/report/4603735)
+- Pot hole, 27th May :- [https://www.fixmystreet.com/report/4603601](https://www.fixmystreet.com/report/4603601)
+- Pot hole just after J10 s bound, 27th May :- [https://www.fixmystreet.com/report/4603591](https://www.fixmystreet.com/report/4603591)
 - Potholes, 27th May :- [https://www.fixmystreet.com/report/4602852](https://www.fixmystreet.com/report/4602852)
 - Flytipping, 27th May :- [https://www.fixmystreet.com/report/4602847](https://www.fixmystreet.com/report/4602847)
 - Tree growth blocking footpath, 27th May :- [https://www.fixmystreet.com/report/4602712](https://www.fixmystreet.com/report/4602712)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree urgently needs support, 25th May :- [https://www.fixmystreet.com/report/4593760](https://www.fixmystreet.com/report/4593760)
 - Wheelchair trolley abandoned end of Cooper Road junction of PE way, 25th May :- [https://www.fixmystreet.com/report/4593618](https://www.fixmystreet.com/report/4593618)
 - Protruding ironworks, 24th May :- [https://www.fixmystreet.com/report/4593349](https://www.fixmystreet.com/report/4593349)
-- Potholes, 24th May :- [https://www.fixmystreet.com/report/4592691](https://www.fixmystreet.com/report/4592691)
-- Street light glass broken and lying on grass, 24th May :- [https://www.fixmystreet.com/report/4592491](https://www.fixmystreet.com/report/4592491)
-- Overgrown hedges, 24th May :- [https://www.fixmystreet.com/report/4591749](https://www.fixmystreet.com/report/4591749)
 
 <!-- fix_marker ends -->
