@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Severe damage to road, 30th May :- [https://www.fixmystreet.com/report/4612336](https://www.fixmystreet.com/report/4612336)
+- Road in poor condition, 30th May :- [https://www.fixmystreet.com/report/4612332](https://www.fixmystreet.com/report/4612332)
+- Road falling apart, 30th May :- [https://www.fixmystreet.com/report/4612327](https://www.fixmystreet.com/report/4612327)
+- Road falling apart, 30th May :- [https://www.fixmystreet.com/report/4612325](https://www.fixmystreet.com/report/4612325)
+- 3 or 4 potholes at ingress to and in middle of A40 carriageway at Hearne Road., 30th May :- [https://www.fixmystreet.com/report/4611436](https://www.fixmystreet.com/report/4611436)
+- Bike stolen / dumped, 30th May :- [https://www.fixmystreet.com/report/4611169](https://www.fixmystreet.com/report/4611169)
+- Dangerous hole, 30th May :- [https://www.fixmystreet.com/report/4611123](https://www.fixmystreet.com/report/4611123)
+- Uneven pavement inc hole where tree has been removed, junction Kings and Hale Road, 30th May :- [https://www.fixmystreet.com/report/4610031](https://www.fixmystreet.com/report/4610031)
 - Paint, 30th May :- [https://www.fixmystreet.com/report/4608790](https://www.fixmystreet.com/report/4608790)
 - Bin overflowing, 29th May :- [https://www.fixmystreet.com/report/4608339](https://www.fixmystreet.com/report/4608339)
 - Caernarvon park flytipping, 29th May :- [https://www.fixmystreet.com/report/4608320](https://www.fixmystreet.com/report/4608320)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Poo Bin Full, 29th May :- [https://www.fixmystreet.com/report/4607414](https://www.fixmystreet.com/report/4607414)
 - Bin need emptying, 29th May :- [https://www.fixmystreet.com/report/4606902](https://www.fixmystreet.com/report/4606902)
 - Graffiti, 29th May :- [https://www.fixmystreet.com/report/4606658](https://www.fixmystreet.com/report/4606658)
-- Pallets, 29th May :- [https://www.fixmystreet.com/report/4606604](https://www.fixmystreet.com/report/4606604)
-- Mattress, 29th May :- [https://www.fixmystreet.com/report/4606596](https://www.fixmystreet.com/report/4606596)
-- Old hedge cuttings, 28th May :- [https://www.fixmystreet.com/report/4605524](https://www.fixmystreet.com/report/4605524)
-- 2 white goods items, 28th May :- [https://www.fixmystreet.com/report/4604028](https://www.fixmystreet.com/report/4604028)
-- Overgrown trees, 27th May :- [https://www.fixmystreet.com/report/4603735](https://www.fixmystreet.com/report/4603735)
-- Pot hole, 27th May :- [https://www.fixmystreet.com/report/4603601](https://www.fixmystreet.com/report/4603601)
-- Pot hole just after J10 s bound, 27th May :- [https://www.fixmystreet.com/report/4603591](https://www.fixmystreet.com/report/4603591)
-- Potholes, 27th May :- [https://www.fixmystreet.com/report/4602852](https://www.fixmystreet.com/report/4602852)
 
 <!-- fix_marker ends -->
