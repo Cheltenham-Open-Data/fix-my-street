@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Paint, 30th May :- [https://www.fixmystreet.com/report/4608790](https://www.fixmystreet.com/report/4608790)
+- Bin overflowing, 29th May :- [https://www.fixmystreet.com/report/4608339](https://www.fixmystreet.com/report/4608339)
+- Caernarvon park flytipping, 29th May :- [https://www.fixmystreet.com/report/4608320](https://www.fixmystreet.com/report/4608320)
 - All traffic lights are stuck on red, 29th May :- [https://www.fixmystreet.com/report/4607995](https://www.fixmystreet.com/report/4607995)
 - Pothole just before bus stop outside The Range, 29th May :- [https://www.fixmystreet.com/report/4607801](https://www.fixmystreet.com/report/4607801)
 - 8 cm deep pothole, only Bertus way near the junction of Griffiths Avenue, 29th May :- [https://www.fixmystreet.com/report/4607708](https://www.fixmystreet.com/report/4607708)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot hole, 27th May :- [https://www.fixmystreet.com/report/4603601](https://www.fixmystreet.com/report/4603601)
 - Pot hole just after J10 s bound, 27th May :- [https://www.fixmystreet.com/report/4603591](https://www.fixmystreet.com/report/4603591)
 - Potholes, 27th May :- [https://www.fixmystreet.com/report/4602852](https://www.fixmystreet.com/report/4602852)
-- Flytipping, 27th May :- [https://www.fixmystreet.com/report/4602847](https://www.fixmystreet.com/report/4602847)
-- Tree growth blocking footpath, 27th May :- [https://www.fixmystreet.com/report/4602712](https://www.fixmystreet.com/report/4602712)
-- Overgrown trees on public footpath, 27th May :- [https://www.fixmystreet.com/report/4602695](https://www.fixmystreet.com/report/4602695)
 
 <!-- fix_marker ends -->
