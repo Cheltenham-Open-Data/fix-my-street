@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Water coming up from the pavement. Burst pipe?, 31st May :- [https://www.fixmystreet.com/report/4613375](https://www.fixmystreet.com/report/4613375)
+- Large pothole, 31st May :- [https://www.fixmystreet.com/report/4613354](https://www.fixmystreet.com/report/4613354)
+- Southbound, mile marker 67.1, 31st May :- [https://www.fixmystreet.com/report/4613250](https://www.fixmystreet.com/report/4613250)
 - Severe damage to road, 30th May :- [https://www.fixmystreet.com/report/4612336](https://www.fixmystreet.com/report/4612336)
 - Road in poor condition, 30th May :- [https://www.fixmystreet.com/report/4612332](https://www.fixmystreet.com/report/4612332)
 - Road falling apart, 30th May :- [https://www.fixmystreet.com/report/4612327](https://www.fixmystreet.com/report/4612327)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Grass cutting, 29th May :- [https://www.fixmystreet.com/report/4607633](https://www.fixmystreet.com/report/4607633)
 - Bin overflowing and flytipping, 29th May :- [https://www.fixmystreet.com/report/4607509](https://www.fixmystreet.com/report/4607509)
 - Grass verge needs cutting back, 29th May :- [https://www.fixmystreet.com/report/4607426](https://www.fixmystreet.com/report/4607426)
-- Poo Bin Full, 29th May :- [https://www.fixmystreet.com/report/4607414](https://www.fixmystreet.com/report/4607414)
-- Bin need emptying, 29th May :- [https://www.fixmystreet.com/report/4606902](https://www.fixmystreet.com/report/4606902)
-- Graffiti, 29th May :- [https://www.fixmystreet.com/report/4606658](https://www.fixmystreet.com/report/4606658)
 
 <!-- fix_marker ends -->
