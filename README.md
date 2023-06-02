@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Over hanging hedge/tree, 2nd June :- [https://www.fixmystreet.com/report/4622838](https://www.fixmystreet.com/report/4622838)
+- Extending pothole developed at ingress to east end road from/on London road, 2nd June :- [https://www.fixmystreet.com/report/4622695](https://www.fixmystreet.com/report/4622695)
+- Pothole adjacent to right turn arrow for petrol station access., 2nd June :- [https://www.fixmystreet.com/report/4622667](https://www.fixmystreet.com/report/4622667)
+- Pothole just before Little Shop A40, 2nd June :- [https://www.fixmystreet.com/report/4622627](https://www.fixmystreet.com/report/4622627)
+- Potholes adjacent island cross point near ingress to detmore close., 2nd June :- [https://www.fixmystreet.com/report/4622579](https://www.fixmystreet.com/report/4622579)
+- Blocked drains, 2nd June :- [https://www.fixmystreet.com/report/4622577](https://www.fixmystreet.com/report/4622577)
+- Barriers abandoned, 2nd June :- [https://www.fixmystreet.com/report/4622052](https://www.fixmystreet.com/report/4622052)
+- Trip hazard lump caused by tree roots, 2nd June :- [https://www.fixmystreet.com/report/4621995](https://www.fixmystreet.com/report/4621995)
 - Public bench in Royal well broken and dangerous, 2nd June :- [https://www.fixmystreet.com/report/4621732](https://www.fixmystreet.com/report/4621732)
 - Red light out, 1st June :- [https://www.fixmystreet.com/report/4619761](https://www.fixmystreet.com/report/4619761)
 - Flytipping, 1st June :- [https://www.fixmystreet.com/report/4619347](https://www.fixmystreet.com/report/4619347)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 31st May :- [https://www.fixmystreet.com/report/4613354](https://www.fixmystreet.com/report/4613354)
 - Southbound, mile marker 67.1, 31st May :- [https://www.fixmystreet.com/report/4613250](https://www.fixmystreet.com/report/4613250)
 - Severe damage to road, 30th May :- [https://www.fixmystreet.com/report/4612336](https://www.fixmystreet.com/report/4612336)
-- Road in poor condition, 30th May :- [https://www.fixmystreet.com/report/4612332](https://www.fixmystreet.com/report/4612332)
-- Road falling apart, 30th May :- [https://www.fixmystreet.com/report/4612327](https://www.fixmystreet.com/report/4612327)
-- Road falling apart, 30th May :- [https://www.fixmystreet.com/report/4612325](https://www.fixmystreet.com/report/4612325)
-- 3 or 4 potholes at ingress to and in middle of A40 carriageway at Hearne Road., 30th May :- [https://www.fixmystreet.com/report/4611436](https://www.fixmystreet.com/report/4611436)
-- Bike stolen / dumped, 30th May :- [https://www.fixmystreet.com/report/4611169](https://www.fixmystreet.com/report/4611169)
-- Dangerous hole, 30th May :- [https://www.fixmystreet.com/report/4611123](https://www.fixmystreet.com/report/4611123)
-- Uneven pavement inc hole where tree has been removed, junction Kings and Hale Road, 30th May :- [https://www.fixmystreet.com/report/4610031](https://www.fixmystreet.com/report/4610031)
-- Paint, 30th May :- [https://www.fixmystreet.com/report/4608790](https://www.fixmystreet.com/report/4608790)
 
 <!-- fix_marker ends -->
