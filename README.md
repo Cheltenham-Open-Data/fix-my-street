@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Public bench in Royal well broken and dangerous, 2nd June :- [https://www.fixmystreet.com/report/4621732](https://www.fixmystreet.com/report/4621732)
 - Red light out, 1st June :- [https://www.fixmystreet.com/report/4619761](https://www.fixmystreet.com/report/4619761)
 - Flytipping, 1st June :- [https://www.fixmystreet.com/report/4619347](https://www.fixmystreet.com/report/4619347)
 - Flytipping, 1st June :- [https://www.fixmystreet.com/report/4619295](https://www.fixmystreet.com/report/4619295)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerous hole, 30th May :- [https://www.fixmystreet.com/report/4611123](https://www.fixmystreet.com/report/4611123)
 - Uneven pavement inc hole where tree has been removed, junction Kings and Hale Road, 30th May :- [https://www.fixmystreet.com/report/4610031](https://www.fixmystreet.com/report/4610031)
 - Paint, 30th May :- [https://www.fixmystreet.com/report/4608790](https://www.fixmystreet.com/report/4608790)
-- Bin overflowing, 29th May :- [https://www.fixmystreet.com/report/4608339](https://www.fixmystreet.com/report/4608339)
 
 <!-- fix_marker ends -->
