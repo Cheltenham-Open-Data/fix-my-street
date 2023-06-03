@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cars repeatedly blocking pavement, 2nd June :- [https://www.fixmystreet.com/report/4625279](https://www.fixmystreet.com/report/4625279)
 - Over hanging hedge/tree, 2nd June :- [https://www.fixmystreet.com/report/4622838](https://www.fixmystreet.com/report/4622838)
 - Extending pothole developed at ingress to east end road from/on London road, 2nd June :- [https://www.fixmystreet.com/report/4622695](https://www.fixmystreet.com/report/4622695)
 - Pothole adjacent to right turn arrow for petrol station access., 2nd June :- [https://www.fixmystreet.com/report/4622667](https://www.fixmystreet.com/report/4622667)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Water coming up from the pavement. Burst pipe?, 31st May :- [https://www.fixmystreet.com/report/4613375](https://www.fixmystreet.com/report/4613375)
 - Large pothole, 31st May :- [https://www.fixmystreet.com/report/4613354](https://www.fixmystreet.com/report/4613354)
 - Southbound, mile marker 67.1, 31st May :- [https://www.fixmystreet.com/report/4613250](https://www.fixmystreet.com/report/4613250)
-- Severe damage to road, 30th May :- [https://www.fixmystreet.com/report/4612336](https://www.fixmystreet.com/report/4612336)
 
 <!-- fix_marker ends -->
