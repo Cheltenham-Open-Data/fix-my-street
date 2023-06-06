@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Entire length of brockhampton lane, 5th June :- [https://www.fixmystreet.com/report/4635642](https://www.fixmystreet.com/report/4635642)
 - Light sequence is broken, causing unnecessary tailbacks, 5th June :- [https://www.fixmystreet.com/report/4634773](https://www.fixmystreet.com/report/4634773)
 - Trees hedges, 4th June :- [https://www.fixmystreet.com/report/4628359](https://www.fixmystreet.com/report/4628359)
 - Pothole / road subsidence, 4th June :- [https://www.fixmystreet.com/report/4628155](https://www.fixmystreet.com/report/4628155)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipping, 1st June :- [https://www.fixmystreet.com/report/4619347](https://www.fixmystreet.com/report/4619347)
 - Flytipping, 1st June :- [https://www.fixmystreet.com/report/4619295](https://www.fixmystreet.com/report/4619295)
 - Previous repairs failing, 1st June :- [https://www.fixmystreet.com/report/4617980](https://www.fixmystreet.com/report/4617980)
-- Speed signs, 1st June :- [https://www.fixmystreet.com/report/4617510](https://www.fixmystreet.com/report/4617510)
 
 <!-- fix_marker ends -->
