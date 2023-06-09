@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown tree being used antisocially, 9th June :- [https://www.fixmystreet.com/report/4652837](https://www.fixmystreet.com/report/4652837)
+- Graffiti on noticebord, 9th June :- [https://www.fixmystreet.com/report/4652728](https://www.fixmystreet.com/report/4652728)
+- Nasty potholes at both traffic calming cushions on Greyhound Gardens, 9th June :- [https://www.fixmystreet.com/report/4651380](https://www.fixmystreet.com/report/4651380)
 - Glass on road, 8th June :- [https://www.fixmystreet.com/report/4647759](https://www.fixmystreet.com/report/4647759)
 - Failed road surface; multiple large potholes, 8th June :- [https://www.fixmystreet.com/report/4647468](https://www.fixmystreet.com/report/4647468)
 - Graffiti on board, 8th June :- [https://www.fixmystreet.com/report/4647385](https://www.fixmystreet.com/report/4647385)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Light sequence is broken, causing unnecessary tailbacks, 5th June :- [https://www.fixmystreet.com/report/4634773](https://www.fixmystreet.com/report/4634773)
 - Trees hedges, 4th June :- [https://www.fixmystreet.com/report/4628359](https://www.fixmystreet.com/report/4628359)
 - Pothole / road subsidence, 4th June :- [https://www.fixmystreet.com/report/4628155](https://www.fixmystreet.com/report/4628155)
-- Huge pothole near to kerb, 3rd June :- [https://www.fixmystreet.com/report/4627403](https://www.fixmystreet.com/report/4627403)
-- Cars repeatedly blocking pavement, 2nd June :- [https://www.fixmystreet.com/report/4625279](https://www.fixmystreet.com/report/4625279)
-- Over hanging hedge/tree, 2nd June :- [https://www.fixmystreet.com/report/4622838](https://www.fixmystreet.com/report/4622838)
 
 <!-- fix_marker ends -->
