@@ -3,6 +3,7 @@ Fix my street items within 10km of Cheltenham centre
 <!-- fix_marker starts -->
 
 - Glass on road, 8th June :- [https://www.fixmystreet.com/report/4647759](https://www.fixmystreet.com/report/4647759)
+- Failed road surface; multiple large potholes, 8th June :- [https://www.fixmystreet.com/report/4647468](https://www.fixmystreet.com/report/4647468)
 - Graffiti on board, 8th June :- [https://www.fixmystreet.com/report/4647385](https://www.fixmystreet.com/report/4647385)
 - Restricted Pavement, 8th June :- [https://www.fixmystreet.com/report/4645226](https://www.fixmystreet.com/report/4645226)
 - 3ftx6ft, 7th June :- [https://www.fixmystreet.com/report/4643107](https://www.fixmystreet.com/report/4643107)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Huge pothole near to kerb, 3rd June :- [https://www.fixmystreet.com/report/4627403](https://www.fixmystreet.com/report/4627403)
 - Cars repeatedly blocking pavement, 2nd June :- [https://www.fixmystreet.com/report/4625279](https://www.fixmystreet.com/report/4625279)
 - Over hanging hedge/tree, 2nd June :- [https://www.fixmystreet.com/report/4622838](https://www.fixmystreet.com/report/4622838)
-- Extending pothole developed at ingress to east end road from/on London road, 2nd June :- [https://www.fixmystreet.com/report/4622695](https://www.fixmystreet.com/report/4622695)
 
 <!-- fix_marker ends -->
