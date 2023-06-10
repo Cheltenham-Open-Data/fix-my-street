@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Strip down mattress springs left on Brooklyn Road near junction with Edinburgh place, 10th June :- [https://www.fixmystreet.com/report/4655166](https://www.fixmystreet.com/report/4655166)
+- Sting nettles and large weeds overhang the footpath on both sides of the road, 10th June :- [https://www.fixmystreet.com/report/4654864](https://www.fixmystreet.com/report/4654864)
+- The audible alert for pedestrians not working, 10th June :- [https://www.fixmystreet.com/report/4653955](https://www.fixmystreet.com/report/4653955)
 - Overgrown tree being used antisocially, 9th June :- [https://www.fixmystreet.com/report/4652837](https://www.fixmystreet.com/report/4652837)
 - Graffiti on noticebord, 9th June :- [https://www.fixmystreet.com/report/4652728](https://www.fixmystreet.com/report/4652728)
 - Nasty potholes at both traffic calming cushions on Greyhound Gardens, 9th June :- [https://www.fixmystreet.com/report/4651380](https://www.fixmystreet.com/report/4651380)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken Barrier, 6th June :- [https://www.fixmystreet.com/report/4636767](https://www.fixmystreet.com/report/4636767)
 - Flytipped paint cans, 6th June :- [https://www.fixmystreet.com/report/4636571](https://www.fixmystreet.com/report/4636571)
 - Entire length of brockhampton lane, 5th June :- [https://www.fixmystreet.com/report/4635642](https://www.fixmystreet.com/report/4635642)
-- Light sequence is broken, causing unnecessary tailbacks, 5th June :- [https://www.fixmystreet.com/report/4634773](https://www.fixmystreet.com/report/4634773)
-- Trees hedges, 4th June :- [https://www.fixmystreet.com/report/4628359](https://www.fixmystreet.com/report/4628359)
-- Pothole / road subsidence, 4th June :- [https://www.fixmystreet.com/report/4628155](https://www.fixmystreet.com/report/4628155)
 
 <!-- fix_marker ends -->
