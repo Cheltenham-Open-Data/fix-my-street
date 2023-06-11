@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sanitary waste, 11th June :- [https://www.fixmystreet.com/report/4657594](https://www.fixmystreet.com/report/4657594)
+- Road sign on pavement on Hales Road., 11th June :- [https://www.fixmystreet.com/report/4657526](https://www.fixmystreet.com/report/4657526)
+- Sink tipped in river Chelt, 11th June :- [https://www.fixmystreet.com/report/4656735](https://www.fixmystreet.com/report/4656735)
+- Flytipping in alley, 11th June :- [https://www.fixmystreet.com/report/4656704](https://www.fixmystreet.com/report/4656704)
+- Pothole M5 south slow lane between Junc 9-11. Also junc 11-11A south middle lane., 11th June :- [https://www.fixmystreet.com/report/4656672](https://www.fixmystreet.com/report/4656672)
 - Large and increasingly deep pothole, 10th June :- [https://www.fixmystreet.com/report/4655809](https://www.fixmystreet.com/report/4655809)
 - Fly tipping, 10th June :- [https://www.fixmystreet.com/report/4655763](https://www.fixmystreet.com/report/4655763)
 - Strip down mattress springs left on Brooklyn Road near junction with Edinburgh place, 10th June :- [https://www.fixmystreet.com/report/4655166](https://www.fixmystreet.com/report/4655166)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 3ftx6ft, 7th June :- [https://www.fixmystreet.com/report/4643107](https://www.fixmystreet.com/report/4643107)
 - Uneven road surface southbound, 7th June :- [https://www.fixmystreet.com/report/4642949](https://www.fixmystreet.com/report/4642949)
 - Red light out, 7th June :- [https://www.fixmystreet.com/report/4642685](https://www.fixmystreet.com/report/4642685)
-- Verge overgrown, 7th June :- [https://www.fixmystreet.com/report/4642481](https://www.fixmystreet.com/report/4642481)
-- 2 inch nail sticking out of cycle path / pavement, 6th June :- [https://www.fixmystreet.com/report/4639622](https://www.fixmystreet.com/report/4639622)
-- Dog fouling, 6th June :- [https://www.fixmystreet.com/report/4638239](https://www.fixmystreet.com/report/4638239)
-- More Broken Barriers, 6th June :- [https://www.fixmystreet.com/report/4636777](https://www.fixmystreet.com/report/4636777)
-- Broken Barrier, 6th June :- [https://www.fixmystreet.com/report/4636767](https://www.fixmystreet.com/report/4636767)
 
 <!-- fix_marker ends -->
