@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large and increasingly deep pothole, 10th June :- [https://www.fixmystreet.com/report/4655809](https://www.fixmystreet.com/report/4655809)
+- Fly tipping, 10th June :- [https://www.fixmystreet.com/report/4655763](https://www.fixmystreet.com/report/4655763)
 - Strip down mattress springs left on Brooklyn Road near junction with Edinburgh place, 10th June :- [https://www.fixmystreet.com/report/4655166](https://www.fixmystreet.com/report/4655166)
 - Sting nettles and large weeds overhang the footpath on both sides of the road, 10th June :- [https://www.fixmystreet.com/report/4654864](https://www.fixmystreet.com/report/4654864)
 - The audible alert for pedestrians not working, 10th June :- [https://www.fixmystreet.com/report/4653955](https://www.fixmystreet.com/report/4653955)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dog fouling, 6th June :- [https://www.fixmystreet.com/report/4638239](https://www.fixmystreet.com/report/4638239)
 - More Broken Barriers, 6th June :- [https://www.fixmystreet.com/report/4636777](https://www.fixmystreet.com/report/4636777)
 - Broken Barrier, 6th June :- [https://www.fixmystreet.com/report/4636767](https://www.fixmystreet.com/report/4636767)
-- Flytipped paint cans, 6th June :- [https://www.fixmystreet.com/report/4636571](https://www.fixmystreet.com/report/4636571)
-- Entire length of brockhampton lane, 5th June :- [https://www.fixmystreet.com/report/4635642](https://www.fixmystreet.com/report/4635642)
 
 <!-- fix_marker ends -->
