@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large amount of broken glass, 12th June :- [https://www.fixmystreet.com/report/4663215](https://www.fixmystreet.com/report/4663215)
+- Footpath from Finlay road to sapphire way is very muddy and slippery, 12th June :- [https://www.fixmystreet.com/report/4661135](https://www.fixmystreet.com/report/4661135)
+- Overgrown hedge restricting footpath, 12th June :- [https://www.fixmystreet.com/report/4660875](https://www.fixmystreet.com/report/4660875)
 - Loose paving slabs which are dangerous, 11th June :- [https://www.fixmystreet.com/report/4658445](https://www.fixmystreet.com/report/4658445)
 - Sanitary waste, 11th June :- [https://www.fixmystreet.com/report/4657594](https://www.fixmystreet.com/report/4657594)
 - Road sign on pavement on Hales Road., 11th June :- [https://www.fixmystreet.com/report/4657526](https://www.fixmystreet.com/report/4657526)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Glass on road, 8th June :- [https://www.fixmystreet.com/report/4647759](https://www.fixmystreet.com/report/4647759)
 - Failed road surface; multiple large potholes, 8th June :- [https://www.fixmystreet.com/report/4647468](https://www.fixmystreet.com/report/4647468)
 - Graffiti on board, 8th June :- [https://www.fixmystreet.com/report/4647385](https://www.fixmystreet.com/report/4647385)
-- Restricted Pavement, 8th June :- [https://www.fixmystreet.com/report/4645226](https://www.fixmystreet.com/report/4645226)
-- 3ftx6ft, 7th June :- [https://www.fixmystreet.com/report/4643107](https://www.fixmystreet.com/report/4643107)
-- Uneven road surface southbound, 7th June :- [https://www.fixmystreet.com/report/4642949](https://www.fixmystreet.com/report/4642949)
 
 <!-- fix_marker ends -->
