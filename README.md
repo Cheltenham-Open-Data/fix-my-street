@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Loose paving slabs which are dangerous, 11th June :- [https://www.fixmystreet.com/report/4658445](https://www.fixmystreet.com/report/4658445)
 - Sanitary waste, 11th June :- [https://www.fixmystreet.com/report/4657594](https://www.fixmystreet.com/report/4657594)
 - Road sign on pavement on Hales Road., 11th June :- [https://www.fixmystreet.com/report/4657526](https://www.fixmystreet.com/report/4657526)
 - Sink tipped in river Chelt, 11th June :- [https://www.fixmystreet.com/report/4656735](https://www.fixmystreet.com/report/4656735)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Restricted Pavement, 8th June :- [https://www.fixmystreet.com/report/4645226](https://www.fixmystreet.com/report/4645226)
 - 3ftx6ft, 7th June :- [https://www.fixmystreet.com/report/4643107](https://www.fixmystreet.com/report/4643107)
 - Uneven road surface southbound, 7th June :- [https://www.fixmystreet.com/report/4642949](https://www.fixmystreet.com/report/4642949)
-- Red light out, 7th June :- [https://www.fixmystreet.com/report/4642685](https://www.fixmystreet.com/report/4642685)
 
 <!-- fix_marker ends -->
