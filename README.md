@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Footpath Now Virtually Impassable, 13th June :- [https://www.fixmystreet.com/report/4668785](https://www.fixmystreet.com/report/4668785)
+- Traffic light failure, 13th June :- [https://www.fixmystreet.com/report/4668425](https://www.fixmystreet.com/report/4668425)
+- 18 inch pothole, 13th June :- [https://www.fixmystreet.com/report/4668013](https://www.fixmystreet.com/report/4668013)
+- Potholes along bypass, 13th June :- [https://www.fixmystreet.com/report/4667866](https://www.fixmystreet.com/report/4667866)
+- 2 Redundant Road Work signs in Lacation NOW for 9 Months!, 13th June :- [https://www.fixmystreet.com/report/4667602](https://www.fixmystreet.com/report/4667602)
+- Deep and sharp edge Potholes + edge of road washed out, 13th June :- [https://www.fixmystreet.com/report/4667583](https://www.fixmystreet.com/report/4667583)
+- Subsoil subsidence under tarmac on Edge of Public Footpath / Road, 13th June :- [https://www.fixmystreet.com/report/4667543](https://www.fixmystreet.com/report/4667543)
+- Tone bag of gravel dumped, 13th June :- [https://www.fixmystreet.com/report/4666023](https://www.fixmystreet.com/report/4666023)
 - Large amount of broken glass, 12th June :- [https://www.fixmystreet.com/report/4663215](https://www.fixmystreet.com/report/4663215)
 - Footpath from Finlay road to sapphire way is very muddy and slippery, 12th June :- [https://www.fixmystreet.com/report/4661135](https://www.fixmystreet.com/report/4661135)
 - Overgrown hedge restricting footpath, 12th June :- [https://www.fixmystreet.com/report/4660875](https://www.fixmystreet.com/report/4660875)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large and increasingly deep pothole, 10th June :- [https://www.fixmystreet.com/report/4655809](https://www.fixmystreet.com/report/4655809)
 - Fly tipping, 10th June :- [https://www.fixmystreet.com/report/4655763](https://www.fixmystreet.com/report/4655763)
 - Strip down mattress springs left on Brooklyn Road near junction with Edinburgh place, 10th June :- [https://www.fixmystreet.com/report/4655166](https://www.fixmystreet.com/report/4655166)
-- Sting nettles and large weeds overhang the footpath on both sides of the road, 10th June :- [https://www.fixmystreet.com/report/4654864](https://www.fixmystreet.com/report/4654864)
-- The audible alert for pedestrians not working, 10th June :- [https://www.fixmystreet.com/report/4653955](https://www.fixmystreet.com/report/4653955)
-- Overgrown tree being used antisocially, 9th June :- [https://www.fixmystreet.com/report/4652837](https://www.fixmystreet.com/report/4652837)
-- Graffiti on noticebord, 9th June :- [https://www.fixmystreet.com/report/4652728](https://www.fixmystreet.com/report/4652728)
-- Nasty potholes at both traffic calming cushions on Greyhound Gardens, 9th June :- [https://www.fixmystreet.com/report/4651380](https://www.fixmystreet.com/report/4651380)
-- Glass on road, 8th June :- [https://www.fixmystreet.com/report/4647759](https://www.fixmystreet.com/report/4647759)
-- Failed road surface; multiple large potholes, 8th June :- [https://www.fixmystreet.com/report/4647468](https://www.fixmystreet.com/report/4647468)
-- Graffiti on board, 8th June :- [https://www.fixmystreet.com/report/4647385](https://www.fixmystreet.com/report/4647385)
 
 <!-- fix_marker ends -->
