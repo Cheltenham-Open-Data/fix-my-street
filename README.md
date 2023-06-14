@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Many seriously large potholes, 13th June :- [https://www.fixmystreet.com/report/4669318](https://www.fixmystreet.com/report/4669318)
 - Footpath Now Virtually Impassable, 13th June :- [https://www.fixmystreet.com/report/4668785](https://www.fixmystreet.com/report/4668785)
 - Traffic light failure, 13th June :- [https://www.fixmystreet.com/report/4668425](https://www.fixmystreet.com/report/4668425)
 - 18 inch pothole, 13th June :- [https://www.fixmystreet.com/report/4668013](https://www.fixmystreet.com/report/4668013)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole M5 south slow lane between Junc 9-11. Also junc 11-11A south middle lane., 11th June :- [https://www.fixmystreet.com/report/4656672](https://www.fixmystreet.com/report/4656672)
 - Large and increasingly deep pothole, 10th June :- [https://www.fixmystreet.com/report/4655809](https://www.fixmystreet.com/report/4655809)
 - Fly tipping, 10th June :- [https://www.fixmystreet.com/report/4655763](https://www.fixmystreet.com/report/4655763)
-- Strip down mattress springs left on Brooklyn Road near junction with Edinburgh place, 10th June :- [https://www.fixmystreet.com/report/4655166](https://www.fixmystreet.com/report/4655166)
 
 <!-- fix_marker ends -->
