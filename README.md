@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dangerous road surface, 14th June :- [https://www.fixmystreet.com/report/4673579](https://www.fixmystreet.com/report/4673579)
+- Pothole on Blind Corner - deeper than before, 14th June :- [https://www.fixmystreet.com/report/4672047](https://www.fixmystreet.com/report/4672047)
+- Pothole Alley - impossible to drive over without risking damage to vehicles, 14th June :- [https://www.fixmystreet.com/report/4672018](https://www.fixmystreet.com/report/4672018)
 - Many seriously large potholes, 13th June :- [https://www.fixmystreet.com/report/4669318](https://www.fixmystreet.com/report/4669318)
 - Footpath Now Virtually Impassable, 13th June :- [https://www.fixmystreet.com/report/4668785](https://www.fixmystreet.com/report/4668785)
 - Traffic light failure, 13th June :- [https://www.fixmystreet.com/report/4668425](https://www.fixmystreet.com/report/4668425)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road sign on pavement on Hales Road., 11th June :- [https://www.fixmystreet.com/report/4657526](https://www.fixmystreet.com/report/4657526)
 - Sink tipped in river Chelt, 11th June :- [https://www.fixmystreet.com/report/4656735](https://www.fixmystreet.com/report/4656735)
 - Flytipping in alley, 11th June :- [https://www.fixmystreet.com/report/4656704](https://www.fixmystreet.com/report/4656704)
-- Pothole M5 south slow lane between Junc 9-11. Also junc 11-11A south middle lane., 11th June :- [https://www.fixmystreet.com/report/4656672](https://www.fixmystreet.com/report/4656672)
-- Large and increasingly deep pothole, 10th June :- [https://www.fixmystreet.com/report/4655809](https://www.fixmystreet.com/report/4655809)
-- Fly tipping, 10th June :- [https://www.fixmystreet.com/report/4655763](https://www.fixmystreet.com/report/4655763)
 
 <!-- fix_marker ends -->
