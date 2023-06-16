@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned road sign, 15th June :- [https://www.fixmystreet.com/report/4678207](https://www.fixmystreet.com/report/4678207)
 - Brambles overhanging lane, 15th June :- [https://www.fixmystreet.com/report/4677434](https://www.fixmystreet.com/report/4677434)
 - Street cleaning and fly tipping, 15th June :- [https://www.fixmystreet.com/report/4675684](https://www.fixmystreet.com/report/4675684)
 - Avon road, 15th June :- [https://www.fixmystreet.com/report/4675503](https://www.fixmystreet.com/report/4675503)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Subsoil subsidence under tarmac on Edge of Public Footpath / Road, 13th June :- [https://www.fixmystreet.com/report/4667543](https://www.fixmystreet.com/report/4667543)
 - Tone bag of gravel dumped, 13th June :- [https://www.fixmystreet.com/report/4666023](https://www.fixmystreet.com/report/4666023)
 - Large amount of broken glass, 12th June :- [https://www.fixmystreet.com/report/4663215](https://www.fixmystreet.com/report/4663215)
-- Footpath from Finlay road to sapphire way is very muddy and slippery, 12th June :- [https://www.fixmystreet.com/report/4661135](https://www.fixmystreet.com/report/4661135)
 
 <!-- fix_marker ends -->
