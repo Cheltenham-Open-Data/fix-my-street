@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped car wheels, 18th June :- [https://www.fixmystreet.com/report/4686991](https://www.fixmystreet.com/report/4686991)
+- Abandoned vehicle, 18th June :- [https://www.fixmystreet.com/report/4685977](https://www.fixmystreet.com/report/4685977)
 - Grass to long, 17th June :- [https://www.fixmystreet.com/report/4682517](https://www.fixmystreet.com/report/4682517)
 - Garden Fire, 16th June :- [https://www.fixmystreet.com/report/4679531](https://www.fixmystreet.com/report/4679531)
 - Abandoned road sign, 15th June :- [https://www.fixmystreet.com/report/4678207](https://www.fixmystreet.com/report/4678207)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 18 inch pothole, 13th June :- [https://www.fixmystreet.com/report/4668013](https://www.fixmystreet.com/report/4668013)
 - Potholes along bypass, 13th June :- [https://www.fixmystreet.com/report/4667866](https://www.fixmystreet.com/report/4667866)
 - 2 Redundant Road Work signs in Lacation NOW for 9 Months!, 13th June :- [https://www.fixmystreet.com/report/4667602](https://www.fixmystreet.com/report/4667602)
-- Deep and sharp edge Potholes + edge of road washed out, 13th June :- [https://www.fixmystreet.com/report/4667583](https://www.fixmystreet.com/report/4667583)
-- Subsoil subsidence under tarmac on Edge of Public Footpath / Road, 13th June :- [https://www.fixmystreet.com/report/4667543](https://www.fixmystreet.com/report/4667543)
 
 <!-- fix_marker ends -->
