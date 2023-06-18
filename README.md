@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Grass to long, 17th June :- [https://www.fixmystreet.com/report/4682517](https://www.fixmystreet.com/report/4682517)
 - Garden Fire, 16th June :- [https://www.fixmystreet.com/report/4679531](https://www.fixmystreet.com/report/4679531)
 - Abandoned road sign, 15th June :- [https://www.fixmystreet.com/report/4678207](https://www.fixmystreet.com/report/4678207)
 - Brambles overhanging lane, 15th June :- [https://www.fixmystreet.com/report/4677434](https://www.fixmystreet.com/report/4677434)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 Redundant Road Work signs in Lacation NOW for 9 Months!, 13th June :- [https://www.fixmystreet.com/report/4667602](https://www.fixmystreet.com/report/4667602)
 - Deep and sharp edge Potholes + edge of road washed out, 13th June :- [https://www.fixmystreet.com/report/4667583](https://www.fixmystreet.com/report/4667583)
 - Subsoil subsidence under tarmac on Edge of Public Footpath / Road, 13th June :- [https://www.fixmystreet.com/report/4667543](https://www.fixmystreet.com/report/4667543)
-- Tone bag of gravel dumped, 13th June :- [https://www.fixmystreet.com/report/4666023](https://www.fixmystreet.com/report/4666023)
 
 <!-- fix_marker ends -->
