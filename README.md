@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Way through hedge overgrown, 19th June :- [https://www.fixmystreet.com/report/4691667](https://www.fixmystreet.com/report/4691667)
+- Footpath off Salisbury Avenue is overgrown and impassable, 19th June :- [https://www.fixmystreet.com/report/4690318](https://www.fixmystreet.com/report/4690318)
 - Faulty road surface, 18th June :- [https://www.fixmystreet.com/report/4687457](https://www.fixmystreet.com/report/4687457)
 - Dumped car wheels, 18th June :- [https://www.fixmystreet.com/report/4686991](https://www.fixmystreet.com/report/4686991)
 - Abandoned vehicle, 18th June :- [https://www.fixmystreet.com/report/4685977](https://www.fixmystreet.com/report/4685977)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Many seriously large potholes, 13th June :- [https://www.fixmystreet.com/report/4669318](https://www.fixmystreet.com/report/4669318)
 - Footpath Now Virtually Impassable, 13th June :- [https://www.fixmystreet.com/report/4668785](https://www.fixmystreet.com/report/4668785)
 - Traffic light failure, 13th June :- [https://www.fixmystreet.com/report/4668425](https://www.fixmystreet.com/report/4668425)
-- 18 inch pothole, 13th June :- [https://www.fixmystreet.com/report/4668013](https://www.fixmystreet.com/report/4668013)
-- Potholes along bypass, 13th June :- [https://www.fixmystreet.com/report/4667866](https://www.fixmystreet.com/report/4667866)
 
 <!-- fix_marker ends -->
