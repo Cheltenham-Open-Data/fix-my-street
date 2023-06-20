@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road in bits, 19th June :- [https://www.fixmystreet.com/report/4692251](https://www.fixmystreet.com/report/4692251)
+- Reopened potholes, 19th June :- [https://www.fixmystreet.com/report/4692248](https://www.fixmystreet.com/report/4692248)
+- Several potholes, 19th June :- [https://www.fixmystreet.com/report/4692247](https://www.fixmystreet.com/report/4692247)
+- Road in very poor condition, 19th June :- [https://www.fixmystreet.com/report/4692237](https://www.fixmystreet.com/report/4692237)
+- Road mirror very dirty, 19th June :- [https://www.fixmystreet.com/report/4692233](https://www.fixmystreet.com/report/4692233)
 - Way through hedge overgrown, 19th June :- [https://www.fixmystreet.com/report/4691667](https://www.fixmystreet.com/report/4691667)
 - Footpath off Salisbury Avenue is overgrown and impassable, 19th June :- [https://www.fixmystreet.com/report/4690318](https://www.fixmystreet.com/report/4690318)
 - Faulty road surface, 18th June :- [https://www.fixmystreet.com/report/4687457](https://www.fixmystreet.com/report/4687457)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Cardboard recycling fire, 15th June :- [https://www.fixmystreet.com/report/4675181](https://www.fixmystreet.com/report/4675181)
 - Constant pavement parking, 15th June :- [https://www.fixmystreet.com/report/4675028](https://www.fixmystreet.com/report/4675028)
 - Dangerous road surface, 14th June :- [https://www.fixmystreet.com/report/4673579](https://www.fixmystreet.com/report/4673579)
-- Pothole on Blind Corner - deeper than before, 14th June :- [https://www.fixmystreet.com/report/4672047](https://www.fixmystreet.com/report/4672047)
-- Pothole Alley - impossible to drive over without risking damage to vehicles, 14th June :- [https://www.fixmystreet.com/report/4672018](https://www.fixmystreet.com/report/4672018)
-- Many seriously large potholes, 13th June :- [https://www.fixmystreet.com/report/4669318](https://www.fixmystreet.com/report/4669318)
-- Footpath Now Virtually Impassable, 13th June :- [https://www.fixmystreet.com/report/4668785](https://www.fixmystreet.com/report/4668785)
-- Traffic light failure, 13th June :- [https://www.fixmystreet.com/report/4668425](https://www.fixmystreet.com/report/4668425)
 
 <!-- fix_marker ends -->
