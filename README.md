@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pothole, 20th June :- [https://www.fixmystreet.com/report/4696414](https://www.fixmystreet.com/report/4696414)
+- Potholes between ingress to Woodgate close and nearby pedestrian island, 20th June :- [https://www.fixmystreet.com/report/4696392](https://www.fixmystreet.com/report/4696392)
+- Bad flooding on new cycle path, 20th June :- [https://www.fixmystreet.com/report/4693737](https://www.fixmystreet.com/report/4693737)
 - Road in bits, 19th June :- [https://www.fixmystreet.com/report/4692251](https://www.fixmystreet.com/report/4692251)
 - Reopened potholes, 19th June :- [https://www.fixmystreet.com/report/4692248](https://www.fixmystreet.com/report/4692248)
 - Several potholes, 19th June :- [https://www.fixmystreet.com/report/4692247](https://www.fixmystreet.com/report/4692247)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street cleaning and fly tipping, 15th June :- [https://www.fixmystreet.com/report/4675684](https://www.fixmystreet.com/report/4675684)
 - Avon road, 15th June :- [https://www.fixmystreet.com/report/4675503](https://www.fixmystreet.com/report/4675503)
 - Churn avenue, 15th June :- [https://www.fixmystreet.com/report/4675491](https://www.fixmystreet.com/report/4675491)
-- Cardboard recycling fire, 15th June :- [https://www.fixmystreet.com/report/4675181](https://www.fixmystreet.com/report/4675181)
-- Constant pavement parking, 15th June :- [https://www.fixmystreet.com/report/4675028](https://www.fixmystreet.com/report/4675028)
-- Dangerous road surface, 14th June :- [https://www.fixmystreet.com/report/4673579](https://www.fixmystreet.com/report/4673579)
 
 <!-- fix_marker ends -->
