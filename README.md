@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vegetation overhanging public footpath, 21st June :- [https://www.fixmystreet.com/report/4700054](https://www.fixmystreet.com/report/4700054)
+- Large weeds in alleyway linking Laynes Rd / Churchdown Lane, 21st June :- [https://www.fixmystreet.com/report/4699456](https://www.fixmystreet.com/report/4699456)
 - Broken glass on footpath, 20th June :- [https://www.fixmystreet.com/report/4697435](https://www.fixmystreet.com/report/4697435)
 - Low drain after tarmacing extremely dangerous, 20th June :- [https://www.fixmystreet.com/report/4697171](https://www.fixmystreet.com/report/4697171)
 - Deep pothole, 20th June :- [https://www.fixmystreet.com/report/4696414](https://www.fixmystreet.com/report/4696414)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned vehicle, 18th June :- [https://www.fixmystreet.com/report/4685977](https://www.fixmystreet.com/report/4685977)
 - Grass to long, 17th June :- [https://www.fixmystreet.com/report/4682517](https://www.fixmystreet.com/report/4682517)
 - Garden Fire, 16th June :- [https://www.fixmystreet.com/report/4679531](https://www.fixmystreet.com/report/4679531)
-- Abandoned road sign, 15th June :- [https://www.fixmystreet.com/report/4678207](https://www.fixmystreet.com/report/4678207)
-- Brambles overhanging lane, 15th June :- [https://www.fixmystreet.com/report/4677434](https://www.fixmystreet.com/report/4677434)
 
 <!-- fix_marker ends -->
