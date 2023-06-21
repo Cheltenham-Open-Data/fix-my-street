@@ -2,8 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass on footpath, 20th June :- [https://www.fixmystreet.com/report/4697435](https://www.fixmystreet.com/report/4697435)
+- Low drain after tarmacing extremely dangerous, 20th June :- [https://www.fixmystreet.com/report/4697171](https://www.fixmystreet.com/report/4697171)
 - Deep pothole, 20th June :- [https://www.fixmystreet.com/report/4696414](https://www.fixmystreet.com/report/4696414)
 - Potholes between ingress to Woodgate close and nearby pedestrian island, 20th June :- [https://www.fixmystreet.com/report/4696392](https://www.fixmystreet.com/report/4696392)
+- 3 inch deep pothole in previous repair outside no.42 Bibury Roade, 20th June :- [https://www.fixmystreet.com/report/4694086](https://www.fixmystreet.com/report/4694086)
 - Bad flooding on new cycle path, 20th June :- [https://www.fixmystreet.com/report/4693737](https://www.fixmystreet.com/report/4693737)
 - Road in bits, 19th June :- [https://www.fixmystreet.com/report/4692251](https://www.fixmystreet.com/report/4692251)
 - Reopened potholes, 19th June :- [https://www.fixmystreet.com/report/4692248](https://www.fixmystreet.com/report/4692248)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Garden Fire, 16th June :- [https://www.fixmystreet.com/report/4679531](https://www.fixmystreet.com/report/4679531)
 - Abandoned road sign, 15th June :- [https://www.fixmystreet.com/report/4678207](https://www.fixmystreet.com/report/4678207)
 - Brambles overhanging lane, 15th June :- [https://www.fixmystreet.com/report/4677434](https://www.fixmystreet.com/report/4677434)
-- Street cleaning and fly tipping, 15th June :- [https://www.fixmystreet.com/report/4675684](https://www.fixmystreet.com/report/4675684)
-- Avon road, 15th June :- [https://www.fixmystreet.com/report/4675503](https://www.fixmystreet.com/report/4675503)
-- Churn avenue, 15th June :- [https://www.fixmystreet.com/report/4675491](https://www.fixmystreet.com/report/4675491)
 
 <!-- fix_marker ends -->
