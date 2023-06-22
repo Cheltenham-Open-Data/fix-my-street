@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Manhole cover damaged again, 22nd June :- [https://www.fixmystreet.com/report/4705563](https://www.fixmystreet.com/report/4705563)
 - Vegetation overhanging public footpath, 21st June :- [https://www.fixmystreet.com/report/4700054](https://www.fixmystreet.com/report/4700054)
 - Large weeds in alleyway linking Laynes Rd / Churchdown Lane, 21st June :- [https://www.fixmystreet.com/report/4699456](https://www.fixmystreet.com/report/4699456)
 - Broken glass on footpath, 20th June :- [https://www.fixmystreet.com/report/4697435](https://www.fixmystreet.com/report/4697435)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dumped car wheels, 18th June :- [https://www.fixmystreet.com/report/4686991](https://www.fixmystreet.com/report/4686991)
 - Abandoned vehicle, 18th June :- [https://www.fixmystreet.com/report/4685977](https://www.fixmystreet.com/report/4685977)
 - Grass to long, 17th June :- [https://www.fixmystreet.com/report/4682517](https://www.fixmystreet.com/report/4682517)
-- Garden Fire, 16th June :- [https://www.fixmystreet.com/report/4679531](https://www.fixmystreet.com/report/4679531)
 
 <!-- fix_marker ends -->
