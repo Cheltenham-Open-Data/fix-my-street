@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- M5 between 66.5 and 67.1 south bristol direction, 23rd June :- [https://www.fixmystreet.com/report/4709158](https://www.fixmystreet.com/report/4709158)
 - Patches of massive potholes, 23rd June :- [https://www.fixmystreet.com/report/4706820](https://www.fixmystreet.com/report/4706820)
 - A huge pot hole as you enter the junction, 22nd June :- [https://www.fixmystreet.com/report/4706440](https://www.fixmystreet.com/report/4706440)
 - Northbound 300 yd sign to junction 11A, 22nd June :- [https://www.fixmystreet.com/report/4706403](https://www.fixmystreet.com/report/4706403)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road mirror very dirty, 19th June :- [https://www.fixmystreet.com/report/4692233](https://www.fixmystreet.com/report/4692233)
 - Way through hedge overgrown, 19th June :- [https://www.fixmystreet.com/report/4691667](https://www.fixmystreet.com/report/4691667)
 - Footpath off Salisbury Avenue is overgrown and impassable, 19th June :- [https://www.fixmystreet.com/report/4690318](https://www.fixmystreet.com/report/4690318)
-- Faulty road surface, 18th June :- [https://www.fixmystreet.com/report/4687457](https://www.fixmystreet.com/report/4687457)
 
 <!-- fix_marker ends -->
