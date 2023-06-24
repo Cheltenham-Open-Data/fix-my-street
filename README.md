@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping waste, 24th June :- [https://www.fixmystreet.com/report/4711051](https://www.fixmystreet.com/report/4711051)
+- Graffiti on fence, 24th June :- [https://www.fixmystreet.com/report/4711005](https://www.fixmystreet.com/report/4711005)
+- Broken glass, 24th June :- [https://www.fixmystreet.com/report/4710969](https://www.fixmystreet.com/report/4710969)
 - Steeet lights, 23rd June :- [https://www.fixmystreet.com/report/4710360](https://www.fixmystreet.com/report/4710360)
 - M5 between 66.5 and 67.1 south bristol direction, 23rd June :- [https://www.fixmystreet.com/report/4709158](https://www.fixmystreet.com/report/4709158)
 - Patches of massive potholes, 23rd June :- [https://www.fixmystreet.com/report/4706820](https://www.fixmystreet.com/report/4706820)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road in bits, 19th June :- [https://www.fixmystreet.com/report/4692251](https://www.fixmystreet.com/report/4692251)
 - Reopened potholes, 19th June :- [https://www.fixmystreet.com/report/4692248](https://www.fixmystreet.com/report/4692248)
 - Several potholes, 19th June :- [https://www.fixmystreet.com/report/4692247](https://www.fixmystreet.com/report/4692247)
-- Road in very poor condition, 19th June :- [https://www.fixmystreet.com/report/4692237](https://www.fixmystreet.com/report/4692237)
-- Road mirror very dirty, 19th June :- [https://www.fixmystreet.com/report/4692233](https://www.fixmystreet.com/report/4692233)
-- Way through hedge overgrown, 19th June :- [https://www.fixmystreet.com/report/4691667](https://www.fixmystreet.com/report/4691667)
 
 <!-- fix_marker ends -->
