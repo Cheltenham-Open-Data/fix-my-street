@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Electronics flytipping by POW stadium, 24th June :- [https://www.fixmystreet.com/report/4712295](https://www.fixmystreet.com/report/4712295)
 - Flytipping waste, 24th June :- [https://www.fixmystreet.com/report/4711051](https://www.fixmystreet.com/report/4711051)
 - Graffiti on fence, 24th June :- [https://www.fixmystreet.com/report/4711005](https://www.fixmystreet.com/report/4711005)
 - Broken glass, 24th June :- [https://www.fixmystreet.com/report/4710969](https://www.fixmystreet.com/report/4710969)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bad flooding on new cycle path, 20th June :- [https://www.fixmystreet.com/report/4693737](https://www.fixmystreet.com/report/4693737)
 - Road in bits, 19th June :- [https://www.fixmystreet.com/report/4692251](https://www.fixmystreet.com/report/4692251)
 - Reopened potholes, 19th June :- [https://www.fixmystreet.com/report/4692248](https://www.fixmystreet.com/report/4692248)
-- Several potholes, 19th June :- [https://www.fixmystreet.com/report/4692247](https://www.fixmystreet.com/report/4692247)
 
 <!-- fix_marker ends -->
