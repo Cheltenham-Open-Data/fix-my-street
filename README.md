@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Litter and bin bag along PE way from Coronation Square to Shakespeare Road, 26th June :- [https://www.fixmystreet.com/report/4718542](https://www.fixmystreet.com/report/4718542)
+- Brambles over pavement, Shakespeare Road near PE way, 26th June :- [https://www.fixmystreet.com/report/4718536](https://www.fixmystreet.com/report/4718536)
+- Two very big potholes, 26th June :- [https://www.fixmystreet.com/report/4716072](https://www.fixmystreet.com/report/4716072)
+- Litter/tyres, 26th June :- [https://www.fixmystreet.com/report/4715320](https://www.fixmystreet.com/report/4715320)
 - Information signs faded, 26th June :- [https://www.fixmystreet.com/report/4715202](https://www.fixmystreet.com/report/4715202)
 - Cone in river Chelt, 25th June :- [https://www.fixmystreet.com/report/4713163](https://www.fixmystreet.com/report/4713163)
 - M5 southbound 85.5, 25th June :- [https://www.fixmystreet.com/report/4713064](https://www.fixmystreet.com/report/4713064)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Manhole cover damaged again, 22nd June :- [https://www.fixmystreet.com/report/4705563](https://www.fixmystreet.com/report/4705563)
 - Vegetation overhanging public footpath, 21st June :- [https://www.fixmystreet.com/report/4700054](https://www.fixmystreet.com/report/4700054)
 - Large weeds in alleyway linking Laynes Rd / Churchdown Lane, 21st June :- [https://www.fixmystreet.com/report/4699456](https://www.fixmystreet.com/report/4699456)
-- Broken glass on footpath, 20th June :- [https://www.fixmystreet.com/report/4697435](https://www.fixmystreet.com/report/4697435)
-- Low drain after tarmacing extremely dangerous, 20th June :- [https://www.fixmystreet.com/report/4697171](https://www.fixmystreet.com/report/4697171)
-- Deep pothole, 20th June :- [https://www.fixmystreet.com/report/4696414](https://www.fixmystreet.com/report/4696414)
-- Potholes between ingress to Woodgate close and nearby pedestrian island, 20th June :- [https://www.fixmystreet.com/report/4696392](https://www.fixmystreet.com/report/4696392)
 
 <!-- fix_marker ends -->
