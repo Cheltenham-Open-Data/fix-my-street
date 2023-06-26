@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Information signs faded, 26th June :- [https://www.fixmystreet.com/report/4715202](https://www.fixmystreet.com/report/4715202)
 - Cone in river Chelt, 25th June :- [https://www.fixmystreet.com/report/4713163](https://www.fixmystreet.com/report/4713163)
 - M5 southbound 85.5, 25th June :- [https://www.fixmystreet.com/report/4713064](https://www.fixmystreet.com/report/4713064)
 - Road signs covered by trees, 25th June :- [https://www.fixmystreet.com/report/4712804](https://www.fixmystreet.com/report/4712804)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Low drain after tarmacing extremely dangerous, 20th June :- [https://www.fixmystreet.com/report/4697171](https://www.fixmystreet.com/report/4697171)
 - Deep pothole, 20th June :- [https://www.fixmystreet.com/report/4696414](https://www.fixmystreet.com/report/4696414)
 - Potholes between ingress to Woodgate close and nearby pedestrian island, 20th June :- [https://www.fixmystreet.com/report/4696392](https://www.fixmystreet.com/report/4696392)
-- 3 inch deep pothole in previous repair outside no.42 Bibury Roade, 20th June :- [https://www.fixmystreet.com/report/4694086](https://www.fixmystreet.com/report/4694086)
 
 <!-- fix_marker ends -->
