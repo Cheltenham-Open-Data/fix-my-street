@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes/ worn road, 27th June :- [https://www.fixmystreet.com/report/4723408](https://www.fixmystreet.com/report/4723408)
+- Evelyn Close (off Greatfield drive) invaded by wild bramble., 27th June :- [https://www.fixmystreet.com/report/4722745](https://www.fixmystreet.com/report/4722745)
+- Water leak, 27th June :- [https://www.fixmystreet.com/report/4721954](https://www.fixmystreet.com/report/4721954)
 - Litter and bin bag along PE way from Coronation Square to Shakespeare Road, 26th June :- [https://www.fixmystreet.com/report/4718542](https://www.fixmystreet.com/report/4718542)
 - Brambles over pavement, Shakespeare Road near PE way, 26th June :- [https://www.fixmystreet.com/report/4718536](https://www.fixmystreet.com/report/4718536)
 - Two very big potholes, 26th June :- [https://www.fixmystreet.com/report/4716072](https://www.fixmystreet.com/report/4716072)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Patches of massive potholes, 23rd June :- [https://www.fixmystreet.com/report/4706820](https://www.fixmystreet.com/report/4706820)
 - A huge pot hole as you enter the junction, 22nd June :- [https://www.fixmystreet.com/report/4706440](https://www.fixmystreet.com/report/4706440)
 - Northbound 300 yd sign to junction 11A, 22nd June :- [https://www.fixmystreet.com/report/4706403](https://www.fixmystreet.com/report/4706403)
-- Manhole cover damaged again, 22nd June :- [https://www.fixmystreet.com/report/4705563](https://www.fixmystreet.com/report/4705563)
-- Vegetation overhanging public footpath, 21st June :- [https://www.fixmystreet.com/report/4700054](https://www.fixmystreet.com/report/4700054)
-- Large weeds in alleyway linking Laynes Rd / Churchdown Lane, 21st June :- [https://www.fixmystreet.com/report/4699456](https://www.fixmystreet.com/report/4699456)
 
 <!-- fix_marker ends -->
