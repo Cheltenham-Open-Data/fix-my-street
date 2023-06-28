@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Many potholes, road broken down, 28th June :- [https://www.fixmystreet.com/report/4728484](https://www.fixmystreet.com/report/4728484)
+- Churn avenue, 28th June :- [https://www.fixmystreet.com/report/4726800](https://www.fixmystreet.com/report/4726800)
+- Fly tipping, 28th June :- [https://www.fixmystreet.com/report/4726597](https://www.fixmystreet.com/report/4726597)
+- White lining around potholes needs renewal, 28th June :- [https://www.fixmystreet.com/report/4726248](https://www.fixmystreet.com/report/4726248)
+- Two bad potholes, 28th June :- [https://www.fixmystreet.com/report/4726199](https://www.fixmystreet.com/report/4726199)
 - Enormous pothole, 27th June :- [https://www.fixmystreet.com/report/4724182](https://www.fixmystreet.com/report/4724182)
 - Potholes/ worn road, 27th June :- [https://www.fixmystreet.com/report/4723408](https://www.fixmystreet.com/report/4723408)
 - Evelyn Close (off Greatfield drive) invaded by wild bramble., 27th June :- [https://www.fixmystreet.com/report/4722745](https://www.fixmystreet.com/report/4722745)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Electronics flytipping by POW stadium, 24th June :- [https://www.fixmystreet.com/report/4712295](https://www.fixmystreet.com/report/4712295)
 - Flytipping waste, 24th June :- [https://www.fixmystreet.com/report/4711051](https://www.fixmystreet.com/report/4711051)
 - Graffiti on fence, 24th June :- [https://www.fixmystreet.com/report/4711005](https://www.fixmystreet.com/report/4711005)
-- Broken glass, 24th June :- [https://www.fixmystreet.com/report/4710969](https://www.fixmystreet.com/report/4710969)
-- Steeet lights, 23rd June :- [https://www.fixmystreet.com/report/4710360](https://www.fixmystreet.com/report/4710360)
-- M5 between 66.5 and 67.1 south bristol direction, 23rd June :- [https://www.fixmystreet.com/report/4709158](https://www.fixmystreet.com/report/4709158)
-- Patches of massive potholes, 23rd June :- [https://www.fixmystreet.com/report/4706820](https://www.fixmystreet.com/report/4706820)
-- A huge pot hole as you enter the junction, 22nd June :- [https://www.fixmystreet.com/report/4706440](https://www.fixmystreet.com/report/4706440)
 
 <!-- fix_marker ends -->
