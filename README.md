@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Enormous pothole, 27th June :- [https://www.fixmystreet.com/report/4724182](https://www.fixmystreet.com/report/4724182)
 - Potholes/ worn road, 27th June :- [https://www.fixmystreet.com/report/4723408](https://www.fixmystreet.com/report/4723408)
 - Evelyn Close (off Greatfield drive) invaded by wild bramble., 27th June :- [https://www.fixmystreet.com/report/4722745](https://www.fixmystreet.com/report/4722745)
 - Water leak, 27th June :- [https://www.fixmystreet.com/report/4721954](https://www.fixmystreet.com/report/4721954)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - M5 between 66.5 and 67.1 south bristol direction, 23rd June :- [https://www.fixmystreet.com/report/4709158](https://www.fixmystreet.com/report/4709158)
 - Patches of massive potholes, 23rd June :- [https://www.fixmystreet.com/report/4706820](https://www.fixmystreet.com/report/4706820)
 - A huge pot hole as you enter the junction, 22nd June :- [https://www.fixmystreet.com/report/4706440](https://www.fixmystreet.com/report/4706440)
-- Northbound 300 yd sign to junction 11A, 22nd June :- [https://www.fixmystreet.com/report/4706403](https://www.fixmystreet.com/report/4706403)
 
 <!-- fix_marker ends -->
