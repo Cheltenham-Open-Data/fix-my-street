@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pothole around manhole cover, 29th June :- [https://www.fixmystreet.com/report/4732339](https://www.fixmystreet.com/report/4732339)
 - Overgrown Bramble bush blocking public footpath, 28th June :- [https://www.fixmystreet.com/report/4729178](https://www.fixmystreet.com/report/4729178)
 - Many potholes, road broken down, 28th June :- [https://www.fixmystreet.com/report/4728484](https://www.fixmystreet.com/report/4728484)
 - Churn avenue, 28th June :- [https://www.fixmystreet.com/report/4726800](https://www.fixmystreet.com/report/4726800)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - M5 southbound 85.5, 25th June :- [https://www.fixmystreet.com/report/4713064](https://www.fixmystreet.com/report/4713064)
 - Road signs covered by trees, 25th June :- [https://www.fixmystreet.com/report/4712804](https://www.fixmystreet.com/report/4712804)
 - Electronics flytipping by POW stadium, 24th June :- [https://www.fixmystreet.com/report/4712295](https://www.fixmystreet.com/report/4712295)
-- Flytipping waste, 24th June :- [https://www.fixmystreet.com/report/4711051](https://www.fixmystreet.com/report/4711051)
 
 <!-- fix_marker ends -->
