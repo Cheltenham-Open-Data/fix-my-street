@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown Bramble bush blocking public footpath, 28th June :- [https://www.fixmystreet.com/report/4729178](https://www.fixmystreet.com/report/4729178)
 - Many potholes, road broken down, 28th June :- [https://www.fixmystreet.com/report/4728484](https://www.fixmystreet.com/report/4728484)
 - Churn avenue, 28th June :- [https://www.fixmystreet.com/report/4726800](https://www.fixmystreet.com/report/4726800)
 - Fly tipping, 28th June :- [https://www.fixmystreet.com/report/4726597](https://www.fixmystreet.com/report/4726597)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road signs covered by trees, 25th June :- [https://www.fixmystreet.com/report/4712804](https://www.fixmystreet.com/report/4712804)
 - Electronics flytipping by POW stadium, 24th June :- [https://www.fixmystreet.com/report/4712295](https://www.fixmystreet.com/report/4712295)
 - Flytipping waste, 24th June :- [https://www.fixmystreet.com/report/4711051](https://www.fixmystreet.com/report/4711051)
-- Graffiti on fence, 24th June :- [https://www.fixmystreet.com/report/4711005](https://www.fixmystreet.com/report/4711005)
 
 <!-- fix_marker ends -->
