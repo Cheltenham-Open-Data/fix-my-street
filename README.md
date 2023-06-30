@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Grass and other Fauna, 30th June :- [https://www.fixmystreet.com/report/4733397](https://www.fixmystreet.com/report/4733397)
+- Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733347](https://www.fixmystreet.com/report/4733347)
+- Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733309](https://www.fixmystreet.com/report/4733309)
+- Pothole and high speed, 29th June :- [https://www.fixmystreet.com/report/4733218](https://www.fixmystreet.com/report/4733218)
 - Deep pothole around manhole cover, 29th June :- [https://www.fixmystreet.com/report/4732339](https://www.fixmystreet.com/report/4732339)
 - Overgrown Bramble bush blocking public footpath, 28th June :- [https://www.fixmystreet.com/report/4729178](https://www.fixmystreet.com/report/4729178)
 - Many potholes, road broken down, 28th June :- [https://www.fixmystreet.com/report/4728484](https://www.fixmystreet.com/report/4728484)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two very big potholes, 26th June :- [https://www.fixmystreet.com/report/4716072](https://www.fixmystreet.com/report/4716072)
 - Litter/tyres, 26th June :- [https://www.fixmystreet.com/report/4715320](https://www.fixmystreet.com/report/4715320)
 - Information signs faded, 26th June :- [https://www.fixmystreet.com/report/4715202](https://www.fixmystreet.com/report/4715202)
-- Cone in river Chelt, 25th June :- [https://www.fixmystreet.com/report/4713163](https://www.fixmystreet.com/report/4713163)
-- M5 southbound 85.5, 25th June :- [https://www.fixmystreet.com/report/4713064](https://www.fixmystreet.com/report/4713064)
-- Road signs covered by trees, 25th June :- [https://www.fixmystreet.com/report/4712804](https://www.fixmystreet.com/report/4712804)
-- Electronics flytipping by POW stadium, 24th June :- [https://www.fixmystreet.com/report/4712295](https://www.fixmystreet.com/report/4712295)
 
 <!-- fix_marker ends -->
