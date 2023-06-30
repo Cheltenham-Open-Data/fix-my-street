@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Piles of books at the back of the Oxfam donation bins, 30th June :- [https://www.fixmystreet.com/report/4736051](https://www.fixmystreet.com/report/4736051)
+- Needs resurfacing multiple potholes, 30th June :- [https://www.fixmystreet.com/report/4735604](https://www.fixmystreet.com/report/4735604)
+- Graffiti on bridge, 30th June :- [https://www.fixmystreet.com/report/4735585](https://www.fixmystreet.com/report/4735585)
+- Discarded paving slab outside house, 30th June :- [https://www.fixmystreet.com/report/4734230](https://www.fixmystreet.com/report/4734230)
+- Trees over grown, 30th June :- [https://www.fixmystreet.com/report/4733783](https://www.fixmystreet.com/report/4733783)
 - Grass and other Fauna, 30th June :- [https://www.fixmystreet.com/report/4733397](https://www.fixmystreet.com/report/4733397)
 - Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733347](https://www.fixmystreet.com/report/4733347)
 - Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733309](https://www.fixmystreet.com/report/4733309)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes/ worn road, 27th June :- [https://www.fixmystreet.com/report/4723408](https://www.fixmystreet.com/report/4723408)
 - Evelyn Close (off Greatfield drive) invaded by wild bramble., 27th June :- [https://www.fixmystreet.com/report/4722745](https://www.fixmystreet.com/report/4722745)
 - Water leak, 27th June :- [https://www.fixmystreet.com/report/4721954](https://www.fixmystreet.com/report/4721954)
-- Litter and bin bag along PE way from Coronation Square to Shakespeare Road, 26th June :- [https://www.fixmystreet.com/report/4718542](https://www.fixmystreet.com/report/4718542)
-- Brambles over pavement, Shakespeare Road near PE way, 26th June :- [https://www.fixmystreet.com/report/4718536](https://www.fixmystreet.com/report/4718536)
-- Two very big potholes, 26th June :- [https://www.fixmystreet.com/report/4716072](https://www.fixmystreet.com/report/4716072)
-- Litter/tyres, 26th June :- [https://www.fixmystreet.com/report/4715320](https://www.fixmystreet.com/report/4715320)
-- Information signs faded, 26th June :- [https://www.fixmystreet.com/report/4715202](https://www.fixmystreet.com/report/4715202)
 
 <!-- fix_marker ends -->
