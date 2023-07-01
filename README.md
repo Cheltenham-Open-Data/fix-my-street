@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Grafffiti on all benches, 1st July :- [https://www.fixmystreet.com/report/4738895](https://www.fixmystreet.com/report/4738895)
+- Graffiti on bin, 1st July :- [https://www.fixmystreet.com/report/4738894](https://www.fixmystreet.com/report/4738894)
+- Traffic Light Broken, 1st July :- [https://www.fixmystreet.com/report/4738395](https://www.fixmystreet.com/report/4738395)
+- How tall at the corner of Libertus Road and Griffiths Avenue has opened up again, just opposite Grimwade Close, 1st July :- [https://www.fixmystreet.com/report/4737666](https://www.fixmystreet.com/report/4737666)
 - Piles of books at the back of the Oxfam donation bins, 30th June :- [https://www.fixmystreet.com/report/4736051](https://www.fixmystreet.com/report/4736051)
 - Needs resurfacing multiple potholes, 30th June :- [https://www.fixmystreet.com/report/4735604](https://www.fixmystreet.com/report/4735604)
 - Graffiti on bridge, 30th June :- [https://www.fixmystreet.com/report/4735585](https://www.fixmystreet.com/report/4735585)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipping, 28th June :- [https://www.fixmystreet.com/report/4726597](https://www.fixmystreet.com/report/4726597)
 - White lining around potholes needs renewal, 28th June :- [https://www.fixmystreet.com/report/4726248](https://www.fixmystreet.com/report/4726248)
 - Two bad potholes, 28th June :- [https://www.fixmystreet.com/report/4726199](https://www.fixmystreet.com/report/4726199)
-- Enormous pothole, 27th June :- [https://www.fixmystreet.com/report/4724182](https://www.fixmystreet.com/report/4724182)
-- Potholes/ worn road, 27th June :- [https://www.fixmystreet.com/report/4723408](https://www.fixmystreet.com/report/4723408)
-- Evelyn Close (off Greatfield drive) invaded by wild bramble., 27th June :- [https://www.fixmystreet.com/report/4722745](https://www.fixmystreet.com/report/4722745)
-- Water leak, 27th June :- [https://www.fixmystreet.com/report/4721954](https://www.fixmystreet.com/report/4721954)
 
 <!-- fix_marker ends -->
