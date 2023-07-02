@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown hedges brambles nettles, 2nd July :- [https://www.fixmystreet.com/report/4741012](https://www.fixmystreet.com/report/4741012)
+- Pothole, 2nd July :- [https://www.fixmystreet.com/report/4740616](https://www.fixmystreet.com/report/4740616)
+- Potholes, 2nd July :- [https://www.fixmystreet.com/report/4740612](https://www.fixmystreet.com/report/4740612)
+- Fly tipping, 2nd July :- [https://www.fixmystreet.com/report/4740561](https://www.fixmystreet.com/report/4740561)
 - Potholes recently filled, 1st July :- [https://www.fixmystreet.com/report/4739402](https://www.fixmystreet.com/report/4739402)
 - Barriers making a problem worse!, 1st July :- [https://www.fixmystreet.com/report/4739364](https://www.fixmystreet.com/report/4739364)
 - Grafffiti on all benches, 1st July :- [https://www.fixmystreet.com/report/4738895](https://www.fixmystreet.com/report/4738895)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733309](https://www.fixmystreet.com/report/4733309)
 - Pothole and high speed, 29th June :- [https://www.fixmystreet.com/report/4733218](https://www.fixmystreet.com/report/4733218)
 - Deep pothole around manhole cover, 29th June :- [https://www.fixmystreet.com/report/4732339](https://www.fixmystreet.com/report/4732339)
-- Overgrown Bramble bush blocking public footpath, 28th June :- [https://www.fixmystreet.com/report/4729178](https://www.fixmystreet.com/report/4729178)
-- Many potholes, road broken down, 28th June :- [https://www.fixmystreet.com/report/4728484](https://www.fixmystreet.com/report/4728484)
-- Churn avenue, 28th June :- [https://www.fixmystreet.com/report/4726800](https://www.fixmystreet.com/report/4726800)
-- Fly tipping, 28th June :- [https://www.fixmystreet.com/report/4726597](https://www.fixmystreet.com/report/4726597)
 
 <!-- fix_marker ends -->
