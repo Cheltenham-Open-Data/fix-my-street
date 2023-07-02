@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes recently filled, 1st July :- [https://www.fixmystreet.com/report/4739402](https://www.fixmystreet.com/report/4739402)
+- Barriers making a problem worse!, 1st July :- [https://www.fixmystreet.com/report/4739364](https://www.fixmystreet.com/report/4739364)
 - Grafffiti on all benches, 1st July :- [https://www.fixmystreet.com/report/4738895](https://www.fixmystreet.com/report/4738895)
 - Graffiti on bin, 1st July :- [https://www.fixmystreet.com/report/4738894](https://www.fixmystreet.com/report/4738894)
 - Traffic Light Broken, 1st July :- [https://www.fixmystreet.com/report/4738395](https://www.fixmystreet.com/report/4738395)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Many potholes, road broken down, 28th June :- [https://www.fixmystreet.com/report/4728484](https://www.fixmystreet.com/report/4728484)
 - Churn avenue, 28th June :- [https://www.fixmystreet.com/report/4726800](https://www.fixmystreet.com/report/4726800)
 - Fly tipping, 28th June :- [https://www.fixmystreet.com/report/4726597](https://www.fixmystreet.com/report/4726597)
-- White lining around potholes needs renewal, 28th June :- [https://www.fixmystreet.com/report/4726248](https://www.fixmystreet.com/report/4726248)
-- Two bad potholes, 28th June :- [https://www.fixmystreet.com/report/4726199](https://www.fixmystreet.com/report/4726199)
 
 <!-- fix_marker ends -->
