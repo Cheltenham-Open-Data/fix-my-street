@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Over grown hedge, 3rd July :- [https://www.fixmystreet.com/report/4742162](https://www.fixmystreet.com/report/4742162)
 - Overgrown hedges brambles nettles, 2nd July :- [https://www.fixmystreet.com/report/4741012](https://www.fixmystreet.com/report/4741012)
 - Pothole, 2nd July :- [https://www.fixmystreet.com/report/4740616](https://www.fixmystreet.com/report/4740616)
 - Potholes, 2nd July :- [https://www.fixmystreet.com/report/4740612](https://www.fixmystreet.com/report/4740612)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733347](https://www.fixmystreet.com/report/4733347)
 - Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733309](https://www.fixmystreet.com/report/4733309)
 - Pothole and high speed, 29th June :- [https://www.fixmystreet.com/report/4733218](https://www.fixmystreet.com/report/4733218)
-- Deep pothole around manhole cover, 29th June :- [https://www.fixmystreet.com/report/4732339](https://www.fixmystreet.com/report/4732339)
 
 <!-- fix_marker ends -->
