@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- S2 bus stop sign removed, 4th July :- [https://www.fixmystreet.com/report/4749476](https://www.fixmystreet.com/report/4749476)
+- Metal girder 7.5 ft by 0.5 ft found on rear driveway, 4th July :- [https://www.fixmystreet.com/report/4749309](https://www.fixmystreet.com/report/4749309)
+- Flood sign needs removi g, 4th July :- [https://www.fixmystreet.com/report/4747887](https://www.fixmystreet.com/report/4747887)
 - Traffic lights sequence is too quick for the speed limit of the road, 3rd July :- [https://www.fixmystreet.com/report/4746255](https://www.fixmystreet.com/report/4746255)
 - Overgrown footpath, 3rd July :- [https://www.fixmystreet.com/report/4746085](https://www.fixmystreet.com/report/4746085)
 - Brambles overgrowing footpath, 3rd July :- [https://www.fixmystreet.com/report/4744974](https://www.fixmystreet.com/report/4744974)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - How tall at the corner of Libertus Road and Griffiths Avenue has opened up again, just opposite Grimwade Close, 1st July :- [https://www.fixmystreet.com/report/4737666](https://www.fixmystreet.com/report/4737666)
 - Piles of books at the back of the Oxfam donation bins, 30th June :- [https://www.fixmystreet.com/report/4736051](https://www.fixmystreet.com/report/4736051)
 - Needs resurfacing multiple potholes, 30th June :- [https://www.fixmystreet.com/report/4735604](https://www.fixmystreet.com/report/4735604)
-- Graffiti on bridge, 30th June :- [https://www.fixmystreet.com/report/4735585](https://www.fixmystreet.com/report/4735585)
-- Discarded paving slab outside house, 30th June :- [https://www.fixmystreet.com/report/4734230](https://www.fixmystreet.com/report/4734230)
-- Trees over grown, 30th June :- [https://www.fixmystreet.com/report/4733783](https://www.fixmystreet.com/report/4733783)
 
 <!-- fix_marker ends -->
