@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic lights sequence is too quick for the speed limit of the road, 3rd July :- [https://www.fixmystreet.com/report/4746255](https://www.fixmystreet.com/report/4746255)
+- Overgrown footpath, 3rd July :- [https://www.fixmystreet.com/report/4746085](https://www.fixmystreet.com/report/4746085)
 - Brambles overgrowing footpath, 3rd July :- [https://www.fixmystreet.com/report/4744974](https://www.fixmystreet.com/report/4744974)
 - 300 yard sign missing, 3rd July :- [https://www.fixmystreet.com/report/4742303](https://www.fixmystreet.com/report/4742303)
 - Over grown hedge, 3rd July :- [https://www.fixmystreet.com/report/4742162](https://www.fixmystreet.com/report/4742162)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on bridge, 30th June :- [https://www.fixmystreet.com/report/4735585](https://www.fixmystreet.com/report/4735585)
 - Discarded paving slab outside house, 30th June :- [https://www.fixmystreet.com/report/4734230](https://www.fixmystreet.com/report/4734230)
 - Trees over grown, 30th June :- [https://www.fixmystreet.com/report/4733783](https://www.fixmystreet.com/report/4733783)
-- Grass and other Fauna, 30th June :- [https://www.fixmystreet.com/report/4733397](https://www.fixmystreet.com/report/4733397)
-- Trees blocking junction, 29th June :- [https://www.fixmystreet.com/report/4733347](https://www.fixmystreet.com/report/4733347)
 
 <!-- fix_marker ends -->
