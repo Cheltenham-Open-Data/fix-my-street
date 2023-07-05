@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole as you drive in to Finstock close, 5th July :- [https://www.fixmystreet.com/report/4753766](https://www.fixmystreet.com/report/4753766)
+- Abandoned vehicles, 5th July :- [https://www.fixmystreet.com/report/4753739](https://www.fixmystreet.com/report/4753739)
 - S2 bus stop sign removed, 4th July :- [https://www.fixmystreet.com/report/4749476](https://www.fixmystreet.com/report/4749476)
 - Metal girder 7.5 ft by 0.5 ft found on rear driveway, 4th July :- [https://www.fixmystreet.com/report/4749309](https://www.fixmystreet.com/report/4749309)
 - Flood sign needs removi g, 4th July :- [https://www.fixmystreet.com/report/4747887](https://www.fixmystreet.com/report/4747887)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on bin, 1st July :- [https://www.fixmystreet.com/report/4738894](https://www.fixmystreet.com/report/4738894)
 - Traffic Light Broken, 1st July :- [https://www.fixmystreet.com/report/4738395](https://www.fixmystreet.com/report/4738395)
 - How tall at the corner of Libertus Road and Griffiths Avenue has opened up again, just opposite Grimwade Close, 1st July :- [https://www.fixmystreet.com/report/4737666](https://www.fixmystreet.com/report/4737666)
-- Piles of books at the back of the Oxfam donation bins, 30th June :- [https://www.fixmystreet.com/report/4736051](https://www.fixmystreet.com/report/4736051)
-- Needs resurfacing multiple potholes, 30th June :- [https://www.fixmystreet.com/report/4735604](https://www.fixmystreet.com/report/4735604)
 
 <!-- fix_marker ends -->
