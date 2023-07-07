@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Ragwort, 6th July :- [https://www.fixmystreet.com/report/4758425](https://www.fixmystreet.com/report/4758425)
 - Long grass restricting view of road, 6th July :- [https://www.fixmystreet.com/report/4756344](https://www.fixmystreet.com/report/4756344)
 - Pothole as you drive in to Finstock close, 5th July :- [https://www.fixmystreet.com/report/4753766](https://www.fixmystreet.com/report/4753766)
 - Abandoned vehicles, 5th July :- [https://www.fixmystreet.com/report/4753739](https://www.fixmystreet.com/report/4753739)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Barriers making a problem worse!, 1st July :- [https://www.fixmystreet.com/report/4739364](https://www.fixmystreet.com/report/4739364)
 - Grafffiti on all benches, 1st July :- [https://www.fixmystreet.com/report/4738895](https://www.fixmystreet.com/report/4738895)
 - Graffiti on bin, 1st July :- [https://www.fixmystreet.com/report/4738894](https://www.fixmystreet.com/report/4738894)
-- Traffic Light Broken, 1st July :- [https://www.fixmystreet.com/report/4738395](https://www.fixmystreet.com/report/4738395)
 
 <!-- fix_marker ends -->
