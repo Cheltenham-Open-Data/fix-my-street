@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Glass in road, 9th July :- [https://www.fixmystreet.com/report/4766676](https://www.fixmystreet.com/report/4766676)
+- Overgrown, 9th July :- [https://www.fixmystreet.com/report/4766383](https://www.fixmystreet.com/report/4766383)
+- Footpath / public right of way obstructed by brambles / overgrowth, 9th July :- [https://www.fixmystreet.com/report/4765952](https://www.fixmystreet.com/report/4765952)
+- Pavement Parking Outside Co-op, 9th July :- [https://www.fixmystreet.com/report/4765082](https://www.fixmystreet.com/report/4765082)
+- Single yellow line worn away, 9th July :- [https://www.fixmystreet.com/report/4765077](https://www.fixmystreet.com/report/4765077)
 - Very deep pothole and Shurdington Nurseries hedge, 8th July :- [https://www.fixmystreet.com/report/4764242](https://www.fixmystreet.com/report/4764242)
 - Red light fault, 8th July :- [https://www.fixmystreet.com/report/4763913](https://www.fixmystreet.com/report/4763913)
 - Pot holes, 8th July :- [https://www.fixmystreet.com/report/4763582](https://www.fixmystreet.com/report/4763582)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Long grass restricting view of road, 6th July :- [https://www.fixmystreet.com/report/4756344](https://www.fixmystreet.com/report/4756344)
 - Pothole as you drive in to Finstock close, 5th July :- [https://www.fixmystreet.com/report/4753766](https://www.fixmystreet.com/report/4753766)
 - Abandoned vehicles, 5th July :- [https://www.fixmystreet.com/report/4753739](https://www.fixmystreet.com/report/4753739)
-- S2 bus stop sign removed, 4th July :- [https://www.fixmystreet.com/report/4749476](https://www.fixmystreet.com/report/4749476)
-- Metal girder 7.5 ft by 0.5 ft found on rear driveway, 4th July :- [https://www.fixmystreet.com/report/4749309](https://www.fixmystreet.com/report/4749309)
-- Flood sign needs removi g, 4th July :- [https://www.fixmystreet.com/report/4747887](https://www.fixmystreet.com/report/4747887)
-- Traffic lights sequence is too quick for the speed limit of the road, 3rd July :- [https://www.fixmystreet.com/report/4746255](https://www.fixmystreet.com/report/4746255)
-- Overgrown footpath, 3rd July :- [https://www.fixmystreet.com/report/4746085](https://www.fixmystreet.com/report/4746085)
 
 <!-- fix_marker ends -->
