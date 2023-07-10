@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned shopping trolley, 10th July :- [https://www.fixmystreet.com/report/4770851](https://www.fixmystreet.com/report/4770851)
+- Car frequently blocking pavement, 10th July :- [https://www.fixmystreet.com/report/4770520](https://www.fixmystreet.com/report/4770520)
 - Glass in road, 9th July :- [https://www.fixmystreet.com/report/4766676](https://www.fixmystreet.com/report/4766676)
 - Overgrown, 9th July :- [https://www.fixmystreet.com/report/4766383](https://www.fixmystreet.com/report/4766383)
 - Footpath / public right of way obstructed by brambles / overgrowth, 9th July :- [https://www.fixmystreet.com/report/4765952](https://www.fixmystreet.com/report/4765952)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road indentation and failing, 7th July :- [https://www.fixmystreet.com/report/4760179](https://www.fixmystreet.com/report/4760179)
 - Ragwort, 6th July :- [https://www.fixmystreet.com/report/4758425](https://www.fixmystreet.com/report/4758425)
 - Long grass restricting view of road, 6th July :- [https://www.fixmystreet.com/report/4756344](https://www.fixmystreet.com/report/4756344)
-- Pothole as you drive in to Finstock close, 5th July :- [https://www.fixmystreet.com/report/4753766](https://www.fixmystreet.com/report/4753766)
-- Abandoned vehicles, 5th July :- [https://www.fixmystreet.com/report/4753739](https://www.fixmystreet.com/report/4753739)
 
 <!-- fix_marker ends -->
