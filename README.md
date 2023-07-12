@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Monkscroft stack 2 leaning alarmingly, 12th July :- [https://www.fixmystreet.com/report/4777295](https://www.fixmystreet.com/report/4777295)
+- 2 x potholes. One about 30cm diameter, 11th July :- [https://www.fixmystreet.com/report/4776705](https://www.fixmystreet.com/report/4776705)
 - Collapsing road, 11th July :- [https://www.fixmystreet.com/report/4775463](https://www.fixmystreet.com/report/4775463)
 - Broken tree support, 11th July :- [https://www.fixmystreet.com/report/4775089](https://www.fixmystreet.com/report/4775089)
 - Verge Overgrown, 11th July :- [https://www.fixmystreet.com/report/4774414](https://www.fixmystreet.com/report/4774414)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Single yellow line worn away, 9th July :- [https://www.fixmystreet.com/report/4765077](https://www.fixmystreet.com/report/4765077)
 - Very deep pothole and Shurdington Nurseries hedge, 8th July :- [https://www.fixmystreet.com/report/4764242](https://www.fixmystreet.com/report/4764242)
 - Red light fault, 8th July :- [https://www.fixmystreet.com/report/4763913](https://www.fixmystreet.com/report/4763913)
-- Pot holes, 8th July :- [https://www.fixmystreet.com/report/4763582](https://www.fixmystreet.com/report/4763582)
-- Rubbish bin, 8th July :- [https://www.fixmystreet.com/report/4763573](https://www.fixmystreet.com/report/4763573)
 
 <!-- fix_marker ends -->
