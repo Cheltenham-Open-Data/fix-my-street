@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Numerous holes right down road, 14th July :- [https://www.fixmystreet.com/report/4787654](https://www.fixmystreet.com/report/4787654)
+- Pavement mostly mud and overgrown foliage, 14th July :- [https://www.fixmystreet.com/report/4787020](https://www.fixmystreet.com/report/4787020)
 - Pedestrian crossing button broken, 14th July :- [https://www.fixmystreet.com/report/4785265](https://www.fixmystreet.com/report/4785265)
 - Pothole M5 South between 10 & 11 at Mile marker 80.1, 13th July :- [https://www.fixmystreet.com/report/4783824](https://www.fixmystreet.com/report/4783824)
 - Hole in the pavement which had barriers around it for weeks but nothing was done, 13th July :- [https://www.fixmystreet.com/report/4783663](https://www.fixmystreet.com/report/4783663)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Another large dip, likely sinkhole, 11th July :- [https://www.fixmystreet.com/report/4773969](https://www.fixmystreet.com/report/4773969)
 - Large dip in road, likely sinkhole forming, 11th July :- [https://www.fixmystreet.com/report/4773960](https://www.fixmystreet.com/report/4773960)
 - Pothole on Keynsham Street, 11th July :- [https://www.fixmystreet.com/report/4773944](https://www.fixmystreet.com/report/4773944)
-- Pothole on Keynsham Street, 11th July :- [https://www.fixmystreet.com/report/4773934](https://www.fixmystreet.com/report/4773934)
-- New gate posts encroaching on public path, 11th July :- [https://www.fixmystreet.com/report/4772532](https://www.fixmystreet.com/report/4772532)
 
 <!-- fix_marker ends -->
