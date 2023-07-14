@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing button broken, 14th July :- [https://www.fixmystreet.com/report/4785265](https://www.fixmystreet.com/report/4785265)
 - Pothole M5 South between 10 & 11 at Mile marker 80.1, 13th July :- [https://www.fixmystreet.com/report/4783824](https://www.fixmystreet.com/report/4783824)
 - Hole in the pavement which had barriers around it for weeks but nothing was done, 13th July :- [https://www.fixmystreet.com/report/4783663](https://www.fixmystreet.com/report/4783663)
 - Collapsing lane surface, 13th July :- [https://www.fixmystreet.com/report/4782177](https://www.fixmystreet.com/report/4782177)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole on Keynsham Street, 11th July :- [https://www.fixmystreet.com/report/4773944](https://www.fixmystreet.com/report/4773944)
 - Pothole on Keynsham Street, 11th July :- [https://www.fixmystreet.com/report/4773934](https://www.fixmystreet.com/report/4773934)
 - New gate posts encroaching on public path, 11th July :- [https://www.fixmystreet.com/report/4772532](https://www.fixmystreet.com/report/4772532)
-- Abandoned shopping trolley, 10th July :- [https://www.fixmystreet.com/report/4770851](https://www.fixmystreet.com/report/4770851)
 
 <!-- fix_marker ends -->
