@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic barrier and traffic cone in hedge to Winston church hill park, 16th July :- [https://www.fixmystreet.com/report/4791002](https://www.fixmystreet.com/report/4791002)
 - Loose drain cover, 15th July :- [https://www.fixmystreet.com/report/4790438](https://www.fixmystreet.com/report/4790438)
 - Fly tipping of rubble, and what looks like the top of the gatepost, 15th July :- [https://www.fixmystreet.com/report/4788990](https://www.fixmystreet.com/report/4788990)
 - Numerous holes right down road, 14th July :- [https://www.fixmystreet.com/report/4787654](https://www.fixmystreet.com/report/4787654)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken tree support, 11th July :- [https://www.fixmystreet.com/report/4775089](https://www.fixmystreet.com/report/4775089)
 - Verge Overgrown, 11th July :- [https://www.fixmystreet.com/report/4774414](https://www.fixmystreet.com/report/4774414)
 - Multiple wide potholes on Keynsham Bank, 11th July :- [https://www.fixmystreet.com/report/4773994](https://www.fixmystreet.com/report/4773994)
-- Another large dip, likely sinkhole, 11th July :- [https://www.fixmystreet.com/report/4773969](https://www.fixmystreet.com/report/4773969)
 
 <!-- fix_marker ends -->
