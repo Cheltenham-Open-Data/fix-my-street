@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Environmental crime again from Iceland, plastic wrappers blowing out of their cages, 17th July :- [https://www.fixmystreet.com/report/4793501](https://www.fixmystreet.com/report/4793501)
+- Deep pothole at the end of Edinburgh place, just where people step off the pavement, 17th July :- [https://www.fixmystreet.com/report/4793491](https://www.fixmystreet.com/report/4793491)
+- Mattress springs dumped by the fence outside number six Brittan place, 17th July :- [https://www.fixmystreet.com/report/4793485](https://www.fixmystreet.com/report/4793485)
+- Previous 'repair' opening up again, 16th July :- [https://www.fixmystreet.com/report/4793128](https://www.fixmystreet.com/report/4793128)
 - Traffic barrier and traffic cone in hedge to Winston church hill park, 16th July :- [https://www.fixmystreet.com/report/4791002](https://www.fixmystreet.com/report/4791002)
 - Loose drain cover, 15th July :- [https://www.fixmystreet.com/report/4790438](https://www.fixmystreet.com/report/4790438)
 - Fly tipping of rubble, and what looks like the top of the gatepost, 15th July :- [https://www.fixmystreet.com/report/4788990](https://www.fixmystreet.com/report/4788990)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Rubbish strewn across Pitman Road and fly tipping by the garages, 12th July :- [https://www.fixmystreet.com/report/4777346](https://www.fixmystreet.com/report/4777346)
 - Monkscroft stack 2 leaning alarmingly, 12th July :- [https://www.fixmystreet.com/report/4777295](https://www.fixmystreet.com/report/4777295)
 - 2 x potholes. One about 30cm diameter, 11th July :- [https://www.fixmystreet.com/report/4776705](https://www.fixmystreet.com/report/4776705)
-- Collapsing road, 11th July :- [https://www.fixmystreet.com/report/4775463](https://www.fixmystreet.com/report/4775463)
-- Broken tree support, 11th July :- [https://www.fixmystreet.com/report/4775089](https://www.fixmystreet.com/report/4775089)
-- Verge Overgrown, 11th July :- [https://www.fixmystreet.com/report/4774414](https://www.fixmystreet.com/report/4774414)
-- Multiple wide potholes on Keynsham Bank, 11th July :- [https://www.fixmystreet.com/report/4773994](https://www.fixmystreet.com/report/4773994)
 
 <!-- fix_marker ends -->
