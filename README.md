@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Danger to property and public sue to debris from passing traffic being distributed from hole, 17th July :- [https://www.fixmystreet.com/report/4793976](https://www.fixmystreet.com/report/4793976)
 - Environmental crime again from Iceland, plastic wrappers blowing out of their cages, 17th July :- [https://www.fixmystreet.com/report/4793501](https://www.fixmystreet.com/report/4793501)
 - Deep pothole at the end of Edinburgh place, just where people step off the pavement, 17th July :- [https://www.fixmystreet.com/report/4793491](https://www.fixmystreet.com/report/4793491)
 - Mattress springs dumped by the fence outside number six Brittan place, 17th July :- [https://www.fixmystreet.com/report/4793485](https://www.fixmystreet.com/report/4793485)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped laminate flooring, 12th July :- [https://www.fixmystreet.com/report/4778667](https://www.fixmystreet.com/report/4778667)
 - Rubbish strewn across Pitman Road and fly tipping by the garages, 12th July :- [https://www.fixmystreet.com/report/4777346](https://www.fixmystreet.com/report/4777346)
 - Monkscroft stack 2 leaning alarmingly, 12th July :- [https://www.fixmystreet.com/report/4777295](https://www.fixmystreet.com/report/4777295)
-- 2 x potholes. One about 30cm diameter, 11th July :- [https://www.fixmystreet.com/report/4776705](https://www.fixmystreet.com/report/4776705)
 
 <!-- fix_marker ends -->
