@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Disgusting amount of litter near hospital and Asda, 18th July :- [https://www.fixmystreet.com/report/4801164](https://www.fixmystreet.com/report/4801164)
 - Marks & Spencer’s trolley full of children’s clothes, 18th July :- [https://www.fixmystreet.com/report/4797930](https://www.fixmystreet.com/report/4797930)
 - Footpath overgrown, 18th July :- [https://www.fixmystreet.com/report/4797919](https://www.fixmystreet.com/report/4797919)
 - Hedge trimmings on pavement, 18th July :- [https://www.fixmystreet.com/report/4797896](https://www.fixmystreet.com/report/4797896)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pavement mostly mud and overgrown foliage, 14th July :- [https://www.fixmystreet.com/report/4787020](https://www.fixmystreet.com/report/4787020)
 - Pedestrian crossing button broken, 14th July :- [https://www.fixmystreet.com/report/4785265](https://www.fixmystreet.com/report/4785265)
 - Pothole M5 South between 10 & 11 at Mile marker 80.1, 13th July :- [https://www.fixmystreet.com/report/4783824](https://www.fixmystreet.com/report/4783824)
-- Hole in the pavement which had barriers around it for weeks but nothing was done, 13th July :- [https://www.fixmystreet.com/report/4783663](https://www.fixmystreet.com/report/4783663)
 
 <!-- fix_marker ends -->
