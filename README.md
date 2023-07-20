@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Travellers, 20th July :- [https://www.fixmystreet.com/report/4806414](https://www.fixmystreet.com/report/4806414)
+- Street lights not working, 19th July :- [https://www.fixmystreet.com/report/4805552](https://www.fixmystreet.com/report/4805552)
 - Road surface missing in several places, 19th July :- [https://www.fixmystreet.com/report/4804904](https://www.fixmystreet.com/report/4804904)
 - Right-turn lane is unsuitable for vehicles, 19th July :- [https://www.fixmystreet.com/report/4804842](https://www.fixmystreet.com/report/4804842)
 - Large and deep pot hole in middle of road just after entering the road near the junction., 19th July :- [https://www.fixmystreet.com/report/4803689](https://www.fixmystreet.com/report/4803689)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Environmental crime again from Iceland, plastic wrappers blowing out of their cages, 17th July :- [https://www.fixmystreet.com/report/4793501](https://www.fixmystreet.com/report/4793501)
 - Deep pothole at the end of Edinburgh place, just where people step off the pavement, 17th July :- [https://www.fixmystreet.com/report/4793491](https://www.fixmystreet.com/report/4793491)
 - Mattress springs dumped by the fence outside number six Brittan place, 17th July :- [https://www.fixmystreet.com/report/4793485](https://www.fixmystreet.com/report/4793485)
-- Previous 'repair' opening up again, 16th July :- [https://www.fixmystreet.com/report/4793128](https://www.fixmystreet.com/report/4793128)
-- Traffic barrier and traffic cone in hedge to Winston church hill park, 16th July :- [https://www.fixmystreet.com/report/4791002](https://www.fixmystreet.com/report/4791002)
 
 <!-- fix_marker ends -->
