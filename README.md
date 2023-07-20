@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sign very weathered, 20th July :- [https://www.fixmystreet.com/report/4809037](https://www.fixmystreet.com/report/4809037)
+- Road storm drain completely blocked with debris and mud, 20th July :- [https://www.fixmystreet.com/report/4808563](https://www.fixmystreet.com/report/4808563)
+- White van left, 20th July :- [https://www.fixmystreet.com/report/4808357](https://www.fixmystreet.com/report/4808357)
+- Traffic Lights blocked by foliage, 20th July :- [https://www.fixmystreet.com/report/4807279](https://www.fixmystreet.com/report/4807279)
+- Open drain onto footway, slip risk, 20th July :- [https://www.fixmystreet.com/report/4807261](https://www.fixmystreet.com/report/4807261)
+- Persistent fly-tipping and littering/ cigarette butts discarded, 20th July :- [https://www.fixmystreet.com/report/4807234](https://www.fixmystreet.com/report/4807234)
+- Significant drainage issue with gully over footway, 20th July :- [https://www.fixmystreet.com/report/4807205](https://www.fixmystreet.com/report/4807205)
+- Extremely loud manhole covers, 20th July :- [https://www.fixmystreet.com/report/4806469](https://www.fixmystreet.com/report/4806469)
 - Travellers, 20th July :- [https://www.fixmystreet.com/report/4806414](https://www.fixmystreet.com/report/4806414)
 - Street lights not working, 19th July :- [https://www.fixmystreet.com/report/4805552](https://www.fixmystreet.com/report/4805552)
 - Road surface missing in several places, 19th July :- [https://www.fixmystreet.com/report/4804904](https://www.fixmystreet.com/report/4804904)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Marks & Spencer’s trolley full of children’s clothes, 18th July :- [https://www.fixmystreet.com/report/4797930](https://www.fixmystreet.com/report/4797930)
 - Footpath overgrown, 18th July :- [https://www.fixmystreet.com/report/4797919](https://www.fixmystreet.com/report/4797919)
 - Hedge trimmings on pavement, 18th July :- [https://www.fixmystreet.com/report/4797896](https://www.fixmystreet.com/report/4797896)
-- Debris from trees, 18th July :- [https://www.fixmystreet.com/report/4797881](https://www.fixmystreet.com/report/4797881)
-- Street lights out, 17th July :- [https://www.fixmystreet.com/report/4797500](https://www.fixmystreet.com/report/4797500)
-- A deep hole, 17th July :- [https://www.fixmystreet.com/report/4797492](https://www.fixmystreet.com/report/4797492)
-- A deep hole, 17th July :- [https://www.fixmystreet.com/report/4797458](https://www.fixmystreet.com/report/4797458)
-- Danger to property and public sue to debris from passing traffic being distributed from hole, 17th July :- [https://www.fixmystreet.com/report/4793976](https://www.fixmystreet.com/report/4793976)
-- Environmental crime again from Iceland, plastic wrappers blowing out of their cages, 17th July :- [https://www.fixmystreet.com/report/4793501](https://www.fixmystreet.com/report/4793501)
-- Deep pothole at the end of Edinburgh place, just where people step off the pavement, 17th July :- [https://www.fixmystreet.com/report/4793491](https://www.fixmystreet.com/report/4793491)
-- Mattress springs dumped by the fence outside number six Brittan place, 17th July :- [https://www.fixmystreet.com/report/4793485](https://www.fixmystreet.com/report/4793485)
 
 <!-- fix_marker ends -->
