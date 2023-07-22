@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping fridge, 22nd July :- [https://www.fixmystreet.com/report/4814459](https://www.fixmystreet.com/report/4814459)
+- Is this vehicle abandoned?, 22nd July :- [https://www.fixmystreet.com/report/4813890](https://www.fixmystreet.com/report/4813890)
+- New road markings causing a safety hazard, 22nd July :- [https://www.fixmystreet.com/report/4813793](https://www.fixmystreet.com/report/4813793)
 - Red button light on pelican crossing not working, 21st July :- [https://www.fixmystreet.com/report/4811598](https://www.fixmystreet.com/report/4811598)
 - Signage for primary school facing wrong way, 21st July :- [https://www.fixmystreet.com/report/4811570](https://www.fixmystreet.com/report/4811570)
 - Gas mains hole outside 20 All Saints Road, 21st July :- [https://www.fixmystreet.com/report/4811561](https://www.fixmystreet.com/report/4811561)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Right-turn lane is unsuitable for vehicles, 19th July :- [https://www.fixmystreet.com/report/4804842](https://www.fixmystreet.com/report/4804842)
 - Large and deep pot hole in middle of road just after entering the road near the junction., 19th July :- [https://www.fixmystreet.com/report/4803689](https://www.fixmystreet.com/report/4803689)
 - Dead hedgehog on path, 19th July :- [https://www.fixmystreet.com/report/4803116](https://www.fixmystreet.com/report/4803116)
-- Flytip with Burnt Material - metal remaining, 19th July :- [https://www.fixmystreet.com/report/4802374](https://www.fixmystreet.com/report/4802374)
-- Burnt flytipping sofa and foam, 19th July :- [https://www.fixmystreet.com/report/4802109](https://www.fixmystreet.com/report/4802109)
-- Disgusting amount of litter near hospital and Asda, 18th July :- [https://www.fixmystreet.com/report/4801164](https://www.fixmystreet.com/report/4801164)
 
 <!-- fix_marker ends -->
