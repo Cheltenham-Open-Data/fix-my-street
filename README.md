@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown hedgerow, 23rd July :- [https://www.fixmystreet.com/report/4816706](https://www.fixmystreet.com/report/4816706)
+- Entering Swindon Close, 23rd July :- [https://www.fixmystreet.com/report/4815670](https://www.fixmystreet.com/report/4815670)
 - Flytipping fridge, 22nd July :- [https://www.fixmystreet.com/report/4814459](https://www.fixmystreet.com/report/4814459)
 - Is this vehicle abandoned?, 22nd July :- [https://www.fixmystreet.com/report/4813890](https://www.fixmystreet.com/report/4813890)
 - New road markings causing a safety hazard, 22nd July :- [https://www.fixmystreet.com/report/4813793](https://www.fixmystreet.com/report/4813793)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street lights not working, 19th July :- [https://www.fixmystreet.com/report/4805552](https://www.fixmystreet.com/report/4805552)
 - Road surface missing in several places, 19th July :- [https://www.fixmystreet.com/report/4804904](https://www.fixmystreet.com/report/4804904)
 - Right-turn lane is unsuitable for vehicles, 19th July :- [https://www.fixmystreet.com/report/4804842](https://www.fixmystreet.com/report/4804842)
-- Large and deep pot hole in middle of road just after entering the road near the junction., 19th July :- [https://www.fixmystreet.com/report/4803689](https://www.fixmystreet.com/report/4803689)
-- Dead hedgehog on path, 19th July :- [https://www.fixmystreet.com/report/4803116](https://www.fixmystreet.com/report/4803116)
 
 <!-- fix_marker ends -->
