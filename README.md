@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 1 metre pothole, 24th July :- [https://www.fixmystreet.com/report/4819582](https://www.fixmystreet.com/report/4819582)
+- Hubble Road lights out, 24th July :- [https://www.fixmystreet.com/report/4818431](https://www.fixmystreet.com/report/4818431)
 - Overgrown hedgerow, 23rd July :- [https://www.fixmystreet.com/report/4816706](https://www.fixmystreet.com/report/4816706)
 - Entering Swindon Close, 23rd July :- [https://www.fixmystreet.com/report/4815670](https://www.fixmystreet.com/report/4815670)
 - Flytipping fridge, 22nd July :- [https://www.fixmystreet.com/report/4814459](https://www.fixmystreet.com/report/4814459)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Extremely loud manhole covers, 20th July :- [https://www.fixmystreet.com/report/4806469](https://www.fixmystreet.com/report/4806469)
 - Travellers, 20th July :- [https://www.fixmystreet.com/report/4806414](https://www.fixmystreet.com/report/4806414)
 - Street lights not working, 19th July :- [https://www.fixmystreet.com/report/4805552](https://www.fixmystreet.com/report/4805552)
-- Road surface missing in several places, 19th July :- [https://www.fixmystreet.com/report/4804904](https://www.fixmystreet.com/report/4804904)
-- Right-turn lane is unsuitable for vehicles, 19th July :- [https://www.fixmystreet.com/report/4804842](https://www.fixmystreet.com/report/4804842)
 
 <!-- fix_marker ends -->
