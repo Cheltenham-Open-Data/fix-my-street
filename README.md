@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipped mower, 25th July :- [https://www.fixmystreet.com/report/4825106](https://www.fixmystreet.com/report/4825106)
+- Electrival waste and clothing flytipped herr, 25th July :- [https://www.fixmystreet.com/report/4824124](https://www.fixmystreet.com/report/4824124)
+- Railings along path damaged, 25th July :- [https://www.fixmystreet.com/report/4823621](https://www.fixmystreet.com/report/4823621)
 - 1 metre pothole, 24th July :- [https://www.fixmystreet.com/report/4819582](https://www.fixmystreet.com/report/4819582)
 - Hubble Road lights out, 24th July :- [https://www.fixmystreet.com/report/4818431](https://www.fixmystreet.com/report/4818431)
 - Overgrown hedgerow, 23rd July :- [https://www.fixmystreet.com/report/4816706](https://www.fixmystreet.com/report/4816706)
@@ -18,9 +21,6 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic Lights blocked by foliage, 20th July :- [https://www.fixmystreet.com/report/4807279](https://www.fixmystreet.com/report/4807279)
 - Open drain onto footway, slip risk, 20th July :- [https://www.fixmystreet.com/report/4807261](https://www.fixmystreet.com/report/4807261)
 - Persistent fly-tipping and littering/ cigarette butts discarded, 20th July :- [https://www.fixmystreet.com/report/4807234](https://www.fixmystreet.com/report/4807234)
-- Significant drainage issue with gully over footway, 20th July :- [https://www.fixmystreet.com/report/4807205](https://www.fixmystreet.com/report/4807205)
 - Extremely loud manhole covers, 20th July :- [https://www.fixmystreet.com/report/4806469](https://www.fixmystreet.com/report/4806469)
-- Travellers, 20th July :- [https://www.fixmystreet.com/report/4806414](https://www.fixmystreet.com/report/4806414)
-- Street lights not working, 19th July :- [https://www.fixmystreet.com/report/4805552](https://www.fixmystreet.com/report/4805552)
 
 <!-- fix_marker ends -->
