@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 1metre pothole, 26th July :- [https://www.fixmystreet.com/report/4828848](https://www.fixmystreet.com/report/4828848)
+- Brambles, 26th July :- [https://www.fixmystreet.com/report/4827635](https://www.fixmystreet.com/report/4827635)
+- Surface not fit for purpose, 26th July :- [https://www.fixmystreet.com/report/4826989](https://www.fixmystreet.com/report/4826989)
+- The surface of the road has totally disintegrated at the end of tge vul de sac, 26th July :- [https://www.fixmystreet.com/report/4826972](https://www.fixmystreet.com/report/4826972)
+- Time to review the potholes on Benhall Gardens access, 26th July :- [https://www.fixmystreet.com/report/4826214](https://www.fixmystreet.com/report/4826214)
+- Dumped clothing and shoes, 26th July :- [https://www.fixmystreet.com/report/4825222](https://www.fixmystreet.com/report/4825222)
 - Flytipped mower, 25th July :- [https://www.fixmystreet.com/report/4825106](https://www.fixmystreet.com/report/4825106)
 - Electrival waste and clothing flytipped herr, 25th July :- [https://www.fixmystreet.com/report/4824124](https://www.fixmystreet.com/report/4824124)
 - Railings along path damaged, 25th July :- [https://www.fixmystreet.com/report/4823621](https://www.fixmystreet.com/report/4823621)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Signage for primary school facing wrong way, 21st July :- [https://www.fixmystreet.com/report/4811570](https://www.fixmystreet.com/report/4811570)
 - Gas mains hole outside 20 All Saints Road, 21st July :- [https://www.fixmystreet.com/report/4811561](https://www.fixmystreet.com/report/4811561)
 - Sign very weathered, 20th July :- [https://www.fixmystreet.com/report/4809037](https://www.fixmystreet.com/report/4809037)
-- Road storm drain completely blocked with debris and mud, 20th July :- [https://www.fixmystreet.com/report/4808563](https://www.fixmystreet.com/report/4808563)
-- White van left, 20th July :- [https://www.fixmystreet.com/report/4808357](https://www.fixmystreet.com/report/4808357)
-- Traffic Lights blocked by foliage, 20th July :- [https://www.fixmystreet.com/report/4807279](https://www.fixmystreet.com/report/4807279)
-- Open drain onto footway, slip risk, 20th July :- [https://www.fixmystreet.com/report/4807261](https://www.fixmystreet.com/report/4807261)
-- Persistent fly-tipping and littering/ cigarette butts discarded, 20th July :- [https://www.fixmystreet.com/report/4807234](https://www.fixmystreet.com/report/4807234)
-- Extremely loud manhole covers, 20th July :- [https://www.fixmystreet.com/report/4806469](https://www.fixmystreet.com/report/4806469)
 
 <!-- fix_marker ends -->
