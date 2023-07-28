@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Light change sequence to red is too fast, 27th July :- [https://www.fixmystreet.com/report/4833642](https://www.fixmystreet.com/report/4833642)
 - Signs can come down now, 27th July :- [https://www.fixmystreet.com/report/4830615](https://www.fixmystreet.com/report/4830615)
 - 2 x large holes in carriage way, 27th July :- [https://www.fixmystreet.com/report/4830417](https://www.fixmystreet.com/report/4830417)
 - 1metre pothole, 26th July :- [https://www.fixmystreet.com/report/4828848](https://www.fixmystreet.com/report/4828848)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Is this vehicle abandoned?, 22nd July :- [https://www.fixmystreet.com/report/4813890](https://www.fixmystreet.com/report/4813890)
 - New road markings causing a safety hazard, 22nd July :- [https://www.fixmystreet.com/report/4813793](https://www.fixmystreet.com/report/4813793)
 - Red button light on pelican crossing not working, 21st July :- [https://www.fixmystreet.com/report/4811598](https://www.fixmystreet.com/report/4811598)
-- Signage for primary school facing wrong way, 21st July :- [https://www.fixmystreet.com/report/4811570](https://www.fixmystreet.com/report/4811570)
 
 <!-- fix_marker ends -->
