@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road closed but is it?, 28th July :- [https://www.fixmystreet.com/report/4837124](https://www.fixmystreet.com/report/4837124)
 - Broken fishing olatform, 28th July :- [https://www.fixmystreet.com/report/4836344](https://www.fixmystreet.com/report/4836344)
 - Pavement almost completely mud, narrow tarmac only, 28th July :- [https://www.fixmystreet.com/report/4835773](https://www.fixmystreet.com/report/4835773)
 - Light change sequence to red is too fast, 27th July :- [https://www.fixmystreet.com/report/4833642](https://www.fixmystreet.com/report/4833642)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown hedgerow, 23rd July :- [https://www.fixmystreet.com/report/4816706](https://www.fixmystreet.com/report/4816706)
 - Entering Swindon Close, 23rd July :- [https://www.fixmystreet.com/report/4815670](https://www.fixmystreet.com/report/4815670)
 - Flytipping fridge, 22nd July :- [https://www.fixmystreet.com/report/4814459](https://www.fixmystreet.com/report/4814459)
-- Is this vehicle abandoned?, 22nd July :- [https://www.fixmystreet.com/report/4813890](https://www.fixmystreet.com/report/4813890)
 
 <!-- fix_marker ends -->
