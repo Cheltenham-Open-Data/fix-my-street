@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole, 29th July :- [https://www.fixmystreet.com/report/4838594](https://www.fixmystreet.com/report/4838594)
+- Large deep pothole at the bottom of Kidderminster Road, 29th July :- [https://www.fixmystreet.com/report/4838164](https://www.fixmystreet.com/report/4838164)
 - Road closed but is it?, 28th July :- [https://www.fixmystreet.com/report/4837124](https://www.fixmystreet.com/report/4837124)
 - Broken fishing olatform, 28th July :- [https://www.fixmystreet.com/report/4836344](https://www.fixmystreet.com/report/4836344)
 - Pavement almost completely mud, narrow tarmac only, 28th July :- [https://www.fixmystreet.com/report/4835773](https://www.fixmystreet.com/report/4835773)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 1 metre pothole, 24th July :- [https://www.fixmystreet.com/report/4819582](https://www.fixmystreet.com/report/4819582)
 - Hubble Road lights out, 24th July :- [https://www.fixmystreet.com/report/4818431](https://www.fixmystreet.com/report/4818431)
 - Overgrown hedgerow, 23rd July :- [https://www.fixmystreet.com/report/4816706](https://www.fixmystreet.com/report/4816706)
-- Entering Swindon Close, 23rd July :- [https://www.fixmystreet.com/report/4815670](https://www.fixmystreet.com/report/4815670)
-- Flytipping fridge, 22nd July :- [https://www.fixmystreet.com/report/4814459](https://www.fixmystreet.com/report/4814459)
 
 <!-- fix_marker ends -->
