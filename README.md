@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Burnt out vehicle, 30th July :- [https://www.fixmystreet.com/report/4840052](https://www.fixmystreet.com/report/4840052)
+- Broken glass, 30th July :- [https://www.fixmystreet.com/report/4839774](https://www.fixmystreet.com/report/4839774)
 - Large pothole, 29th July :- [https://www.fixmystreet.com/report/4838594](https://www.fixmystreet.com/report/4838594)
 - Large deep pothole at the bottom of Kidderminster Road, 29th July :- [https://www.fixmystreet.com/report/4838164](https://www.fixmystreet.com/report/4838164)
 - Road closed but is it?, 28th July :- [https://www.fixmystreet.com/report/4837124](https://www.fixmystreet.com/report/4837124)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Electrival waste and clothing flytipped herr, 25th July :- [https://www.fixmystreet.com/report/4824124](https://www.fixmystreet.com/report/4824124)
 - Railings along path damaged, 25th July :- [https://www.fixmystreet.com/report/4823621](https://www.fixmystreet.com/report/4823621)
 - 1 metre pothole, 24th July :- [https://www.fixmystreet.com/report/4819582](https://www.fixmystreet.com/report/4819582)
-- Hubble Road lights out, 24th July :- [https://www.fixmystreet.com/report/4818431](https://www.fixmystreet.com/report/4818431)
-- Overgrown hedgerow, 23rd July :- [https://www.fixmystreet.com/report/4816706](https://www.fixmystreet.com/report/4816706)
 
 <!-- fix_marker ends -->
