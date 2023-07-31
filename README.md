@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Long pot hole, 31st July :- [https://www.fixmystreet.com/report/4844095](https://www.fixmystreet.com/report/4844095)
+- Obscured sign on Prestbury High street and the bank corner, 31st July :- [https://www.fixmystreet.com/report/4844026](https://www.fixmystreet.com/report/4844026)
+- Numerous pot holes getting worse Malleson Road, 31st July :- [https://www.fixmystreet.com/report/4843412](https://www.fixmystreet.com/report/4843412)
+- Flytipping, 31st July :- [https://www.fixmystreet.com/report/4842827](https://www.fixmystreet.com/report/4842827)
+- Large pothole, 31st July :- [https://www.fixmystreet.com/report/4841781](https://www.fixmystreet.com/report/4841781)
 - Tree branches low over the pavement, 31st July :- [https://www.fixmystreet.com/report/4841477](https://www.fixmystreet.com/report/4841477)
 - Tree branches blocking the pavement, 31st July :- [https://www.fixmystreet.com/report/4841465](https://www.fixmystreet.com/report/4841465)
 - Overgrown public right of way, 30th July :- [https://www.fixmystreet.com/report/4841183](https://www.fixmystreet.com/report/4841183)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 x large holes in carriage way, 27th July :- [https://www.fixmystreet.com/report/4830417](https://www.fixmystreet.com/report/4830417)
 - 1metre pothole, 26th July :- [https://www.fixmystreet.com/report/4828848](https://www.fixmystreet.com/report/4828848)
 - Brambles, 26th July :- [https://www.fixmystreet.com/report/4827635](https://www.fixmystreet.com/report/4827635)
-- Surface not fit for purpose, 26th July :- [https://www.fixmystreet.com/report/4826989](https://www.fixmystreet.com/report/4826989)
-- The surface of the road has totally disintegrated at the end of tge vul de sac, 26th July :- [https://www.fixmystreet.com/report/4826972](https://www.fixmystreet.com/report/4826972)
-- Time to review the potholes on Benhall Gardens access, 26th July :- [https://www.fixmystreet.com/report/4826214](https://www.fixmystreet.com/report/4826214)
-- Dumped clothing and shoes, 26th July :- [https://www.fixmystreet.com/report/4825222](https://www.fixmystreet.com/report/4825222)
-- Flytipped mower, 25th July :- [https://www.fixmystreet.com/report/4825106](https://www.fixmystreet.com/report/4825106)
 
 <!-- fix_marker ends -->
