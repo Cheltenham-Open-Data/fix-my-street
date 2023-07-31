@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree branches low over the pavement, 31st July :- [https://www.fixmystreet.com/report/4841477](https://www.fixmystreet.com/report/4841477)
+- Tree branches blocking the pavement, 31st July :- [https://www.fixmystreet.com/report/4841465](https://www.fixmystreet.com/report/4841465)
+- Overgrown public right of way, 30th July :- [https://www.fixmystreet.com/report/4841183](https://www.fixmystreet.com/report/4841183)
 - Burnt out vehicle, 30th July :- [https://www.fixmystreet.com/report/4840052](https://www.fixmystreet.com/report/4840052)
 - Broken glass, 30th July :- [https://www.fixmystreet.com/report/4839774](https://www.fixmystreet.com/report/4839774)
 - Large pothole, 29th July :- [https://www.fixmystreet.com/report/4838594](https://www.fixmystreet.com/report/4838594)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Time to review the potholes on Benhall Gardens access, 26th July :- [https://www.fixmystreet.com/report/4826214](https://www.fixmystreet.com/report/4826214)
 - Dumped clothing and shoes, 26th July :- [https://www.fixmystreet.com/report/4825222](https://www.fixmystreet.com/report/4825222)
 - Flytipped mower, 25th July :- [https://www.fixmystreet.com/report/4825106](https://www.fixmystreet.com/report/4825106)
-- Electrival waste and clothing flytipped herr, 25th July :- [https://www.fixmystreet.com/report/4824124](https://www.fixmystreet.com/report/4824124)
-- Railings along path damaged, 25th July :- [https://www.fixmystreet.com/report/4823621](https://www.fixmystreet.com/report/4823621)
-- 1 metre pothole, 24th July :- [https://www.fixmystreet.com/report/4819582](https://www.fixmystreet.com/report/4819582)
 
 <!-- fix_marker ends -->
