@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hedges, 1st August :- [https://www.fixmystreet.com/report/4847299](https://www.fixmystreet.com/report/4847299)
 - Long pot hole, 31st July :- [https://www.fixmystreet.com/report/4844095](https://www.fixmystreet.com/report/4844095)
 - Obscured sign on Prestbury High street and the bank corner, 31st July :- [https://www.fixmystreet.com/report/4844026](https://www.fixmystreet.com/report/4844026)
 - Numerous pot holes getting worse Malleson Road, 31st July :- [https://www.fixmystreet.com/report/4843412](https://www.fixmystreet.com/report/4843412)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Signs can come down now, 27th July :- [https://www.fixmystreet.com/report/4830615](https://www.fixmystreet.com/report/4830615)
 - 2 x large holes in carriage way, 27th July :- [https://www.fixmystreet.com/report/4830417](https://www.fixmystreet.com/report/4830417)
 - 1metre pothole, 26th July :- [https://www.fixmystreet.com/report/4828848](https://www.fixmystreet.com/report/4828848)
-- Brambles, 26th July :- [https://www.fixmystreet.com/report/4827635](https://www.fixmystreet.com/report/4827635)
 
 <!-- fix_marker ends -->
