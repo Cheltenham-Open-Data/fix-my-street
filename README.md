@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Digs barking durng sleeping hours, 2nd August :- [https://www.fixmystreet.com/report/4849587](https://www.fixmystreet.com/report/4849587)
+- Missing countdown marker, 1st August :- [https://www.fixmystreet.com/report/4849413](https://www.fixmystreet.com/report/4849413)
 - Hedges, 1st August :- [https://www.fixmystreet.com/report/4847299](https://www.fixmystreet.com/report/4847299)
 - Long pot hole, 31st July :- [https://www.fixmystreet.com/report/4844095](https://www.fixmystreet.com/report/4844095)
 - Obscured sign on Prestbury High street and the bank corner, 31st July :- [https://www.fixmystreet.com/report/4844026](https://www.fixmystreet.com/report/4844026)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pavement almost completely mud, narrow tarmac only, 28th July :- [https://www.fixmystreet.com/report/4835773](https://www.fixmystreet.com/report/4835773)
 - Light change sequence to red is too fast, 27th July :- [https://www.fixmystreet.com/report/4833642](https://www.fixmystreet.com/report/4833642)
 - Signs can come down now, 27th July :- [https://www.fixmystreet.com/report/4830615](https://www.fixmystreet.com/report/4830615)
-- 2 x large holes in carriage way, 27th July :- [https://www.fixmystreet.com/report/4830417](https://www.fixmystreet.com/report/4830417)
-- 1metre pothole, 26th July :- [https://www.fixmystreet.com/report/4828848](https://www.fixmystreet.com/report/4828848)
 
 <!-- fix_marker ends -->
