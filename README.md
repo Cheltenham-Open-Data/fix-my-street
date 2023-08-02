@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Paint spill on pavement, 2nd August :- [https://www.fixmystreet.com/report/4852251](https://www.fixmystreet.com/report/4852251)
+- Dangerous hole around drain ., 2nd August :- [https://www.fixmystreet.com/report/4851968](https://www.fixmystreet.com/report/4851968)
+- Telephone Obstruction for Viewing, 2nd August :- [https://www.fixmystreet.com/report/4851850](https://www.fixmystreet.com/report/4851850)
+- Car no tax or mot, 2nd August :- [https://www.fixmystreet.com/report/4851278](https://www.fixmystreet.com/report/4851278)
 - Digs barking durng sleeping hours, 2nd August :- [https://www.fixmystreet.com/report/4849587](https://www.fixmystreet.com/report/4849587)
 - Missing countdown marker, 1st August :- [https://www.fixmystreet.com/report/4849413](https://www.fixmystreet.com/report/4849413)
 - Hedges, 1st August :- [https://www.fixmystreet.com/report/4847299](https://www.fixmystreet.com/report/4847299)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 29th July :- [https://www.fixmystreet.com/report/4838594](https://www.fixmystreet.com/report/4838594)
 - Large deep pothole at the bottom of Kidderminster Road, 29th July :- [https://www.fixmystreet.com/report/4838164](https://www.fixmystreet.com/report/4838164)
 - Road closed but is it?, 28th July :- [https://www.fixmystreet.com/report/4837124](https://www.fixmystreet.com/report/4837124)
-- Broken fishing olatform, 28th July :- [https://www.fixmystreet.com/report/4836344](https://www.fixmystreet.com/report/4836344)
-- Pavement almost completely mud, narrow tarmac only, 28th July :- [https://www.fixmystreet.com/report/4835773](https://www.fixmystreet.com/report/4835773)
-- Light change sequence to red is too fast, 27th July :- [https://www.fixmystreet.com/report/4833642](https://www.fixmystreet.com/report/4833642)
-- Signs can come down now, 27th July :- [https://www.fixmystreet.com/report/4830615](https://www.fixmystreet.com/report/4830615)
 
 <!-- fix_marker ends -->
