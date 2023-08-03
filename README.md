@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass, 2nd August :- [https://www.fixmystreet.com/report/4852959](https://www.fixmystreet.com/report/4852959)
 - Paint spill on pavement, 2nd August :- [https://www.fixmystreet.com/report/4852251](https://www.fixmystreet.com/report/4852251)
 - Dangerous hole around drain ., 2nd August :- [https://www.fixmystreet.com/report/4851968](https://www.fixmystreet.com/report/4851968)
 - Telephone Obstruction for Viewing, 2nd August :- [https://www.fixmystreet.com/report/4851850](https://www.fixmystreet.com/report/4851850)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass, 30th July :- [https://www.fixmystreet.com/report/4839774](https://www.fixmystreet.com/report/4839774)
 - Large pothole, 29th July :- [https://www.fixmystreet.com/report/4838594](https://www.fixmystreet.com/report/4838594)
 - Large deep pothole at the bottom of Kidderminster Road, 29th July :- [https://www.fixmystreet.com/report/4838164](https://www.fixmystreet.com/report/4838164)
-- Road closed but is it?, 28th July :- [https://www.fixmystreet.com/report/4837124](https://www.fixmystreet.com/report/4837124)
 
 <!-- fix_marker ends -->
