@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipping on soft verge of road, 4th August :- [https://www.fixmystreet.com/report/4858891](https://www.fixmystreet.com/report/4858891)
+- Flytipped Electrical Equipment, 4th August :- [https://www.fixmystreet.com/report/4858012](https://www.fixmystreet.com/report/4858012)
 - Series of potholes in road., 3rd August :- [https://www.fixmystreet.com/report/4855778](https://www.fixmystreet.com/report/4855778)
 - Alleyways dumped rubbish, 3rd August :- [https://www.fixmystreet.com/report/4855343](https://www.fixmystreet.com/report/4855343)
 - Awful road surface and pot holes, 3rd August :- [https://www.fixmystreet.com/report/4855323](https://www.fixmystreet.com/report/4855323)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Long pot hole, 31st July :- [https://www.fixmystreet.com/report/4844095](https://www.fixmystreet.com/report/4844095)
 - Obscured sign on Prestbury High street and the bank corner, 31st July :- [https://www.fixmystreet.com/report/4844026](https://www.fixmystreet.com/report/4844026)
 - Numerous pot holes getting worse Malleson Road, 31st July :- [https://www.fixmystreet.com/report/4843412](https://www.fixmystreet.com/report/4843412)
-- Flytipping, 31st July :- [https://www.fixmystreet.com/report/4842827](https://www.fixmystreet.com/report/4842827)
-- Large pothole, 31st July :- [https://www.fixmystreet.com/report/4841781](https://www.fixmystreet.com/report/4841781)
 
 <!-- fix_marker ends -->
