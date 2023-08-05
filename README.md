@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken park equipment, 5th August :- [https://www.fixmystreet.com/report/4861595](https://www.fixmystreet.com/report/4861595)
+- Just fill the hole in I'm begging you, 5th August :- [https://www.fixmystreet.com/report/4861137](https://www.fixmystreet.com/report/4861137)
+- Pothole, 5th August :- [https://www.fixmystreet.com/report/4860998](https://www.fixmystreet.com/report/4860998)
+- 10 inch pot hole and quite deep, 5th August :- [https://www.fixmystreet.com/report/4860685](https://www.fixmystreet.com/report/4860685)
 - Fly tipping on soft verge of road, 4th August :- [https://www.fixmystreet.com/report/4858891](https://www.fixmystreet.com/report/4858891)
 - Flytipped Electrical Equipment, 4th August :- [https://www.fixmystreet.com/report/4858012](https://www.fixmystreet.com/report/4858012)
 - Series of potholes in road., 3rd August :- [https://www.fixmystreet.com/report/4855778](https://www.fixmystreet.com/report/4855778)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Car no tax or mot, 2nd August :- [https://www.fixmystreet.com/report/4851278](https://www.fixmystreet.com/report/4851278)
 - Digs barking durng sleeping hours, 2nd August :- [https://www.fixmystreet.com/report/4849587](https://www.fixmystreet.com/report/4849587)
 - Missing countdown marker, 1st August :- [https://www.fixmystreet.com/report/4849413](https://www.fixmystreet.com/report/4849413)
-- Hedges, 1st August :- [https://www.fixmystreet.com/report/4847299](https://www.fixmystreet.com/report/4847299)
-- Long pot hole, 31st July :- [https://www.fixmystreet.com/report/4844095](https://www.fixmystreet.com/report/4844095)
-- Obscured sign on Prestbury High street and the bank corner, 31st July :- [https://www.fixmystreet.com/report/4844026](https://www.fixmystreet.com/report/4844026)
-- Numerous pot holes getting worse Malleson Road, 31st July :- [https://www.fixmystreet.com/report/4843412](https://www.fixmystreet.com/report/4843412)
 
 <!-- fix_marker ends -->
