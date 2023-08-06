@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Red Light Bulk gone, 6th August :- [https://www.fixmystreet.com/report/4863866](https://www.fixmystreet.com/report/4863866)
+- Traffic light failed, 6th August :- [https://www.fixmystreet.com/report/4863670](https://www.fixmystreet.com/report/4863670)
+- Rubbish and flytipping, 6th August :- [https://www.fixmystreet.com/report/4862968](https://www.fixmystreet.com/report/4862968)
 - Pedestrian crossing beeping, where there is more than one crossing., 5th August :- [https://www.fixmystreet.com/report/4862160](https://www.fixmystreet.com/report/4862160)
 - Broken park equipment, 5th August :- [https://www.fixmystreet.com/report/4861595](https://www.fixmystreet.com/report/4861595)
 - Just fill the hole in I'm begging you, 5th August :- [https://www.fixmystreet.com/report/4861137](https://www.fixmystreet.com/report/4861137)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Paint spill on pavement, 2nd August :- [https://www.fixmystreet.com/report/4852251](https://www.fixmystreet.com/report/4852251)
 - Dangerous hole around drain ., 2nd August :- [https://www.fixmystreet.com/report/4851968](https://www.fixmystreet.com/report/4851968)
 - Telephone Obstruction for Viewing, 2nd August :- [https://www.fixmystreet.com/report/4851850](https://www.fixmystreet.com/report/4851850)
-- Mandarin way , 84, 3rd August :- [https://www.fixmystreet.com/report/4851779](https://www.fixmystreet.com/report/4851779)
-- Car no tax or mot, 2nd August :- [https://www.fixmystreet.com/report/4851278](https://www.fixmystreet.com/report/4851278)
-- Digs barking durng sleeping hours, 2nd August :- [https://www.fixmystreet.com/report/4849587](https://www.fixmystreet.com/report/4849587)
 
 <!-- fix_marker ends -->
