@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing beeping, where there is more than one crossing., 5th August :- [https://www.fixmystreet.com/report/4862160](https://www.fixmystreet.com/report/4862160)
 - Broken park equipment, 5th August :- [https://www.fixmystreet.com/report/4861595](https://www.fixmystreet.com/report/4861595)
 - Just fill the hole in I'm begging you, 5th August :- [https://www.fixmystreet.com/report/4861137](https://www.fixmystreet.com/report/4861137)
 - Pothole, 5th August :- [https://www.fixmystreet.com/report/4860998](https://www.fixmystreet.com/report/4860998)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mandarin way , 84, 3rd August :- [https://www.fixmystreet.com/report/4851779](https://www.fixmystreet.com/report/4851779)
 - Car no tax or mot, 2nd August :- [https://www.fixmystreet.com/report/4851278](https://www.fixmystreet.com/report/4851278)
 - Digs barking durng sleeping hours, 2nd August :- [https://www.fixmystreet.com/report/4849587](https://www.fixmystreet.com/report/4849587)
-- Missing countdown marker, 1st August :- [https://www.fixmystreet.com/report/4849413](https://www.fixmystreet.com/report/4849413)
 
 <!-- fix_marker ends -->
