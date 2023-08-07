@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- SWINDON VILLAGE sign at edge of village missing, 7th August :- [https://www.fixmystreet.com/report/4868001](https://www.fixmystreet.com/report/4868001)
+- Overgrown trees force people into the road, I am visually impaired and this is potentially dangerous, 7th August :- [https://www.fixmystreet.com/report/4867354](https://www.fixmystreet.com/report/4867354)
+- Convex mirror broken - needs replacing, 7th August :- [https://www.fixmystreet.com/report/4866823](https://www.fixmystreet.com/report/4866823)
 - Barnwood Road by Aldi, 6th August :- [https://www.fixmystreet.com/report/4864530](https://www.fixmystreet.com/report/4864530)
 - The 3 marker indicator come off sign, 6th August :- [https://www.fixmystreet.com/report/4864528](https://www.fixmystreet.com/report/4864528)
 - Potholes junction Elmfield Ave and Midwinter Ave, 6th August :- [https://www.fixmystreet.com/report/4864223](https://www.fixmystreet.com/report/4864223)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Alleyways dumped rubbish, 3rd August :- [https://www.fixmystreet.com/report/4855343](https://www.fixmystreet.com/report/4855343)
 - Awful road surface and pot holes, 3rd August :- [https://www.fixmystreet.com/report/4855323](https://www.fixmystreet.com/report/4855323)
 - Broken toys and rubbish, 3rd August :- [https://www.fixmystreet.com/report/4855315](https://www.fixmystreet.com/report/4855315)
-- Large cover from roadworks, 3rd August :- [https://www.fixmystreet.com/report/4855301](https://www.fixmystreet.com/report/4855301)
-- Vehicles turning into the car park for the Quadrangle have to cross 2 lanes of traffic. Yellow box required., 3rd August :- [https://www.fixmystreet.com/report/4854363](https://www.fixmystreet.com/report/4854363)
-- Broken glass, 2nd August :- [https://www.fixmystreet.com/report/4852959](https://www.fixmystreet.com/report/4852959)
 
 <!-- fix_marker ends -->
