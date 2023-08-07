@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Barnwood Road by Aldi, 6th August :- [https://www.fixmystreet.com/report/4864530](https://www.fixmystreet.com/report/4864530)
+- The 3 marker indicator come off sign, 6th August :- [https://www.fixmystreet.com/report/4864528](https://www.fixmystreet.com/report/4864528)
+- Potholes junction Elmfield Ave and Midwinter Ave, 6th August :- [https://www.fixmystreet.com/report/4864223](https://www.fixmystreet.com/report/4864223)
 - Red Light Bulk gone, 6th August :- [https://www.fixmystreet.com/report/4863866](https://www.fixmystreet.com/report/4863866)
 - Traffic light failed, 6th August :- [https://www.fixmystreet.com/report/4863670](https://www.fixmystreet.com/report/4863670)
 - Rubbish and flytipping, 6th August :- [https://www.fixmystreet.com/report/4862968](https://www.fixmystreet.com/report/4862968)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large cover from roadworks, 3rd August :- [https://www.fixmystreet.com/report/4855301](https://www.fixmystreet.com/report/4855301)
 - Vehicles turning into the car park for the Quadrangle have to cross 2 lanes of traffic. Yellow box required., 3rd August :- [https://www.fixmystreet.com/report/4854363](https://www.fixmystreet.com/report/4854363)
 - Broken glass, 2nd August :- [https://www.fixmystreet.com/report/4852959](https://www.fixmystreet.com/report/4852959)
-- Paint spill on pavement, 2nd August :- [https://www.fixmystreet.com/report/4852251](https://www.fixmystreet.com/report/4852251)
-- Dangerous hole around drain ., 2nd August :- [https://www.fixmystreet.com/report/4851968](https://www.fixmystreet.com/report/4851968)
-- Telephone Obstruction for Viewing, 2nd August :- [https://www.fixmystreet.com/report/4851850](https://www.fixmystreet.com/report/4851850)
 
 <!-- fix_marker ends -->
