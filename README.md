@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- This is a 1/2 mile stretch where the road (as such as it is) is completely disintegrated., 8th August :- [https://www.fixmystreet.com/report/4871929](https://www.fixmystreet.com/report/4871929)
+- Foliage covering pavement, 8th August :- [https://www.fixmystreet.com/report/4871646](https://www.fixmystreet.com/report/4871646)
 - Gate on cycle route impassable on a cycle, 8th August :- [https://www.fixmystreet.com/report/4868918](https://www.fixmystreet.com/report/4868918)
 - SWINDON VILLAGE sign at edge of village missing, 7th August :- [https://www.fixmystreet.com/report/4868001](https://www.fixmystreet.com/report/4868001)
 - Overgrown trees force people into the road, I am visually impaired and this is potentially dangerous, 7th August :- [https://www.fixmystreet.com/report/4867354](https://www.fixmystreet.com/report/4867354)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipping on soft verge of road, 4th August :- [https://www.fixmystreet.com/report/4858891](https://www.fixmystreet.com/report/4858891)
 - Flytipped Electrical Equipment, 4th August :- [https://www.fixmystreet.com/report/4858012](https://www.fixmystreet.com/report/4858012)
 - Series of potholes in road., 3rd August :- [https://www.fixmystreet.com/report/4855778](https://www.fixmystreet.com/report/4855778)
-- Alleyways dumped rubbish, 3rd August :- [https://www.fixmystreet.com/report/4855343](https://www.fixmystreet.com/report/4855343)
-- Awful road surface and pot holes, 3rd August :- [https://www.fixmystreet.com/report/4855323](https://www.fixmystreet.com/report/4855323)
 
 <!-- fix_marker ends -->
