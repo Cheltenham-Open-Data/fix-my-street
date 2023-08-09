@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned untaxed and no mot car, 9th August :- [https://www.fixmystreet.com/report/4875013](https://www.fixmystreet.com/report/4875013)
 - Pothole outside no 33, 8th August :- [https://www.fixmystreet.com/report/4872490](https://www.fixmystreet.com/report/4872490)
 - Severe pothole in lane 1 southbound carriageway, 8th August :- [https://www.fixmystreet.com/report/4872081](https://www.fixmystreet.com/report/4872081)
 - This is a 1/2 mile stretch where the road (as such as it is) is completely disintegrated., 8th August :- [https://www.fixmystreet.com/report/4871929](https://www.fixmystreet.com/report/4871929)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Just fill the hole in I'm begging you, 5th August :- [https://www.fixmystreet.com/report/4861137](https://www.fixmystreet.com/report/4861137)
 - Pothole, 5th August :- [https://www.fixmystreet.com/report/4860998](https://www.fixmystreet.com/report/4860998)
 - 10 inch pot hole and quite deep, 5th August :- [https://www.fixmystreet.com/report/4860685](https://www.fixmystreet.com/report/4860685)
-- Fly tipping on soft verge of road, 4th August :- [https://www.fixmystreet.com/report/4858891](https://www.fixmystreet.com/report/4858891)
 
 <!-- fix_marker ends -->
