@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole outside no 33, 8th August :- [https://www.fixmystreet.com/report/4872490](https://www.fixmystreet.com/report/4872490)
+- Severe pothole in lane 1 southbound carriageway, 8th August :- [https://www.fixmystreet.com/report/4872081](https://www.fixmystreet.com/report/4872081)
 - This is a 1/2 mile stretch where the road (as such as it is) is completely disintegrated., 8th August :- [https://www.fixmystreet.com/report/4871929](https://www.fixmystreet.com/report/4871929)
 - Foliage covering pavement, 8th August :- [https://www.fixmystreet.com/report/4871646](https://www.fixmystreet.com/report/4871646)
 - Gate on cycle route impassable on a cycle, 8th August :- [https://www.fixmystreet.com/report/4868918](https://www.fixmystreet.com/report/4868918)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 5th August :- [https://www.fixmystreet.com/report/4860998](https://www.fixmystreet.com/report/4860998)
 - 10 inch pot hole and quite deep, 5th August :- [https://www.fixmystreet.com/report/4860685](https://www.fixmystreet.com/report/4860685)
 - Fly tipping on soft verge of road, 4th August :- [https://www.fixmystreet.com/report/4858891](https://www.fixmystreet.com/report/4858891)
-- Flytipped Electrical Equipment, 4th August :- [https://www.fixmystreet.com/report/4858012](https://www.fixmystreet.com/report/4858012)
-- Series of potholes in road., 3rd August :- [https://www.fixmystreet.com/report/4855778](https://www.fixmystreet.com/report/4855778)
 
 <!-- fix_marker ends -->
