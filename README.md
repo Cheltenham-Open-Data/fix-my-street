@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped rubbish, 10th August :- [https://www.fixmystreet.com/report/4879773](https://www.fixmystreet.com/report/4879773)
+- Pothole in the road - deeper than it looks!, 10th August :- [https://www.fixmystreet.com/report/4879509](https://www.fixmystreet.com/report/4879509)
+- Flytipping and overgrown greenery in park, 10th August :- [https://www.fixmystreet.com/report/4879488](https://www.fixmystreet.com/report/4879488)
+- Hedges overgrown, 10th August :- [https://www.fixmystreet.com/report/4877841](https://www.fixmystreet.com/report/4877841)
+- Recycling boxes and rubbish all over the pavement outside no 20 and 22 Russell Street, 10th August :- [https://www.fixmystreet.com/report/4877777](https://www.fixmystreet.com/report/4877777)
+- Shopping trolley with some stuff in it. (Corner Russell st and Charles st), 10th August :- [https://www.fixmystreet.com/report/4877738](https://www.fixmystreet.com/report/4877738)
+- Shopping trolley with some stuff in it. (Corner Russell st and Charles st), 10th August :- [https://www.fixmystreet.com/report/4877607](https://www.fixmystreet.com/report/4877607)
+- Inactive roadworks - badly positioned., 10th August :- [https://www.fixmystreet.com/report/4877151](https://www.fixmystreet.com/report/4877151)
 - Abandoned untaxed and no mot car, 9th August :- [https://www.fixmystreet.com/report/4875013](https://www.fixmystreet.com/report/4875013)
 - Pothole outside no 33, 8th August :- [https://www.fixmystreet.com/report/4872490](https://www.fixmystreet.com/report/4872490)
 - Severe pothole in lane 1 southbound carriageway, 8th August :- [https://www.fixmystreet.com/report/4872081](https://www.fixmystreet.com/report/4872081)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Barnwood Road by Aldi, 6th August :- [https://www.fixmystreet.com/report/4864530](https://www.fixmystreet.com/report/4864530)
 - The 3 marker indicator come off sign, 6th August :- [https://www.fixmystreet.com/report/4864528](https://www.fixmystreet.com/report/4864528)
 - Potholes junction Elmfield Ave and Midwinter Ave, 6th August :- [https://www.fixmystreet.com/report/4864223](https://www.fixmystreet.com/report/4864223)
-- Red Light Bulk gone, 6th August :- [https://www.fixmystreet.com/report/4863866](https://www.fixmystreet.com/report/4863866)
-- Traffic light failed, 6th August :- [https://www.fixmystreet.com/report/4863670](https://www.fixmystreet.com/report/4863670)
-- Rubbish and flytipping, 6th August :- [https://www.fixmystreet.com/report/4862968](https://www.fixmystreet.com/report/4862968)
-- Pedestrian crossing beeping, where there is more than one crossing., 5th August :- [https://www.fixmystreet.com/report/4862160](https://www.fixmystreet.com/report/4862160)
-- Broken park equipment, 5th August :- [https://www.fixmystreet.com/report/4861595](https://www.fixmystreet.com/report/4861595)
-- Just fill the hole in I'm begging you, 5th August :- [https://www.fixmystreet.com/report/4861137](https://www.fixmystreet.com/report/4861137)
-- Pothole, 5th August :- [https://www.fixmystreet.com/report/4860998](https://www.fixmystreet.com/report/4860998)
-- 10 inch pot hole and quite deep, 5th August :- [https://www.fixmystreet.com/report/4860685](https://www.fixmystreet.com/report/4860685)
 
 <!-- fix_marker ends -->
