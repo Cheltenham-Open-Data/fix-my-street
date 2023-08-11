@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- I was emailed two weeks ago from County Council stating this stretch of road is fit for purpose., 10th August :- [https://www.fixmystreet.com/report/4880021](https://www.fixmystreet.com/report/4880021)
 - Dumped rubbish, 10th August :- [https://www.fixmystreet.com/report/4879773](https://www.fixmystreet.com/report/4879773)
 - Pothole in the road - deeper than it looks!, 10th August :- [https://www.fixmystreet.com/report/4879509](https://www.fixmystreet.com/report/4879509)
 - Flytipping and overgrown greenery in park, 10th August :- [https://www.fixmystreet.com/report/4879488](https://www.fixmystreet.com/report/4879488)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Convex mirror broken - needs replacing, 7th August :- [https://www.fixmystreet.com/report/4866823](https://www.fixmystreet.com/report/4866823)
 - Barnwood Road by Aldi, 6th August :- [https://www.fixmystreet.com/report/4864530](https://www.fixmystreet.com/report/4864530)
 - The 3 marker indicator come off sign, 6th August :- [https://www.fixmystreet.com/report/4864528](https://www.fixmystreet.com/report/4864528)
-- Potholes junction Elmfield Ave and Midwinter Ave, 6th August :- [https://www.fixmystreet.com/report/4864223](https://www.fixmystreet.com/report/4864223)
 
 <!-- fix_marker ends -->
