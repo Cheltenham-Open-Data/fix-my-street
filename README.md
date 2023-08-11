@@ -2,10 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Orange plastic netting, 11th August :- [https://www.fixmystreet.com/report/4883054](https://www.fixmystreet.com/report/4883054)
+- Pothole Forming, 11th August :- [https://www.fixmystreet.com/report/4882678](https://www.fixmystreet.com/report/4882678)
 - I was emailed two weeks ago from County Council stating this stretch of road is fit for purpose., 10th August :- [https://www.fixmystreet.com/report/4880021](https://www.fixmystreet.com/report/4880021)
 - Dumped rubbish, 10th August :- [https://www.fixmystreet.com/report/4879773](https://www.fixmystreet.com/report/4879773)
 - Pothole in the road - deeper than it looks!, 10th August :- [https://www.fixmystreet.com/report/4879509](https://www.fixmystreet.com/report/4879509)
 - Flytipping and overgrown greenery in park, 10th August :- [https://www.fixmystreet.com/report/4879488](https://www.fixmystreet.com/report/4879488)
+- Recycling boxes and rubbish all over the pavement outside no 20 and 22 Russell Street, 11th August :- [https://www.fixmystreet.com/report/4877976](https://www.fixmystreet.com/report/4877976)
 - Hedges overgrown, 10th August :- [https://www.fixmystreet.com/report/4877841](https://www.fixmystreet.com/report/4877841)
 - Recycling boxes and rubbish all over the pavement outside no 20 and 22 Russell Street, 10th August :- [https://www.fixmystreet.com/report/4877777](https://www.fixmystreet.com/report/4877777)
 - Shopping trolley with some stuff in it. (Corner Russell st and Charles st), 10th August :- [https://www.fixmystreet.com/report/4877738](https://www.fixmystreet.com/report/4877738)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Gate on cycle route impassable on a cycle, 8th August :- [https://www.fixmystreet.com/report/4868918](https://www.fixmystreet.com/report/4868918)
 - SWINDON VILLAGE sign at edge of village missing, 7th August :- [https://www.fixmystreet.com/report/4868001](https://www.fixmystreet.com/report/4868001)
 - Overgrown trees force people into the road, I am visually impaired and this is potentially dangerous, 7th August :- [https://www.fixmystreet.com/report/4867354](https://www.fixmystreet.com/report/4867354)
-- Convex mirror broken - needs replacing, 7th August :- [https://www.fixmystreet.com/report/4866823](https://www.fixmystreet.com/report/4866823)
-- Barnwood Road by Aldi, 6th August :- [https://www.fixmystreet.com/report/4864530](https://www.fixmystreet.com/report/4864530)
-- The 3 marker indicator come off sign, 6th August :- [https://www.fixmystreet.com/report/4864528](https://www.fixmystreet.com/report/4864528)
 
 <!-- fix_marker ends -->
