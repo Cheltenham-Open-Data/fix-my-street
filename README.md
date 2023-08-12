@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sinkhole in path, 12th August :- [https://www.fixmystreet.com/report/4884535](https://www.fixmystreet.com/report/4884535)
 - Orange plastic netting, 11th August :- [https://www.fixmystreet.com/report/4883054](https://www.fixmystreet.com/report/4883054)
 - Pothole Forming, 11th August :- [https://www.fixmystreet.com/report/4882678](https://www.fixmystreet.com/report/4882678)
 - I was emailed two weeks ago from County Council stating this stretch of road is fit for purpose., 10th August :- [https://www.fixmystreet.com/report/4880021](https://www.fixmystreet.com/report/4880021)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Foliage covering pavement, 8th August :- [https://www.fixmystreet.com/report/4871646](https://www.fixmystreet.com/report/4871646)
 - Gate on cycle route impassable on a cycle, 8th August :- [https://www.fixmystreet.com/report/4868918](https://www.fixmystreet.com/report/4868918)
 - SWINDON VILLAGE sign at edge of village missing, 7th August :- [https://www.fixmystreet.com/report/4868001](https://www.fixmystreet.com/report/4868001)
-- Overgrown trees force people into the road, I am visually impaired and this is potentially dangerous, 7th August :- [https://www.fixmystreet.com/report/4867354](https://www.fixmystreet.com/report/4867354)
 
 <!-- fix_marker ends -->
