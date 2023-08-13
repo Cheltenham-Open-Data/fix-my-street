@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Red Light isn’t working, 13th August :- [https://www.fixmystreet.com/report/4885832](https://www.fixmystreet.com/report/4885832)
 - Sinkhole in path, 12th August :- [https://www.fixmystreet.com/report/4884535](https://www.fixmystreet.com/report/4884535)
 - Orange plastic netting, 11th August :- [https://www.fixmystreet.com/report/4883054](https://www.fixmystreet.com/report/4883054)
 - Pothole Forming, 11th August :- [https://www.fixmystreet.com/report/4882678](https://www.fixmystreet.com/report/4882678)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - This is a 1/2 mile stretch where the road (as such as it is) is completely disintegrated., 8th August :- [https://www.fixmystreet.com/report/4871929](https://www.fixmystreet.com/report/4871929)
 - Foliage covering pavement, 8th August :- [https://www.fixmystreet.com/report/4871646](https://www.fixmystreet.com/report/4871646)
 - Gate on cycle route impassable on a cycle, 8th August :- [https://www.fixmystreet.com/report/4868918](https://www.fixmystreet.com/report/4868918)
-- SWINDON VILLAGE sign at edge of village missing, 7th August :- [https://www.fixmystreet.com/report/4868001](https://www.fixmystreet.com/report/4868001)
 
 <!-- fix_marker ends -->
