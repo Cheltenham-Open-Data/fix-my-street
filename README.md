@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Appallingly bad 200 metre stretch of road., 13th August :- [https://www.fixmystreet.com/report/4887466](https://www.fixmystreet.com/report/4887466)
+- Nitrous oxide canisters in the gutter, 13th August :- [https://www.fixmystreet.com/report/4887226](https://www.fixmystreet.com/report/4887226)
+- Fallen tree., 13th August :- [https://www.fixmystreet.com/report/4887047](https://www.fixmystreet.com/report/4887047)
+- Raised curbstone that wobbles, 13th August :- [https://www.fixmystreet.com/report/4886682](https://www.fixmystreet.com/report/4886682)
+- Pothole, 13th August :- [https://www.fixmystreet.com/report/4886064](https://www.fixmystreet.com/report/4886064)
 - Red Light isn’t working, 13th August :- [https://www.fixmystreet.com/report/4885832](https://www.fixmystreet.com/report/4885832)
 - Sinkhole in path, 12th August :- [https://www.fixmystreet.com/report/4884535](https://www.fixmystreet.com/report/4884535)
 - Orange plastic netting, 11th August :- [https://www.fixmystreet.com/report/4883054](https://www.fixmystreet.com/report/4883054)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Shopping trolley with some stuff in it. (Corner Russell st and Charles st), 10th August :- [https://www.fixmystreet.com/report/4877607](https://www.fixmystreet.com/report/4877607)
 - Inactive roadworks - badly positioned., 10th August :- [https://www.fixmystreet.com/report/4877151](https://www.fixmystreet.com/report/4877151)
 - Abandoned untaxed and no mot car, 9th August :- [https://www.fixmystreet.com/report/4875013](https://www.fixmystreet.com/report/4875013)
-- Pothole outside no 33, 8th August :- [https://www.fixmystreet.com/report/4872490](https://www.fixmystreet.com/report/4872490)
-- Severe pothole in lane 1 southbound carriageway, 8th August :- [https://www.fixmystreet.com/report/4872081](https://www.fixmystreet.com/report/4872081)
-- This is a 1/2 mile stretch where the road (as such as it is) is completely disintegrated., 8th August :- [https://www.fixmystreet.com/report/4871929](https://www.fixmystreet.com/report/4871929)
-- Foliage covering pavement, 8th August :- [https://www.fixmystreet.com/report/4871646](https://www.fixmystreet.com/report/4871646)
-- Gate on cycle route impassable on a cycle, 8th August :- [https://www.fixmystreet.com/report/4868918](https://www.fixmystreet.com/report/4868918)
 
 <!-- fix_marker ends -->
