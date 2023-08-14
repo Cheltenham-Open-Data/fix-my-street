@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Trees under threat of new developments, 14th August :- [https://www.fixmystreet.com/report/4888129](https://www.fixmystreet.com/report/4888129)
+- Railing bent, 13th August :- [https://www.fixmystreet.com/report/4887664](https://www.fixmystreet.com/report/4887664)
 - Appallingly bad 200 metre stretch of road., 13th August :- [https://www.fixmystreet.com/report/4887466](https://www.fixmystreet.com/report/4887466)
 - Nitrous oxide canisters in the gutter, 13th August :- [https://www.fixmystreet.com/report/4887226](https://www.fixmystreet.com/report/4887226)
 - Fallen tree., 13th August :- [https://www.fixmystreet.com/report/4887047](https://www.fixmystreet.com/report/4887047)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Recycling boxes and rubbish all over the pavement outside no 20 and 22 Russell Street, 10th August :- [https://www.fixmystreet.com/report/4877777](https://www.fixmystreet.com/report/4877777)
 - Shopping trolley with some stuff in it. (Corner Russell st and Charles st), 10th August :- [https://www.fixmystreet.com/report/4877738](https://www.fixmystreet.com/report/4877738)
 - Shopping trolley with some stuff in it. (Corner Russell st and Charles st), 10th August :- [https://www.fixmystreet.com/report/4877607](https://www.fixmystreet.com/report/4877607)
-- Inactive roadworks - badly positioned., 10th August :- [https://www.fixmystreet.com/report/4877151](https://www.fixmystreet.com/report/4877151)
-- Abandoned untaxed and no mot car, 9th August :- [https://www.fixmystreet.com/report/4875013](https://www.fixmystreet.com/report/4875013)
 
 <!-- fix_marker ends -->
