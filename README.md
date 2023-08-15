@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bins, 15th August :- [https://www.fixmystreet.com/report/4893167](https://www.fixmystreet.com/report/4893167)
+- Grass Cutting, 15th August :- [https://www.fixmystreet.com/report/4893154](https://www.fixmystreet.com/report/4893154)
 - Lights are blocked by foliage, 14th August :- [https://www.fixmystreet.com/report/4892219](https://www.fixmystreet.com/report/4892219)
 - Ash Trees, 14th August :- [https://www.fixmystreet.com/report/4890994](https://www.fixmystreet.com/report/4890994)
 - Pedestrian lights not working. A40 nr Tennyson Road, 14th August :- [https://www.fixmystreet.com/report/4890277](https://www.fixmystreet.com/report/4890277)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole Forming, 11th August :- [https://www.fixmystreet.com/report/4882678](https://www.fixmystreet.com/report/4882678)
 - I was emailed two weeks ago from County Council stating this stretch of road is fit for purpose., 10th August :- [https://www.fixmystreet.com/report/4880021](https://www.fixmystreet.com/report/4880021)
 - Dumped rubbish, 10th August :- [https://www.fixmystreet.com/report/4879773](https://www.fixmystreet.com/report/4879773)
-- Pothole in the road - deeper than it looks!, 10th August :- [https://www.fixmystreet.com/report/4879509](https://www.fixmystreet.com/report/4879509)
-- Flytipping and overgrown greenery in park, 10th August :- [https://www.fixmystreet.com/report/4879488](https://www.fixmystreet.com/report/4879488)
 
 <!-- fix_marker ends -->
