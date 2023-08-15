@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lights are blocked by foliage, 14th August :- [https://www.fixmystreet.com/report/4892219](https://www.fixmystreet.com/report/4892219)
 - Ash Trees, 14th August :- [https://www.fixmystreet.com/report/4890994](https://www.fixmystreet.com/report/4890994)
 - Pedestrian lights not working. A40 nr Tennyson Road, 14th August :- [https://www.fixmystreet.com/report/4890277](https://www.fixmystreet.com/report/4890277)
 - Drain opposite school blocked with mud on road surface, 14th August :- [https://www.fixmystreet.com/report/4890129](https://www.fixmystreet.com/report/4890129)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dumped rubbish, 10th August :- [https://www.fixmystreet.com/report/4879773](https://www.fixmystreet.com/report/4879773)
 - Pothole in the road - deeper than it looks!, 10th August :- [https://www.fixmystreet.com/report/4879509](https://www.fixmystreet.com/report/4879509)
 - Flytipping and overgrown greenery in park, 10th August :- [https://www.fixmystreet.com/report/4879488](https://www.fixmystreet.com/report/4879488)
-- Recycling boxes and rubbish all over the pavement outside no 20 and 22 Russell Street, 11th August :- [https://www.fixmystreet.com/report/4877976](https://www.fixmystreet.com/report/4877976)
 
 <!-- fix_marker ends -->
