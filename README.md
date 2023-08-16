@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Loose drain cover, 16th August :- [https://www.fixmystreet.com/report/4896218](https://www.fixmystreet.com/report/4896218)
 - Bins, 15th August :- [https://www.fixmystreet.com/report/4893167](https://www.fixmystreet.com/report/4893167)
 - Grass Cutting, 15th August :- [https://www.fixmystreet.com/report/4893154](https://www.fixmystreet.com/report/4893154)
 - Lights are blocked by foliage, 14th August :- [https://www.fixmystreet.com/report/4892219](https://www.fixmystreet.com/report/4892219)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Orange plastic netting, 11th August :- [https://www.fixmystreet.com/report/4883054](https://www.fixmystreet.com/report/4883054)
 - Pothole Forming, 11th August :- [https://www.fixmystreet.com/report/4882678](https://www.fixmystreet.com/report/4882678)
 - I was emailed two weeks ago from County Council stating this stretch of road is fit for purpose., 10th August :- [https://www.fixmystreet.com/report/4880021](https://www.fixmystreet.com/report/4880021)
-- Dumped rubbish, 10th August :- [https://www.fixmystreet.com/report/4879773](https://www.fixmystreet.com/report/4879773)
 
 <!-- fix_marker ends -->
