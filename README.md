@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole in main road, 17th August :- [https://www.fixmystreet.com/report/4902688](https://www.fixmystreet.com/report/4902688)
+- RAG lights - labelled 8 - not working, 17th August :- [https://www.fixmystreet.com/report/4901204](https://www.fixmystreet.com/report/4901204)
+- Pothole on Colesbourne to Withington Road 4, 17th August :- [https://www.fixmystreet.com/report/4900311](https://www.fixmystreet.com/report/4900311)
+- Pothole on Colesbourne to Withington Road 3, 17th August :- [https://www.fixmystreet.com/report/4900302](https://www.fixmystreet.com/report/4900302)
+- Pothole on Colesbourne to Withington Road 2, 17th August :- [https://www.fixmystreet.com/report/4900293](https://www.fixmystreet.com/report/4900293)
+- Pothole on Colesbourne to Withington Road 1, 17th August :- [https://www.fixmystreet.com/report/4900286](https://www.fixmystreet.com/report/4900286)
 - Broken pavements, 16th August :- [https://www.fixmystreet.com/report/4896920](https://www.fixmystreet.com/report/4896920)
 - Loose drain cover, 16th August :- [https://www.fixmystreet.com/report/4896218](https://www.fixmystreet.com/report/4896218)
 - Bins, 15th August :- [https://www.fixmystreet.com/report/4893167](https://www.fixmystreet.com/report/4893167)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Appallingly bad 200 metre stretch of road., 13th August :- [https://www.fixmystreet.com/report/4887466](https://www.fixmystreet.com/report/4887466)
 - Nitrous oxide canisters in the gutter, 13th August :- [https://www.fixmystreet.com/report/4887226](https://www.fixmystreet.com/report/4887226)
 - Fallen tree., 13th August :- [https://www.fixmystreet.com/report/4887047](https://www.fixmystreet.com/report/4887047)
-- Raised curbstone that wobbles, 13th August :- [https://www.fixmystreet.com/report/4886682](https://www.fixmystreet.com/report/4886682)
-- Pothole, 13th August :- [https://www.fixmystreet.com/report/4886064](https://www.fixmystreet.com/report/4886064)
-- Red Light isn’t working, 13th August :- [https://www.fixmystreet.com/report/4885832](https://www.fixmystreet.com/report/4885832)
-- Sinkhole in path, 12th August :- [https://www.fixmystreet.com/report/4884535](https://www.fixmystreet.com/report/4884535)
-- Orange plastic netting, 11th August :- [https://www.fixmystreet.com/report/4883054](https://www.fixmystreet.com/report/4883054)
-- Pothole Forming, 11th August :- [https://www.fixmystreet.com/report/4882678](https://www.fixmystreet.com/report/4882678)
 
 <!-- fix_marker ends -->
