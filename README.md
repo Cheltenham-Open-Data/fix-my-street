@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken glass, 17th August :- [https://www.fixmystreet.com/report/4903410](https://www.fixmystreet.com/report/4903410)
 - Pothole in main road, 17th August :- [https://www.fixmystreet.com/report/4902688](https://www.fixmystreet.com/report/4902688)
 - RAG lights - labelled 8 - not working, 17th August :- [https://www.fixmystreet.com/report/4901204](https://www.fixmystreet.com/report/4901204)
 - Pothole on Colesbourne to Withington Road 4, 17th August :- [https://www.fixmystreet.com/report/4900311](https://www.fixmystreet.com/report/4900311)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Railing bent, 13th August :- [https://www.fixmystreet.com/report/4887664](https://www.fixmystreet.com/report/4887664)
 - Appallingly bad 200 metre stretch of road., 13th August :- [https://www.fixmystreet.com/report/4887466](https://www.fixmystreet.com/report/4887466)
 - Nitrous oxide canisters in the gutter, 13th August :- [https://www.fixmystreet.com/report/4887226](https://www.fixmystreet.com/report/4887226)
-- Fallen tree., 13th August :- [https://www.fixmystreet.com/report/4887047](https://www.fixmystreet.com/report/4887047)
 
 <!-- fix_marker ends -->
