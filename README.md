@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hanging electric cable, 18th August :- [https://www.fixmystreet.com/report/4903910](https://www.fixmystreet.com/report/4903910)
+- Load of scrap timber in corner of Albemarle car park., 18th August :- [https://www.fixmystreet.com/report/4903880](https://www.fixmystreet.com/report/4903880)
+- Hedges, 18th August :- [https://www.fixmystreet.com/report/4903747](https://www.fixmystreet.com/report/4903747)
+- Obscured views, 18th August :- [https://www.fixmystreet.com/report/4903741](https://www.fixmystreet.com/report/4903741)
+- Misaligned sign, 18th August :- [https://www.fixmystreet.com/report/4903719](https://www.fixmystreet.com/report/4903719)
 - Broken glass, 17th August :- [https://www.fixmystreet.com/report/4903410](https://www.fixmystreet.com/report/4903410)
 - Pothole in main road, 17th August :- [https://www.fixmystreet.com/report/4902688](https://www.fixmystreet.com/report/4902688)
 - RAG lights - labelled 8 - not working, 17th August :- [https://www.fixmystreet.com/report/4901204](https://www.fixmystreet.com/report/4901204)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ash Trees, 14th August :- [https://www.fixmystreet.com/report/4890994](https://www.fixmystreet.com/report/4890994)
 - Pedestrian lights not working. A40 nr Tennyson Road, 14th August :- [https://www.fixmystreet.com/report/4890277](https://www.fixmystreet.com/report/4890277)
 - Drain opposite school blocked with mud on road surface, 14th August :- [https://www.fixmystreet.com/report/4890129](https://www.fixmystreet.com/report/4890129)
-- Uneven pavings slabs, 14th August :- [https://www.fixmystreet.com/report/4888828](https://www.fixmystreet.com/report/4888828)
-- Trees under threat of new developments, 14th August :- [https://www.fixmystreet.com/report/4888129](https://www.fixmystreet.com/report/4888129)
-- Railing bent, 13th August :- [https://www.fixmystreet.com/report/4887664](https://www.fixmystreet.com/report/4887664)
-- Appallingly bad 200 metre stretch of road., 13th August :- [https://www.fixmystreet.com/report/4887466](https://www.fixmystreet.com/report/4887466)
-- Nitrous oxide canisters in the gutter, 13th August :- [https://www.fixmystreet.com/report/4887226](https://www.fixmystreet.com/report/4887226)
 
 <!-- fix_marker ends -->
