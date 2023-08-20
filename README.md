@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole turning into Shelburne Rd, 19th August :- [https://www.fixmystreet.com/report/4908354](https://www.fixmystreet.com/report/4908354)
+- Fly tipping, 19th August :- [https://www.fixmystreet.com/report/4908293](https://www.fixmystreet.com/report/4908293)
 - Potholes, damaged road surface., 19th August :- [https://www.fixmystreet.com/report/4907599](https://www.fixmystreet.com/report/4907599)
 - Hanging electric cable, 18th August :- [https://www.fixmystreet.com/report/4903910](https://www.fixmystreet.com/report/4903910)
 - Load of scrap timber in corner of Albemarle car park., 18th August :- [https://www.fixmystreet.com/report/4903880](https://www.fixmystreet.com/report/4903880)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bins, 15th August :- [https://www.fixmystreet.com/report/4893167](https://www.fixmystreet.com/report/4893167)
 - Grass Cutting, 15th August :- [https://www.fixmystreet.com/report/4893154](https://www.fixmystreet.com/report/4893154)
 - Lights are blocked by foliage, 14th August :- [https://www.fixmystreet.com/report/4892219](https://www.fixmystreet.com/report/4892219)
-- Ash Trees, 14th August :- [https://www.fixmystreet.com/report/4890994](https://www.fixmystreet.com/report/4890994)
-- Pedestrian lights not working. A40 nr Tennyson Road, 14th August :- [https://www.fixmystreet.com/report/4890277](https://www.fixmystreet.com/report/4890277)
 
 <!-- fix_marker ends -->
