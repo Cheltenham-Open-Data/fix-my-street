@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole on the M5 southbound lane 1, just before 80.3 marker, 22nd August :- [https://www.fixmystreet.com/report/4917885](https://www.fixmystreet.com/report/4917885)
+- Pothole at 6 ways, Charlton Kings, 22nd August :- [https://www.fixmystreet.com/report/4916777](https://www.fixmystreet.com/report/4916777)
+- Reserving parking space with bins or cones by residents of 7, Duke Street, 22nd August :- [https://www.fixmystreet.com/report/4916759](https://www.fixmystreet.com/report/4916759)
+- Yet more fly tipping at this location, 22nd August :- [https://www.fixmystreet.com/report/4916280](https://www.fixmystreet.com/report/4916280)
 - Trench in centre carriageway, 22nd August :- [https://www.fixmystreet.com/report/4914835](https://www.fixmystreet.com/report/4914835)
 - Large number of potholes all along road, 21st August :- [https://www.fixmystreet.com/report/4913847](https://www.fixmystreet.com/report/4913847)
 - Foliage needs cutting back, 21st August :- [https://www.fixmystreet.com/report/4912233](https://www.fixmystreet.com/report/4912233)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass, 17th August :- [https://www.fixmystreet.com/report/4903410](https://www.fixmystreet.com/report/4903410)
 - Pothole in main road, 17th August :- [https://www.fixmystreet.com/report/4902688](https://www.fixmystreet.com/report/4902688)
 - RAG lights - labelled 8 - not working, 17th August :- [https://www.fixmystreet.com/report/4901204](https://www.fixmystreet.com/report/4901204)
-- Pothole on Colesbourne to Withington Road 4, 17th August :- [https://www.fixmystreet.com/report/4900311](https://www.fixmystreet.com/report/4900311)
-- Pothole on Colesbourne to Withington Road 3, 17th August :- [https://www.fixmystreet.com/report/4900302](https://www.fixmystreet.com/report/4900302)
-- Pothole on Colesbourne to Withington Road 2, 17th August :- [https://www.fixmystreet.com/report/4900293](https://www.fixmystreet.com/report/4900293)
-- Pothole on Colesbourne to Withington Road 1, 17th August :- [https://www.fixmystreet.com/report/4900286](https://www.fixmystreet.com/report/4900286)
 
 <!-- fix_marker ends -->
