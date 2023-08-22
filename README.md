@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Trench in centre carriageway, 22nd August :- [https://www.fixmystreet.com/report/4914835](https://www.fixmystreet.com/report/4914835)
 - Large number of potholes all along road, 21st August :- [https://www.fixmystreet.com/report/4913847](https://www.fixmystreet.com/report/4913847)
 - Foliage needs cutting back, 21st August :- [https://www.fixmystreet.com/report/4912233](https://www.fixmystreet.com/report/4912233)
 - Pothole, 21st August :- [https://www.fixmystreet.com/report/4911724](https://www.fixmystreet.com/report/4911724)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole on Colesbourne to Withington Road 3, 17th August :- [https://www.fixmystreet.com/report/4900302](https://www.fixmystreet.com/report/4900302)
 - Pothole on Colesbourne to Withington Road 2, 17th August :- [https://www.fixmystreet.com/report/4900293](https://www.fixmystreet.com/report/4900293)
 - Pothole on Colesbourne to Withington Road 1, 17th August :- [https://www.fixmystreet.com/report/4900286](https://www.fixmystreet.com/report/4900286)
-- Broken pavements, 16th August :- [https://www.fixmystreet.com/report/4896920](https://www.fixmystreet.com/report/4896920)
 
 <!-- fix_marker ends -->
