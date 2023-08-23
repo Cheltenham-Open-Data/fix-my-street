@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Green light out at pedestrian crossing, 23rd August :- [https://www.fixmystreet.com/report/4918455](https://www.fixmystreet.com/report/4918455)
 - Pothole on the M5 southbound lane 1, just before 80.3 marker, 22nd August :- [https://www.fixmystreet.com/report/4917885](https://www.fixmystreet.com/report/4917885)
 - Pothole at 6 ways, Charlton Kings, 22nd August :- [https://www.fixmystreet.com/report/4916777](https://www.fixmystreet.com/report/4916777)
 - Reserving parking space with bins or cones by residents of 7, Duke Street, 22nd August :- [https://www.fixmystreet.com/report/4916759](https://www.fixmystreet.com/report/4916759)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Misaligned sign, 18th August :- [https://www.fixmystreet.com/report/4903719](https://www.fixmystreet.com/report/4903719)
 - Broken glass, 17th August :- [https://www.fixmystreet.com/report/4903410](https://www.fixmystreet.com/report/4903410)
 - Pothole in main road, 17th August :- [https://www.fixmystreet.com/report/4902688](https://www.fixmystreet.com/report/4902688)
-- RAG lights - labelled 8 - not working, 17th August :- [https://www.fixmystreet.com/report/4901204](https://www.fixmystreet.com/report/4901204)
 
 <!-- fix_marker ends -->
