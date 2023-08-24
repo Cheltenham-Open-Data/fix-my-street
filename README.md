@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Utilities Trip hazard, 24th August :- [https://www.fixmystreet.com/report/4922138](https://www.fixmystreet.com/report/4922138)
 - Triangular pothole in road outside Osteopath, 23rd August :- [https://www.fixmystreet.com/report/4920554](https://www.fixmystreet.com/report/4920554)
 - Street light out, 23rd August :- [https://www.fixmystreet.com/report/4920066](https://www.fixmystreet.com/report/4920066)
 - Two temporary barriers flytipped on verge, 23rd August :- [https://www.fixmystreet.com/report/4919963](https://www.fixmystreet.com/report/4919963)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, damaged road surface., 19th August :- [https://www.fixmystreet.com/report/4907599](https://www.fixmystreet.com/report/4907599)
 - Hanging electric cable, 18th August :- [https://www.fixmystreet.com/report/4903910](https://www.fixmystreet.com/report/4903910)
 - Load of scrap timber in corner of Albemarle car park., 18th August :- [https://www.fixmystreet.com/report/4903880](https://www.fixmystreet.com/report/4903880)
-- Hedges, 18th August :- [https://www.fixmystreet.com/report/4903747](https://www.fixmystreet.com/report/4903747)
 
 <!-- fix_marker ends -->
