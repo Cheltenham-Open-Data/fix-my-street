@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned shopping trolley in Montpellier Villas Road, 24th August :- [https://www.fixmystreet.com/report/4924152](https://www.fixmystreet.com/report/4924152)
+- Drain clearance, 24th August :- [https://www.fixmystreet.com/report/4923912](https://www.fixmystreet.com/report/4923912)
+- There are five potholes at the junction of Montpellier Villas and Suffolk Road., 24th August :- [https://www.fixmystreet.com/report/4923705](https://www.fixmystreet.com/report/4923705)
+- Long white paint line on road, 24th August :- [https://www.fixmystreet.com/report/4922471](https://www.fixmystreet.com/report/4922471)
 - Utilities Trip hazard, 24th August :- [https://www.fixmystreet.com/report/4922138](https://www.fixmystreet.com/report/4922138)
 - Triangular pothole in road outside Osteopath, 23rd August :- [https://www.fixmystreet.com/report/4920554](https://www.fixmystreet.com/report/4920554)
 - Street light out, 23rd August :- [https://www.fixmystreet.com/report/4920066](https://www.fixmystreet.com/report/4920066)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 21st August :- [https://www.fixmystreet.com/report/4911724](https://www.fixmystreet.com/report/4911724)
 - Fly Tip at the Location, 21st August :- [https://www.fixmystreet.com/report/4911247](https://www.fixmystreet.com/report/4911247)
 - Pothole turning into Shelburne Rd, 19th August :- [https://www.fixmystreet.com/report/4908354](https://www.fixmystreet.com/report/4908354)
-- Fly tipping, 19th August :- [https://www.fixmystreet.com/report/4908293](https://www.fixmystreet.com/report/4908293)
-- Potholes, damaged road surface., 19th August :- [https://www.fixmystreet.com/report/4907599](https://www.fixmystreet.com/report/4907599)
-- Hanging electric cable, 18th August :- [https://www.fixmystreet.com/report/4903910](https://www.fixmystreet.com/report/4903910)
-- Load of scrap timber in corner of Albemarle car park., 18th August :- [https://www.fixmystreet.com/report/4903880](https://www.fixmystreet.com/report/4903880)
 
 <!-- fix_marker ends -->
