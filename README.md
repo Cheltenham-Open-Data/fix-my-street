@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly posting, 25th August :- [https://www.fixmystreet.com/report/4926382](https://www.fixmystreet.com/report/4926382)
+- Unauthorised advertising, 25th August :- [https://www.fixmystreet.com/report/4926375](https://www.fixmystreet.com/report/4926375)
+- Flood sign needs collecting, 25th August :- [https://www.fixmystreet.com/report/4926364](https://www.fixmystreet.com/report/4926364)
 - Abandoned shopping trolley in Montpellier Villas Road, 24th August :- [https://www.fixmystreet.com/report/4924152](https://www.fixmystreet.com/report/4924152)
 - Drain clearance, 24th August :- [https://www.fixmystreet.com/report/4923912](https://www.fixmystreet.com/report/4923912)
 - There are five potholes at the junction of Montpellier Villas and Suffolk Road., 24th August :- [https://www.fixmystreet.com/report/4923705](https://www.fixmystreet.com/report/4923705)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trench in centre carriageway, 22nd August :- [https://www.fixmystreet.com/report/4914835](https://www.fixmystreet.com/report/4914835)
 - Large number of potholes all along road, 21st August :- [https://www.fixmystreet.com/report/4913847](https://www.fixmystreet.com/report/4913847)
 - Foliage needs cutting back, 21st August :- [https://www.fixmystreet.com/report/4912233](https://www.fixmystreet.com/report/4912233)
-- Pothole, 21st August :- [https://www.fixmystreet.com/report/4911724](https://www.fixmystreet.com/report/4911724)
-- Fly Tip at the Location, 21st August :- [https://www.fixmystreet.com/report/4911247](https://www.fixmystreet.com/report/4911247)
-- Pothole turning into Shelburne Rd, 19th August :- [https://www.fixmystreet.com/report/4908354](https://www.fixmystreet.com/report/4908354)
 
 <!-- fix_marker ends -->
