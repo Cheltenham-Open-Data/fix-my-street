@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drains, 26th August :- [https://www.fixmystreet.com/report/4930122](https://www.fixmystreet.com/report/4930122)
+- Door in brook, 26th August :- [https://www.fixmystreet.com/report/4929597](https://www.fixmystreet.com/report/4929597)
+- Tipped fridge & sofa, 26th August :- [https://www.fixmystreet.com/report/4929593](https://www.fixmystreet.com/report/4929593)
 - Fly posting, 25th August :- [https://www.fixmystreet.com/report/4926382](https://www.fixmystreet.com/report/4926382)
 - Unauthorised advertising, 25th August :- [https://www.fixmystreet.com/report/4926375](https://www.fixmystreet.com/report/4926375)
 - Flood sign needs collecting, 25th August :- [https://www.fixmystreet.com/report/4926364](https://www.fixmystreet.com/report/4926364)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole at 6 ways, Charlton Kings, 22nd August :- [https://www.fixmystreet.com/report/4916777](https://www.fixmystreet.com/report/4916777)
 - Reserving parking space with bins or cones by residents of 7, Duke Street, 22nd August :- [https://www.fixmystreet.com/report/4916759](https://www.fixmystreet.com/report/4916759)
 - Yet more fly tipping at this location, 22nd August :- [https://www.fixmystreet.com/report/4916280](https://www.fixmystreet.com/report/4916280)
-- Trench in centre carriageway, 22nd August :- [https://www.fixmystreet.com/report/4914835](https://www.fixmystreet.com/report/4914835)
-- Large number of potholes all along road, 21st August :- [https://www.fixmystreet.com/report/4913847](https://www.fixmystreet.com/report/4913847)
-- Foliage needs cutting back, 21st August :- [https://www.fixmystreet.com/report/4912233](https://www.fixmystreet.com/report/4912233)
 
 <!-- fix_marker ends -->
