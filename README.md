@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Failed pedestrian crossing lights, 29th August :- [https://www.fixmystreet.com/report/4937047](https://www.fixmystreet.com/report/4937047)
+- Lots of potholes and patches in the road on the turning, 29th August :- [https://www.fixmystreet.com/report/4936730](https://www.fixmystreet.com/report/4936730)
+- Potholes and speeding buses, 29th August :- [https://www.fixmystreet.com/report/4935339](https://www.fixmystreet.com/report/4935339)
 - Overgrown vegetation, 28th August :- [https://www.fixmystreet.com/report/4934266](https://www.fixmystreet.com/report/4934266)
 - Blocked drains, 26th August :- [https://www.fixmystreet.com/report/4930122](https://www.fixmystreet.com/report/4930122)
 - Door in brook, 26th August :- [https://www.fixmystreet.com/report/4929597](https://www.fixmystreet.com/report/4929597)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two temporary barriers flytipped on verge, 23rd August :- [https://www.fixmystreet.com/report/4919963](https://www.fixmystreet.com/report/4919963)
 - Abandond Car, 23rd August :- [https://www.fixmystreet.com/report/4918940](https://www.fixmystreet.com/report/4918940)
 - Green light out at pedestrian crossing, 23rd August :- [https://www.fixmystreet.com/report/4918455](https://www.fixmystreet.com/report/4918455)
-- Pothole on the M5 southbound lane 1, just before 80.3 marker, 22nd August :- [https://www.fixmystreet.com/report/4917885](https://www.fixmystreet.com/report/4917885)
-- Pothole at 6 ways, Charlton Kings, 22nd August :- [https://www.fixmystreet.com/report/4916777](https://www.fixmystreet.com/report/4916777)
-- Reserving parking space with bins or cones by residents of 7, Duke Street, 22nd August :- [https://www.fixmystreet.com/report/4916759](https://www.fixmystreet.com/report/4916759)
 
 <!-- fix_marker ends -->
