@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 29th August :- [https://www.fixmystreet.com/report/4939139](https://www.fixmystreet.com/report/4939139)
 - Failed pedestrian crossing lights, 29th August :- [https://www.fixmystreet.com/report/4937047](https://www.fixmystreet.com/report/4937047)
 - Lots of potholes and patches in the road on the turning, 29th August :- [https://www.fixmystreet.com/report/4936730](https://www.fixmystreet.com/report/4936730)
 - Potholes and speeding buses, 29th August :- [https://www.fixmystreet.com/report/4935339](https://www.fixmystreet.com/report/4935339)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light out, 23rd August :- [https://www.fixmystreet.com/report/4920066](https://www.fixmystreet.com/report/4920066)
 - Two temporary barriers flytipped on verge, 23rd August :- [https://www.fixmystreet.com/report/4919963](https://www.fixmystreet.com/report/4919963)
 - Abandond Car, 23rd August :- [https://www.fixmystreet.com/report/4918940](https://www.fixmystreet.com/report/4918940)
-- Green light out at pedestrian crossing, 23rd August :- [https://www.fixmystreet.com/report/4918455](https://www.fixmystreet.com/report/4918455)
 
 <!-- fix_marker ends -->
