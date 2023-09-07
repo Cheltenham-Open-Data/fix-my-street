@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Over grown, poor tarmac, 7th September :- [https://www.fixmystreet.com/report/4969392](https://www.fixmystreet.com/report/4969392)
+- Fly tipping, 7th September :- [https://www.fixmystreet.com/report/4968748](https://www.fixmystreet.com/report/4968748)
 - Flytipping, 7th September :- [https://www.fixmystreet.com/report/4967348](https://www.fixmystreet.com/report/4967348)
 - All street lighting out, 6th September :- [https://www.fixmystreet.com/report/4967260](https://www.fixmystreet.com/report/4967260)
 - Footway not maintained between Albemarle Gate, Cheltenham, and Stoke Road, Bishop's Cleeve, 6th September :- [https://www.fixmystreet.com/report/4966897](https://www.fixmystreet.com/report/4966897)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken up tarmac ramp outside 1 Jersey Avenue, 4th September :- [https://www.fixmystreet.com/report/4957438](https://www.fixmystreet.com/report/4957438)
 - Multiple street lights not working, 3rd September :- [https://www.fixmystreet.com/report/4954773](https://www.fixmystreet.com/report/4954773)
 - Crossing button broken, 3rd September :- [https://www.fixmystreet.com/report/4953664](https://www.fixmystreet.com/report/4953664)
-- Collapsed pigeon wire stopping lorries passinf, 3rd September :- [https://www.fixmystreet.com/report/4953378](https://www.fixmystreet.com/report/4953378)
-- Several awful potholes, 3rd September :- [https://www.fixmystreet.com/report/4953274](https://www.fixmystreet.com/report/4953274)
 
 <!-- fix_marker ends -->
