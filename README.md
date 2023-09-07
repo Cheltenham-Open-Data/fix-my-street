@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping, 7th September :- [https://www.fixmystreet.com/report/4967348](https://www.fixmystreet.com/report/4967348)
+- All street lighting out, 6th September :- [https://www.fixmystreet.com/report/4967260](https://www.fixmystreet.com/report/4967260)
+- Footway not maintained between Albemarle Gate, Cheltenham, and Stoke Road, Bishop's Cleeve, 6th September :- [https://www.fixmystreet.com/report/4966897](https://www.fixmystreet.com/report/4966897)
+- Overgrown bushes, 6th September :- [https://www.fixmystreet.com/report/4966590](https://www.fixmystreet.com/report/4966590)
 - Footpath overgrown with nettles and brambles., 6th September :- [https://www.fixmystreet.com/report/4965469](https://www.fixmystreet.com/report/4965469)
 - Pavement broken up near No 29 and other parts., 6th September :- [https://www.fixmystreet.com/report/4964220](https://www.fixmystreet.com/report/4964220)
 - Old fence debris dumped, 6th September :- [https://www.fixmystreet.com/report/4964137](https://www.fixmystreet.com/report/4964137)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Crossing button broken, 3rd September :- [https://www.fixmystreet.com/report/4953664](https://www.fixmystreet.com/report/4953664)
 - Collapsed pigeon wire stopping lorries passinf, 3rd September :- [https://www.fixmystreet.com/report/4953378](https://www.fixmystreet.com/report/4953378)
 - Several awful potholes, 3rd September :- [https://www.fixmystreet.com/report/4953274](https://www.fixmystreet.com/report/4953274)
-- Dead deer, 2nd September :- [https://www.fixmystreet.com/report/4951374](https://www.fixmystreet.com/report/4951374)
-- Broken public bicycle pump, 2nd September :- [https://www.fixmystreet.com/report/4951105](https://www.fixmystreet.com/report/4951105)
-- Flytipping here again, 2nd September :- [https://www.fixmystreet.com/report/4950844](https://www.fixmystreet.com/report/4950844)
-- Road surface degrading, 2nd September :- [https://www.fixmystreet.com/report/4950804](https://www.fixmystreet.com/report/4950804)
 
 <!-- fix_marker ends -->
