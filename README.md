@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 20"x20" pothole at the edge of the road adjacent to the pavement., 8th September :- [https://www.fixmystreet.com/report/4973504](https://www.fixmystreet.com/report/4973504)
+- Faulty traffic lights, 8th September :- [https://www.fixmystreet.com/report/4972824](https://www.fixmystreet.com/report/4972824)
 - Sign Gravel Walk, 8th September :- [https://www.fixmystreet.com/report/4971062](https://www.fixmystreet.com/report/4971062)
 - Over grown, poor tarmac, 7th September :- [https://www.fixmystreet.com/report/4969392](https://www.fixmystreet.com/report/4969392)
 - Fly tipping, 7th September :- [https://www.fixmystreet.com/report/4968748](https://www.fixmystreet.com/report/4968748)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole m5 southbound, 4th September :- [https://www.fixmystreet.com/report/4958772](https://www.fixmystreet.com/report/4958772)
 - Very large overgrown tree, 4th September :- [https://www.fixmystreet.com/report/4958638](https://www.fixmystreet.com/report/4958638)
 - Overgrown hedging, 4th September :- [https://www.fixmystreet.com/report/4958423](https://www.fixmystreet.com/report/4958423)
-- Broken up tarmac ramp outside 1 Jersey Avenue, 4th September :- [https://www.fixmystreet.com/report/4957438](https://www.fixmystreet.com/report/4957438)
-- Multiple street lights not working, 3rd September :- [https://www.fixmystreet.com/report/4954773](https://www.fixmystreet.com/report/4954773)
 
 <!-- fix_marker ends -->
