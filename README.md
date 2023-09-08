@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sign Gravel Walk, 8th September :- [https://www.fixmystreet.com/report/4971062](https://www.fixmystreet.com/report/4971062)
 - Over grown, poor tarmac, 7th September :- [https://www.fixmystreet.com/report/4969392](https://www.fixmystreet.com/report/4969392)
 - Fly tipping, 7th September :- [https://www.fixmystreet.com/report/4968748](https://www.fixmystreet.com/report/4968748)
 - Flytipping, 7th September :- [https://www.fixmystreet.com/report/4967348](https://www.fixmystreet.com/report/4967348)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown hedging, 4th September :- [https://www.fixmystreet.com/report/4958423](https://www.fixmystreet.com/report/4958423)
 - Broken up tarmac ramp outside 1 Jersey Avenue, 4th September :- [https://www.fixmystreet.com/report/4957438](https://www.fixmystreet.com/report/4957438)
 - Multiple street lights not working, 3rd September :- [https://www.fixmystreet.com/report/4954773](https://www.fixmystreet.com/report/4954773)
-- Crossing button broken, 3rd September :- [https://www.fixmystreet.com/report/4953664](https://www.fixmystreet.com/report/4953664)
 
 <!-- fix_marker ends -->
