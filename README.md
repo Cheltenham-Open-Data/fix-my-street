@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overflowing dog poo bin, 9th September :- [https://www.fixmystreet.com/report/4975208](https://www.fixmystreet.com/report/4975208)
+- Dog faeces on pavement, 9th September :- [https://www.fixmystreet.com/report/4974731](https://www.fixmystreet.com/report/4974731)
+- Fly tipping on Brockhampton lane, 9th September :- [https://www.fixmystreet.com/report/4974689](https://www.fixmystreet.com/report/4974689)
 - 20"x20" pothole at the edge of the road adjacent to the pavement., 8th September :- [https://www.fixmystreet.com/report/4973504](https://www.fixmystreet.com/report/4973504)
 - Faulty traffic lights, 8th September :- [https://www.fixmystreet.com/report/4972824](https://www.fixmystreet.com/report/4972824)
 - Sign Gravel Walk, 8th September :- [https://www.fixmystreet.com/report/4971062](https://www.fixmystreet.com/report/4971062)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ice Cream Van, 5th September :- [https://www.fixmystreet.com/report/4962569](https://www.fixmystreet.com/report/4962569)
 - Water leak, 5th September :- [https://www.fixmystreet.com/report/4959582](https://www.fixmystreet.com/report/4959582)
 - Overgrown greenery obstructing footpath, 4th September :- [https://www.fixmystreet.com/report/4958858](https://www.fixmystreet.com/report/4958858)
-- Pothole m5 southbound, 4th September :- [https://www.fixmystreet.com/report/4958772](https://www.fixmystreet.com/report/4958772)
-- Very large overgrown tree, 4th September :- [https://www.fixmystreet.com/report/4958638](https://www.fixmystreet.com/report/4958638)
-- Overgrown hedging, 4th September :- [https://www.fixmystreet.com/report/4958423](https://www.fixmystreet.com/report/4958423)
 
 <!-- fix_marker ends -->
