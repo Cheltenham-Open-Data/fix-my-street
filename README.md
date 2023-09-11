@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bins on cycle path every week (again), 11th September :- [https://www.fixmystreet.com/report/4982544](https://www.fixmystreet.com/report/4982544)
+- Green traffic signal not working, 11th September :- [https://www.fixmystreet.com/report/4981542](https://www.fixmystreet.com/report/4981542)
+- Red traffic signal not working, 11th September :- [https://www.fixmystreet.com/report/4981525](https://www.fixmystreet.com/report/4981525)
+- Green light not working, 11th September :- [https://www.fixmystreet.com/report/4981496](https://www.fixmystreet.com/report/4981496)
+- Dog poo bin overflowing, 11th September :- [https://www.fixmystreet.com/report/4979286](https://www.fixmystreet.com/report/4979286)
 - Flytipping on Hilcot Road, 10th September :- [https://www.fixmystreet.com/report/4977635](https://www.fixmystreet.com/report/4977635)
 - Deepening pothole on M5 junction 11, 10th September :- [https://www.fixmystreet.com/report/4977398](https://www.fixmystreet.com/report/4977398)
 - Tree falling across footpath, 10th September :- [https://www.fixmystreet.com/report/4977102](https://www.fixmystreet.com/report/4977102)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Over grown, poor tarmac, 7th September :- [https://www.fixmystreet.com/report/4969392](https://www.fixmystreet.com/report/4969392)
 - Fly tipping, 7th September :- [https://www.fixmystreet.com/report/4968748](https://www.fixmystreet.com/report/4968748)
 - Flytipping, 7th September :- [https://www.fixmystreet.com/report/4967348](https://www.fixmystreet.com/report/4967348)
-- All street lighting out, 6th September :- [https://www.fixmystreet.com/report/4967260](https://www.fixmystreet.com/report/4967260)
-- Footway not maintained between Albemarle Gate, Cheltenham, and Stoke Road, Bishop's Cleeve, 6th September :- [https://www.fixmystreet.com/report/4966897](https://www.fixmystreet.com/report/4966897)
-- Overgrown bushes, 6th September :- [https://www.fixmystreet.com/report/4966590](https://www.fixmystreet.com/report/4966590)
-- Footpath overgrown with nettles and brambles., 6th September :- [https://www.fixmystreet.com/report/4965469](https://www.fixmystreet.com/report/4965469)
-- Pavement broken up near No 29 and other parts., 6th September :- [https://www.fixmystreet.com/report/4964220](https://www.fixmystreet.com/report/4964220)
 
 <!-- fix_marker ends -->
