@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Trees overgrown obstructing pavement, 13th September :- [https://www.fixmystreet.com/report/4988335](https://www.fixmystreet.com/report/4988335)
+- Broken Dog Poo Bin, 12th September :- [https://www.fixmystreet.com/report/4988212](https://www.fixmystreet.com/report/4988212)
+- Grafitti'd bus stop, 12th September :- [https://www.fixmystreet.com/report/4988210](https://www.fixmystreet.com/report/4988210)
 - Vegetation obscuring road markings, 11th September :- [https://www.fixmystreet.com/report/4983356](https://www.fixmystreet.com/report/4983356)
 - Missing cover from inspection hatch., 11th September :- [https://www.fixmystreet.com/report/4982996](https://www.fixmystreet.com/report/4982996)
 - Bins on cycle path every week (again), 11th September :- [https://www.fixmystreet.com/report/4982544](https://www.fixmystreet.com/report/4982544)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dog faeces on pavement, 9th September :- [https://www.fixmystreet.com/report/4974731](https://www.fixmystreet.com/report/4974731)
 - Fly tipping on Brockhampton lane, 9th September :- [https://www.fixmystreet.com/report/4974689](https://www.fixmystreet.com/report/4974689)
 - 20"x20" pothole at the edge of the road adjacent to the pavement., 8th September :- [https://www.fixmystreet.com/report/4973504](https://www.fixmystreet.com/report/4973504)
-- Faulty traffic lights, 8th September :- [https://www.fixmystreet.com/report/4972824](https://www.fixmystreet.com/report/4972824)
-- Sign Gravel Walk, 8th September :- [https://www.fixmystreet.com/report/4971062](https://www.fixmystreet.com/report/4971062)
-- Over grown, poor tarmac, 7th September :- [https://www.fixmystreet.com/report/4969392](https://www.fixmystreet.com/report/4969392)
 
 <!-- fix_marker ends -->
