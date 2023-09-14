@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Falling Tree obstructing the footpath/bridleway, 14th September :- [https://www.fixmystreet.com/report/4995392](https://www.fixmystreet.com/report/4995392)
+- Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994517](https://www.fixmystreet.com/report/4994517)
+- Reported in August sign still missing, 14th September :- [https://www.fixmystreet.com/report/4993745](https://www.fixmystreet.com/report/4993745)
+- Overgrown vegetation, 14th September :- [https://www.fixmystreet.com/report/4993711](https://www.fixmystreet.com/report/4993711)
+- Overgrow bramble hedge, 14th September :- [https://www.fixmystreet.com/report/4993100](https://www.fixmystreet.com/report/4993100)
+- Collapsed drain outside 54 Moorend Crescent, 14th September :- [https://www.fixmystreet.com/report/4992653](https://www.fixmystreet.com/report/4992653)
 - 20 potholes over 4cm in depth from Yew Tree Cottage to Butlers Farm, 13th September :- [https://www.fixmystreet.com/report/4991755](https://www.fixmystreet.com/report/4991755)
 - Ongoing/Worsening problem - previously reported, 13th September :- [https://www.fixmystreet.com/report/4991248](https://www.fixmystreet.com/report/4991248)
 - Fly tipping, 13th September :- [https://www.fixmystreet.com/report/4990866](https://www.fixmystreet.com/report/4990866)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Green traffic signal not working, 11th September :- [https://www.fixmystreet.com/report/4981542](https://www.fixmystreet.com/report/4981542)
 - Red traffic signal not working, 11th September :- [https://www.fixmystreet.com/report/4981525](https://www.fixmystreet.com/report/4981525)
 - Green light not working, 11th September :- [https://www.fixmystreet.com/report/4981496](https://www.fixmystreet.com/report/4981496)
-- Dog poo bin overflowing, 11th September :- [https://www.fixmystreet.com/report/4979286](https://www.fixmystreet.com/report/4979286)
-- Flytipping on Hilcot Road, 10th September :- [https://www.fixmystreet.com/report/4977635](https://www.fixmystreet.com/report/4977635)
-- Deepening pothole on M5 junction 11, 10th September :- [https://www.fixmystreet.com/report/4977398](https://www.fixmystreet.com/report/4977398)
-- Tree falling across footpath, 10th September :- [https://www.fixmystreet.com/report/4977102](https://www.fixmystreet.com/report/4977102)
-- Willow Tree blocking bridge crossing on footpath, 10th September :- [https://www.fixmystreet.com/report/4977092](https://www.fixmystreet.com/report/4977092)
-- Overgrown hedge, opposite entrance to Thistledown close, 10th September :- [https://www.fixmystreet.com/report/4977017](https://www.fixmystreet.com/report/4977017)
 
 <!-- fix_marker ends -->
