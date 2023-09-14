@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 20 potholes over 4cm in depth from Yew Tree Cottage to Butlers Farm, 13th September :- [https://www.fixmystreet.com/report/4991755](https://www.fixmystreet.com/report/4991755)
 - Ongoing/Worsening problem - previously reported, 13th September :- [https://www.fixmystreet.com/report/4991248](https://www.fixmystreet.com/report/4991248)
 - Fly tipping, 13th September :- [https://www.fixmystreet.com/report/4990866](https://www.fixmystreet.com/report/4990866)
 - Sunken manhole, 13th September :- [https://www.fixmystreet.com/report/4988984](https://www.fixmystreet.com/report/4988984)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree falling across footpath, 10th September :- [https://www.fixmystreet.com/report/4977102](https://www.fixmystreet.com/report/4977102)
 - Willow Tree blocking bridge crossing on footpath, 10th September :- [https://www.fixmystreet.com/report/4977092](https://www.fixmystreet.com/report/4977092)
 - Overgrown hedge, opposite entrance to Thistledown close, 10th September :- [https://www.fixmystreet.com/report/4977017](https://www.fixmystreet.com/report/4977017)
-- Overgrown hedge along side no32, 10th September :- [https://www.fixmystreet.com/report/4976971](https://www.fixmystreet.com/report/4976971)
 
 <!-- fix_marker ends -->
