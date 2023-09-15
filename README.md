@@ -3,6 +3,7 @@ Fix my street items within 10km of Cheltenham centre
 <!-- fix_marker starts -->
 
 - Falling Tree obstructing the footpath/bridleway, 14th September :- [https://www.fixmystreet.com/report/4995392](https://www.fixmystreet.com/report/4995392)
+- Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994596](https://www.fixmystreet.com/report/4994596)
 - Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994517](https://www.fixmystreet.com/report/4994517)
 - Reported in August sign still missing, 14th September :- [https://www.fixmystreet.com/report/4993745](https://www.fixmystreet.com/report/4993745)
 - Overgrown vegetation, 14th September :- [https://www.fixmystreet.com/report/4993711](https://www.fixmystreet.com/report/4993711)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bins on cycle path every week (again), 11th September :- [https://www.fixmystreet.com/report/4982544](https://www.fixmystreet.com/report/4982544)
 - Green traffic signal not working, 11th September :- [https://www.fixmystreet.com/report/4981542](https://www.fixmystreet.com/report/4981542)
 - Red traffic signal not working, 11th September :- [https://www.fixmystreet.com/report/4981525](https://www.fixmystreet.com/report/4981525)
-- Green light not working, 11th September :- [https://www.fixmystreet.com/report/4981496](https://www.fixmystreet.com/report/4981496)
 
 <!-- fix_marker ends -->
