@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Grass Cutting, 16th September :- [https://www.fixmystreet.com/report/5000927](https://www.fixmystreet.com/report/5000927)
+- Double yellow lines barely visible, 16th September :- [https://www.fixmystreet.com/report/5000589](https://www.fixmystreet.com/report/5000589)
 - Deep pothole, 15th September :- [https://www.fixmystreet.com/report/4998608](https://www.fixmystreet.com/report/4998608)
 - 5 Potholes at the junction with Suffolk Road and Montpellier Villas, 15th September :- [https://www.fixmystreet.com/report/4998443](https://www.fixmystreet.com/report/4998443)
 - Pothole on SB carriageway L1 near brown "Regency" sign, 15th September :- [https://www.fixmystreet.com/report/4996224](https://www.fixmystreet.com/report/4996224)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trees overgrown obstructing pavement, 13th September :- [https://www.fixmystreet.com/report/4988335](https://www.fixmystreet.com/report/4988335)
 - Broken Dog Poo Bin, 12th September :- [https://www.fixmystreet.com/report/4988212](https://www.fixmystreet.com/report/4988212)
 - Grafitti'd bus stop, 12th September :- [https://www.fixmystreet.com/report/4988210](https://www.fixmystreet.com/report/4988210)
-- Vegetation obscuring road markings, 11th September :- [https://www.fixmystreet.com/report/4983356](https://www.fixmystreet.com/report/4983356)
-- Missing cover from inspection hatch., 11th September :- [https://www.fixmystreet.com/report/4982996](https://www.fixmystreet.com/report/4982996)
 
 <!-- fix_marker ends -->
