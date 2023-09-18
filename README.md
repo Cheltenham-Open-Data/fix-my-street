@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A Flytip at the Location was set on Fire, 18th September :- [https://www.fixmystreet.com/report/5004223](https://www.fixmystreet.com/report/5004223)
+- 2 Deep potholes on a Blind Bend on Aggs Hill, 18th September :- [https://www.fixmystreet.com/report/5004190](https://www.fixmystreet.com/report/5004190)
 - Dangerous loose dislodged bricks overhead., 17th September :- [https://www.fixmystreet.com/report/5003503](https://www.fixmystreet.com/report/5003503)
 - Salt Bin on Aggs Hill Hit by Vehicle into Road, 17th September :- [https://www.fixmystreet.com/report/5002975](https://www.fixmystreet.com/report/5002975)
 - Very noisy inspection hatch, 17th September :- [https://www.fixmystreet.com/report/5002521](https://www.fixmystreet.com/report/5002521)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrow bramble hedge, 14th September :- [https://www.fixmystreet.com/report/4993100](https://www.fixmystreet.com/report/4993100)
 - Collapsed drain outside 54 Moorend Crescent, 14th September :- [https://www.fixmystreet.com/report/4992653](https://www.fixmystreet.com/report/4992653)
 - 20 potholes over 4cm in depth from Yew Tree Cottage to Butlers Farm, 13th September :- [https://www.fixmystreet.com/report/4991755](https://www.fixmystreet.com/report/4991755)
-- Ongoing/Worsening problem - previously reported, 13th September :- [https://www.fixmystreet.com/report/4991248](https://www.fixmystreet.com/report/4991248)
-- Fly tipping, 13th September :- [https://www.fixmystreet.com/report/4990866](https://www.fixmystreet.com/report/4990866)
 
 <!-- fix_marker ends -->
