@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bins left on grassed area for over a year, 18th September :- [https://www.fixmystreet.com/report/5007470](https://www.fixmystreet.com/report/5007470)
 - A Flytip at the Location was set on Fire, 18th September :- [https://www.fixmystreet.com/report/5004223](https://www.fixmystreet.com/report/5004223)
 - 2 Deep potholes on a Blind Bend on Aggs Hill, 18th September :- [https://www.fixmystreet.com/report/5004190](https://www.fixmystreet.com/report/5004190)
 - Dangerous loose dislodged bricks overhead., 17th September :- [https://www.fixmystreet.com/report/5003503](https://www.fixmystreet.com/report/5003503)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown vegetation, 14th September :- [https://www.fixmystreet.com/report/4993711](https://www.fixmystreet.com/report/4993711)
 - Overgrow bramble hedge, 14th September :- [https://www.fixmystreet.com/report/4993100](https://www.fixmystreet.com/report/4993100)
 - Collapsed drain outside 54 Moorend Crescent, 14th September :- [https://www.fixmystreet.com/report/4992653](https://www.fixmystreet.com/report/4992653)
-- 20 potholes over 4cm in depth from Yew Tree Cottage to Butlers Farm, 13th September :- [https://www.fixmystreet.com/report/4991755](https://www.fixmystreet.com/report/4991755)
 
 <!-- fix_marker ends -->
