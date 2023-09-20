@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooded road / blocked drain Repeat problem, 20th September :- [https://www.fixmystreet.com/report/5013940](https://www.fixmystreet.com/report/5013940)
+- Pavement damgerous for wheelchairs, 20th September :- [https://www.fixmystreet.com/report/5013600](https://www.fixmystreet.com/report/5013600)
+- Tree started to blow over in the wind, 20th September :- [https://www.fixmystreet.com/report/5013411](https://www.fixmystreet.com/report/5013411)
+- Large cone in road, 20th September :- [https://www.fixmystreet.com/report/5012280](https://www.fixmystreet.com/report/5012280)
 - Bins left on grassed area for over a year, 18th September :- [https://www.fixmystreet.com/report/5007470](https://www.fixmystreet.com/report/5007470)
 - A Flytip at the Location was set on Fire, 18th September :- [https://www.fixmystreet.com/report/5004223](https://www.fixmystreet.com/report/5004223)
 - 2 Deep potholes on a Blind Bend on Aggs Hill, 18th September :- [https://www.fixmystreet.com/report/5004190](https://www.fixmystreet.com/report/5004190)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Falling Tree obstructing the footpath/bridleway, 14th September :- [https://www.fixmystreet.com/report/4995392](https://www.fixmystreet.com/report/4995392)
 - Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994596](https://www.fixmystreet.com/report/4994596)
 - Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994517](https://www.fixmystreet.com/report/4994517)
-- Reported in August sign still missing, 14th September :- [https://www.fixmystreet.com/report/4993745](https://www.fixmystreet.com/report/4993745)
-- Overgrown vegetation, 14th September :- [https://www.fixmystreet.com/report/4993711](https://www.fixmystreet.com/report/4993711)
-- Overgrow bramble hedge, 14th September :- [https://www.fixmystreet.com/report/4993100](https://www.fixmystreet.com/report/4993100)
-- Collapsed drain outside 54 Moorend Crescent, 14th September :- [https://www.fixmystreet.com/report/4992653](https://www.fixmystreet.com/report/4992653)
 
 <!-- fix_marker ends -->
