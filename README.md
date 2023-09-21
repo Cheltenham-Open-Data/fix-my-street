@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandoned car in Andover Street, 20th September :- [https://www.fixmystreet.com/report/5015951](https://www.fixmystreet.com/report/5015951)
+- Overgrown hedges obscuring view of traffic, 20th September :- [https://www.fixmystreet.com/report/5015688](https://www.fixmystreet.com/report/5015688)
 - Flooded road / blocked drain Repeat problem, 20th September :- [https://www.fixmystreet.com/report/5013940](https://www.fixmystreet.com/report/5013940)
 - Pavement damgerous for wheelchairs, 20th September :- [https://www.fixmystreet.com/report/5013600](https://www.fixmystreet.com/report/5013600)
 - Tree started to blow over in the wind, 20th September :- [https://www.fixmystreet.com/report/5013411](https://www.fixmystreet.com/report/5013411)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 5 Potholes at the junction with Suffolk Road and Montpellier Villas, 15th September :- [https://www.fixmystreet.com/report/4998443](https://www.fixmystreet.com/report/4998443)
 - Pothole on SB carriageway L1 near brown "Regency" sign, 15th September :- [https://www.fixmystreet.com/report/4996224](https://www.fixmystreet.com/report/4996224)
 - Falling Tree obstructing the footpath/bridleway, 14th September :- [https://www.fixmystreet.com/report/4995392](https://www.fixmystreet.com/report/4995392)
-- Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994596](https://www.fixmystreet.com/report/4994596)
-- Damage to grass verges, 14th September :- [https://www.fixmystreet.com/report/4994517](https://www.fixmystreet.com/report/4994517)
 
 <!-- fix_marker ends -->
