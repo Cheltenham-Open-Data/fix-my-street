@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Faded white H lines, 21st September :- [https://www.fixmystreet.com/report/5019138](https://www.fixmystreet.com/report/5019138)
+- Branch blocking footpath in wooded area, 21st September :- [https://www.fixmystreet.com/report/5019105](https://www.fixmystreet.com/report/5019105)
+- Multiple deep potholes, 21st September :- [https://www.fixmystreet.com/report/5019006](https://www.fixmystreet.com/report/5019006)
+- Waste outside no 22 Russell street., 21st September :- [https://www.fixmystreet.com/report/5018695](https://www.fixmystreet.com/report/5018695)
+- Footpath foliage needs more work., 21st September :- [https://www.fixmystreet.com/report/5017941](https://www.fixmystreet.com/report/5017941)
+- Can't walk on path due to hedge and excessive rubbish in area, 21st September :- [https://www.fixmystreet.com/report/5017533](https://www.fixmystreet.com/report/5017533)
+- Foul/Sewage Water over flowing, 21st September :- [https://www.fixmystreet.com/report/5017032](https://www.fixmystreet.com/report/5017032)
+- Hole in ground, possibly broken drain cover, 21st September :- [https://www.fixmystreet.com/report/5016595](https://www.fixmystreet.com/report/5016595)
 - Abandoned car in Andover Street, 20th September :- [https://www.fixmystreet.com/report/5015951](https://www.fixmystreet.com/report/5015951)
 - Overgrown hedges obscuring view of traffic, 20th September :- [https://www.fixmystreet.com/report/5015688](https://www.fixmystreet.com/report/5015688)
 - Flooded road / blocked drain Repeat problem, 20th September :- [https://www.fixmystreet.com/report/5013940](https://www.fixmystreet.com/report/5013940)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerous loose dislodged bricks overhead., 17th September :- [https://www.fixmystreet.com/report/5003503](https://www.fixmystreet.com/report/5003503)
 - Salt Bin on Aggs Hill Hit by Vehicle into Road, 17th September :- [https://www.fixmystreet.com/report/5002975](https://www.fixmystreet.com/report/5002975)
 - Very noisy inspection hatch, 17th September :- [https://www.fixmystreet.com/report/5002521](https://www.fixmystreet.com/report/5002521)
-- Fly Tipping, 17th September :- [https://www.fixmystreet.com/report/5002468](https://www.fixmystreet.com/report/5002468)
-- No white road markings, 17th September :- [https://www.fixmystreet.com/report/5002409](https://www.fixmystreet.com/report/5002409)
-- Grass Cutting, 16th September :- [https://www.fixmystreet.com/report/5000927](https://www.fixmystreet.com/report/5000927)
-- Double yellow lines barely visible, 16th September :- [https://www.fixmystreet.com/report/5000589](https://www.fixmystreet.com/report/5000589)
-- Deep pothole, 15th September :- [https://www.fixmystreet.com/report/4998608](https://www.fixmystreet.com/report/4998608)
-- 5 Potholes at the junction with Suffolk Road and Montpellier Villas, 15th September :- [https://www.fixmystreet.com/report/4998443](https://www.fixmystreet.com/report/4998443)
-- Pothole on SB carriageway L1 near brown "Regency" sign, 15th September :- [https://www.fixmystreet.com/report/4996224](https://www.fixmystreet.com/report/4996224)
-- Falling Tree obstructing the footpath/bridleway, 14th September :- [https://www.fixmystreet.com/report/4995392](https://www.fixmystreet.com/report/4995392)
 
 <!-- fix_marker ends -->
