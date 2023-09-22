@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 21st September :- [https://www.fixmystreet.com/report/5019252](https://www.fixmystreet.com/report/5019252)
 - Faded white H lines, 21st September :- [https://www.fixmystreet.com/report/5019138](https://www.fixmystreet.com/report/5019138)
 - Branch blocking footpath in wooded area, 21st September :- [https://www.fixmystreet.com/report/5019105](https://www.fixmystreet.com/report/5019105)
 - Multiple deep potholes, 21st September :- [https://www.fixmystreet.com/report/5019006](https://www.fixmystreet.com/report/5019006)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 Deep potholes on a Blind Bend on Aggs Hill, 18th September :- [https://www.fixmystreet.com/report/5004190](https://www.fixmystreet.com/report/5004190)
 - Dangerous loose dislodged bricks overhead., 17th September :- [https://www.fixmystreet.com/report/5003503](https://www.fixmystreet.com/report/5003503)
 - Salt Bin on Aggs Hill Hit by Vehicle into Road, 17th September :- [https://www.fixmystreet.com/report/5002975](https://www.fixmystreet.com/report/5002975)
-- Very noisy inspection hatch, 17th September :- [https://www.fixmystreet.com/report/5002521](https://www.fixmystreet.com/report/5002521)
 
 <!-- fix_marker ends -->
