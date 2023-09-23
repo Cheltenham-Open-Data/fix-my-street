@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Post in pavement, 23rd September :- [https://www.fixmystreet.com/report/5024507](https://www.fixmystreet.com/report/5024507)
+- Debris in gutters, 23rd September :- [https://www.fixmystreet.com/report/5024180](https://www.fixmystreet.com/report/5024180)
+- Pothole, 23rd September :- [https://www.fixmystreet.com/report/5023927](https://www.fixmystreet.com/report/5023927)
 - Blocked drains/gulleys, 22nd September :- [https://www.fixmystreet.com/report/5022613](https://www.fixmystreet.com/report/5022613)
 - Footpath blocked, 22nd September :- [https://www.fixmystreet.com/report/5021740](https://www.fixmystreet.com/report/5021740)
 - Sinking/collapsing manhole/inspection/chamber cover, 22nd September :- [https://www.fixmystreet.com/report/5021446](https://www.fixmystreet.com/report/5021446)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Hole in ground, possibly broken drain cover, 21st September :- [https://www.fixmystreet.com/report/5016595](https://www.fixmystreet.com/report/5016595)
 - Abandoned car in Andover Street, 20th September :- [https://www.fixmystreet.com/report/5015951](https://www.fixmystreet.com/report/5015951)
 - Overgrown hedges obscuring view of traffic, 20th September :- [https://www.fixmystreet.com/report/5015688](https://www.fixmystreet.com/report/5015688)
-- Flooded road / blocked drain Repeat problem, 20th September :- [https://www.fixmystreet.com/report/5013940](https://www.fixmystreet.com/report/5013940)
-- Pavement damgerous for wheelchairs, 20th September :- [https://www.fixmystreet.com/report/5013600](https://www.fixmystreet.com/report/5013600)
-- Tree started to blow over in the wind, 20th September :- [https://www.fixmystreet.com/report/5013411](https://www.fixmystreet.com/report/5013411)
 
 <!-- fix_marker ends -->
