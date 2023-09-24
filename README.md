@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very very loud manhole cover, 24th September :- [https://www.fixmystreet.com/report/5024939](https://www.fixmystreet.com/report/5024939)
 - Post in pavement, 23rd September :- [https://www.fixmystreet.com/report/5024507](https://www.fixmystreet.com/report/5024507)
 - Debris in gutters, 23rd September :- [https://www.fixmystreet.com/report/5024180](https://www.fixmystreet.com/report/5024180)
 - Pothole, 23rd September :- [https://www.fixmystreet.com/report/5023927](https://www.fixmystreet.com/report/5023927)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Foul/Sewage Water over flowing, 21st September :- [https://www.fixmystreet.com/report/5017032](https://www.fixmystreet.com/report/5017032)
 - Hole in ground, possibly broken drain cover, 21st September :- [https://www.fixmystreet.com/report/5016595](https://www.fixmystreet.com/report/5016595)
 - Abandoned car in Andover Street, 20th September :- [https://www.fixmystreet.com/report/5015951](https://www.fixmystreet.com/report/5015951)
-- Overgrown hedges obscuring view of traffic, 20th September :- [https://www.fixmystreet.com/report/5015688](https://www.fixmystreet.com/report/5015688)
 
 <!-- fix_marker ends -->
