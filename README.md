@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Possible Water Leak, 25th September :- [https://www.fixmystreet.com/report/5030566](https://www.fixmystreet.com/report/5030566)
+- Narrow footpath, 25th September :- [https://www.fixmystreet.com/report/5029594](https://www.fixmystreet.com/report/5029594)
+- Pothole slow Lane M5 Southbound just before A40 junction, 25th September :- [https://www.fixmystreet.com/report/5027548](https://www.fixmystreet.com/report/5027548)
 - Temporary lights out, 25th September :- [https://www.fixmystreet.com/report/5027184](https://www.fixmystreet.com/report/5027184)
 - Large pothole affecting nearside wheels in lane 1 approximately 1 mile before exit for j11, 24th September :- [https://www.fixmystreet.com/report/5026432](https://www.fixmystreet.com/report/5026432)
 - Abandoned road traffic signs in Upper Park Street, 24th September :- [https://www.fixmystreet.com/report/5026331](https://www.fixmystreet.com/report/5026331)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Faded white H lines, 21st September :- [https://www.fixmystreet.com/report/5019138](https://www.fixmystreet.com/report/5019138)
 - Branch blocking footpath in wooded area, 21st September :- [https://www.fixmystreet.com/report/5019105](https://www.fixmystreet.com/report/5019105)
 - Multiple deep potholes, 21st September :- [https://www.fixmystreet.com/report/5019006](https://www.fixmystreet.com/report/5019006)
-- Waste outside no 22 Russell street., 21st September :- [https://www.fixmystreet.com/report/5018695](https://www.fixmystreet.com/report/5018695)
-- Footpath foliage needs more work., 21st September :- [https://www.fixmystreet.com/report/5017941](https://www.fixmystreet.com/report/5017941)
-- Can't walk on path due to hedge and excessive rubbish in area, 21st September :- [https://www.fixmystreet.com/report/5017533](https://www.fixmystreet.com/report/5017533)
 
 <!-- fix_marker ends -->
