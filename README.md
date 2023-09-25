@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Temporary lights out, 25th September :- [https://www.fixmystreet.com/report/5027184](https://www.fixmystreet.com/report/5027184)
+- Large pothole affecting nearside wheels in lane 1 approximately 1 mile before exit for j11, 24th September :- [https://www.fixmystreet.com/report/5026432](https://www.fixmystreet.com/report/5026432)
 - Abandoned road traffic signs in Upper Park Street, 24th September :- [https://www.fixmystreet.com/report/5026331](https://www.fixmystreet.com/report/5026331)
 - Very very loud manhole cover, 24th September :- [https://www.fixmystreet.com/report/5024939](https://www.fixmystreet.com/report/5024939)
 - Post in pavement, 23rd September :- [https://www.fixmystreet.com/report/5024507](https://www.fixmystreet.com/report/5024507)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Waste outside no 22 Russell street., 21st September :- [https://www.fixmystreet.com/report/5018695](https://www.fixmystreet.com/report/5018695)
 - Footpath foliage needs more work., 21st September :- [https://www.fixmystreet.com/report/5017941](https://www.fixmystreet.com/report/5017941)
 - Can't walk on path due to hedge and excessive rubbish in area, 21st September :- [https://www.fixmystreet.com/report/5017533](https://www.fixmystreet.com/report/5017533)
-- Foul/Sewage Water over flowing, 21st September :- [https://www.fixmystreet.com/report/5017032](https://www.fixmystreet.com/report/5017032)
-- Hole in ground, possibly broken drain cover, 21st September :- [https://www.fixmystreet.com/report/5016595](https://www.fixmystreet.com/report/5016595)
 
 <!-- fix_marker ends -->
