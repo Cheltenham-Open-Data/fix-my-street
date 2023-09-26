@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep Potholes on a Blind Bend at Top of Aggs Hill, 26th September :- [https://www.fixmystreet.com/report/5034273](https://www.fixmystreet.com/report/5034273)
+- Overflowing bin, 26th September :- [https://www.fixmystreet.com/report/5031687](https://www.fixmystreet.com/report/5031687)
+- Graffiti on post box, 26th September :- [https://www.fixmystreet.com/report/5031681](https://www.fixmystreet.com/report/5031681)
+- Graffiti on the bus stop, 26th September :- [https://www.fixmystreet.com/report/5031676](https://www.fixmystreet.com/report/5031676)
 - Possible Water Leak, 25th September :- [https://www.fixmystreet.com/report/5030566](https://www.fixmystreet.com/report/5030566)
 - Narrow footpath, 25th September :- [https://www.fixmystreet.com/report/5029594](https://www.fixmystreet.com/report/5029594)
 - Pothole slow Lane M5 Southbound just before A40 junction, 25th September :- [https://www.fixmystreet.com/report/5027548](https://www.fixmystreet.com/report/5027548)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Badly damaged and potentially hazardous paving, 22nd September :- [https://www.fixmystreet.com/report/5020517](https://www.fixmystreet.com/report/5020517)
 - Plastic barrier dumped on verge, 22nd September :- [https://www.fixmystreet.com/report/5020422](https://www.fixmystreet.com/report/5020422)
 - Verge not mowen, 22nd September :- [https://www.fixmystreet.com/report/5020317](https://www.fixmystreet.com/report/5020317)
-- Blocked drain, 21st September :- [https://www.fixmystreet.com/report/5019252](https://www.fixmystreet.com/report/5019252)
-- Faded white H lines, 21st September :- [https://www.fixmystreet.com/report/5019138](https://www.fixmystreet.com/report/5019138)
-- Branch blocking footpath in wooded area, 21st September :- [https://www.fixmystreet.com/report/5019105](https://www.fixmystreet.com/report/5019105)
-- Multiple deep potholes, 21st September :- [https://www.fixmystreet.com/report/5019006](https://www.fixmystreet.com/report/5019006)
 
 <!-- fix_marker ends -->
