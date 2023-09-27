@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Vehicles parked in mandatory cycle lane, 27th September :- [https://www.fixmystreet.com/report/5038368](https://www.fixmystreet.com/report/5038368)
+- Dangerous manhole cover, 27th September :- [https://www.fixmystreet.com/report/5037907](https://www.fixmystreet.com/report/5037907)
 - Deep Potholes on a Blind Bend at Top of Aggs Hill, 26th September :- [https://www.fixmystreet.com/report/5034273](https://www.fixmystreet.com/report/5034273)
 - Overflowing bin, 26th September :- [https://www.fixmystreet.com/report/5031687](https://www.fixmystreet.com/report/5031687)
 - Graffiti on post box, 26th September :- [https://www.fixmystreet.com/report/5031681](https://www.fixmystreet.com/report/5031681)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Footpath blocked, 22nd September :- [https://www.fixmystreet.com/report/5021740](https://www.fixmystreet.com/report/5021740)
 - Sinking/collapsing manhole/inspection/chamber cover, 22nd September :- [https://www.fixmystreet.com/report/5021446](https://www.fixmystreet.com/report/5021446)
 - Badly damaged and potentially hazardous paving, 22nd September :- [https://www.fixmystreet.com/report/5020517](https://www.fixmystreet.com/report/5020517)
-- Plastic barrier dumped on verge, 22nd September :- [https://www.fixmystreet.com/report/5020422](https://www.fixmystreet.com/report/5020422)
-- Verge not mowen, 22nd September :- [https://www.fixmystreet.com/report/5020317](https://www.fixmystreet.com/report/5020317)
 
 <!-- fix_marker ends -->
