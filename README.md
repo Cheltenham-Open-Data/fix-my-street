@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light not working., 28th September :- [https://www.fixmystreet.com/report/5041755](https://www.fixmystreet.com/report/5041755)
+- This pothole (by the collapsed wall) was repaired recently, 28th September :- [https://www.fixmystreet.com/report/5040969](https://www.fixmystreet.com/report/5040969)
+- Car parked on pavement for weeks (possibly abandoned?), 28th September :- [https://www.fixmystreet.com/report/5040519](https://www.fixmystreet.com/report/5040519)
 - M5 south about 1/2 mile before junction 11, 28th September :- [https://www.fixmystreet.com/report/5039284](https://www.fixmystreet.com/report/5039284)
 - Pothole on lane 1 nearside, 27th September :- [https://www.fixmystreet.com/report/5038973](https://www.fixmystreet.com/report/5038973)
 - Vehicles parked in mandatory cycle lane, 27th September :- [https://www.fixmystreet.com/report/5038368](https://www.fixmystreet.com/report/5038368)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very very loud manhole cover, 24th September :- [https://www.fixmystreet.com/report/5024939](https://www.fixmystreet.com/report/5024939)
 - Post in pavement, 23rd September :- [https://www.fixmystreet.com/report/5024507](https://www.fixmystreet.com/report/5024507)
 - Debris in gutters, 23rd September :- [https://www.fixmystreet.com/report/5024180](https://www.fixmystreet.com/report/5024180)
-- Pothole, 23rd September :- [https://www.fixmystreet.com/report/5023927](https://www.fixmystreet.com/report/5023927)
-- Blocked drains/gulleys, 22nd September :- [https://www.fixmystreet.com/report/5022613](https://www.fixmystreet.com/report/5022613)
-- Footpath blocked, 22nd September :- [https://www.fixmystreet.com/report/5021740](https://www.fixmystreet.com/report/5021740)
 
 <!-- fix_marker ends -->
