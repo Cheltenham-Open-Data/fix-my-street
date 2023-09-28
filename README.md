@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- M5 south about 1/2 mile before junction 11, 28th September :- [https://www.fixmystreet.com/report/5039284](https://www.fixmystreet.com/report/5039284)
+- Pothole on lane 1 nearside, 27th September :- [https://www.fixmystreet.com/report/5038973](https://www.fixmystreet.com/report/5038973)
 - Vehicles parked in mandatory cycle lane, 27th September :- [https://www.fixmystreet.com/report/5038368](https://www.fixmystreet.com/report/5038368)
 - Dangerous manhole cover, 27th September :- [https://www.fixmystreet.com/report/5037907](https://www.fixmystreet.com/report/5037907)
 - Deep Potholes on a Blind Bend at Top of Aggs Hill, 26th September :- [https://www.fixmystreet.com/report/5034273](https://www.fixmystreet.com/report/5034273)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 23rd September :- [https://www.fixmystreet.com/report/5023927](https://www.fixmystreet.com/report/5023927)
 - Blocked drains/gulleys, 22nd September :- [https://www.fixmystreet.com/report/5022613](https://www.fixmystreet.com/report/5022613)
 - Footpath blocked, 22nd September :- [https://www.fixmystreet.com/report/5021740](https://www.fixmystreet.com/report/5021740)
-- Sinking/collapsing manhole/inspection/chamber cover, 22nd September :- [https://www.fixmystreet.com/report/5021446](https://www.fixmystreet.com/report/5021446)
-- Badly damaged and potentially hazardous paving, 22nd September :- [https://www.fixmystreet.com/report/5020517](https://www.fixmystreet.com/report/5020517)
 
 <!-- fix_marker ends -->
