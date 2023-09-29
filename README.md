@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Footpath and garden on the corner of Bishops Drive and Two Hedges Road, 29th September :- [https://www.fixmystreet.com/report/5043006](https://www.fixmystreet.com/report/5043006)
+- Pavement obstruction by very busy road, 29th September :- [https://www.fixmystreet.com/report/5042993](https://www.fixmystreet.com/report/5042993)
 - Street light not working., 28th September :- [https://www.fixmystreet.com/report/5041755](https://www.fixmystreet.com/report/5041755)
 - This pothole (by the collapsed wall) was repaired recently, 28th September :- [https://www.fixmystreet.com/report/5040969](https://www.fixmystreet.com/report/5040969)
 - Car parked on pavement for weeks (possibly abandoned?), 28th September :- [https://www.fixmystreet.com/report/5040519](https://www.fixmystreet.com/report/5040519)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole affecting nearside wheels in lane 1 approximately 1 mile before exit for j11, 24th September :- [https://www.fixmystreet.com/report/5026432](https://www.fixmystreet.com/report/5026432)
 - Abandoned road traffic signs in Upper Park Street, 24th September :- [https://www.fixmystreet.com/report/5026331](https://www.fixmystreet.com/report/5026331)
 - Very very loud manhole cover, 24th September :- [https://www.fixmystreet.com/report/5024939](https://www.fixmystreet.com/report/5024939)
-- Post in pavement, 23rd September :- [https://www.fixmystreet.com/report/5024507](https://www.fixmystreet.com/report/5024507)
-- Debris in gutters, 23rd September :- [https://www.fixmystreet.com/report/5024180](https://www.fixmystreet.com/report/5024180)
 
 <!-- fix_marker ends -->
