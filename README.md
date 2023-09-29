@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on bin, 29th September :- [https://www.fixmystreet.com/report/5045445](https://www.fixmystreet.com/report/5045445)
+- Deep pothole, 29th September :- [https://www.fixmystreet.com/report/5045322](https://www.fixmystreet.com/report/5045322)
+- Lack of street lighting on this corner, 29th September :- [https://www.fixmystreet.com/report/5045288](https://www.fixmystreet.com/report/5045288)
+- Overgrown hedge, 29th September :- [https://www.fixmystreet.com/report/5045231](https://www.fixmystreet.com/report/5045231)
+- Excellent work, 29th September :- [https://www.fixmystreet.com/report/5043293](https://www.fixmystreet.com/report/5043293)
 - Footpath and garden on the corner of Bishops Drive and Two Hedges Road, 29th September :- [https://www.fixmystreet.com/report/5043006](https://www.fixmystreet.com/report/5043006)
 - Pavement obstruction by very busy road, 29th September :- [https://www.fixmystreet.com/report/5042993](https://www.fixmystreet.com/report/5042993)
 - Street light not working., 28th September :- [https://www.fixmystreet.com/report/5041755](https://www.fixmystreet.com/report/5041755)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on the bus stop, 26th September :- [https://www.fixmystreet.com/report/5031676](https://www.fixmystreet.com/report/5031676)
 - Possible Water Leak, 25th September :- [https://www.fixmystreet.com/report/5030566](https://www.fixmystreet.com/report/5030566)
 - Narrow footpath, 25th September :- [https://www.fixmystreet.com/report/5029594](https://www.fixmystreet.com/report/5029594)
-- Pothole slow Lane M5 Southbound just before A40 junction, 25th September :- [https://www.fixmystreet.com/report/5027548](https://www.fixmystreet.com/report/5027548)
-- Temporary lights out, 25th September :- [https://www.fixmystreet.com/report/5027184](https://www.fixmystreet.com/report/5027184)
-- Large pothole affecting nearside wheels in lane 1 approximately 1 mile before exit for j11, 24th September :- [https://www.fixmystreet.com/report/5026432](https://www.fixmystreet.com/report/5026432)
-- Abandoned road traffic signs in Upper Park Street, 24th September :- [https://www.fixmystreet.com/report/5026331](https://www.fixmystreet.com/report/5026331)
-- Very very loud manhole cover, 24th September :- [https://www.fixmystreet.com/report/5024939](https://www.fixmystreet.com/report/5024939)
 
 <!-- fix_marker ends -->
