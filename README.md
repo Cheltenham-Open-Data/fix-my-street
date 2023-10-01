@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole, 1st October :- [https://www.fixmystreet.com/report/5050376](https://www.fixmystreet.com/report/5050376)
+- Large pothole, 1st October :- [https://www.fixmystreet.com/report/5050375](https://www.fixmystreet.com/report/5050375)
+- Alley way over grown not passable, 1st October :- [https://www.fixmystreet.com/report/5050310](https://www.fixmystreet.com/report/5050310)
+- Broken water pump on play equipment, 1st October :- [https://www.fixmystreet.com/report/5050127](https://www.fixmystreet.com/report/5050127)
+- More electrical waste flytipped here, 1st October :- [https://www.fixmystreet.com/report/5049101](https://www.fixmystreet.com/report/5049101)
 - Graffiti and stickers on substation, 30th September :- [https://www.fixmystreet.com/report/5047744](https://www.fixmystreet.com/report/5047744)
 - Graffiti on wall by primari, 30th September :- [https://www.fixmystreet.com/report/5047725](https://www.fixmystreet.com/report/5047725)
 - Deep rut, 30th September :- [https://www.fixmystreet.com/report/5047502](https://www.fixmystreet.com/report/5047502)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Missing road name, sign at junction of Cornwall Avenue, and Bedford Avenue, 30th September :- [https://www.fixmystreet.com/report/5046699](https://www.fixmystreet.com/report/5046699)
 - Slabs cracked and broken outside 87 Brooklyn Road, 30th September :- [https://www.fixmystreet.com/report/5046596](https://www.fixmystreet.com/report/5046596)
 - Smashed bottle on path and verge, 30th September :- [https://www.fixmystreet.com/report/5046564](https://www.fixmystreet.com/report/5046564)
-- Graffiti on bin, 29th September :- [https://www.fixmystreet.com/report/5045445](https://www.fixmystreet.com/report/5045445)
-- Deep pothole, 29th September :- [https://www.fixmystreet.com/report/5045322](https://www.fixmystreet.com/report/5045322)
-- Lack of street lighting on this corner, 29th September :- [https://www.fixmystreet.com/report/5045288](https://www.fixmystreet.com/report/5045288)
-- Overgrown hedge, 29th September :- [https://www.fixmystreet.com/report/5045231](https://www.fixmystreet.com/report/5045231)
-- Excellent work, 29th September :- [https://www.fixmystreet.com/report/5043293](https://www.fixmystreet.com/report/5043293)
 
 <!-- fix_marker ends -->
