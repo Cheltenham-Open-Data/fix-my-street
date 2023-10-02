@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on wall and aign, 2nd October :- [https://www.fixmystreet.com/report/5054448](https://www.fixmystreet.com/report/5054448)
+- Hole in pavement across from No. 44, 2nd October :- [https://www.fixmystreet.com/report/5054311](https://www.fixmystreet.com/report/5054311)
+- Gas Cylinder Left Behind when previous tip cleared up, 2nd October :- [https://www.fixmystreet.com/report/5051392](https://www.fixmystreet.com/report/5051392)
+- Flytip at the Location, 2nd October :- [https://www.fixmystreet.com/report/5051361](https://www.fixmystreet.com/report/5051361)
 - Large pothole, 1st October :- [https://www.fixmystreet.com/report/5050376](https://www.fixmystreet.com/report/5050376)
 - Large pothole, 1st October :- [https://www.fixmystreet.com/report/5050375](https://www.fixmystreet.com/report/5050375)
 - Alley way over grown not passable, 1st October :- [https://www.fixmystreet.com/report/5050310](https://www.fixmystreet.com/report/5050310)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on number 57 bites cafe, 30th September :- [https://www.fixmystreet.com/report/5046913](https://www.fixmystreet.com/report/5046913)
 - Flytipping outside number 120, 30th September :- [https://www.fixmystreet.com/report/5046903](https://www.fixmystreet.com/report/5046903)
 - Tags on alley, 30th September :- [https://www.fixmystreet.com/report/5046883](https://www.fixmystreet.com/report/5046883)
-- Broken glass, 30th September :- [https://www.fixmystreet.com/report/5046759](https://www.fixmystreet.com/report/5046759)
-- Missing road name, sign at junction of Cornwall Avenue, and Bedford Avenue, 30th September :- [https://www.fixmystreet.com/report/5046699](https://www.fixmystreet.com/report/5046699)
-- Slabs cracked and broken outside 87 Brooklyn Road, 30th September :- [https://www.fixmystreet.com/report/5046596](https://www.fixmystreet.com/report/5046596)
-- Smashed bottle on path and verge, 30th September :- [https://www.fixmystreet.com/report/5046564](https://www.fixmystreet.com/report/5046564)
 
 <!-- fix_marker ends -->
