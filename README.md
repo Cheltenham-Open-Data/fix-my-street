@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown shrubbery and weeds, 3rd October :- [https://www.fixmystreet.com/report/5057571](https://www.fixmystreet.com/report/5057571)
+- Car dumped in the edge of the playing field, 3rd October :- [https://www.fixmystreet.com/report/5055635](https://www.fixmystreet.com/report/5055635)
+- Graffiti on railway bridge, 3rd October :- [https://www.fixmystreet.com/report/5055616](https://www.fixmystreet.com/report/5055616)
+- Graffiti on network box, 3rd October :- [https://www.fixmystreet.com/report/5055608](https://www.fixmystreet.com/report/5055608)
+- Pedestrian crossing lights not working, 3rd October :- [https://www.fixmystreet.com/report/5055526](https://www.fixmystreet.com/report/5055526)
+- Dead tree on Sochi Mews, 3rd October :- [https://www.fixmystreet.com/report/5055460](https://www.fixmystreet.com/report/5055460)
 - Graffiti on wall and aign, 2nd October :- [https://www.fixmystreet.com/report/5054448](https://www.fixmystreet.com/report/5054448)
 - Hole in pavement across from No. 44, 2nd October :- [https://www.fixmystreet.com/report/5054311](https://www.fixmystreet.com/report/5054311)
 - Gas Cylinder Left Behind when previous tip cleared up, 2nd October :- [https://www.fixmystreet.com/report/5051392](https://www.fixmystreet.com/report/5051392)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep rut, 30th September :- [https://www.fixmystreet.com/report/5047502](https://www.fixmystreet.com/report/5047502)
 - Very deep pothole, 30th September :- [https://www.fixmystreet.com/report/5047334](https://www.fixmystreet.com/report/5047334)
 - Large amount of flytipping in alleyway to Rydal Walk, 30th September :- [https://www.fixmystreet.com/report/5047285](https://www.fixmystreet.com/report/5047285)
-- Graffiti on wall and substation, 30th September :- [https://www.fixmystreet.com/report/5046938](https://www.fixmystreet.com/report/5046938)
-- Very poor workmanship, 30th September :- [https://www.fixmystreet.com/report/5046934](https://www.fixmystreet.com/report/5046934)
-- Graffiti on substation, 30th September :- [https://www.fixmystreet.com/report/5046919](https://www.fixmystreet.com/report/5046919)
-- Graffiti on number 57 bites cafe, 30th September :- [https://www.fixmystreet.com/report/5046913](https://www.fixmystreet.com/report/5046913)
-- Flytipping outside number 120, 30th September :- [https://www.fixmystreet.com/report/5046903](https://www.fixmystreet.com/report/5046903)
-- Tags on alley, 30th September :- [https://www.fixmystreet.com/report/5046883](https://www.fixmystreet.com/report/5046883)
 
 <!-- fix_marker ends -->
