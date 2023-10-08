@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- General road marking and stud issues problem, 7th October :- [https://www.fixmystreet.com/report/5073043](https://www.fixmystreet.com/report/5073043)
 - Path misused by unlawful users problem, 7th October :- [https://www.fixmystreet.com/report/5072633](https://www.fixmystreet.com/report/5072633)
 - Tree is damaged problem, 7th October :- [https://www.fixmystreet.com/report/5072344](https://www.fixmystreet.com/report/5072344)
 - Rattling cover, 6th October :- [https://www.fixmystreet.com/report/5070381](https://www.fixmystreet.com/report/5070381)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Vehicle leaking Diesel/oil, 5th October :- [https://www.fixmystreet.com/report/5066421](https://www.fixmystreet.com/report/5066421)
 - The sign is illegible problem, 5th October :- [https://www.fixmystreet.com/report/5066412](https://www.fixmystreet.com/report/5066412)
 - Light sensor is not detecting vehicles problem, 5th October :- [https://www.fixmystreet.com/report/5068518](https://www.fixmystreet.com/report/5068518)
-- General road marking and stud issues problem, 5th October :- [https://www.fixmystreet.com/report/5066261](https://www.fixmystreet.com/report/5066261)
 
 <!-- fix_marker ends -->
