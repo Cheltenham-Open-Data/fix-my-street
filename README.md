@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on park sign, 9th October :- [https://www.fixmystreet.com/report/5075639](https://www.fixmystreet.com/report/5075639)
+- A pothole in road problem, 8th October :- [https://www.fixmystreet.com/report/5075383](https://www.fixmystreet.com/report/5075383)
+- Light is obscured by vegetation problem, 8th October :- [https://www.fixmystreet.com/report/5075258](https://www.fixmystreet.com/report/5075258)
 - Gate is damaged/missing/locked problem, 8th October :- [https://www.fixmystreet.com/report/5074762](https://www.fixmystreet.com/report/5074762)
 - A pothole in road problem, 8th October :- [https://www.fixmystreet.com/report/5074501](https://www.fixmystreet.com/report/5074501)
 - General road marking and stud issues problem, 8th October :- [https://www.fixmystreet.com/report/5074500](https://www.fixmystreet.com/report/5074500)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on playground, 6th October :- [https://www.fixmystreet.com/report/5070333](https://www.fixmystreet.com/report/5070333)
 - Badly smashed/wobbly paving stones in a precarious position, 6th October :- [https://www.fixmystreet.com/report/5069848](https://www.fixmystreet.com/report/5069848)
 - A pothole in road problem, 6th October :- [https://www.fixmystreet.com/report/5069795](https://www.fixmystreet.com/report/5069795)
-- Piece of blue car bonnet dumped, 6th October :- [https://www.fixmystreet.com/report/5069326](https://www.fixmystreet.com/report/5069326)
-- The sign is illegible problem, 6th October :- [https://www.fixmystreet.com/report/5069685](https://www.fixmystreet.com/report/5069685)
-- Loose/rattling cover/ironwork problem, 6th October :- [https://www.fixmystreet.com/report/5068662](https://www.fixmystreet.com/report/5068662)
 
 <!-- fix_marker ends -->
