@@ -2,7 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 9th October :- [https://www.fixmystreet.com/report/5079737](https://www.fixmystreet.com/report/5079737)
+- Tree too big, 9th October :- [https://www.fixmystreet.com/report/5079508](https://www.fixmystreet.com/report/5079508)
 - Waste bin overflowing, 9th October :- [https://www.fixmystreet.com/report/5079176](https://www.fixmystreet.com/report/5079176)
+- Tree is damaged problem, 9th October :- [https://www.fixmystreet.com/report/5079359](https://www.fixmystreet.com/report/5079359)
 - Damaged tarmac around man hole cover, 9th October :- [https://www.fixmystreet.com/report/5079162](https://www.fixmystreet.com/report/5079162)
 - Fallen fencing on Napier Drive beside green space, 9th October :- [https://www.fixmystreet.com/report/5079002](https://www.fixmystreet.com/report/5079002)
 - Poteholes appearing daily, 9th October :- [https://www.fixmystreet.com/report/5078616](https://www.fixmystreet.com/report/5078616)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 9th October :- [https://www.fixmystreet.com/report/5077062](https://www.fixmystreet.com/report/5077062)
 - General road marking and stud issues problem, 9th October :- [https://www.fixmystreet.com/report/5077061](https://www.fixmystreet.com/report/5077061)
 - The sign is illegible problem, 9th October :- [https://www.fixmystreet.com/report/5076475](https://www.fixmystreet.com/report/5076475)
-- Tree is damaged problem, 9th October :- [https://www.fixmystreet.com/report/5076086](https://www.fixmystreet.com/report/5076086)
-- A pothole in road problem, 9th October :- [https://www.fixmystreet.com/report/5076083](https://www.fixmystreet.com/report/5076083)
-- Street light out, 9th October :- [https://www.fixmystreet.com/report/5075759](https://www.fixmystreet.com/report/5075759)
 
 <!-- fix_marker ends -->
