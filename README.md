@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 11th October :- [https://www.fixmystreet.com/report/5084063](https://www.fixmystreet.com/report/5084063)
 - Massive white tag on wall, 10th October :- [https://www.fixmystreet.com/report/5083194](https://www.fixmystreet.com/report/5083194)
 - Light sensor is not detecting vehicles problem, 10th October :- [https://www.fixmystreet.com/report/5083316](https://www.fixmystreet.com/report/5083316)
 - A pothole in road problem, 10th October :- [https://www.fixmystreet.com/report/5083046](https://www.fixmystreet.com/report/5083046)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Waste bin overflowing, 9th October :- [https://www.fixmystreet.com/report/5079176](https://www.fixmystreet.com/report/5079176)
 - Tree is damaged problem, 9th October :- [https://www.fixmystreet.com/report/5079359](https://www.fixmystreet.com/report/5079359)
 - Damaged tarmac around man hole cover, 9th October :- [https://www.fixmystreet.com/report/5079162](https://www.fixmystreet.com/report/5079162)
-- Fallen fencing on Napier Drive beside green space, 9th October :- [https://www.fixmystreet.com/report/5079002](https://www.fixmystreet.com/report/5079002)
 
 <!-- fix_marker ends -->
