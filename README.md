@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 12th October :- [https://www.fixmystreet.com/report/5088697](https://www.fixmystreet.com/report/5088697)
+- Road resurfaced but not clmplete, 11th October :- [https://www.fixmystreet.com/report/5087877](https://www.fixmystreet.com/report/5087877)
 - Grass not cut O/S number 48 Minetts Rd onwards., 11th October :- [https://www.fixmystreet.com/report/5086983](https://www.fixmystreet.com/report/5086983)
 - Gate is damaged/missing/locked problem, 11th October :- [https://www.fixmystreet.com/report/5086992](https://www.fixmystreet.com/report/5086992)
 - Footpath sifn has been broken off, 11th October :- [https://www.fixmystreet.com/report/5086216](https://www.fixmystreet.com/report/5086216)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bordered up at the eastern end of the footpath, 10th October :- [https://www.fixmystreet.com/report/5081823](https://www.fixmystreet.com/report/5081823)
 - A General road marking and stud issues problem has been found, 10th October :- [https://www.fixmystreet.com/report/5081122](https://www.fixmystreet.com/report/5081122)
 - Road markings on roundabout A40 gloucester road to hatherly lane, fiddlers green, 10th October :- [https://www.fixmystreet.com/report/5081054](https://www.fixmystreet.com/report/5081054)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 10th October :- [https://www.fixmystreet.com/report/5081455](https://www.fixmystreet.com/report/5081455)
-- A pothole in road problem, 10th October :- [https://www.fixmystreet.com/report/5081302](https://www.fixmystreet.com/report/5081302)
 
 <!-- fix_marker ends -->
