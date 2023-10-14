@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -12,6 +12,51 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>General road marking and stud issues problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/5096004</link>
+<description>Cycles travelling North on this cycle path are forced to cross the oncoming traffic at speed to reach Gotherington. The same cycles also have little visibility of other traffic also travelling North, which also needs to be crossed for the cycles to reach Gotherington.&amp;#10;Death awaits users of this cycle path...&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5096004&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>General road marking and stud issues</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5096004</guid>
+<pubDate>Fri, 13 Oct 2023 21:35:02 +0100</pubDate>
+<georss:point>51.960829 -2.053823</georss:point>
+</item>
+<item>
+<title>Sustained damage problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/5095963</link>
+<description>Non-Illuminated bollards and signs&amp;#10;BollardThe sign is illegible&amp;#10;Bollard&amp;#10;When travelling North along Gotherington lane - at night...&amp;#10;The final part of the chicane cannot be seen, due to the brighter lights of the roundabout just behind it.    It is only time before a vehicle hits the kerb or bollard, instead of moving into the path of oncoming traffic.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5095963&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Sustained damage</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5095963</guid>
+<pubDate>Fri, 13 Oct 2023 21:15:02 +0100</pubDate>
+<georss:point>51.951991 -2.05604</georss:point>
+</item>
+<item>
+<title>Street light is permanently out problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/5095962</link>
+<description>Streetlight&amp;#10;Light is permanently out&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5095962&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street light is permanently out</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5095962</guid>
+<pubDate>Fri, 13 Oct 2023 21:14:02 +0100</pubDate>
+<georss:point>51.841334 -2.178272</georss:point>
+</item>
+<item>
+<title>General road marking and stud issues problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/5095961</link>
+<description>A dangerous road layout has been installed and needs to be changed before death occurs.   &amp;#10;&amp;#10;Cars approaching this junction from the North (ie from Gotherington, along Gotherington lane) No longer need to indicate to turn right into Vale Road. Also, with Mirabelle currently closed, cars (again from the North) do not indicate to go straight on. And when Mirabelle opens, they may eventually indicate left to leave Gotherington lane, but will then continue straight on hitting any cars leaving Mirabelle, and believing the above cars to be turning into Mirabelle. They will alos hit pedestrians crossing from Mirabelle to the CooP on Vale road, who believe these cars to be turning into Mirabelle, when in fact they are continueing on Gotherington Lane.        &amp;#10;&amp;#10;In short, accidents waiting to happen.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5095961&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>General road marking and stud issues</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5095961</guid>
+<pubDate>Fri, 13 Oct 2023 21:11:02 +0100</pubDate>
+<georss:point>51.953574 -2.055485</georss:point>
+</item>
+<item>
+<title>Street light is permanently out problem, 13th October</title>
+<link>https://www.fixmystreet.com/report/5095921</link>
+<description>Streetlight&amp;#10;Light is permanently out&amp;#10;&amp;#10;There are 5 or 6 street lights out in a row on the path between Stocken Close and Hathorn Road&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5095921&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street light is permanently out</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5095921</guid>
+<pubDate>Fri, 13 Oct 2023 20:56:02 +0100</pubDate>
+<georss:point>51.849852 -2.181367</georss:point>
+</item>
 <item>
 <title>Loose/rattling cover/ironwork problem, 13th October</title>
 <link>https://www.fixmystreet.com/report/5095410</link>
@@ -146,51 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/5093747</guid>
 <pubDate>Fri, 13 Oct 2023 10:43:02 +0100</pubDate>
 <georss:point>51.95885 -2.054582</georss:point>
-</item>
-<item>
-<title>Bin very full, 13th October</title>
-<link>https://www.fixmystreet.com/report/5093005</link>
-<description>Close to overflowing, which it did last week. Could it be emptied urgently please? Thanks.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/5093005.0.jpeg?5684d880&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 254, Old Bath Road, Leckhampton, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5093005&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Rubbish (refuse and recycling)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5093005</guid>
-<pubDate>Fri, 13 Oct 2023 09:58:52 +0100</pubDate>
-<georss:point>51.876813 -2.071898</georss:point>
-</item>
-<item>
-<title>The sign is illegible problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/5093746</link>
-<description>No entry sign leaning, see photo&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5093746&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>The sign is illegible</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5093746</guid>
-<pubDate>Fri, 13 Oct 2023 09:47:05 +0100</pubDate>
-<georss:point>51.888527 -2.079774</georss:point>
-</item>
-<item>
-<title>Badly pitted Car Park Entrance, 13th October</title>
-<link>https://www.fixmystreet.com/report/5092841</link>
-<description>The entrance to this car park is badly pitted with a couple of very large potholes which quite frankly are dangerous.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Oakhurst Rise, Ewens Farm, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5092841&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5092841</guid>
-<pubDate>Fri, 13 Oct 2023 09:31:02 +0100</pubDate>
-<georss:point>51.889162 -2.054524</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/5092834</link>
-<description>email rcvd 12.10.23 - Hi Highways &amp;#10;&amp;#10;Please investigate tree roots excavated under plane outside 3 Queens Lane. Some approx 50mm. &amp;#10;&amp;#10;Thanks&amp;#10;&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5092834&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5092834</guid>
-<pubDate>Fri, 13 Oct 2023 09:21:32 +0100</pubDate>
-<georss:point>51.895139 -2.084385</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 13th October</title>
-<link>https://www.fixmystreet.com/report/5093021</link>
-<description>2 trees which have come down on the bank of the brook , this is now blocking footpath  making it impassable, chainsaw required&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5093021&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5093021</guid>
-<pubDate>Fri, 13 Oct 2023 09:13:38 +0100</pubDate>
-<georss:point>51.863989 -2.128743</georss:point>
 </item>
 </channel>
 </rss>
