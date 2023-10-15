@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sustained damage problem, 14th October :- [https://www.fixmystreet.com/report/5098190](https://www.fixmystreet.com/report/5098190)
+- Deep pothole, 14th October :- [https://www.fixmystreet.com/report/5098078](https://www.fixmystreet.com/report/5098078)
 - Loose/rattling cover/ironwork problem, 14th October :- [https://www.fixmystreet.com/report/5097405](https://www.fixmystreet.com/report/5097405)
 - Overflowing bins, 14th October :- [https://www.fixmystreet.com/report/5096937](https://www.fixmystreet.com/report/5096937)
 - Nasty pothole, 14th October :- [https://www.fixmystreet.com/report/5096738](https://www.fixmystreet.com/report/5096738)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light is permanently out problem, 13th October :- [https://www.fixmystreet.com/report/5095921](https://www.fixmystreet.com/report/5095921)
 - Loose/rattling cover/ironwork problem, 13th October :- [https://www.fixmystreet.com/report/5095410](https://www.fixmystreet.com/report/5095410)
 - Fallen Tree/Branch on Path, 13th October :- [https://www.fixmystreet.com/report/5094987](https://www.fixmystreet.com/report/5094987)
-- Loose/rattling cover/ironwork problem, 13th October :- [https://www.fixmystreet.com/report/5095217](https://www.fixmystreet.com/report/5095217)
-- Loose/rattling cover/ironwork problem, 13th October :- [https://www.fixmystreet.com/report/5094761](https://www.fixmystreet.com/report/5094761)
 
 <!-- fix_marker ends -->
