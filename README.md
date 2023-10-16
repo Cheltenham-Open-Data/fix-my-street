@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Loose/rattling cover/ironwork problem, 16th October :- [https://www.fixmystreet.com/report/5100525](https://www.fixmystreet.com/report/5100525)
+- A pothole in road problem, 15th October :- [https://www.fixmystreet.com/report/5100309](https://www.fixmystreet.com/report/5100309)
 - Tag by alley, 15th October :- [https://www.fixmystreet.com/report/5099807](https://www.fixmystreet.com/report/5099807)
 - White graffiti on wall, 15th October :- [https://www.fixmystreet.com/report/5099805](https://www.fixmystreet.com/report/5099805)
 - Blue tag, 15th October :- [https://www.fixmystreet.com/report/5099804](https://www.fixmystreet.com/report/5099804)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sustained damage problem, 14th October :- [https://www.fixmystreet.com/report/5098190](https://www.fixmystreet.com/report/5098190)
 - Deep pothole, 14th October :- [https://www.fixmystreet.com/report/5098078](https://www.fixmystreet.com/report/5098078)
 - Loose/rattling cover/ironwork problem, 14th October :- [https://www.fixmystreet.com/report/5097405](https://www.fixmystreet.com/report/5097405)
-- Overflowing bins, 14th October :- [https://www.fixmystreet.com/report/5096937](https://www.fixmystreet.com/report/5096937)
-- Nasty pothole, 14th October :- [https://www.fixmystreet.com/report/5096738](https://www.fixmystreet.com/report/5096738)
 
 <!-- fix_marker ends -->
