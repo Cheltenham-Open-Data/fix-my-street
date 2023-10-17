@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 17th October :- [https://www.fixmystreet.com/report/5104734](https://www.fixmystreet.com/report/5104734)
+- Footpath blocked, 16th October :- [https://www.fixmystreet.com/report/5104198](https://www.fixmystreet.com/report/5104198)
+- The sign is illegible problem, 16th October :- [https://www.fixmystreet.com/report/5104249](https://www.fixmystreet.com/report/5104249)
 - Broken paving and patching of paved area with tarmac rather than correct paving stones, 16th October :- [https://www.fixmystreet.com/report/5103406](https://www.fixmystreet.com/report/5103406)
 - Loose/rattling cover/ironwork problem, 16th October :- [https://www.fixmystreet.com/report/5103548](https://www.fixmystreet.com/report/5103548)
 - Footway from Dunster Close to Marsland, 16th October :- [https://www.fixmystreet.com/report/5103230](https://www.fixmystreet.com/report/5103230)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 16th October :- [https://www.fixmystreet.com/report/5102437](https://www.fixmystreet.com/report/5102437)
 - Loose/rattling cover/ironwork problem, 16th October :- [https://www.fixmystreet.com/report/5102108](https://www.fixmystreet.com/report/5102108)
 - A pothole in road problem, 16th October :- [https://www.fixmystreet.com/report/5101931](https://www.fixmystreet.com/report/5101931)
-- Gate is damaged/missing/locked problem, 16th October :- [https://www.fixmystreet.com/report/5100870](https://www.fixmystreet.com/report/5100870)
-- Loose/rattling cover/ironwork problem, 16th October :- [https://www.fixmystreet.com/report/5100525](https://www.fixmystreet.com/report/5100525)
-- A pothole in road problem, 15th October :- [https://www.fixmystreet.com/report/5100309](https://www.fixmystreet.com/report/5100309)
 
 <!-- fix_marker ends -->
