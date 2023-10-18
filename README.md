@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large amount of broken glass spread across the pavement, Edinburgh Place, 18th October :- [https://www.fixmystreet.com/report/5108656](https://www.fixmystreet.com/report/5108656)
+- Large amount of broken glass spread across the pavement, Edinburgh Place, 18th October :- [https://www.fixmystreet.com/report/5108615](https://www.fixmystreet.com/report/5108615)
+- Loose/rattling cover/ironwork problem, 17th October :- [https://www.fixmystreet.com/report/5108160](https://www.fixmystreet.com/report/5108160)
+- Two street lights out permanently at junction of Princess, Elizabeth Way, and Edinburgh place, 17th October :- [https://www.fixmystreet.com/report/5107923](https://www.fixmystreet.com/report/5107923)
+- Street light is permanently out problem, 17th October :- [https://www.fixmystreet.com/report/5108052](https://www.fixmystreet.com/report/5108052)
 - Dangerous stretch of road, 17th October :- [https://www.fixmystreet.com/report/5107283](https://www.fixmystreet.com/report/5107283)
 - Light sensor is not detecting vehicles problem, 17th October :- [https://www.fixmystreet.com/report/5107470](https://www.fixmystreet.com/report/5107470)
 - General road marking and stud issues problem, 17th October :- [https://www.fixmystreet.com/report/5107468](https://www.fixmystreet.com/report/5107468)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Footpath blocked, 16th October :- [https://www.fixmystreet.com/report/5104198](https://www.fixmystreet.com/report/5104198)
 - The sign is illegible problem, 16th October :- [https://www.fixmystreet.com/report/5104249](https://www.fixmystreet.com/report/5104249)
 - Broken paving and patching of paved area with tarmac rather than correct paving stones, 16th October :- [https://www.fixmystreet.com/report/5103406](https://www.fixmystreet.com/report/5103406)
-- Loose/rattling cover/ironwork problem, 16th October :- [https://www.fixmystreet.com/report/5103548](https://www.fixmystreet.com/report/5103548)
-- Footway from Dunster Close to Marsland, 16th October :- [https://www.fixmystreet.com/report/5103230](https://www.fixmystreet.com/report/5103230)
-- Street light is permanently out problem, 16th October :- [https://www.fixmystreet.com/report/5103291](https://www.fixmystreet.com/report/5103291)
-- Light sensor is not detecting vehicles problem, 16th October :- [https://www.fixmystreet.com/report/5103288](https://www.fixmystreet.com/report/5103288)
-- Obstruction caused by wall/building problem, 16th October :- [https://www.fixmystreet.com/report/5103138](https://www.fixmystreet.com/report/5103138)
 
 <!-- fix_marker ends -->
