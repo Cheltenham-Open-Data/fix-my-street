@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 19th October :- [https://www.fixmystreet.com/report/5115423](https://www.fixmystreet.com/report/5115423)
+- The sign is illegible problem, 19th October :- [https://www.fixmystreet.com/report/5115350](https://www.fixmystreet.com/report/5115350)
 - A pothole in road problem, 19th October :- [https://www.fixmystreet.com/report/5115167](https://www.fixmystreet.com/report/5115167)
 - Light sensor is not detecting vehicles problem, 19th October :- [https://www.fixmystreet.com/report/5114995](https://www.fixmystreet.com/report/5114995)
 - The sign is illegible problem, 19th October :- [https://www.fixmystreet.com/report/5114994](https://www.fixmystreet.com/report/5114994)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 19th October :- [https://www.fixmystreet.com/report/5112643](https://www.fixmystreet.com/report/5112643)
 - A pothole in road problem, 19th October :- [https://www.fixmystreet.com/report/5112466](https://www.fixmystreet.com/report/5112466)
 - A pothole in road problem, 19th October :- [https://www.fixmystreet.com/report/5112465](https://www.fixmystreet.com/report/5112465)
-- Fly Tip - Top of Aggs Hill on Right Hand Side, 19th October :- [https://www.fixmystreet.com/report/5112197](https://www.fixmystreet.com/report/5112197)
-- Bag of Rubbish - Hit by Vehicles - now over road, 19th October :- [https://www.fixmystreet.com/report/5112190](https://www.fixmystreet.com/report/5112190)
 
 <!-- fix_marker ends -->
