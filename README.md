@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree location tarmaced over, 21st October :- [https://www.fixmystreet.com/report/5123204](https://www.fixmystreet.com/report/5123204)
+- A pothole in road problem, 21st October :- [https://www.fixmystreet.com/report/5123167](https://www.fixmystreet.com/report/5123167)
+- Tree is damaged problem, 21st October :- [https://www.fixmystreet.com/report/5122593](https://www.fixmystreet.com/report/5122593)
+- Loose/rattling cover/ironwork problem, 21st October :- [https://www.fixmystreet.com/report/5122480](https://www.fixmystreet.com/report/5122480)
+- Loose/rattling cover/ironwork problem, 21st October :- [https://www.fixmystreet.com/report/5122386](https://www.fixmystreet.com/report/5122386)
+- Rubbish on bypass, 21st October :- [https://www.fixmystreet.com/report/5121802](https://www.fixmystreet.com/report/5121802)
+- A pothole in road problem, 21st October :- [https://www.fixmystreet.com/report/5122001](https://www.fixmystreet.com/report/5122001)
+- A pothole in road problem, 21st October :- [https://www.fixmystreet.com/report/5122000](https://www.fixmystreet.com/report/5122000)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 21st October :- [https://www.fixmystreet.com/report/5121653](https://www.fixmystreet.com/report/5121653)
+- A pothole in road problem, 21st October :- [https://www.fixmystreet.com/report/5121554](https://www.fixmystreet.com/report/5121554)
+- Loose/rattling cover/ironwork problem, 21st October :- [https://www.fixmystreet.com/report/5121553](https://www.fixmystreet.com/report/5121553)
 - Graffiti on substation, 20th October :- [https://www.fixmystreet.com/report/5120310](https://www.fixmystreet.com/report/5120310)
 - At least one pothole, possibly more in road along side Hesters Way Primary School, Village Rd, 20th October :- [https://www.fixmystreet.com/report/5120128](https://www.fixmystreet.com/report/5120128)
 - Graffiti on lamppost, 20th October :- [https://www.fixmystreet.com/report/5119988](https://www.fixmystreet.com/report/5119988)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5120134](https://www.fixmystreet.com/report/5120134)
 - Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5120133](https://www.fixmystreet.com/report/5120133)
 - Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5120132](https://www.fixmystreet.com/report/5120132)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5119824](https://www.fixmystreet.com/report/5119824)
-- Big deep pothole A40, 20th October :- [https://www.fixmystreet.com/report/5119378](https://www.fixmystreet.com/report/5119378)
-- Gate is damaged/missing/locked problem, 20th October :- [https://www.fixmystreet.com/report/5119823](https://www.fixmystreet.com/report/5119823)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5119237](https://www.fixmystreet.com/report/5119237)
-- A pothole in road problem, 20th October :- [https://www.fixmystreet.com/report/5119441](https://www.fixmystreet.com/report/5119441)
-- Tree is damaged problem, 20th October :- [https://www.fixmystreet.com/report/5118389](https://www.fixmystreet.com/report/5118389)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5118394](https://www.fixmystreet.com/report/5118394)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5118392](https://www.fixmystreet.com/report/5118392)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5118179](https://www.fixmystreet.com/report/5118179)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5118178](https://www.fixmystreet.com/report/5118178)
-- Light sensor is not detecting vehicles problem, 20th October :- [https://www.fixmystreet.com/report/5117913](https://www.fixmystreet.com/report/5117913)
 
 <!-- fix_marker ends -->
