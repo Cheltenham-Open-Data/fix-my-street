@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Obstruction caused by wall/building problem, 21st October :- [https://www.fixmystreet.com/report/5123545](https://www.fixmystreet.com/report/5123545)
 - Tree location tarmaced over, 21st October :- [https://www.fixmystreet.com/report/5123204](https://www.fixmystreet.com/report/5123204)
 - A pothole in road problem, 21st October :- [https://www.fixmystreet.com/report/5123167](https://www.fixmystreet.com/report/5123167)
 - Tree is damaged problem, 21st October :- [https://www.fixmystreet.com/report/5122593](https://www.fixmystreet.com/report/5122593)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on substation, 20th October :- [https://www.fixmystreet.com/report/5119912](https://www.fixmystreet.com/report/5119912)
 - Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5120134](https://www.fixmystreet.com/report/5120134)
 - Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5120133](https://www.fixmystreet.com/report/5120133)
-- Loose/rattling cover/ironwork problem, 20th October :- [https://www.fixmystreet.com/report/5120132](https://www.fixmystreet.com/report/5120132)
 
 <!-- fix_marker ends -->
