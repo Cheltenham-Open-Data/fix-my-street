@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,15 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>Obstruction caused by wall/building problem, 21st October</title>
+<link>https://www.fixmystreet.com/report/5123545</link>
+<description>Reporting:obstruction_caused_by_tree&amp;#10;The new cycle path doesn’t run to Gotherington and exits in the most dangerous point on the road requiring cyclists to cross at the most dangerous point&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5123545&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Obstruction caused by wall/building</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5123545</guid>
+<pubDate>Sat, 21 Oct 2023 21:49:03 +0100</pubDate>
+<georss:point>51.960284 -2.053918</georss:point>
+</item>
 <item>
 <title>Tree location tarmaced over, 21st October</title>
 <link>https://www.fixmystreet.com/report/5123204</link>
@@ -182,15 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/5120133</guid>
 <pubDate>Fri, 20 Oct 2023 16:13:03 +0100</pubDate>
 <georss:point>51.911589 -2.051452</georss:point>
-</item>
-<item>
-<title>Loose/rattling cover/ironwork problem, 20th October</title>
-<link>https://www.fixmystreet.com/report/5120132</link>
-<description>Blocked or damaged drain&amp;#10;The drain can no longer be seen as grass has grown over it. Every time it rains a huge area is covered with water making the drivers swerve and pedestrians are unable to pass safely on the pavement or get a tidal wave of water over them if cars don’t take care. It’s a reoccurring as design is poor.&amp;#10;The drain is blocked&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5120132&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Loose/rattling cover/ironwork</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5120132</guid>
-<pubDate>Fri, 20 Oct 2023 16:07:03 +0100</pubDate>
-<georss:point>51.91128 -2.052923</georss:point>
 </item>
 </channel>
 </rss>
