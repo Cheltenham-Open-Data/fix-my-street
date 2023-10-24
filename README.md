@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The sign is illegible problem, 23rd October :- [https://www.fixmystreet.com/report/5130256](https://www.fixmystreet.com/report/5130256)
+- A pothole in road problem, 23rd October :- [https://www.fixmystreet.com/report/5130145](https://www.fixmystreet.com/report/5130145)
 - The sign is illegible problem, 23rd October :- [https://www.fixmystreet.com/report/5129282](https://www.fixmystreet.com/report/5129282)
 - Pot holes and general breakdown of A40, 23rd October :- [https://www.fixmystreet.com/report/5129056](https://www.fixmystreet.com/report/5129056)
 - A pothole in road problem, 23rd October :- [https://www.fixmystreet.com/report/5129284](https://www.fixmystreet.com/report/5129284)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 23rd October :- [https://www.fixmystreet.com/report/5126927](https://www.fixmystreet.com/report/5126927)
 - Loose rattling ironwork with pothole at the corner, 23rd October :- [https://www.fixmystreet.com/report/5126324](https://www.fixmystreet.com/report/5126324)
 - Road surface at the junction of Goldsmith Road and Amberley Road, breaking up again, 23rd October :- [https://www.fixmystreet.com/report/5126262](https://www.fixmystreet.com/report/5126262)
-- Problem with drainage problem, 23rd October :- [https://www.fixmystreet.com/report/5126511](https://www.fixmystreet.com/report/5126511)
-- Tree is damaged problem, 23rd October :- [https://www.fixmystreet.com/report/5126359](https://www.fixmystreet.com/report/5126359)
 
 <!-- fix_marker ends -->
