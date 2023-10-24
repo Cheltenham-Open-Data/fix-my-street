@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,24 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>The sign is illegible problem, 23rd October</title>
+<link>https://www.fixmystreet.com/report/5130256</link>
+<description>Non-Illuminated bollards and signs&amp;#10;SignIt is missing&amp;#10;Sign&amp;#10;300 yard sign to junction 11A on M5 southbound is missing.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5130256&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>The sign is illegible</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5130256</guid>
+<pubDate>Mon, 23 Oct 2023 22:50:02 +0100</pubDate>
+<georss:point>51.863658 -2.164255</georss:point>
+</item>
+<item>
+<title>A pothole in road problem, 23rd October</title>
+<link>https://www.fixmystreet.com/report/5130145</link>
+<description>Pothole&amp;#10;In the road&amp;#10;Wider than 30cm &amp;amp; deeper than 4cm&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5130145&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5130145</guid>
+<pubDate>Mon, 23 Oct 2023 21:22:03 +0100</pubDate>
+<georss:point>51.891665 -2.001779</georss:point>
+</item>
 <item>
 <title>The sign is illegible problem, 23rd October</title>
 <link>https://www.fixmystreet.com/report/5129282</link>
@@ -173,24 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/5126262</guid>
 <pubDate>Mon, 23 Oct 2023 08:36:03 +0100</pubDate>
 <georss:point>51.902007 -2.113062</georss:point>
-</item>
-<item>
-<title>Problem with drainage problem, 23rd October</title>
-<link>https://www.fixmystreet.com/report/5126511</link>
-<description>Reporting:problem_with_drainage&amp;#10;The reports are that when wet the puddles make it almost impassable for young kids and for those using prams/buggies etc; and when puddles dry up, the path is just sludgy for ages - which causes issues for users too.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5126511&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Problem with drainage</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5126511</guid>
-<pubDate>Mon, 23 Oct 2023 08:18:03 +0100</pubDate>
-<georss:point>51.877826 -2.171404</georss:point>
-</item>
-<item>
-<title>Tree is damaged problem, 23rd October</title>
-<link>https://www.fixmystreet.com/report/5126359</link>
-<description>Trees&amp;#10;Overhanging/overgrown limb&amp;#10;&amp;#10;&amp;#10;The trees, brambles are now overgrown onto the road.  when cars are parking against this wall (mostly those using the Victoria PH) they are now parking more into the road making it difficult for residents of Prince Albert Court to be able to manoeuvre out of our designated parking spaces&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5126359&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Tree is damaged</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5126359</guid>
-<pubDate>Mon, 23 Oct 2023 07:55:03 +0100</pubDate>
-<georss:point>51.850436 -2.16881</georss:point>
 </item>
 </channel>
 </rss>
