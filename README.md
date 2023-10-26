@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Timing of lights is wrong - the lights are green but cars are still coming over the bridge, 25th October :- [https://www.fixmystreet.com/report/5137895](https://www.fixmystreet.com/report/5137895)
 - Corner of newly installed anti slip surface corner broken off and not secure, 25th October :- [https://www.fixmystreet.com/report/5137502](https://www.fixmystreet.com/report/5137502)
 - Sequencing of lights has changed, 25th October :- [https://www.fixmystreet.com/report/5137394](https://www.fixmystreet.com/report/5137394)
 - The sign is illegible problem, 25th October :- [https://www.fixmystreet.com/report/5137338](https://www.fixmystreet.com/report/5137338)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in the road, 25th October :- [https://www.fixmystreet.com/report/5135206](https://www.fixmystreet.com/report/5135206)
 - Deep pothole which was only recently repaired, 25th October :- [https://www.fixmystreet.com/report/5135192](https://www.fixmystreet.com/report/5135192)
 - Potholes in pavement outside care home, 25th October :- [https://www.fixmystreet.com/report/5135106](https://www.fixmystreet.com/report/5135106)
-- A pothole in road problem, 25th October :- [https://www.fixmystreet.com/report/5135610](https://www.fixmystreet.com/report/5135610)
 
 <!-- fix_marker ends -->
