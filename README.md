@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cars not seeing one way sign, 26th October :- [https://www.fixmystreet.com/report/5142349](https://www.fixmystreet.com/report/5142349)
+- Multiple houses Rain water run off pipe blocked due to the stream drain exit point blocked, 26th October :- [https://www.fixmystreet.com/report/5142154](https://www.fixmystreet.com/report/5142154)
 - OPen trench across garden road liable to cause serious accident,, 26th October :- [https://www.fixmystreet.com/report/5141909](https://www.fixmystreet.com/report/5141909)
 - Flytipping furniture, 26th October :- [https://www.fixmystreet.com/report/5141897](https://www.fixmystreet.com/report/5141897)
 - Traffic lights not allowing enough time for cyclists going uphill, 26th October :- [https://www.fixmystreet.com/report/5141789](https://www.fixmystreet.com/report/5141789)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Temporary traffic lights have been erected but there is no evidence of any work being done near Birch Drive. The disruption to people and business in the locality is significant.This is not acceptable., 26th October :- [https://www.fixmystreet.com/report/5140007](https://www.fixmystreet.com/report/5140007)
 - Numerous pothole spreading across the width of the pavement, 26th October :- [https://www.fixmystreet.com/report/5140001](https://www.fixmystreet.com/report/5140001)
 - Tree is damaged problem, 26th October :- [https://www.fixmystreet.com/report/5139701](https://www.fixmystreet.com/report/5139701)
-- A pothole in road problem, 26th October :- [https://www.fixmystreet.com/report/5139521](https://www.fixmystreet.com/report/5139521)
-- Pot hole on main road by pedestrian crossing, 26th October :- [https://www.fixmystreet.com/report/5139230](https://www.fixmystreet.com/report/5139230)
 
 <!-- fix_marker ends -->
