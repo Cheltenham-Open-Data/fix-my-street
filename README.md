@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- No cycling signage defaced damaged missing, 28th October :- [https://www.fixmystreet.com/report/5147509](https://www.fixmystreet.com/report/5147509)
+- Water continually running out of manhole cover and running down Mill Street, 28th October :- [https://www.fixmystreet.com/report/5147092](https://www.fixmystreet.com/report/5147092)
+- Dead branch overhanging pavement, 28th October :- [https://www.fixmystreet.com/report/5146503](https://www.fixmystreet.com/report/5146503)
+- Rattling manhole cover on B4633, 28th October :- [https://www.fixmystreet.com/report/5146484](https://www.fixmystreet.com/report/5146484)
 - 3x Street lights not working, 28th October :- [https://www.fixmystreet.com/report/5146233](https://www.fixmystreet.com/report/5146233)
 - Damaged Railing, 27th October :- [https://www.fixmystreet.com/report/5144946](https://www.fixmystreet.com/report/5144946)
 - The path is blocked by an electric fence, 27th October :- [https://www.fixmystreet.com/report/5144734](https://www.fixmystreet.com/report/5144734)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Missing no entry sign Brunswick St Cheltenham, 27th October :- [https://www.fixmystreet.com/report/5143232](https://www.fixmystreet.com/report/5143232)
 - Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5144449](https://www.fixmystreet.com/report/5144449)
 - Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5143513](https://www.fixmystreet.com/report/5143513)
-- Problem with drainage problem, 27th October :- [https://www.fixmystreet.com/report/5143184](https://www.fixmystreet.com/report/5143184)
-- Blocked drains water running across road, 27th October :- [https://www.fixmystreet.com/report/5143072](https://www.fixmystreet.com/report/5143072)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 27th October :- [https://www.fixmystreet.com/report/5142862](https://www.fixmystreet.com/report/5142862)
-- Cars not seeing one way sign, 26th October :- [https://www.fixmystreet.com/report/5142349](https://www.fixmystreet.com/report/5142349)
 
 <!-- fix_marker ends -->
