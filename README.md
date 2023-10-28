@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3x Street lights not working, 28th October :- [https://www.fixmystreet.com/report/5146233](https://www.fixmystreet.com/report/5146233)
 - Damaged Railing, 27th October :- [https://www.fixmystreet.com/report/5144946](https://www.fixmystreet.com/report/5144946)
 - The path is blocked by an electric fence, 27th October :- [https://www.fixmystreet.com/report/5144734](https://www.fixmystreet.com/report/5144734)
 - Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5144778](https://www.fixmystreet.com/report/5144778)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drains water running across road, 27th October :- [https://www.fixmystreet.com/report/5143072](https://www.fixmystreet.com/report/5143072)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 27th October :- [https://www.fixmystreet.com/report/5142862](https://www.fixmystreet.com/report/5142862)
 - Cars not seeing one way sign, 26th October :- [https://www.fixmystreet.com/report/5142349](https://www.fixmystreet.com/report/5142349)
-- Multiple houses Rain water run off pipe blocked due to the stream drain exit point blocked, 26th October :- [https://www.fixmystreet.com/report/5142154](https://www.fixmystreet.com/report/5142154)
 
 <!-- fix_marker ends -->
