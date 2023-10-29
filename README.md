@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several road drains blocked near property, 29th October :- [https://www.fixmystreet.com/report/5150184](https://www.fixmystreet.com/report/5150184)
+- Persistent flooding/slow soak away, 29th October :- [https://www.fixmystreet.com/report/5150074](https://www.fixmystreet.com/report/5150074)
+- Two potholes leaving Tivoli, entering the Texaco island., 29th October :- [https://www.fixmystreet.com/report/5150072](https://www.fixmystreet.com/report/5150072)
+- Missing no cycling sign, post exists, sign exists at other end of footpath at Noverton Lane, 29th October :- [https://www.fixmystreet.com/report/5149941](https://www.fixmystreet.com/report/5149941)
+- Poor road markings, 29th October :- [https://www.fixmystreet.com/report/5149451](https://www.fixmystreet.com/report/5149451)
+- Glass has caused flat tyre, 29th October :- [https://www.fixmystreet.com/report/5149446](https://www.fixmystreet.com/report/5149446)
+- Wide pothole just before traffic light, 29th October :- [https://www.fixmystreet.com/report/5149184](https://www.fixmystreet.com/report/5149184)
+- Keep clear road markings very faded, 29th October :- [https://www.fixmystreet.com/report/5149171](https://www.fixmystreet.com/report/5149171)
+- More flytipped stuff, 29th October :- [https://www.fixmystreet.com/report/5149145](https://www.fixmystreet.com/report/5149145)
+- Car has been left blocking my car on my driveway., 29th October :- [https://www.fixmystreet.com/report/5149090](https://www.fixmystreet.com/report/5149090)
+- Traffic mirror has been disturbed, 29th October :- [https://www.fixmystreet.com/report/5149054](https://www.fixmystreet.com/report/5149054)
+- Large amount of broken glass, 29th October :- [https://www.fixmystreet.com/report/5148944](https://www.fixmystreet.com/report/5148944)
 - No cycling signage defaced damaged missing, 28th October :- [https://www.fixmystreet.com/report/5147509](https://www.fixmystreet.com/report/5147509)
 - Water continually running out of manhole cover and running down Mill Street, 28th October :- [https://www.fixmystreet.com/report/5147092](https://www.fixmystreet.com/report/5147092)
 - Dead branch overhanging pavement, 28th October :- [https://www.fixmystreet.com/report/5146503](https://www.fixmystreet.com/report/5146503)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Damaged Railing, 27th October :- [https://www.fixmystreet.com/report/5144946](https://www.fixmystreet.com/report/5144946)
 - The path is blocked by an electric fence, 27th October :- [https://www.fixmystreet.com/report/5144734](https://www.fixmystreet.com/report/5144734)
 - Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5144778](https://www.fixmystreet.com/report/5144778)
-- A pothole in road problem, 27th October :- [https://www.fixmystreet.com/report/5144452](https://www.fixmystreet.com/report/5144452)
-- Tree is damaged problem, 27th October :- [https://www.fixmystreet.com/report/5144451](https://www.fixmystreet.com/report/5144451)
-- Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5144450](https://www.fixmystreet.com/report/5144450)
-- Broken bottle on pavement, 27th October :- [https://www.fixmystreet.com/report/5144247](https://www.fixmystreet.com/report/5144247)
-- Very hard to cross the road cars are not stopping, 27th October :- [https://www.fixmystreet.com/report/5143937](https://www.fixmystreet.com/report/5143937)
-- 10 potholes all deeper than a tennis ball- These have not been fixed, 27th October :- [https://www.fixmystreet.com/report/5143874](https://www.fixmystreet.com/report/5143874)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 27th October :- [https://www.fixmystreet.com/report/5143673](https://www.fixmystreet.com/report/5143673)
-- Outside no26 - tarmac has broken up leaving potholes, 27th October :- [https://www.fixmystreet.com/report/5143492](https://www.fixmystreet.com/report/5143492)
-- The stretch of Innsworth Lane from the building sites up to the Hare and Hounds is absolutely filthy. The curbs are thick with mud from the site and with the addition of rain becoming a problem. The corners of side roads are thick with mud by the drains creating an additional problem. There are no road cleaners at any time at this end of Innsworth Labe., 27th October :- [https://www.fixmystreet.com/report/5143250](https://www.fixmystreet.com/report/5143250)
-- Missing no entry sign Brunswick St Cheltenham, 27th October :- [https://www.fixmystreet.com/report/5143232](https://www.fixmystreet.com/report/5143232)
-- Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5144449](https://www.fixmystreet.com/report/5144449)
-- Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5143513](https://www.fixmystreet.com/report/5143513)
 
 <!-- fix_marker ends -->
