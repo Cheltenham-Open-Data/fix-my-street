@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Roundabout sign light is out, 30th October :- [https://www.fixmystreet.com/report/5151051](https://www.fixmystreet.com/report/5151051)
+- Mini roundabout sign light out, 30th October :- [https://www.fixmystreet.com/report/5151050](https://www.fixmystreet.com/report/5151050)
+- Pothole in bus lane, 29th October :- [https://www.fixmystreet.com/report/5151022](https://www.fixmystreet.com/report/5151022)
+- Traffic lighted pedestrian crossing, 29th October :- [https://www.fixmystreet.com/report/5151020](https://www.fixmystreet.com/report/5151020)
+- Multiple potholes in carriageway, 29th October :- [https://www.fixmystreet.com/report/5151017](https://www.fixmystreet.com/report/5151017)
+- Street light is not operating., 29th October :- [https://www.fixmystreet.com/report/5150389](https://www.fixmystreet.com/report/5150389)
 - Several road drains blocked near property, 29th October :- [https://www.fixmystreet.com/report/5150184](https://www.fixmystreet.com/report/5150184)
 - Persistent flooding/slow soak away, 29th October :- [https://www.fixmystreet.com/report/5150074](https://www.fixmystreet.com/report/5150074)
 - Two potholes leaving Tivoli, entering the Texaco island., 29th October :- [https://www.fixmystreet.com/report/5150072](https://www.fixmystreet.com/report/5150072)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large amount of broken glass, 29th October :- [https://www.fixmystreet.com/report/5148944](https://www.fixmystreet.com/report/5148944)
 - No cycling signage defaced damaged missing, 28th October :- [https://www.fixmystreet.com/report/5147509](https://www.fixmystreet.com/report/5147509)
 - Water continually running out of manhole cover and running down Mill Street, 28th October :- [https://www.fixmystreet.com/report/5147092](https://www.fixmystreet.com/report/5147092)
-- Dead branch overhanging pavement, 28th October :- [https://www.fixmystreet.com/report/5146503](https://www.fixmystreet.com/report/5146503)
-- Rattling manhole cover on B4633, 28th October :- [https://www.fixmystreet.com/report/5146484](https://www.fixmystreet.com/report/5146484)
-- 3x Street lights not working, 28th October :- [https://www.fixmystreet.com/report/5146233](https://www.fixmystreet.com/report/5146233)
-- Damaged Railing, 27th October :- [https://www.fixmystreet.com/report/5144946](https://www.fixmystreet.com/report/5144946)
-- The path is blocked by an electric fence, 27th October :- [https://www.fixmystreet.com/report/5144734](https://www.fixmystreet.com/report/5144734)
-- Loose/rattling cover/ironwork problem, 27th October :- [https://www.fixmystreet.com/report/5144778](https://www.fixmystreet.com/report/5144778)
 
 <!-- fix_marker ends -->
