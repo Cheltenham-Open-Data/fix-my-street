@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken road surface apx 50cm x 100cm. Reported some time ago when surface was sinking. Has got worse, surface is now breaking up., 31st October :- [https://www.fixmystreet.com/report/5159690](https://www.fixmystreet.com/report/5159690)
+- As there are only two street lights in our street, one has been cut down as it was leaning abit , still worked, and as you see other one is completely covered at main part of street …, 31st October :- [https://www.fixmystreet.com/report/5159586](https://www.fixmystreet.com/report/5159586)
+- Soil excavated to construct fence blocking/narrowing footpath, 31st October :- [https://www.fixmystreet.com/report/5159492](https://www.fixmystreet.com/report/5159492)
+- 26" x 13" x 4" deep, 31st October :- [https://www.fixmystreet.com/report/5159236](https://www.fixmystreet.com/report/5159236)
 - Uneven surface and overgrown vegetation, 31st October :- [https://www.fixmystreet.com/report/5158945](https://www.fixmystreet.com/report/5158945)
 - Lampost no 5 Sandy Lane by bus stop foliage blocking it, 31st October :- [https://www.fixmystreet.com/report/5158932](https://www.fixmystreet.com/report/5158932)
 - Deep pothole, 31st October :- [https://www.fixmystreet.com/report/5158930](https://www.fixmystreet.com/report/5158930)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - General road marking and stud issues problem, 31st October :- [https://www.fixmystreet.com/report/5156669](https://www.fixmystreet.com/report/5156669)
 - Parking in turning area, 31st October :- [https://www.fixmystreet.com/report/5156352](https://www.fixmystreet.com/report/5156352)
 - Pothole on the left hand side, between Wisteria and Coriander on Innsworth Lane, Churchdown, northbound. Been there for at least 2 weeks, and slowly growing., 30th October :- [https://www.fixmystreet.com/report/5155410](https://www.fixmystreet.com/report/5155410)
-- Pothole (30cm width, 5cm depth) in pavement due to sunken utility cover, 30th October :- [https://www.fixmystreet.com/report/5155404](https://www.fixmystreet.com/report/5155404)
-- Sainsbury's trolley, 30th October :- [https://www.fixmystreet.com/report/5155123](https://www.fixmystreet.com/report/5155123)
-- Pothole in road, 30th October :- [https://www.fixmystreet.com/report/5155118](https://www.fixmystreet.com/report/5155118)
-- There are at least 5 drains blocked on Gloucester Road Andoversford between Crossfields and Coronation Square, 30th October :- [https://www.fixmystreet.com/report/5155023](https://www.fixmystreet.com/report/5155023)
 
 <!-- fix_marker ends -->
