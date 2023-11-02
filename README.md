@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot hole on right hand pathway walking out from the car park, 2nd November :- [https://www.fixmystreet.com/report/5164390](https://www.fixmystreet.com/report/5164390)
+- Sign left by Ringway needs collecting, 1st November :- [https://www.fixmystreet.com/report/5164205](https://www.fixmystreet.com/report/5164205)
 - Diesel /oil leakage, 1st November :- [https://www.fixmystreet.com/report/5163523](https://www.fixmystreet.com/report/5163523)
 - Small, deep pothole on road, 1st November :- [https://www.fixmystreet.com/report/5162841](https://www.fixmystreet.com/report/5162841)
 - Numerous large potholes in this area, 1st November :- [https://www.fixmystreet.com/report/5162827](https://www.fixmystreet.com/report/5162827)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Double yellow lines painted in error on parking bay, 1st November :- [https://www.fixmystreet.com/report/5161221](https://www.fixmystreet.com/report/5161221)
 - Very large pothole by the curb, 1st November :- [https://www.fixmystreet.com/report/5161116](https://www.fixmystreet.com/report/5161116)
 - Pavement has vegetation across about half its width, forcing the walker nearer the tast-moving traffic, 1st November :- [https://www.fixmystreet.com/report/5160804](https://www.fixmystreet.com/report/5160804)
-- Loose/recessed manhole cover that rattles loudly when vehicles drive over it, 1st November :- [https://www.fixmystreet.com/report/5160788](https://www.fixmystreet.com/report/5160788)
-- A pothole in road problem, 1st November :- [https://www.fixmystreet.com/report/5160768](https://www.fixmystreet.com/report/5160768)
 
 <!-- fix_marker ends -->
