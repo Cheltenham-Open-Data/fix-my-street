@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Weeds / thorny bushes taking over pavement. Unable to continue easily with wheelchair or pushchair., 3rd November :- [https://www.fixmystreet.com/report/5172064](https://www.fixmystreet.com/report/5172064)
+- Residue from Collected Previous Fly tip, 3rd November :- [https://www.fixmystreet.com/report/5171892](https://www.fixmystreet.com/report/5171892)
+- Reports that surface of alleyway is waterlogged and/or very muddy for most of the time - causing a hazard, 3rd November :- [https://www.fixmystreet.com/report/5170739](https://www.fixmystreet.com/report/5170739)
+- Large deep pothole, 3rd November :- [https://www.fixmystreet.com/report/5170518](https://www.fixmystreet.com/report/5170518)
+- A pothole in road problem, 3rd November :- [https://www.fixmystreet.com/report/5170342](https://www.fixmystreet.com/report/5170342)
+- A pothole in road problem, 3rd November :- [https://www.fixmystreet.com/report/5171325](https://www.fixmystreet.com/report/5171325)
+- A pothole in road problem, 3rd November :- [https://www.fixmystreet.com/report/5170338](https://www.fixmystreet.com/report/5170338)
+- The over grown vegetation is blocking our advertising and view of our estate property, 3rd November :- [https://www.fixmystreet.com/report/5169302](https://www.fixmystreet.com/report/5169302)
+- Dog poo bin not being emptied, 3rd November :- [https://www.fixmystreet.com/report/5169172](https://www.fixmystreet.com/report/5169172)
+- Flytipping and litter, 3rd November :- [https://www.fixmystreet.com/report/5169049](https://www.fixmystreet.com/report/5169049)
 - Drains totally filled with debris, 2nd November :- [https://www.fixmystreet.com/report/5168713](https://www.fixmystreet.com/report/5168713)
 - Outside 34 Bedford Avenue, 2nd November :- [https://www.fixmystreet.com/report/5168705](https://www.fixmystreet.com/report/5168705)
 - Light is permanently out, 2nd November :- [https://www.fixmystreet.com/report/5168496](https://www.fixmystreet.com/report/5168496)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - This street needs cleaning, 2nd November :- [https://www.fixmystreet.com/report/5166898](https://www.fixmystreet.com/report/5166898)
 - Lots of potholes down Montpellier retreat, 2nd November :- [https://www.fixmystreet.com/report/5166890](https://www.fixmystreet.com/report/5166890)
 - Lots of potholes down Montpellier retreat, 2nd November :- [https://www.fixmystreet.com/report/5166888](https://www.fixmystreet.com/report/5166888)
-- Blocked drain, 2nd November :- [https://www.fixmystreet.com/report/5166868](https://www.fixmystreet.com/report/5166868)
-- Resident has put in a raised ramp to access his drive/space in front of his/her house., 2nd November :- [https://www.fixmystreet.com/report/5166803](https://www.fixmystreet.com/report/5166803)
-- Abandons children’s swimming pool outside number one Goldsmith Road, 2nd November :- [https://www.fixmystreet.com/report/5166783](https://www.fixmystreet.com/report/5166783)
-- Red oak leaves are waxy and slippery when wet. They are lying very thickly, 2nd November :- [https://www.fixmystreet.com/report/5166614](https://www.fixmystreet.com/report/5166614)
-- Drain blocked, 2nd November :- [https://www.fixmystreet.com/report/5166036](https://www.fixmystreet.com/report/5166036)
-- A pothole in road problem, 2nd November :- [https://www.fixmystreet.com/report/5166729](https://www.fixmystreet.com/report/5166729)
-- Incorrect Height shown on Bridge signs, 2nd November :- [https://www.fixmystreet.com/report/5165968](https://www.fixmystreet.com/report/5165968)
-- Bin full again, 2nd November :- [https://www.fixmystreet.com/report/5165687](https://www.fixmystreet.com/report/5165687)
-- Two land drains in the road outside the gates into the rear entrance of Brockhampton Park are blocked with mud., 2nd November :- [https://www.fixmystreet.com/report/5165541](https://www.fixmystreet.com/report/5165541)
-- There are 2, maybe 3 street lights out permanently as you walk away from Anytime Fitness Gym towards the roundabout., 2nd November :- [https://www.fixmystreet.com/report/5165458](https://www.fixmystreet.com/report/5165458)
 
 <!-- fix_marker ends -->
