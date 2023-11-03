@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drains totally filled with debris, 2nd November :- [https://www.fixmystreet.com/report/5168713](https://www.fixmystreet.com/report/5168713)
+- Outside 34 Bedford Avenue, 2nd November :- [https://www.fixmystreet.com/report/5168705](https://www.fixmystreet.com/report/5168705)
+- Light is permanently out, 2nd November :- [https://www.fixmystreet.com/report/5168496](https://www.fixmystreet.com/report/5168496)
 - Forgotten “FLOOD” road signs not collected, 2nd November :- [https://www.fixmystreet.com/report/5167745](https://www.fixmystreet.com/report/5167745)
 - The sign is illegible problem, 2nd November :- [https://www.fixmystreet.com/report/5167540](https://www.fixmystreet.com/report/5167540)
 - Always floods after rain - I reported this some time ago, 2nd November :- [https://www.fixmystreet.com/report/5167419](https://www.fixmystreet.com/report/5167419)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bin full again, 2nd November :- [https://www.fixmystreet.com/report/5165687](https://www.fixmystreet.com/report/5165687)
 - Two land drains in the road outside the gates into the rear entrance of Brockhampton Park are blocked with mud., 2nd November :- [https://www.fixmystreet.com/report/5165541](https://www.fixmystreet.com/report/5165541)
 - There are 2, maybe 3 street lights out permanently as you walk away from Anytime Fitness Gym towards the roundabout., 2nd November :- [https://www.fixmystreet.com/report/5165458](https://www.fixmystreet.com/report/5165458)
-- New sign - wrong way round, 2nd November :- [https://www.fixmystreet.com/report/5165209](https://www.fixmystreet.com/report/5165209)
-- Pot hole on right hand pathway walking out from the car park, 2nd November :- [https://www.fixmystreet.com/report/5164390](https://www.fixmystreet.com/report/5164390)
-- Sign left by Ringway needs collecting, 1st November :- [https://www.fixmystreet.com/report/5164205](https://www.fixmystreet.com/report/5164205)
 
 <!-- fix_marker ends -->
