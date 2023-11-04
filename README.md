@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Rubish on street, 4th November :- [https://www.fixmystreet.com/report/5172845](https://www.fixmystreet.com/report/5172845)
+- Multiple potholes where Dunalley Parace joins Hanover street., 4th November :- [https://www.fixmystreet.com/report/5172842](https://www.fixmystreet.com/report/5172842)
+- Street light not working., 3rd November :- [https://www.fixmystreet.com/report/5172561](https://www.fixmystreet.com/report/5172561)
 - Weeds / thorny bushes taking over pavement. Unable to continue easily with wheelchair or pushchair., 3rd November :- [https://www.fixmystreet.com/report/5172064](https://www.fixmystreet.com/report/5172064)
 - Residue from Collected Previous Fly tip, 3rd November :- [https://www.fixmystreet.com/report/5171892](https://www.fixmystreet.com/report/5171892)
 - Reports that surface of alleyway is waterlogged and/or very muddy for most of the time - causing a hazard, 3rd November :- [https://www.fixmystreet.com/report/5170739](https://www.fixmystreet.com/report/5170739)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The sign is illegible problem, 2nd November :- [https://www.fixmystreet.com/report/5167540](https://www.fixmystreet.com/report/5167540)
 - Always floods after rain - I reported this some time ago, 2nd November :- [https://www.fixmystreet.com/report/5167419](https://www.fixmystreet.com/report/5167419)
 - Large willow planted within 10 metres of house. Large branch about to fall off in my back garden. Tree roots going under foundations of house., 2nd November :- [https://www.fixmystreet.com/report/5167224](https://www.fixmystreet.com/report/5167224)
-- This street needs cleaning, 2nd November :- [https://www.fixmystreet.com/report/5166898](https://www.fixmystreet.com/report/5166898)
-- Lots of potholes down Montpellier retreat, 2nd November :- [https://www.fixmystreet.com/report/5166890](https://www.fixmystreet.com/report/5166890)
-- Lots of potholes down Montpellier retreat, 2nd November :- [https://www.fixmystreet.com/report/5166888](https://www.fixmystreet.com/report/5166888)
 
 <!-- fix_marker ends -->
