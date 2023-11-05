@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Trapped pigeons, 5th November :- [https://www.fixmystreet.com/report/5176522](https://www.fixmystreet.com/report/5176522)
+- Failed pothole repair on edge of road opposite Crickley Hill entrance, 5th November :- [https://www.fixmystreet.com/report/5176482](https://www.fixmystreet.com/report/5176482)
+- Cracked paving slab with large hole visible under, 5th November :- [https://www.fixmystreet.com/report/5176190](https://www.fixmystreet.com/report/5176190)
+- Really loose flags where the subsoil has washed away, 5th November :- [https://www.fixmystreet.com/report/5176022](https://www.fixmystreet.com/report/5176022)
+- Flytipping. Whole seat includes g headrest out of a car dumped in the lay-by. Seen yesterday 4/11/2023,, 5th November :- [https://www.fixmystreet.com/report/5175850](https://www.fixmystreet.com/report/5175850)
+- Farmer ploughed too close to hedge, 5th November :- [https://www.fixmystreet.com/report/5175671](https://www.fixmystreet.com/report/5175671)
+- Missing 300 yards sign, 5th November :- [https://www.fixmystreet.com/report/5175477](https://www.fixmystreet.com/report/5175477)
 - Pothole in the road, 4th November :- [https://www.fixmystreet.com/report/5174851](https://www.fixmystreet.com/report/5174851)
 - Pothole has been here for at least a year, if not more. It's directly outside the retail park access point... so would you consider an overnight repair perhaps to minimise traffic flow disruption ??, 4th November :- [https://www.fixmystreet.com/report/5174594](https://www.fixmystreet.com/report/5174594)
 - Fly tipping in lay-by, 4th November :- [https://www.fixmystreet.com/report/5174518](https://www.fixmystreet.com/report/5174518)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain on Greenway Lane, 4th November :- [https://www.fixmystreet.com/report/5173293](https://www.fixmystreet.com/report/5173293)
 - Blocked drain on corner of Greenway Lane and A40, 4th November :- [https://www.fixmystreet.com/report/5173282](https://www.fixmystreet.com/report/5173282)
 - Fallen tree on phone line, 4th November :- [https://www.fixmystreet.com/report/5173124](https://www.fixmystreet.com/report/5173124)
-- Rubish on street, 4th November :- [https://www.fixmystreet.com/report/5172845](https://www.fixmystreet.com/report/5172845)
-- Multiple potholes where Dunalley Parace joins Hanover street., 4th November :- [https://www.fixmystreet.com/report/5172842](https://www.fixmystreet.com/report/5172842)
-- Street light not working., 3rd November :- [https://www.fixmystreet.com/report/5172561](https://www.fixmystreet.com/report/5172561)
-- Weeds / thorny bushes taking over pavement. Unable to continue easily with wheelchair or pushchair., 3rd November :- [https://www.fixmystreet.com/report/5172064](https://www.fixmystreet.com/report/5172064)
-- Residue from Collected Previous Fly tip, 3rd November :- [https://www.fixmystreet.com/report/5171892](https://www.fixmystreet.com/report/5171892)
-- Reports that surface of alleyway is waterlogged and/or very muddy for most of the time - causing a hazard, 3rd November :- [https://www.fixmystreet.com/report/5170739](https://www.fixmystreet.com/report/5170739)
-- Large deep pothole, 3rd November :- [https://www.fixmystreet.com/report/5170518](https://www.fixmystreet.com/report/5170518)
 
 <!-- fix_marker ends -->
