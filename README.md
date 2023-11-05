@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole in the road, 4th November :- [https://www.fixmystreet.com/report/5174851](https://www.fixmystreet.com/report/5174851)
 - Pothole has been here for at least a year, if not more. It's directly outside the retail park access point... so would you consider an overnight repair perhaps to minimise traffic flow disruption ??, 4th November :- [https://www.fixmystreet.com/report/5174594](https://www.fixmystreet.com/report/5174594)
 - Fly tipping in lay-by, 4th November :- [https://www.fixmystreet.com/report/5174518](https://www.fixmystreet.com/report/5174518)
 - Drains & gullies blocked, 4th November :- [https://www.fixmystreet.com/report/5174123](https://www.fixmystreet.com/report/5174123)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Residue from Collected Previous Fly tip, 3rd November :- [https://www.fixmystreet.com/report/5171892](https://www.fixmystreet.com/report/5171892)
 - Reports that surface of alleyway is waterlogged and/or very muddy for most of the time - causing a hazard, 3rd November :- [https://www.fixmystreet.com/report/5170739](https://www.fixmystreet.com/report/5170739)
 - Large deep pothole, 3rd November :- [https://www.fixmystreet.com/report/5170518](https://www.fixmystreet.com/report/5170518)
-- A pothole in road problem, 3rd November :- [https://www.fixmystreet.com/report/5170342](https://www.fixmystreet.com/report/5170342)
 
 <!-- fix_marker ends -->
