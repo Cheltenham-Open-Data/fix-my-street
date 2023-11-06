@@ -2,6 +2,19 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large group of potholes that are occasionally filled and appear again. Road is so bad that you have to drive on the wrong side of the carriageway into oncoming traffic., 6th November :- [https://www.fixmystreet.com/report/5181271](https://www.fixmystreet.com/report/5181271)
+- Large pothole, 6th November :- [https://www.fixmystreet.com/report/5180417](https://www.fixmystreet.com/report/5180417)
+- Storm drain ajacent to 27,29 Binyon Road GL54 5QQ, 6th November :- [https://www.fixmystreet.com/report/5180235](https://www.fixmystreet.com/report/5180235)
+- A pothole in road problem, 6th November :- [https://www.fixmystreet.com/report/5180240](https://www.fixmystreet.com/report/5180240)
+- Tree is damaged problem, 6th November :- [https://www.fixmystreet.com/report/5179887](https://www.fixmystreet.com/report/5179887)
+- Other damage to pavement i.e. cobbles, raised mound/surface problem, 6th November :- [https://www.fixmystreet.com/report/5179885](https://www.fixmystreet.com/report/5179885)
+- A pothole in road problem, 6th November :- [https://www.fixmystreet.com/report/5179695](https://www.fixmystreet.com/report/5179695)
+- Spreading weed on pavement and cracks, 6th November :- [https://www.fixmystreet.com/report/5179314](https://www.fixmystreet.com/report/5179314)
+- Footpath covered in spreading amounts of moss, 6th November :- [https://www.fixmystreet.com/report/5179223](https://www.fixmystreet.com/report/5179223)
+- Paving covered in slippery moss and weed, 6th November :- [https://www.fixmystreet.com/report/5179190](https://www.fixmystreet.com/report/5179190)
+- Paving covered in slippery weed and moss, 6th November :- [https://www.fixmystreet.com/report/5179163](https://www.fixmystreet.com/report/5179163)
+- Multiple cracks in paving and weed causing trip hazards, 6th November :- [https://www.fixmystreet.com/report/5179119](https://www.fixmystreet.com/report/5179119)
+- Area 1.0.mt x 2.0.mt of broken up pavement, 6th November :- [https://www.fixmystreet.com/report/5178676](https://www.fixmystreet.com/report/5178676)
 - Very large hole, covered by yellow plastic plate, 5th November :- [https://www.fixmystreet.com/report/5177483](https://www.fixmystreet.com/report/5177483)
 - Column 6 out, 5th November :- [https://www.fixmystreet.com/report/5177130](https://www.fixmystreet.com/report/5177130)
 - Trapped pigeons, 5th November :- [https://www.fixmystreet.com/report/5176522](https://www.fixmystreet.com/report/5176522)
@@ -9,18 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Cracked paving slab with large hole visible under, 5th November :- [https://www.fixmystreet.com/report/5176190](https://www.fixmystreet.com/report/5176190)
 - Really loose flags where the subsoil has washed away, 5th November :- [https://www.fixmystreet.com/report/5176022](https://www.fixmystreet.com/report/5176022)
 - Flytipping. Whole seat includes g headrest out of a car dumped in the lay-by. Seen yesterday 4/11/2023,, 5th November :- [https://www.fixmystreet.com/report/5175850](https://www.fixmystreet.com/report/5175850)
-- Farmer ploughed too close to hedge, 5th November :- [https://www.fixmystreet.com/report/5175671](https://www.fixmystreet.com/report/5175671)
-- Missing 300 yards sign, 5th November :- [https://www.fixmystreet.com/report/5175477](https://www.fixmystreet.com/report/5175477)
-- Pothole in the road, 4th November :- [https://www.fixmystreet.com/report/5174851](https://www.fixmystreet.com/report/5174851)
-- Pothole has been here for at least a year, if not more. It's directly outside the retail park access point... so would you consider an overnight repair perhaps to minimise traffic flow disruption ??, 4th November :- [https://www.fixmystreet.com/report/5174594](https://www.fixmystreet.com/report/5174594)
-- Fly tipping in lay-by, 4th November :- [https://www.fixmystreet.com/report/5174518](https://www.fixmystreet.com/report/5174518)
-- Drains & gullies blocked, 4th November :- [https://www.fixmystreet.com/report/5174123](https://www.fixmystreet.com/report/5174123)
-- Big pot holes!!!, 4th November :- [https://www.fixmystreet.com/report/5174117](https://www.fixmystreet.com/report/5174117)
-- Visibility poor turning out of Clarence Sq, Cheltenham, 4th November :- [https://www.fixmystreet.com/report/5174041](https://www.fixmystreet.com/report/5174041)
-- Loose/rattling cover/ironwork problem, 4th November :- [https://www.fixmystreet.com/report/5174122](https://www.fixmystreet.com/report/5174122)
-- Paint spillage on road, 4th November :- [https://www.fixmystreet.com/report/5174014](https://www.fixmystreet.com/report/5174014)
-- The drain is blocked, 4th November :- [https://www.fixmystreet.com/report/5174013](https://www.fixmystreet.com/report/5174013)
-- Grace Gardens to Wade Court footpath, There are several crevices and steps meaning that there are multiple trip hazards, and moreover some areas big enough to trap some shoe-heels., 4th November :- [https://www.fixmystreet.com/report/5173830](https://www.fixmystreet.com/report/5173830)
-- Blocked drain on Greenway Lane, 4th November :- [https://www.fixmystreet.com/report/5173293](https://www.fixmystreet.com/report/5173293)
 
 <!-- fix_marker ends -->
