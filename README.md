@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain fully blocked, 7th November :- [https://www.fixmystreet.com/report/5182502](https://www.fixmystreet.com/report/5182502)
+- Unkept trees on Cheltenham Road, 7th November :- [https://www.fixmystreet.com/report/5182414](https://www.fixmystreet.com/report/5182414)
+- Noisy drain cover adjacent to entrance to CHL9, 6th November :- [https://www.fixmystreet.com/report/5181893](https://www.fixmystreet.com/report/5181893)
 - Large group of potholes that are occasionally filled and appear again. Road is so bad that you have to drive on the wrong side of the carriageway into oncoming traffic., 6th November :- [https://www.fixmystreet.com/report/5181271](https://www.fixmystreet.com/report/5181271)
 - Large pothole, 6th November :- [https://www.fixmystreet.com/report/5180417](https://www.fixmystreet.com/report/5180417)
 - Storm drain ajacent to 27,29 Binyon Road GL54 5QQ, 6th November :- [https://www.fixmystreet.com/report/5180235](https://www.fixmystreet.com/report/5180235)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Column 6 out, 5th November :- [https://www.fixmystreet.com/report/5177130](https://www.fixmystreet.com/report/5177130)
 - Trapped pigeons, 5th November :- [https://www.fixmystreet.com/report/5176522](https://www.fixmystreet.com/report/5176522)
 - Failed pothole repair on edge of road opposite Crickley Hill entrance, 5th November :- [https://www.fixmystreet.com/report/5176482](https://www.fixmystreet.com/report/5176482)
-- Cracked paving slab with large hole visible under, 5th November :- [https://www.fixmystreet.com/report/5176190](https://www.fixmystreet.com/report/5176190)
-- Really loose flags where the subsoil has washed away, 5th November :- [https://www.fixmystreet.com/report/5176022](https://www.fixmystreet.com/report/5176022)
-- Flytipping. Whole seat includes g headrest out of a car dumped in the lay-by. Seen yesterday 4/11/2023,, 5th November :- [https://www.fixmystreet.com/report/5175850](https://www.fixmystreet.com/report/5175850)
 
 <!-- fix_marker ends -->
