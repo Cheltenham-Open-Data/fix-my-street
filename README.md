@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Enormous pot hole and little ones too, 7th November :- [https://www.fixmystreet.com/report/5186521](https://www.fixmystreet.com/report/5186521)
+- Lots of rubbish tipped by the garages, 7th November :- [https://www.fixmystreet.com/report/5186520](https://www.fixmystreet.com/report/5186520)
+- Numerous blocked drains, water flooding road in several places., 7th November :- [https://www.fixmystreet.com/report/5186100](https://www.fixmystreet.com/report/5186100)
 - Temporary lights in place for NO apparent reason, 7th November :- [https://www.fixmystreet.com/report/5185726](https://www.fixmystreet.com/report/5185726)
 - Dangerous complicated junction layout, 7th November :- [https://www.fixmystreet.com/report/5185642](https://www.fixmystreet.com/report/5185642)
 - Workers have left heavy machinery blocking public footpath, 7th November :- [https://www.fixmystreet.com/report/5185483](https://www.fixmystreet.com/report/5185483)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Hole in footway, can see water running underneath like a river when it rains, 7th November :- [https://www.fixmystreet.com/report/5183576](https://www.fixmystreet.com/report/5183576)
 - Sign very faded, 7th November :- [https://www.fixmystreet.com/report/5183372](https://www.fixmystreet.com/report/5183372)
 - Tree is damaged problem, 7th November :- [https://www.fixmystreet.com/report/5183287](https://www.fixmystreet.com/report/5183287)
-- Tarmac coming up on pavement causing holes to appear. Weeds have been cleared but this has resulted in tarmac coming up and spreading across the pavement and holes forming which could cause another accident. Neighbour has recently had a fall caused by this., 7th November :- [https://www.fixmystreet.com/report/5183250](https://www.fixmystreet.com/report/5183250)
-- Your Report says they've been fixed... They haven't!, 7th November :- [https://www.fixmystreet.com/report/5182901](https://www.fixmystreet.com/report/5182901)
-- A pothole in road problem, 7th November :- [https://www.fixmystreet.com/report/5183100](https://www.fixmystreet.com/report/5183100)
 
 <!-- fix_marker ends -->
