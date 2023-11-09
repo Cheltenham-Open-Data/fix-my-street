@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple deep pothole, 9th November :- [https://www.fixmystreet.com/report/5190923](https://www.fixmystreet.com/report/5190923)
+- 2 streetlights overlooking car park on Hewlett Place are out, 8th November :- [https://www.fixmystreet.com/report/5190744](https://www.fixmystreet.com/report/5190744)
+- No street lighting, 8th November :- [https://www.fixmystreet.com/report/5190585](https://www.fixmystreet.com/report/5190585)
+- Street light on Honeybourne above Market Street not working. No. 148, 8th November :- [https://www.fixmystreet.com/report/5190503](https://www.fixmystreet.com/report/5190503)
 - Light Sequence is not right, 8th November :- [https://www.fixmystreet.com/report/5189856](https://www.fixmystreet.com/report/5189856)
 - Street light out, 8th November :- [https://www.fixmystreet.com/report/5189830](https://www.fixmystreet.com/report/5189830)
 - Traffic lights only let 3 cars through, 8th November :- [https://www.fixmystreet.com/report/5189690](https://www.fixmystreet.com/report/5189690)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocking visibility on road/junction (Grass/verge) problem, 8th November :- [https://www.fixmystreet.com/report/5189022](https://www.fixmystreet.com/report/5189022)
 - Very Long Deep Narrow Groove - Danger to Cyclists, 8th November :- [https://www.fixmystreet.com/report/5188914](https://www.fixmystreet.com/report/5188914)
 - Sustained damage problem, 8th November :- [https://www.fixmystreet.com/report/5188506](https://www.fixmystreet.com/report/5188506)
-- Wide spreading pothole Colesbourne Rd across from No 74, 8th November :- [https://www.fixmystreet.com/report/5187994](https://www.fixmystreet.com/report/5187994)
-- No Footpath finger post, 8th November :- [https://www.fixmystreet.com/report/5187963](https://www.fixmystreet.com/report/5187963)
-- Overhanging tree branch on pavement in, 8th November :- [https://www.fixmystreet.com/report/5187856](https://www.fixmystreet.com/report/5187856)
-- A pothole in road problem, 8th November :- [https://www.fixmystreet.com/report/5187741](https://www.fixmystreet.com/report/5187741)
 
 <!-- fix_marker ends -->
