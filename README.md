@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2.5 wide pothole on entrance to roundabout, 10th November :- [https://www.fixmystreet.com/report/5194905](https://www.fixmystreet.com/report/5194905)
 - Surface drain blocked, 9th November :- [https://www.fixmystreet.com/report/5193754](https://www.fixmystreet.com/report/5193754)
 - Tree is damaged problem, 9th November :- [https://www.fixmystreet.com/report/5193854](https://www.fixmystreet.com/report/5193854)
 - Blocked drain outside 104 Fairview Rd, 9th November :- [https://www.fixmystreet.com/report/5193681](https://www.fixmystreet.com/report/5193681)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 9th November :- [https://www.fixmystreet.com/report/5191698](https://www.fixmystreet.com/report/5191698)
 - Drains on station road adj Churchdown village junior school, 9th November :- [https://www.fixmystreet.com/report/5191183](https://www.fixmystreet.com/report/5191183)
 - Multiple deep pothole, 9th November :- [https://www.fixmystreet.com/report/5190923](https://www.fixmystreet.com/report/5190923)
-- 2 streetlights overlooking car park on Hewlett Place are out, 8th November :- [https://www.fixmystreet.com/report/5190744](https://www.fixmystreet.com/report/5190744)
 
 <!-- fix_marker ends -->
