@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Farm pigs in several fields with public footpaths traversing., 12th November :- [https://www.fixmystreet.com/report/5202192](https://www.fixmystreet.com/report/5202192)
+- Obstruction of footway by detritus leaves and growth from verge, 12th November :- [https://www.fixmystreet.com/report/5202043](https://www.fixmystreet.com/report/5202043)
+- White Goods dumped at side of road, 12th November :- [https://www.fixmystreet.com/report/5201680](https://www.fixmystreet.com/report/5201680)
+- Severe damage to the tarmac has resulted in large hole., 12th November :- [https://www.fixmystreet.com/report/5201544](https://www.fixmystreet.com/report/5201544)
+- Unmaintained Toilet facilities, 12th November :- [https://www.fixmystreet.com/report/5201539](https://www.fixmystreet.com/report/5201539)
+- Tin of white paint emptied on carriageway, 12th November :- [https://www.fixmystreet.com/report/5201533](https://www.fixmystreet.com/report/5201533)
+- Medium sized pothole, 12th November :- [https://www.fixmystreet.com/report/5201404](https://www.fixmystreet.com/report/5201404)
 - Street light not working, 12th November :- [https://www.fixmystreet.com/report/5201009](https://www.fixmystreet.com/report/5201009)
 - Pothole on roundabout, 11th November :- [https://www.fixmystreet.com/report/5199928](https://www.fixmystreet.com/report/5199928)
 - Blocked gullies, 11th November :- [https://www.fixmystreet.com/report/5199718](https://www.fixmystreet.com/report/5199718)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lamp posts not working, 10th November :- [https://www.fixmystreet.com/report/5198177](https://www.fixmystreet.com/report/5198177)
 - Drain totally blocked Clyde Crescent, 10th November :- [https://www.fixmystreet.com/report/5198174](https://www.fixmystreet.com/report/5198174)
 - Street light outside 21 Pinetrees is not working., 10th November :- [https://www.fixmystreet.com/report/5198123](https://www.fixmystreet.com/report/5198123)
-- Obvious pothole on Corpus Street, towards London Road, 10th November :- [https://www.fixmystreet.com/report/5198046](https://www.fixmystreet.com/report/5198046)
-- Loose/rattling cover/ironwork problem, 10th November :- [https://www.fixmystreet.com/report/5197809](https://www.fixmystreet.com/report/5197809)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 10th November :- [https://www.fixmystreet.com/report/5197808](https://www.fixmystreet.com/report/5197808)
-- Blocked off pavement with verge reduced to mud, 10th November :- [https://www.fixmystreet.com/report/5197692](https://www.fixmystreet.com/report/5197692)
-- Unemptied bin, 10th November :- [https://www.fixmystreet.com/report/5197609](https://www.fixmystreet.com/report/5197609)
-- The stream normally runs underground in the road past West Ridge. The pipe is blocked and water now runs widely across the road past Woodbine and Hillside properties., 10th November :- [https://www.fixmystreet.com/report/5197575](https://www.fixmystreet.com/report/5197575)
-- During heavy rain the drains opposite 31 Homecroft Drive, drains flood and doesn't decrease for several hours!, 10th November :- [https://www.fixmystreet.com/report/5197569](https://www.fixmystreet.com/report/5197569)
 
 <!-- fix_marker ends -->
