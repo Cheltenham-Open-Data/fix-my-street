@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light not working, 12th November :- [https://www.fixmystreet.com/report/5201009](https://www.fixmystreet.com/report/5201009)
 - Pothole on roundabout, 11th November :- [https://www.fixmystreet.com/report/5199928](https://www.fixmystreet.com/report/5199928)
 - Blocked gullies, 11th November :- [https://www.fixmystreet.com/report/5199718](https://www.fixmystreet.com/report/5199718)
 - Speed sign not coming on, 11th November :- [https://www.fixmystreet.com/report/5199651](https://www.fixmystreet.com/report/5199651)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Unemptied bin, 10th November :- [https://www.fixmystreet.com/report/5197609](https://www.fixmystreet.com/report/5197609)
 - The stream normally runs underground in the road past West Ridge. The pipe is blocked and water now runs widely across the road past Woodbine and Hillside properties., 10th November :- [https://www.fixmystreet.com/report/5197575](https://www.fixmystreet.com/report/5197575)
 - During heavy rain the drains opposite 31 Homecroft Drive, drains flood and doesn't decrease for several hours!, 10th November :- [https://www.fixmystreet.com/report/5197569](https://www.fixmystreet.com/report/5197569)
-- Two large potholes on Meadow Way, 10th November :- [https://www.fixmystreet.com/report/5197518](https://www.fixmystreet.com/report/5197518)
 
 <!-- fix_marker ends -->
