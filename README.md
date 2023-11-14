@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Approx 15" x 8" wide pothole, 13th November :- [https://www.fixmystreet.com/report/5207623](https://www.fixmystreet.com/report/5207623)
+- Raised iron works with no warnings, 13th November :- [https://www.fixmystreet.com/report/5207493](https://www.fixmystreet.com/report/5207493)
 - Tree is damaged problem, 13th November :- [https://www.fixmystreet.com/report/5207054](https://www.fixmystreet.com/report/5207054)
 - Bulb out on Street lamp outside 19 St Michaels Road, 13th November :- [https://www.fixmystreet.com/report/5206480](https://www.fixmystreet.com/report/5206480)
 - Water coming from underground, 13th November :- [https://www.fixmystreet.com/report/5206446](https://www.fixmystreet.com/report/5206446)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 13th November :- [https://www.fixmystreet.com/report/5204959](https://www.fixmystreet.com/report/5204959)
 - A pothole in road problem, 13th November :- [https://www.fixmystreet.com/report/5205549](https://www.fixmystreet.com/report/5205549)
 - A pothole in road problem, 13th November :- [https://www.fixmystreet.com/report/5204752](https://www.fixmystreet.com/report/5204752)
-- Inadequate signage, 13th November :- [https://www.fixmystreet.com/report/5204539](https://www.fixmystreet.com/report/5204539)
-- A pothole in road problem, 13th November :- [https://www.fixmystreet.com/report/5206168](https://www.fixmystreet.com/report/5206168)
 
 <!-- fix_marker ends -->
