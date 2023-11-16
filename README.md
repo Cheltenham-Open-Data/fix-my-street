@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fallen down tree on path, 15th November :- [https://www.fixmystreet.com/report/5216938](https://www.fixmystreet.com/report/5216938)
+- Kissing gate with dip underneath, 15th November :- [https://www.fixmystreet.com/report/5216919](https://www.fixmystreet.com/report/5216919)
 - Drainage is blocked in a busy high street location., 15th November :- [https://www.fixmystreet.com/report/5216631](https://www.fixmystreet.com/report/5216631)
 - A pothole in road problem, 15th November :- [https://www.fixmystreet.com/report/5216426](https://www.fixmystreet.com/report/5216426)
 - 2x streetlights on public walkway not working, 15th November :- [https://www.fixmystreet.com/report/5216045](https://www.fixmystreet.com/report/5216045)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Crossing audible sound too loud/soft problem, 15th November :- [https://www.fixmystreet.com/report/5214357](https://www.fixmystreet.com/report/5214357)
 - Tree is damaged problem, 15th November :- [https://www.fixmystreet.com/report/5214356](https://www.fixmystreet.com/report/5214356)
 - Overgrown trees hazard, 15th November :- [https://www.fixmystreet.com/report/5214235](https://www.fixmystreet.com/report/5214235)
-- Tree is damaged problem, 15th November :- [https://www.fixmystreet.com/report/5214354](https://www.fixmystreet.com/report/5214354)
-- A pothole in road problem, 15th November :- [https://www.fixmystreet.com/report/5214172](https://www.fixmystreet.com/report/5214172)
 
 <!-- fix_marker ends -->
