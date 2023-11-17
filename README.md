@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Roundabout pothole, 16th November :- [https://www.fixmystreet.com/report/5221641](https://www.fixmystreet.com/report/5221641)
+- Absolutely driving me crazy!!!!!, 16th November :- [https://www.fixmystreet.com/report/5221456](https://www.fixmystreet.com/report/5221456)
 - 14 inch pothole, 2-3 inches deep in path of bikes, 16th November :- [https://www.fixmystreet.com/report/5220829](https://www.fixmystreet.com/report/5220829)
 - Drain is blocked whenever it rains, 16th November :- [https://www.fixmystreet.com/report/5220546](https://www.fixmystreet.com/report/5220546)
 - Still not completed repair your ref 11418200, 16th November :- [https://www.fixmystreet.com/report/5220392](https://www.fixmystreet.com/report/5220392)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 16th November :- [https://www.fixmystreet.com/report/5218499](https://www.fixmystreet.com/report/5218499)
 - The sign is illegible problem, 16th November :- [https://www.fixmystreet.com/report/5217989](https://www.fixmystreet.com/report/5217989)
 - Fallen down tree on path, 15th November :- [https://www.fixmystreet.com/report/5216938](https://www.fixmystreet.com/report/5216938)
-- Kissing gate with dip underneath, 15th November :- [https://www.fixmystreet.com/report/5216919](https://www.fixmystreet.com/report/5216919)
-- Drainage is blocked in a busy high street location., 15th November :- [https://www.fixmystreet.com/report/5216631](https://www.fixmystreet.com/report/5216631)
 
 <!-- fix_marker ends -->
