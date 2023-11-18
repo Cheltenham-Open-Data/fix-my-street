@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road Obstruction by Parking Cars, 18th November :- [https://www.fixmystreet.com/report/5227652](https://www.fixmystreet.com/report/5227652)
+- Rattling manhole cover, 18th November :- [https://www.fixmystreet.com/report/5227534](https://www.fixmystreet.com/report/5227534)
+- Building work causing dangerous condition, 18th November :- [https://www.fixmystreet.com/report/5227140](https://www.fixmystreet.com/report/5227140)
+- Permanent cycle sign facing slightly wrong way, 18th November :- [https://www.fixmystreet.com/report/5226575](https://www.fixmystreet.com/report/5226575)
+- Large expansive pothole, 18th November :- [https://www.fixmystreet.com/report/5226456](https://www.fixmystreet.com/report/5226456)
+- Highways safety barriers continually collapsing and creating a hazard, 18th November :- [https://www.fixmystreet.com/report/5226429](https://www.fixmystreet.com/report/5226429)
+- Pot hole previously reported 30 Oct, 18th November :- [https://www.fixmystreet.com/report/5226176](https://www.fixmystreet.com/report/5226176)
 - Raised pavement and uneven surface, 18th November :- [https://www.fixmystreet.com/report/5225949](https://www.fixmystreet.com/report/5225949)
 - Red traffic light out, 17th November :- [https://www.fixmystreet.com/report/5225656](https://www.fixmystreet.com/report/5225656)
 - Street light out by bus stop on the same side of the road as care home, 17th November :- [https://www.fixmystreet.com/report/5225215](https://www.fixmystreet.com/report/5225215)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road surface shocking, 17th November :- [https://www.fixmystreet.com/report/5223209](https://www.fixmystreet.com/report/5223209)
 - General state of road, 17th November :- [https://www.fixmystreet.com/report/5223183](https://www.fixmystreet.com/report/5223183)
 - The sign is illegible problem, 17th November :- [https://www.fixmystreet.com/report/5224660](https://www.fixmystreet.com/report/5224660)
-- Loose/rattling cover/ironwork problem, 17th November :- [https://www.fixmystreet.com/report/5223103](https://www.fixmystreet.com/report/5223103)
-- Loose/rattling cover/ironwork problem, 17th November :- [https://www.fixmystreet.com/report/5223654](https://www.fixmystreet.com/report/5223654)
-- Loose/rattling cover/ironwork problem, 17th November :- [https://www.fixmystreet.com/report/5222927](https://www.fixmystreet.com/report/5222927)
-- Northside of the road after traffic lights, 17th November :- [https://www.fixmystreet.com/report/5222774](https://www.fixmystreet.com/report/5222774)
-- Many large holes have reoccurred due to weather and continuous traffic, 17th November :- [https://www.fixmystreet.com/report/5222717](https://www.fixmystreet.com/report/5222717)
-- Flytipping, 17th November :- [https://www.fixmystreet.com/report/5222692](https://www.fixmystreet.com/report/5222692)
-- Tree shoots blocking footpath, 17th November :- [https://www.fixmystreet.com/report/5222634](https://www.fixmystreet.com/report/5222634)
 
 <!-- fix_marker ends -->
