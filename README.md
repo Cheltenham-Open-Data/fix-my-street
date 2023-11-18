@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Raised pavement and uneven surface, 18th November :- [https://www.fixmystreet.com/report/5225949](https://www.fixmystreet.com/report/5225949)
+- Red traffic light out, 17th November :- [https://www.fixmystreet.com/report/5225656](https://www.fixmystreet.com/report/5225656)
 - Street light out by bus stop on the same side of the road as care home, 17th November :- [https://www.fixmystreet.com/report/5225215](https://www.fixmystreet.com/report/5225215)
 - Potholes, 17th November :- [https://www.fixmystreet.com/report/5225178](https://www.fixmystreet.com/report/5225178)
 - Street light put, 17th November :- [https://www.fixmystreet.com/report/5224998](https://www.fixmystreet.com/report/5224998)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Many large holes have reoccurred due to weather and continuous traffic, 17th November :- [https://www.fixmystreet.com/report/5222717](https://www.fixmystreet.com/report/5222717)
 - Flytipping, 17th November :- [https://www.fixmystreet.com/report/5222692](https://www.fixmystreet.com/report/5222692)
 - Tree shoots blocking footpath, 17th November :- [https://www.fixmystreet.com/report/5222634](https://www.fixmystreet.com/report/5222634)
-- Street light is permanently out problem, 17th November :- [https://www.fixmystreet.com/report/5222534](https://www.fixmystreet.com/report/5222534)
-- Crossing audible sound too loud/soft problem, 17th November :- [https://www.fixmystreet.com/report/5222532](https://www.fixmystreet.com/report/5222532)
 
 <!-- fix_marker ends -->
