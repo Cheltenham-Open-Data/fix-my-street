@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Numerous potholes, 19th November :- [https://www.fixmystreet.com/report/5229925](https://www.fixmystreet.com/report/5229925)
+- Cut foliage blocking public footpath, 19th November :- [https://www.fixmystreet.com/report/5229920](https://www.fixmystreet.com/report/5229920)
+- "Danger overhead Cable" bollard left in sae place for many weeks, 19th November :- [https://www.fixmystreet.com/report/5229614](https://www.fixmystreet.com/report/5229614)
+- A pothole in road problem, 19th November :- [https://www.fixmystreet.com/report/5229402](https://www.fixmystreet.com/report/5229402)
+- There was no category for this so I had to select a different one to continue, 19th November :- [https://www.fixmystreet.com/report/5229241](https://www.fixmystreet.com/report/5229241)
+- Environmental pollution from shops, 19th November :- [https://www.fixmystreet.com/report/5229068](https://www.fixmystreet.com/report/5229068)
+- Loud noise every other vehicle, 19th November :- [https://www.fixmystreet.com/report/5229025](https://www.fixmystreet.com/report/5229025)
+- Left lane subsidence, 19th November :- [https://www.fixmystreet.com/report/5228819](https://www.fixmystreet.com/report/5228819)
+- Damaged leaning lamp post., 19th November :- [https://www.fixmystreet.com/report/5228727](https://www.fixmystreet.com/report/5228727)
+- Mattress, sofa and cardboard on catkin drive outside number one Rowanfield exchange, 19th November :- [https://www.fixmystreet.com/report/5228437](https://www.fixmystreet.com/report/5228437)
+- Beanbag ripped open outside 1 Clevedon, Square, 19th November :- [https://www.fixmystreet.com/report/5228410](https://www.fixmystreet.com/report/5228410)
+- Assorted household goods and bin bags near 19 Pitman Road, 19th November :- [https://www.fixmystreet.com/report/5228337](https://www.fixmystreet.com/report/5228337)
 - Push button not working on crossing, 18th November :- [https://www.fixmystreet.com/report/5228185](https://www.fixmystreet.com/report/5228185)
 - Series of pothole along road, including junction, 18th November :- [https://www.fixmystreet.com/report/5228059](https://www.fixmystreet.com/report/5228059)
 - Road Obstruction by Parking Cars, 18th November :- [https://www.fixmystreet.com/report/5227652](https://www.fixmystreet.com/report/5227652)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Permanent cycle sign facing slightly wrong way, 18th November :- [https://www.fixmystreet.com/report/5226575](https://www.fixmystreet.com/report/5226575)
 - Large expansive pothole, 18th November :- [https://www.fixmystreet.com/report/5226456](https://www.fixmystreet.com/report/5226456)
 - Highways safety barriers continually collapsing and creating a hazard, 18th November :- [https://www.fixmystreet.com/report/5226429](https://www.fixmystreet.com/report/5226429)
-- Pot hole previously reported 30 Oct, 18th November :- [https://www.fixmystreet.com/report/5226176](https://www.fixmystreet.com/report/5226176)
-- Raised pavement and uneven surface, 18th November :- [https://www.fixmystreet.com/report/5225949](https://www.fixmystreet.com/report/5225949)
-- Red traffic light out, 17th November :- [https://www.fixmystreet.com/report/5225656](https://www.fixmystreet.com/report/5225656)
-- Street light out by bus stop on the same side of the road as care home, 17th November :- [https://www.fixmystreet.com/report/5225215](https://www.fixmystreet.com/report/5225215)
-- Potholes, 17th November :- [https://www.fixmystreet.com/report/5225178](https://www.fixmystreet.com/report/5225178)
-- Street light put, 17th November :- [https://www.fixmystreet.com/report/5224998](https://www.fixmystreet.com/report/5224998)
-- Motorcycle locking points are in need of service, several bent and jammed, 17th November :- [https://www.fixmystreet.com/report/5224481](https://www.fixmystreet.com/report/5224481)
-- Light sensor is not detecting vehicles problem, 17th November :- [https://www.fixmystreet.com/report/5224519](https://www.fixmystreet.com/report/5224519)
-- Outside 58 Copt Elm, 17th November :- [https://www.fixmystreet.com/report/5224027](https://www.fixmystreet.com/report/5224027)
-- The stream/culvert is damaged causing flooding and deep mud. This is a recent problem and not just because of heavy rain. Right of Way is almost impassable, 17th November :- [https://www.fixmystreet.com/report/5223926](https://www.fixmystreet.com/report/5223926)
-- Loose/rattling cover/ironwork problem, 17th November :- [https://www.fixmystreet.com/report/5223797](https://www.fixmystreet.com/report/5223797)
-- Road surface shocking, 17th November :- [https://www.fixmystreet.com/report/5223209](https://www.fixmystreet.com/report/5223209)
 
 <!-- fix_marker ends -->
