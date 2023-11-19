@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Push button not working on crossing, 18th November :- [https://www.fixmystreet.com/report/5228185](https://www.fixmystreet.com/report/5228185)
+- Series of pothole along road, including junction, 18th November :- [https://www.fixmystreet.com/report/5228059](https://www.fixmystreet.com/report/5228059)
 - Road Obstruction by Parking Cars, 18th November :- [https://www.fixmystreet.com/report/5227652](https://www.fixmystreet.com/report/5227652)
 - Rattling manhole cover, 18th November :- [https://www.fixmystreet.com/report/5227534](https://www.fixmystreet.com/report/5227534)
 - Building work causing dangerous condition, 18th November :- [https://www.fixmystreet.com/report/5227140](https://www.fixmystreet.com/report/5227140)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The stream/culvert is damaged causing flooding and deep mud. This is a recent problem and not just because of heavy rain. Right of Way is almost impassable, 17th November :- [https://www.fixmystreet.com/report/5223926](https://www.fixmystreet.com/report/5223926)
 - Loose/rattling cover/ironwork problem, 17th November :- [https://www.fixmystreet.com/report/5223797](https://www.fixmystreet.com/report/5223797)
 - Road surface shocking, 17th November :- [https://www.fixmystreet.com/report/5223209](https://www.fixmystreet.com/report/5223209)
-- General state of road, 17th November :- [https://www.fixmystreet.com/report/5223183](https://www.fixmystreet.com/report/5223183)
-- The sign is illegible problem, 17th November :- [https://www.fixmystreet.com/report/5224660](https://www.fixmystreet.com/report/5224660)
 
 <!-- fix_marker ends -->
