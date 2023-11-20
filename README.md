@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Obsolete 'KEEP CLEAR' marking, 20th November :- [https://www.fixmystreet.com/report/5230657](https://www.fixmystreet.com/report/5230657)
+- The whole of the "cycle path" is riddled with potholes which now cannot be seen in dark as streetlighting does not illuminate them., 19th November :- [https://www.fixmystreet.com/report/5230568](https://www.fixmystreet.com/report/5230568)
+- Leaning lamp post on the bridge over the A417, 19th November :- [https://www.fixmystreet.com/report/5230499](https://www.fixmystreet.com/report/5230499)
+- Deteriorating road surface and potholes, 19th November :- [https://www.fixmystreet.com/report/5230487](https://www.fixmystreet.com/report/5230487)
+- Street light doesn’t come at night., 19th November :- [https://www.fixmystreet.com/report/5230446](https://www.fixmystreet.com/report/5230446)
+- The street light is partly obscured by tree branches, 19th November :- [https://www.fixmystreet.com/report/5230417](https://www.fixmystreet.com/report/5230417)
+- Stone underneath kissing gate/stile., 19th November :- [https://www.fixmystreet.com/report/5230316](https://www.fixmystreet.com/report/5230316)
+- A bicycle has been abandoned near the tennis court by Greenways, 19th November :- [https://www.fixmystreet.com/report/5230203](https://www.fixmystreet.com/report/5230203)
 - Numerous potholes, 19th November :- [https://www.fixmystreet.com/report/5229925](https://www.fixmystreet.com/report/5229925)
 - Cut foliage blocking public footpath, 19th November :- [https://www.fixmystreet.com/report/5229920](https://www.fixmystreet.com/report/5229920)
 - "Danger overhead Cable" bollard left in sae place for many weeks, 19th November :- [https://www.fixmystreet.com/report/5229614](https://www.fixmystreet.com/report/5229614)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mattress, sofa and cardboard on catkin drive outside number one Rowanfield exchange, 19th November :- [https://www.fixmystreet.com/report/5228437](https://www.fixmystreet.com/report/5228437)
 - Beanbag ripped open outside 1 Clevedon, Square, 19th November :- [https://www.fixmystreet.com/report/5228410](https://www.fixmystreet.com/report/5228410)
 - Assorted household goods and bin bags near 19 Pitman Road, 19th November :- [https://www.fixmystreet.com/report/5228337](https://www.fixmystreet.com/report/5228337)
-- Push button not working on crossing, 18th November :- [https://www.fixmystreet.com/report/5228185](https://www.fixmystreet.com/report/5228185)
-- Series of pothole along road, including junction, 18th November :- [https://www.fixmystreet.com/report/5228059](https://www.fixmystreet.com/report/5228059)
-- Road Obstruction by Parking Cars, 18th November :- [https://www.fixmystreet.com/report/5227652](https://www.fixmystreet.com/report/5227652)
-- Rattling manhole cover, 18th November :- [https://www.fixmystreet.com/report/5227534](https://www.fixmystreet.com/report/5227534)
-- Building work causing dangerous condition, 18th November :- [https://www.fixmystreet.com/report/5227140](https://www.fixmystreet.com/report/5227140)
-- Permanent cycle sign facing slightly wrong way, 18th November :- [https://www.fixmystreet.com/report/5226575](https://www.fixmystreet.com/report/5226575)
-- Large expansive pothole, 18th November :- [https://www.fixmystreet.com/report/5226456](https://www.fixmystreet.com/report/5226456)
-- Highways safety barriers continually collapsing and creating a hazard, 18th November :- [https://www.fixmystreet.com/report/5226429](https://www.fixmystreet.com/report/5226429)
 
 <!-- fix_marker ends -->
