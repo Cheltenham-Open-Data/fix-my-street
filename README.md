@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Damaged keep left sign, 20th November :- [https://www.fixmystreet.com/report/5235057](https://www.fixmystreet.com/report/5235057)
 - There have been barriers leaning against tree roots at 3 locations at the end of this road for at least 12months, and a barrier is currently obstructing the pavement, 20th November :- [https://www.fixmystreet.com/report/5233986](https://www.fixmystreet.com/report/5233986)
 - Area of road surface has sunk across full width of Coberley Road, 20th November :- [https://www.fixmystreet.com/report/5233580](https://www.fixmystreet.com/report/5233580)
 - Bad paviment, 20th November :- [https://www.fixmystreet.com/report/5233383](https://www.fixmystreet.com/report/5233383)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Leaning lamp post on the bridge over the A417, 19th November :- [https://www.fixmystreet.com/report/5230499](https://www.fixmystreet.com/report/5230499)
 - Deteriorating road surface and potholes, 19th November :- [https://www.fixmystreet.com/report/5230487](https://www.fixmystreet.com/report/5230487)
 - Street light doesn’t come at night., 19th November :- [https://www.fixmystreet.com/report/5230446](https://www.fixmystreet.com/report/5230446)
-- The street light is partly obscured by tree branches, 19th November :- [https://www.fixmystreet.com/report/5230417](https://www.fixmystreet.com/report/5230417)
 
 <!-- fix_marker ends -->
