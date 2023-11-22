@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The pathway is uneven and damaged beyond repair, the family that live at 36 gwernant road have created their own driveway to their home over a green area. this has now left pathways impassible for other disabled residents with huge disabilities, my elderly parents live at 32 and have been there over 40 years! They also own their home, the path ways to their house are damaged beyond repair due to inconsiderate neighbours digging up the ground and creating their own drive way..my parents have been living their since 1981 and are now both disabled, the pathways surrounding the green outside there home has been left in completely unpassibke conditions for walking , even with a walking aid, how is this allowed that council Tennant's can dig up council property without consent and even if they did, what why has the green area not been turned into a parking area fit for all? My parents are stuck inside their own home in fear of falling over a path way that was fine up untill number 36 dug it up and ruined it with driving their vehicles all over the path., 22nd November :- [https://www.fixmystreet.com/report/5239667](https://www.fixmystreet.com/report/5239667)
+- Broken street name sign, 21st November :- [https://www.fixmystreet.com/report/5239311](https://www.fixmystreet.com/report/5239311)
+- Carriageway damaged across lanes, 21st November :- [https://www.fixmystreet.com/report/5239062](https://www.fixmystreet.com/report/5239062)
+- Pot hile on side of narrowed carriage way!, 21st November :- [https://www.fixmystreet.com/report/5239049](https://www.fixmystreet.com/report/5239049)
+- Poor recent repair, surface sinking and breaking up, 21st November :- [https://www.fixmystreet.com/report/5238977](https://www.fixmystreet.com/report/5238977)
 - Drains blocked and water running down the lane eroding the road surface, 21st November :- [https://www.fixmystreet.com/report/5238748](https://www.fixmystreet.com/report/5238748)
 - Pothole in road, 21st November :- [https://www.fixmystreet.com/report/5238711](https://www.fixmystreet.com/report/5238711)
 - Incorrect signage, 21st November :- [https://www.fixmystreet.com/report/5238563](https://www.fixmystreet.com/report/5238563)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 21st November :- [https://www.fixmystreet.com/report/5237039](https://www.fixmystreet.com/report/5237039)
 - Tree is damaged problem, 21st November :- [https://www.fixmystreet.com/report/5237551](https://www.fixmystreet.com/report/5237551)
 - Bin improperly located in bike parking area, 21st November :- [https://www.fixmystreet.com/report/5236457](https://www.fixmystreet.com/report/5236457)
-- Water bubbling up through tarmac surface, 21st November :- [https://www.fixmystreet.com/report/5236358](https://www.fixmystreet.com/report/5236358)
-- Large stones and lots of soil deposited opposite drive by the home owner to block a passing place opposite drive, 21st November :- [https://www.fixmystreet.com/report/5236296](https://www.fixmystreet.com/report/5236296)
-- A pothole in road problem, 21st November :- [https://www.fixmystreet.com/report/5236315](https://www.fixmystreet.com/report/5236315)
-- Damaged access panel. Believe it may well be Severn Trent., 21st November :- [https://www.fixmystreet.com/report/5235798](https://www.fixmystreet.com/report/5235798)
-- Pothole on Lobleys bridge in direction from Abbeymead to Cooper's Edge, 21st November :- [https://www.fixmystreet.com/report/5235668](https://www.fixmystreet.com/report/5235668)
 
 <!-- fix_marker ends -->
