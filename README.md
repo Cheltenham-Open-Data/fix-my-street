@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pavement collapsed, 24th November :- [https://www.fixmystreet.com/report/5250984](https://www.fixmystreet.com/report/5250984)
 - Abandoned car since Monday, 24th November :- [https://www.fixmystreet.com/report/5250607](https://www.fixmystreet.com/report/5250607)
 - Deep pothole, 24th November :- [https://www.fixmystreet.com/report/5250533](https://www.fixmystreet.com/report/5250533)
 - Large pothole, 24th November :- [https://www.fixmystreet.com/report/5250166](https://www.fixmystreet.com/report/5250166)
@@ -17,10 +18,9 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 24th November :- [https://www.fixmystreet.com/report/5248740](https://www.fixmystreet.com/report/5248740)
 - The sign is illegible problem, 24th November :- [https://www.fixmystreet.com/report/5248739](https://www.fixmystreet.com/report/5248739)
 - A pothole in road problem, 24th November :- [https://www.fixmystreet.com/report/5248405](https://www.fixmystreet.com/report/5248405)
+- Hole in tarmac footway, 24th November :- [https://www.fixmystreet.com/report/5248300](https://www.fixmystreet.com/report/5248300)
 - Large manhole revealing electrical cables in pavement - no barriers, 24th November :- [https://www.fixmystreet.com/report/5248044](https://www.fixmystreet.com/report/5248044)
 - Broken paving slab outside 178 Brooklyn Road, 24th November :- [https://www.fixmystreet.com/report/5248021](https://www.fixmystreet.com/report/5248021)
 - Light sensor is not detecting vehicles problem, 24th November :- [https://www.fixmystreet.com/report/5248093](https://www.fixmystreet.com/report/5248093)
-- Lights out in underpass, 23rd November :- [https://www.fixmystreet.com/report/5247648](https://www.fixmystreet.com/report/5247648)
-- 2ft long slightly deeper than angle depth. Hartley lane, 23rd November :- [https://www.fixmystreet.com/report/5247322](https://www.fixmystreet.com/report/5247322)
 
 <!-- fix_marker ends -->
