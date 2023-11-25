@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The length of Bayshill Rd fm The Malmaison Hotel roundabout down to the lights at St George's Rd needs resurfacing., 25th November :- [https://www.fixmystreet.com/report/5252496](https://www.fixmystreet.com/report/5252496)
+- Debris on cycle lane., 25th November :- [https://www.fixmystreet.com/report/5252338](https://www.fixmystreet.com/report/5252338)
+- Bridleway overgrown by brambles and nettles. Very narrow. Branch over path at about 4 ft height. Impassable on horse or bike, 25th November :- [https://www.fixmystreet.com/report/5252047](https://www.fixmystreet.com/report/5252047)
+- Many potholes in this area road from entrance into butts lane to sarnia butts lane. Road is completely disintegrated in place, 25th November :- [https://www.fixmystreet.com/report/5252025](https://www.fixmystreet.com/report/5252025)
+- Outside my front gate 1 Amberley Road very big pot hole, 25th November :- [https://www.fixmystreet.com/report/5251957](https://www.fixmystreet.com/report/5251957)
+- Bridleway overgrown by brambles and nettles. Very narrow. Branch over path at about 4 ft height. Impassable on horse or bike, 25th November :- [https://www.fixmystreet.com/report/5251954](https://www.fixmystreet.com/report/5251954)
+- Blocked drains cause ice on B4632 outside Malvern View Hotel, 25th November :- [https://www.fixmystreet.com/report/5251295](https://www.fixmystreet.com/report/5251295)
 - Pavement collapsed, 24th November :- [https://www.fixmystreet.com/report/5250984](https://www.fixmystreet.com/report/5250984)
 - Abandoned car since Monday, 24th November :- [https://www.fixmystreet.com/report/5250607](https://www.fixmystreet.com/report/5250607)
 - Deep pothole, 24th November :- [https://www.fixmystreet.com/report/5250533](https://www.fixmystreet.com/report/5250533)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 24th November :- [https://www.fixmystreet.com/report/5249233](https://www.fixmystreet.com/report/5249233)
 - A pothole in road problem, 24th November :- [https://www.fixmystreet.com/report/5249088](https://www.fixmystreet.com/report/5249088)
 - The sign is illegible problem, 24th November :- [https://www.fixmystreet.com/report/5248902](https://www.fixmystreet.com/report/5248902)
-- A pothole in road problem, 24th November :- [https://www.fixmystreet.com/report/5248740](https://www.fixmystreet.com/report/5248740)
-- The sign is illegible problem, 24th November :- [https://www.fixmystreet.com/report/5248739](https://www.fixmystreet.com/report/5248739)
-- A pothole in road problem, 24th November :- [https://www.fixmystreet.com/report/5248405](https://www.fixmystreet.com/report/5248405)
-- Hole in tarmac footway, 24th November :- [https://www.fixmystreet.com/report/5248300](https://www.fixmystreet.com/report/5248300)
-- Large manhole revealing electrical cables in pavement - no barriers, 24th November :- [https://www.fixmystreet.com/report/5248044](https://www.fixmystreet.com/report/5248044)
-- Broken paving slab outside 178 Brooklyn Road, 24th November :- [https://www.fixmystreet.com/report/5248021](https://www.fixmystreet.com/report/5248021)
-- Light sensor is not detecting vehicles problem, 24th November :- [https://www.fixmystreet.com/report/5248093](https://www.fixmystreet.com/report/5248093)
 
 <!-- fix_marker ends -->
