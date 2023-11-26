@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 25th November :- [https://www.fixmystreet.com/report/5252786](https://www.fixmystreet.com/report/5252786)
 - The length of Bayshill Rd fm The Malmaison Hotel roundabout down to the lights at St George's Rd needs resurfacing., 25th November :- [https://www.fixmystreet.com/report/5252496](https://www.fixmystreet.com/report/5252496)
 - Debris on cycle lane., 25th November :- [https://www.fixmystreet.com/report/5252338](https://www.fixmystreet.com/report/5252338)
 - Bridleway overgrown by brambles and nettles. Very narrow. Branch over path at about 4 ft height. Impassable on horse or bike, 25th November :- [https://www.fixmystreet.com/report/5252047](https://www.fixmystreet.com/report/5252047)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in pavement problem, 24th November :- [https://www.fixmystreet.com/report/5249234](https://www.fixmystreet.com/report/5249234)
 - Loose/rattling cover/ironwork problem, 24th November :- [https://www.fixmystreet.com/report/5249233](https://www.fixmystreet.com/report/5249233)
 - A pothole in road problem, 24th November :- [https://www.fixmystreet.com/report/5249088](https://www.fixmystreet.com/report/5249088)
-- The sign is illegible problem, 24th November :- [https://www.fixmystreet.com/report/5248902](https://www.fixmystreet.com/report/5248902)
 
 <!-- fix_marker ends -->
