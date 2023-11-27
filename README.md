@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sixways traffic lights reconfiguration, 27th November :- [https://www.fixmystreet.com/report/5255156](https://www.fixmystreet.com/report/5255156)
 - A string of dangerous potholes along Priors Road, 26th November :- [https://www.fixmystreet.com/report/5254597](https://www.fixmystreet.com/report/5254597)
 - Water continualy runs accross the carriageway, and has caused ice to form due to the current freezing conditions. I am aware of at least one car that has lost control at the location., 26th November :- [https://www.fixmystreet.com/report/5254544](https://www.fixmystreet.com/report/5254544)
 - Path from Green to Lobleys drive, 26th November :- [https://www.fixmystreet.com/report/5254228](https://www.fixmystreet.com/report/5254228)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drains cause ice on B4632 outside Malvern View Hotel, 25th November :- [https://www.fixmystreet.com/report/5251295](https://www.fixmystreet.com/report/5251295)
 - Pavement collapsed, 24th November :- [https://www.fixmystreet.com/report/5250984](https://www.fixmystreet.com/report/5250984)
 - Abandoned car since Monday, 24th November :- [https://www.fixmystreet.com/report/5250607](https://www.fixmystreet.com/report/5250607)
-- Deep pothole, 24th November :- [https://www.fixmystreet.com/report/5250533](https://www.fixmystreet.com/report/5250533)
 
 <!-- fix_marker ends -->
