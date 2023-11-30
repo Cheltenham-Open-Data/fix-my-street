@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lights not changing - red in both directions, 30th November :- [https://www.fixmystreet.com/report/5267290](https://www.fixmystreet.com/report/5267290)
+- Continuous potholes and road surface defects along Old Bath Road between Charlton Park Drive and Pilley Bridge, 29th November :- [https://www.fixmystreet.com/report/5266997](https://www.fixmystreet.com/report/5266997)
+- Raised pavement in several places due to roots from tree, 29th November :- [https://www.fixmystreet.com/report/5266471](https://www.fixmystreet.com/report/5266471)
 - Very narrow pavement, 29th November :- [https://www.fixmystreet.com/report/5266302](https://www.fixmystreet.com/report/5266302)
 - A pothole in pavement problem, 29th November :- [https://www.fixmystreet.com/report/5265982](https://www.fixmystreet.com/report/5265982)
 - The sign is illegible problem, 29th November :- [https://www.fixmystreet.com/report/5265848](https://www.fixmystreet.com/report/5265848)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Red Light not working, 28th November :- [https://www.fixmystreet.com/report/5263118](https://www.fixmystreet.com/report/5263118)
 - Multiple Potholes, 28th November :- [https://www.fixmystreet.com/report/5263108](https://www.fixmystreet.com/report/5263108)
 - Multiple lights not working, 28th November :- [https://www.fixmystreet.com/report/5262999](https://www.fixmystreet.com/report/5262999)
-- Numerous Streetlights not working, 28th November :- [https://www.fixmystreet.com/report/5262983](https://www.fixmystreet.com/report/5262983)
-- Road surface including previous patch repairs is badly deteriorated, 28th November :- [https://www.fixmystreet.com/report/5262614](https://www.fixmystreet.com/report/5262614)
-- There are several bad (deep) potholes. The photo is of the worst, 28th November :- [https://www.fixmystreet.com/report/5262490](https://www.fixmystreet.com/report/5262490)
 
 <!-- fix_marker ends -->
