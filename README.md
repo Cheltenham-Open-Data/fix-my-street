@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped furniture, 30th November :- [https://www.fixmystreet.com/report/5270665](https://www.fixmystreet.com/report/5270665)
+- Road priority sign on corner of Naunton way damanged, 30th November :- [https://www.fixmystreet.com/report/5270226](https://www.fixmystreet.com/report/5270226)
 - Unlit caravan not moved since July, 30th November :- [https://www.fixmystreet.com/report/5270127](https://www.fixmystreet.com/report/5270127)
 - Street light out, 30th November :- [https://www.fixmystreet.com/report/5269994](https://www.fixmystreet.com/report/5269994)
 - Unable to pass along pavement safely, 30th November :- [https://www.fixmystreet.com/report/5269763](https://www.fixmystreet.com/report/5269763)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 30th November :- [https://www.fixmystreet.com/report/5268741](https://www.fixmystreet.com/report/5268741)
 - Stop sign too low., 30th November :- [https://www.fixmystreet.com/report/5267680](https://www.fixmystreet.com/report/5267680)
 - Lights not changing - red in both directions, 30th November :- [https://www.fixmystreet.com/report/5267290](https://www.fixmystreet.com/report/5267290)
-- Continuous potholes and road surface defects along Old Bath Road between Charlton Park Drive and Pilley Bridge, 29th November :- [https://www.fixmystreet.com/report/5266997](https://www.fixmystreet.com/report/5266997)
-- Raised pavement in several places due to roots from tree, 29th November :- [https://www.fixmystreet.com/report/5266471](https://www.fixmystreet.com/report/5266471)
 
 <!-- fix_marker ends -->
