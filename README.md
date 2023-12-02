@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 12 inch pothole in middle of road just before right turn, 2nd December :- [https://www.fixmystreet.com/report/5275671](https://www.fixmystreet.com/report/5275671)
+- Filled in new trench sinking, 2nd December :- [https://www.fixmystreet.com/report/5275602](https://www.fixmystreet.com/report/5275602)
+- Sewer collapsing - road undulating, 2nd December :- [https://www.fixmystreet.com/report/5275596](https://www.fixmystreet.com/report/5275596)
+- Sleep disruption from rattling manhole cover, 2nd December :- [https://www.fixmystreet.com/report/5275593](https://www.fixmystreet.com/report/5275593)
+- Road surface breaking up, 2nd December :- [https://www.fixmystreet.com/report/5275589](https://www.fixmystreet.com/report/5275589)
+- Tarmac on pavement has sunk by the tree, 2nd December :- [https://www.fixmystreet.com/report/5274637](https://www.fixmystreet.com/report/5274637)
+- Diversion sign fallen over and blocking pavement, 2nd December :- [https://www.fixmystreet.com/report/5274497](https://www.fixmystreet.com/report/5274497)
+- Potholes all over the place difficult to avoid all around the suffold square area, 2nd December :- [https://www.fixmystreet.com/report/5274233](https://www.fixmystreet.com/report/5274233)
 - C/w gully is frequently blocked/surcharged after the slightest rain causing significant standing water in vicinity of both church and much used point of pedestrian road crossing (facilitated by kerbed central refuge) - gey SubTek on the job to do a hard hit once and for all as all pervious efforts have been ineffective/poor/only temporary releases - SubTek will do a proper job and sort the problem!, 1st December :- [https://www.fixmystreet.com/report/5273387](https://www.fixmystreet.com/report/5273387)
 - Road cracking due to subsidence, 1st December :- [https://www.fixmystreet.com/report/5273376](https://www.fixmystreet.com/report/5273376)
 - General road marking and stud issues problem, 1st December :- [https://www.fixmystreet.com/report/5273248](https://www.fixmystreet.com/report/5273248)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown hedge and verge on junction, 1st December :- [https://www.fixmystreet.com/report/5271390](https://www.fixmystreet.com/report/5271390)
 - Loose/rattling cover/ironwork problem, 1st December :- [https://www.fixmystreet.com/report/5271325](https://www.fixmystreet.com/report/5271325)
 - A pothole in road problem, 1st December :- [https://www.fixmystreet.com/report/5272800](https://www.fixmystreet.com/report/5272800)
-- Dumped furniture, 30th November :- [https://www.fixmystreet.com/report/5270665](https://www.fixmystreet.com/report/5270665)
-- Road priority sign on corner of Naunton way damanged, 30th November :- [https://www.fixmystreet.com/report/5270226](https://www.fixmystreet.com/report/5270226)
-- Unlit caravan not moved since July, 30th November :- [https://www.fixmystreet.com/report/5270127](https://www.fixmystreet.com/report/5270127)
-- Street light out, 30th November :- [https://www.fixmystreet.com/report/5269994](https://www.fixmystreet.com/report/5269994)
-- Unable to pass along pavement safely, 30th November :- [https://www.fixmystreet.com/report/5269763](https://www.fixmystreet.com/report/5269763)
-- Brockworth Bridleway 60 - path muddy beyond resurfacing, 30th November :- [https://www.fixmystreet.com/report/5269758](https://www.fixmystreet.com/report/5269758)
-- Loose/rattling cover/ironwork problem, 30th November :- [https://www.fixmystreet.com/report/5273247](https://www.fixmystreet.com/report/5273247)
-- A pothole in road problem, 30th November :- [https://www.fixmystreet.com/report/5269386](https://www.fixmystreet.com/report/5269386)
 
 <!-- fix_marker ends -->
