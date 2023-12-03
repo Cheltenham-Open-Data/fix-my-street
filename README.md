@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipped waste, 3rd December :- [https://www.fixmystreet.com/report/5276172](https://www.fixmystreet.com/report/5276172)
+- Previous fix has sunk in 2 sections, 2nd December :- [https://www.fixmystreet.com/report/5275871](https://www.fixmystreet.com/report/5275871)
 - 12 inch pothole in middle of road just before right turn, 2nd December :- [https://www.fixmystreet.com/report/5275671](https://www.fixmystreet.com/report/5275671)
 - Filled in new trench sinking, 2nd December :- [https://www.fixmystreet.com/report/5275602](https://www.fixmystreet.com/report/5275602)
 - Sewer collapsing - road undulating, 2nd December :- [https://www.fixmystreet.com/report/5275596](https://www.fixmystreet.com/report/5275596)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Whole stretch of road has had cats eyes removed leaving gaping holes, 1st December :- [https://www.fixmystreet.com/report/5272065](https://www.fixmystreet.com/report/5272065)
 - Loose/rattling cover/ironwork problem, 1st December :- [https://www.fixmystreet.com/report/5271804](https://www.fixmystreet.com/report/5271804)
 - Overgrown hedge and verge on junction, 1st December :- [https://www.fixmystreet.com/report/5271390](https://www.fixmystreet.com/report/5271390)
-- Loose/rattling cover/ironwork problem, 1st December :- [https://www.fixmystreet.com/report/5271325](https://www.fixmystreet.com/report/5271325)
-- A pothole in road problem, 1st December :- [https://www.fixmystreet.com/report/5272800](https://www.fixmystreet.com/report/5272800)
 
 <!-- fix_marker ends -->
