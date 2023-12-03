@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bin at Pilley bridge full, 3rd December :- [https://www.fixmystreet.com/report/5277455](https://www.fixmystreet.com/report/5277455)
+- Pothole on road, near number 53 Ravensgate Road, 3rd December :- [https://www.fixmystreet.com/report/5276650](https://www.fixmystreet.com/report/5276650)
+- Pothole, 3rd December :- [https://www.fixmystreet.com/report/5276590](https://www.fixmystreet.com/report/5276590)
+- The traffic light has been severely damaged and is not working, 3rd December :- [https://www.fixmystreet.com/report/5276528](https://www.fixmystreet.com/report/5276528)
 - Fly tipped waste, 3rd December :- [https://www.fixmystreet.com/report/5276172](https://www.fixmystreet.com/report/5276172)
 - Previous fix has sunk in 2 sections, 2nd December :- [https://www.fixmystreet.com/report/5275871](https://www.fixmystreet.com/report/5275871)
 - 12 inch pothole in middle of road just before right turn, 2nd December :- [https://www.fixmystreet.com/report/5275671](https://www.fixmystreet.com/report/5275671)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in pavement problem, 1st December :- [https://www.fixmystreet.com/report/5272655](https://www.fixmystreet.com/report/5272655)
 - The sign is illegible problem, 1st December :- [https://www.fixmystreet.com/report/5272654](https://www.fixmystreet.com/report/5272654)
 - Light sensor is not detecting vehicles problem, 1st December :- [https://www.fixmystreet.com/report/5272521](https://www.fixmystreet.com/report/5272521)
-- A pothole in road problem, 1st December :- [https://www.fixmystreet.com/report/5272520](https://www.fixmystreet.com/report/5272520)
-- Whole stretch of road has had cats eyes removed leaving gaping holes, 1st December :- [https://www.fixmystreet.com/report/5272065](https://www.fixmystreet.com/report/5272065)
-- Loose/rattling cover/ironwork problem, 1st December :- [https://www.fixmystreet.com/report/5271804](https://www.fixmystreet.com/report/5271804)
-- Overgrown hedge and verge on junction, 1st December :- [https://www.fixmystreet.com/report/5271390](https://www.fixmystreet.com/report/5271390)
 
 <!-- fix_marker ends -->
