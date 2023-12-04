@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The lamp over the roundabout sign is not working., 3rd December :- [https://www.fixmystreet.com/report/5278061](https://www.fixmystreet.com/report/5278061)
+- Public footpath gate on floor blocking entrance, 3rd December :- [https://www.fixmystreet.com/report/5277922](https://www.fixmystreet.com/report/5277922)
+- Street light out, 3rd December :- [https://www.fixmystreet.com/report/5277875](https://www.fixmystreet.com/report/5277875)
+- Tempoary lights with no permit, 3rd December :- [https://www.fixmystreet.com/report/5277750](https://www.fixmystreet.com/report/5277750)
 - Bin at Pilley bridge full, 3rd December :- [https://www.fixmystreet.com/report/5277455](https://www.fixmystreet.com/report/5277455)
 - Pothole on road, near number 53 Ravensgate Road, 3rd December :- [https://www.fixmystreet.com/report/5276650](https://www.fixmystreet.com/report/5276650)
 - Pothole, 3rd December :- [https://www.fixmystreet.com/report/5276590](https://www.fixmystreet.com/report/5276590)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes all over the place difficult to avoid all around the suffold square area, 2nd December :- [https://www.fixmystreet.com/report/5274233](https://www.fixmystreet.com/report/5274233)
 - C/w gully is frequently blocked/surcharged after the slightest rain causing significant standing water in vicinity of both church and much used point of pedestrian road crossing (facilitated by kerbed central refuge) - gey SubTek on the job to do a hard hit once and for all as all pervious efforts have been ineffective/poor/only temporary releases - SubTek will do a proper job and sort the problem!, 1st December :- [https://www.fixmystreet.com/report/5273387](https://www.fixmystreet.com/report/5273387)
 - Road cracking due to subsidence, 1st December :- [https://www.fixmystreet.com/report/5273376](https://www.fixmystreet.com/report/5273376)
-- General road marking and stud issues problem, 1st December :- [https://www.fixmystreet.com/report/5273248](https://www.fixmystreet.com/report/5273248)
-- A pothole in pavement problem, 1st December :- [https://www.fixmystreet.com/report/5272655](https://www.fixmystreet.com/report/5272655)
-- The sign is illegible problem, 1st December :- [https://www.fixmystreet.com/report/5272654](https://www.fixmystreet.com/report/5272654)
-- Light sensor is not detecting vehicles problem, 1st December :- [https://www.fixmystreet.com/report/5272521](https://www.fixmystreet.com/report/5272521)
 
 <!-- fix_marker ends -->
