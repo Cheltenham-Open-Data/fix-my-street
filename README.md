@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Leaves and debris on road, 4th December :- [https://www.fixmystreet.com/report/5282531](https://www.fixmystreet.com/report/5282531)
+- Drainage blocked, 4th December :- [https://www.fixmystreet.com/report/5282333](https://www.fixmystreet.com/report/5282333)
+- Huge pothole near building works, 4th December :- [https://www.fixmystreet.com/report/5282257](https://www.fixmystreet.com/report/5282257)
+- Drain is completely blocked, 4th December :- [https://www.fixmystreet.com/report/5282032](https://www.fixmystreet.com/report/5282032)
+- Lobleys Drive east of the motorway bridge - flooding, 4th December :- [https://www.fixmystreet.com/report/5281997](https://www.fixmystreet.com/report/5281997)
+- Flooding across ehole road for approximately 20m, 4th December :- [https://www.fixmystreet.com/report/5281951](https://www.fixmystreet.com/report/5281951)
 - Road surface subsiding, making it hard to get on drive, 4th December :- [https://www.fixmystreet.com/report/5281519](https://www.fixmystreet.com/report/5281519)
 - The sign is illegible problem, 4th December :- [https://www.fixmystreet.com/report/5281486](https://www.fixmystreet.com/report/5281486)
 - Drain is totally blocked and surface water cannot drain., 4th December :- [https://www.fixmystreet.com/report/5281296](https://www.fixmystreet.com/report/5281296)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Public footpath gate on floor blocking entrance, 3rd December :- [https://www.fixmystreet.com/report/5277922](https://www.fixmystreet.com/report/5277922)
 - Street light out, 3rd December :- [https://www.fixmystreet.com/report/5277875](https://www.fixmystreet.com/report/5277875)
 - Tempoary lights with no permit, 3rd December :- [https://www.fixmystreet.com/report/5277750](https://www.fixmystreet.com/report/5277750)
-- Bin at Pilley bridge full, 3rd December :- [https://www.fixmystreet.com/report/5277455](https://www.fixmystreet.com/report/5277455)
-- Pothole on road, near number 53 Ravensgate Road, 3rd December :- [https://www.fixmystreet.com/report/5276650](https://www.fixmystreet.com/report/5276650)
-- Pothole, 3rd December :- [https://www.fixmystreet.com/report/5276590](https://www.fixmystreet.com/report/5276590)
-- The traffic light has been severely damaged and is not working, 3rd December :- [https://www.fixmystreet.com/report/5276528](https://www.fixmystreet.com/report/5276528)
-- Fly tipped waste, 3rd December :- [https://www.fixmystreet.com/report/5276172](https://www.fixmystreet.com/report/5276172)
-- Previous fix has sunk in 2 sections, 2nd December :- [https://www.fixmystreet.com/report/5275871](https://www.fixmystreet.com/report/5275871)
 
 <!-- fix_marker ends -->
