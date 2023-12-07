@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole forming between Staverton and Ashville on B4063, just before the commerce road traffic lights., 6th December :- [https://www.fixmystreet.com/report/5290635](https://www.fixmystreet.com/report/5290635)
+- Water coming from repaired pothole, suggesting damage to buried pipework under the road surface. This poses a danger of ice in current cold weather and needs fixing urgently, 6th December :- [https://www.fixmystreet.com/report/5290581](https://www.fixmystreet.com/report/5290581)
+- There's no category for this so I selected s random pne, 6th December :- [https://www.fixmystreet.com/report/5290490](https://www.fixmystreet.com/report/5290490)
+- Enormous hole in road, 6th December :- [https://www.fixmystreet.com/report/5290352](https://www.fixmystreet.com/report/5290352)
+- Parking and turning on pavement and verge., 6th December :- [https://www.fixmystreet.com/report/5290049](https://www.fixmystreet.com/report/5290049)
 - Street Drain Blocked, 6th December :- [https://www.fixmystreet.com/report/5289653](https://www.fixmystreet.com/report/5289653)
 - Blocked Street Drain, 6th December :- [https://www.fixmystreet.com/report/5289622](https://www.fixmystreet.com/report/5289622)
 - Large pothole on the side of the carriageway., 6th December :- [https://www.fixmystreet.com/report/5289416](https://www.fixmystreet.com/report/5289416)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken Street Sign, 6th December :- [https://www.fixmystreet.com/report/5288384](https://www.fixmystreet.com/report/5288384)
 - The sign is illegible problem, 6th December :- [https://www.fixmystreet.com/report/5288279](https://www.fixmystreet.com/report/5288279)
 - Hucclecote Road southbound carriageway 15-20 m after Bird Rd Junction, 6th December :- [https://www.fixmystreet.com/report/5287668](https://www.fixmystreet.com/report/5287668)
-- Large pothole, 6th December :- [https://www.fixmystreet.com/report/5287453](https://www.fixmystreet.com/report/5287453)
-- Streetlight not working, 6th December :- [https://www.fixmystreet.com/report/5287012](https://www.fixmystreet.com/report/5287012)
-- Deep pothole through to the substrate outside, 73 Shakespeare Road, 6th December :- [https://www.fixmystreet.com/report/5286994](https://www.fixmystreet.com/report/5286994)
-- Deep pothole through to the substrate outside, 73 Shakespeare Road, 6th December :- [https://www.fixmystreet.com/report/5286879](https://www.fixmystreet.com/report/5286879)
-- Footpath diverted + obstructed by building materials, 6th December :- [https://www.fixmystreet.com/report/5286584](https://www.fixmystreet.com/report/5286584)
 
 <!-- fix_marker ends -->
