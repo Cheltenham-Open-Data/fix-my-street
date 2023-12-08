@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- No street lights on Thames Road, 7th December :- [https://www.fixmystreet.com/report/5294268](https://www.fixmystreet.com/report/5294268)
+- Dangerous road erosion., 7th December :- [https://www.fixmystreet.com/report/5294157](https://www.fixmystreet.com/report/5294157)
+- Flood at end of St James Pl, 7th December :- [https://www.fixmystreet.com/report/5294036](https://www.fixmystreet.com/report/5294036)
 - Road signs on pavement remain, 7th December :- [https://www.fixmystreet.com/report/5293538](https://www.fixmystreet.com/report/5293538)
 - At least 3 years in existence of large potholes, worsening rapidly, 7th December :- [https://www.fixmystreet.com/report/5293245](https://www.fixmystreet.com/report/5293245)
 - Highway drain flooded on New Road, 7th December :- [https://www.fixmystreet.com/report/5293173](https://www.fixmystreet.com/report/5293173)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - There's no category for this so I selected s random pne, 6th December :- [https://www.fixmystreet.com/report/5290490](https://www.fixmystreet.com/report/5290490)
 - Enormous hole in road, 6th December :- [https://www.fixmystreet.com/report/5290352](https://www.fixmystreet.com/report/5290352)
 - Parking and turning on pavement and verge., 6th December :- [https://www.fixmystreet.com/report/5290049](https://www.fixmystreet.com/report/5290049)
-- Street Drain Blocked, 6th December :- [https://www.fixmystreet.com/report/5289653](https://www.fixmystreet.com/report/5289653)
-- Blocked Street Drain, 6th December :- [https://www.fixmystreet.com/report/5289622](https://www.fixmystreet.com/report/5289622)
-- A pothole in road problem, 6th December :- [https://www.fixmystreet.com/report/5293253](https://www.fixmystreet.com/report/5293253)
 
 <!-- fix_marker ends -->
