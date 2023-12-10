@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot hole in road it made our car bang, 10th December :- [https://www.fixmystreet.com/report/5303261](https://www.fixmystreet.com/report/5303261)
+- Sunken pavement causing improper drainage and pooling water outside 57/55, 10th December :- [https://www.fixmystreet.com/report/5302952](https://www.fixmystreet.com/report/5302952)
+- Pot holes in road, 10th December :- [https://www.fixmystreet.com/report/5302900](https://www.fixmystreet.com/report/5302900)
+- Pothole where existing fix is coming away, 10th December :- [https://www.fixmystreet.com/report/5302899](https://www.fixmystreet.com/report/5302899)
+- Big DEEP pothole. Huge bangs as vehicles hit it., 10th December :- [https://www.fixmystreet.com/report/5302606](https://www.fixmystreet.com/report/5302606)
+- Double pothole, 10th December :- [https://www.fixmystreet.com/report/5302507](https://www.fixmystreet.com/report/5302507)
+- Tree Debris needs Road Sweeping, 10th December :- [https://www.fixmystreet.com/report/5302252](https://www.fixmystreet.com/report/5302252)
+- Weeds growing along street, 10th December :- [https://www.fixmystreet.com/report/5301649](https://www.fixmystreet.com/report/5301649)
+- Drain is sunk below to, 10th December :- [https://www.fixmystreet.com/report/5301639](https://www.fixmystreet.com/report/5301639)
 - Drain is blocked forcing water onto road surface, 10th December :- [https://www.fixmystreet.com/report/5301229](https://www.fixmystreet.com/report/5301229)
 - Bad road surface outside Springbank view, 9th December :- [https://www.fixmystreet.com/report/5300867](https://www.fixmystreet.com/report/5300867)
 - Badly repaired, uneven, potholed and wheel damaging Road surface, 9th December :- [https://www.fixmystreet.com/report/5300858](https://www.fixmystreet.com/report/5300858)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 9th December :- [https://www.fixmystreet.com/report/5299810](https://www.fixmystreet.com/report/5299810)
 - Two potholes on College Lawn near junction with Sandford Road, 9th December :- [https://www.fixmystreet.com/report/5299576](https://www.fixmystreet.com/report/5299576)
 - Trench type pot hole at the exit of Keynsham Road on to Sandford Road, 9th December :- [https://www.fixmystreet.com/report/5299527](https://www.fixmystreet.com/report/5299527)
-- Abandoned vehicles, 9th December :- [https://www.fixmystreet.com/report/5299503](https://www.fixmystreet.com/report/5299503)
-- Mud and building rubbish strewn across verge and road, 9th December :- [https://www.fixmystreet.com/report/5298867](https://www.fixmystreet.com/report/5298867)
-- Drainage issue persistent as there are no local drains. Cars coming past often splash residents at 148 Hewlett Road as they get into their cars, 9th December :- [https://www.fixmystreet.com/report/5298566](https://www.fixmystreet.com/report/5298566)
-- Streetlight not working at entrance of Butterfield Court, 8th December :- [https://www.fixmystreet.com/report/5297863](https://www.fixmystreet.com/report/5297863)
-- Loose/rattling cover/ironwork problem, 8th December :- [https://www.fixmystreet.com/report/5297675](https://www.fixmystreet.com/report/5297675)
-- The drain outside number 12 is blocked, 8th December :- [https://www.fixmystreet.com/report/5297482](https://www.fixmystreet.com/report/5297482)
-- A pothole in road problem, 8th December :- [https://www.fixmystreet.com/report/5297425](https://www.fixmystreet.com/report/5297425)
-- Large deep pothole on north road west near to junction to grove field way, 8th December :- [https://www.fixmystreet.com/report/5297196](https://www.fixmystreet.com/report/5297196)
-- Three street lights in photograph are not working following damage to the electric main. Power to homes has been restored., 8th December :- [https://www.fixmystreet.com/report/5297063](https://www.fixmystreet.com/report/5297063)
 
 <!-- fix_marker ends -->
