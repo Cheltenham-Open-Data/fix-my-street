@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain is blocked forcing water onto road surface, 10th December :- [https://www.fixmystreet.com/report/5301229](https://www.fixmystreet.com/report/5301229)
+- Bad road surface outside Springbank view, 9th December :- [https://www.fixmystreet.com/report/5300867](https://www.fixmystreet.com/report/5300867)
+- Badly repaired, uneven, potholed and wheel damaging Road surface, 9th December :- [https://www.fixmystreet.com/report/5300858](https://www.fixmystreet.com/report/5300858)
+- All the cats eyes have been removed and have left holes were our tyres are now being directed, 9th December :- [https://www.fixmystreet.com/report/5300844](https://www.fixmystreet.com/report/5300844)
 - Streetlight not working, 9th December :- [https://www.fixmystreet.com/report/5300671](https://www.fixmystreet.com/report/5300671)
 - It's big, thought I'd damaged a wheel, 9th December :- [https://www.fixmystreet.com/report/5300656](https://www.fixmystreet.com/report/5300656)
 - RoW sign on its post has been pushed into the hedge and is now out of sight, 9th December :- [https://www.fixmystreet.com/report/5300318](https://www.fixmystreet.com/report/5300318)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 8th December :- [https://www.fixmystreet.com/report/5297425](https://www.fixmystreet.com/report/5297425)
 - Large deep pothole on north road west near to junction to grove field way, 8th December :- [https://www.fixmystreet.com/report/5297196](https://www.fixmystreet.com/report/5297196)
 - Three street lights in photograph are not working following damage to the electric main. Power to homes has been restored., 8th December :- [https://www.fixmystreet.com/report/5297063](https://www.fixmystreet.com/report/5297063)
-- Loose/rattling cover/ironwork problem, 8th December :- [https://www.fixmystreet.com/report/5296784](https://www.fixmystreet.com/report/5296784)
-- Pothole, 8th December :- [https://www.fixmystreet.com/report/5296687](https://www.fixmystreet.com/report/5296687)
-- Path surface uneven., 8th December :- [https://www.fixmystreet.com/report/5296680](https://www.fixmystreet.com/report/5296680)
-- Streetlight not working, 8th December :- [https://www.fixmystreet.com/report/5295995](https://www.fixmystreet.com/report/5295995)
 
 <!-- fix_marker ends -->
