@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dangerous pot hole on road opposite tesc churchdown, 11th December :- [https://www.fixmystreet.com/report/5304163](https://www.fixmystreet.com/report/5304163)
+- Iron works exposed and large pothole next to new cycle path, 10th December :- [https://www.fixmystreet.com/report/5303944](https://www.fixmystreet.com/report/5303944)
+- Huge pothole made my tyre go flat after hitting, 10th December :- [https://www.fixmystreet.com/report/5303831](https://www.fixmystreet.com/report/5303831)
+- Edge of road collapsed next to recently installed drain, 10th December :- [https://www.fixmystreet.com/report/5303829](https://www.fixmystreet.com/report/5303829)
+- 3 major street lights not working, 10th December :- [https://www.fixmystreet.com/report/5303426](https://www.fixmystreet.com/report/5303426)
 - Pot hole in road it made our car bang, 10th December :- [https://www.fixmystreet.com/report/5303261](https://www.fixmystreet.com/report/5303261)
 - Sunken pavement causing improper drainage and pooling water outside 57/55, 10th December :- [https://www.fixmystreet.com/report/5302952](https://www.fixmystreet.com/report/5302952)
 - Pot holes in road, 10th December :- [https://www.fixmystreet.com/report/5302900](https://www.fixmystreet.com/report/5302900)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - All the cats eyes have been removed and have left holes were our tyres are now being directed, 9th December :- [https://www.fixmystreet.com/report/5300844](https://www.fixmystreet.com/report/5300844)
 - Streetlight not working, 9th December :- [https://www.fixmystreet.com/report/5300671](https://www.fixmystreet.com/report/5300671)
 - It's big, thought I'd damaged a wheel, 9th December :- [https://www.fixmystreet.com/report/5300656](https://www.fixmystreet.com/report/5300656)
-- RoW sign on its post has been pushed into the hedge and is now out of sight, 9th December :- [https://www.fixmystreet.com/report/5300318](https://www.fixmystreet.com/report/5300318)
-- Pothole around rattling manhole cover A435 Cleeve Bypass, 9th December :- [https://www.fixmystreet.com/report/5300269](https://www.fixmystreet.com/report/5300269)
-- Potholes, 9th December :- [https://www.fixmystreet.com/report/5299810](https://www.fixmystreet.com/report/5299810)
-- Two potholes on College Lawn near junction with Sandford Road, 9th December :- [https://www.fixmystreet.com/report/5299576](https://www.fixmystreet.com/report/5299576)
-- Trench type pot hole at the exit of Keynsham Road on to Sandford Road, 9th December :- [https://www.fixmystreet.com/report/5299527](https://www.fixmystreet.com/report/5299527)
 
 <!-- fix_marker ends -->
