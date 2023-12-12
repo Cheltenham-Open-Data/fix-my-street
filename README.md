@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Churchdown lane. Hucclecote direction. Blocked drain, 11th December :- [https://www.fixmystreet.com/report/5308828](https://www.fixmystreet.com/report/5308828)
+- Pl 1 catkin drive lampost is out, 11th December :- [https://www.fixmystreet.com/report/5308751](https://www.fixmystreet.com/report/5308751)
+- Light is flickering when it is on, 11th December :- [https://www.fixmystreet.com/report/5308616](https://www.fixmystreet.com/report/5308616)
+- Vehicle collision has damaged barrier, 11th December :- [https://www.fixmystreet.com/report/5308467](https://www.fixmystreet.com/report/5308467)
+- Street lights not working, 11th December :- [https://www.fixmystreet.com/report/5308303](https://www.fixmystreet.com/report/5308303)
+- The pedestrian wait button is stuck on so that the green man comes on ever time they turn red even though no one has pressed it and no one is waiting to cross the road causing delays during morning and evening rush hour., 11th December :- [https://www.fixmystreet.com/report/5308252](https://www.fixmystreet.com/report/5308252)
 - Dead fox, 11th December :- [https://www.fixmystreet.com/report/5308063](https://www.fixmystreet.com/report/5308063)
 - Potholes on length of old bath road cheltenham, 11th December :- [https://www.fixmystreet.com/report/5307828](https://www.fixmystreet.com/report/5307828)
 - Surface water sits on the drainage cover outside the front door of 30 Adams Lane, 11th December :- [https://www.fixmystreet.com/report/5307647](https://www.fixmystreet.com/report/5307647)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Previous repair is breaking up., 11th December :- [https://www.fixmystreet.com/report/5305783](https://www.fixmystreet.com/report/5305783)
 - Loose/rattling cover/ironwork problem, 11th December :- [https://www.fixmystreet.com/report/5305833](https://www.fixmystreet.com/report/5305833)
 - Large pothole in the middle of the road, very difficult to avoid as cars are usually parked parked, 11th December :- [https://www.fixmystreet.com/report/5305451](https://www.fixmystreet.com/report/5305451)
-- Pavement collapse, 11th December :- [https://www.fixmystreet.com/report/5305338](https://www.fixmystreet.com/report/5305338)
-- Street light is permanently out problem, 11th December :- [https://www.fixmystreet.com/report/5305123](https://www.fixmystreet.com/report/5305123)
-- A pothole in road problem, 11th December :- [https://www.fixmystreet.com/report/5306298](https://www.fixmystreet.com/report/5306298)
-- A pothole in road problem, 11th December :- [https://www.fixmystreet.com/report/5305121](https://www.fixmystreet.com/report/5305121)
-- A pothole in road problem, 11th December :- [https://www.fixmystreet.com/report/5306297](https://www.fixmystreet.com/report/5306297)
-- Pothole in road travelling towards Staverton on the bridge, 11th December :- [https://www.fixmystreet.com/report/5304274](https://www.fixmystreet.com/report/5304274)
 
 <!-- fix_marker ends -->
