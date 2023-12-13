@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- In Church Road close to the church car park entrance. It goes across the road - a trench poorly repaired by a utilities Co, 13th December :- [https://www.fixmystreet.com/report/5313979](https://www.fixmystreet.com/report/5313979)
+- Sunken Manhole Cover, 12th December :- [https://www.fixmystreet.com/report/5313842](https://www.fixmystreet.com/report/5313842)
 - Bushes overhanging more than half the pavement, 12th December :- [https://www.fixmystreet.com/report/5313086](https://www.fixmystreet.com/report/5313086)
 - Abandoned diversion sign, 12th December :- [https://www.fixmystreet.com/report/5312528](https://www.fixmystreet.com/report/5312528)
 - Hand rail vandalised, 12th December :- [https://www.fixmystreet.com/report/5312315](https://www.fixmystreet.com/report/5312315)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree down, 12th December :- [https://www.fixmystreet.com/report/5309450](https://www.fixmystreet.com/report/5309450)
 - Flooding on road again, 12th December :- [https://www.fixmystreet.com/report/5309338](https://www.fixmystreet.com/report/5309338)
 - Churchdown lane. Hucclecote direction. Blocked drain, 11th December :- [https://www.fixmystreet.com/report/5308828](https://www.fixmystreet.com/report/5308828)
-- Pl 1 catkin drive lampost is out, 11th December :- [https://www.fixmystreet.com/report/5308751](https://www.fixmystreet.com/report/5308751)
-- Light is flickering when it is on, 11th December :- [https://www.fixmystreet.com/report/5308616](https://www.fixmystreet.com/report/5308616)
 
 <!-- fix_marker ends -->
