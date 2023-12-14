@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- All street lights out, 13th December :- [https://www.fixmystreet.com/report/5318150](https://www.fixmystreet.com/report/5318150)
 - Sinkhole starting, 13th December :- [https://www.fixmystreet.com/report/5317395](https://www.fixmystreet.com/report/5317395)
 - Not sure, 13th December :- [https://www.fixmystreet.com/report/5316984](https://www.fixmystreet.com/report/5316984)
 - Blocked Drain, 13th December :- [https://www.fixmystreet.com/report/5316869](https://www.fixmystreet.com/report/5316869)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sunken Manhole Cover, 12th December :- [https://www.fixmystreet.com/report/5313842](https://www.fixmystreet.com/report/5313842)
 - Bushes overhanging more than half the pavement, 12th December :- [https://www.fixmystreet.com/report/5313086](https://www.fixmystreet.com/report/5313086)
 - Abandoned diversion sign, 12th December :- [https://www.fixmystreet.com/report/5312528](https://www.fixmystreet.com/report/5312528)
-- Hand rail vandalised, 12th December :- [https://www.fixmystreet.com/report/5312315](https://www.fixmystreet.com/report/5312315)
 
 <!-- fix_marker ends -->
