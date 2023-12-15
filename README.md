@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tarmac path sunk, 15th December :- [https://www.fixmystreet.com/report/5322478](https://www.fixmystreet.com/report/5322478)
+- Compressed vegetation is a slippery hazard which reduced path width., 15th December :- [https://www.fixmystreet.com/report/5322474](https://www.fixmystreet.com/report/5322474)
 - Loose Paving Slab On Speed Hump, 14th December :- [https://www.fixmystreet.com/report/5321444](https://www.fixmystreet.com/report/5321444)
 - The sign is illegible problem, 14th December :- [https://www.fixmystreet.com/report/5321282](https://www.fixmystreet.com/report/5321282)
 - Missing pavers on pavement outside sub-station, 14th December :- [https://www.fixmystreet.com/report/5321204](https://www.fixmystreet.com/report/5321204)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sinkhole starting, 13th December :- [https://www.fixmystreet.com/report/5317395](https://www.fixmystreet.com/report/5317395)
 - Not sure, 13th December :- [https://www.fixmystreet.com/report/5316984](https://www.fixmystreet.com/report/5316984)
 - Blocked Drain, 13th December :- [https://www.fixmystreet.com/report/5316869](https://www.fixmystreet.com/report/5316869)
-- Blocked Drain, 13th December :- [https://www.fixmystreet.com/report/5316846](https://www.fixmystreet.com/report/5316846)
-- Fallen / felled tree completely blocking path. Dangerous to access path, 13th December :- [https://www.fixmystreet.com/report/5316772](https://www.fixmystreet.com/report/5316772)
 
 <!-- fix_marker ends -->
