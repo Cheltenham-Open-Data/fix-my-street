@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pot hole which is getting deeper every time it rains., 15th December :- [https://www.fixmystreet.com/report/5326085](https://www.fixmystreet.com/report/5326085)
+- The entire strip off road is covered in deep potholes, 15th December :- [https://www.fixmystreet.com/report/5325934](https://www.fixmystreet.com/report/5325934)
 - Large pothole next to bus stop, 15th December :- [https://www.fixmystreet.com/report/5324871](https://www.fixmystreet.com/report/5324871)
 - Whole area needing attention, 15th December :- [https://www.fixmystreet.com/report/5324527](https://www.fixmystreet.com/report/5324527)
 - The road is permanently wet with shallow ponding - I believe that there may be a leaking water pipe under the road? Is it worth checking?, 15th December :- [https://www.fixmystreet.com/report/5324144](https://www.fixmystreet.com/report/5324144)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipping / litter, 15th December :- [https://www.fixmystreet.com/report/5322711](https://www.fixmystreet.com/report/5322711)
 - Potholes along a large strip, 15th December :- [https://www.fixmystreet.com/report/5322634](https://www.fixmystreet.com/report/5322634)
 - Tarmac path sunk, 15th December :- [https://www.fixmystreet.com/report/5322478](https://www.fixmystreet.com/report/5322478)
-- Compressed vegetation is a slippery hazard which reduced path width., 15th December :- [https://www.fixmystreet.com/report/5322474](https://www.fixmystreet.com/report/5322474)
-- Loose Paving Slab On Speed Hump, 14th December :- [https://www.fixmystreet.com/report/5321444](https://www.fixmystreet.com/report/5321444)
 
 <!-- fix_marker ends -->
