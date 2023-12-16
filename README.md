@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pot hole westbound on the Old Gloucester Road just before the building works.. Both my offside wheels wend down it with a loud bang. I need to get the car checked for damage. There is no way you can see this in the dark., 16th December :- [https://www.fixmystreet.com/report/5328155](https://www.fixmystreet.com/report/5328155)
+- Car park in a deplorable state, 16th December :- [https://www.fixmystreet.com/report/5327663](https://www.fixmystreet.com/report/5327663)
+- Vegetation needs removing to get original width of the path, 16th December :- [https://www.fixmystreet.com/report/5327567](https://www.fixmystreet.com/report/5327567)
+- Only street lamp in carpark is permanently out, 16th December :- [https://www.fixmystreet.com/report/5327535](https://www.fixmystreet.com/report/5327535)
+- Significant amount of water pouring down Bushcombe Lane from a problem further uptake hill., 16th December :- [https://www.fixmystreet.com/report/5327090](https://www.fixmystreet.com/report/5327090)
+- Fence post blocking footpath, 16th December :- [https://www.fixmystreet.com/report/5326826](https://www.fixmystreet.com/report/5326826)
+- Few pot holes on the road, 16th December :- [https://www.fixmystreet.com/report/5326415](https://www.fixmystreet.com/report/5326415)
 - Large pot hole which is getting deeper every time it rains., 15th December :- [https://www.fixmystreet.com/report/5326085](https://www.fixmystreet.com/report/5326085)
 - The entire strip off road is covered in deep potholes, 15th December :- [https://www.fixmystreet.com/report/5325934](https://www.fixmystreet.com/report/5325934)
 - Large pothole next to bus stop, 15th December :- [https://www.fixmystreet.com/report/5324871](https://www.fixmystreet.com/report/5324871)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Parking on the path, 15th December :- [https://www.fixmystreet.com/report/5323246](https://www.fixmystreet.com/report/5323246)
 - Vegetation not cleared, 15th December :- [https://www.fixmystreet.com/report/5323163](https://www.fixmystreet.com/report/5323163)
 - Fly tipping from builders, 15th December :- [https://www.fixmystreet.com/report/5323071](https://www.fixmystreet.com/report/5323071)
-- Foothpath impassable, 15th December :- [https://www.fixmystreet.com/report/5323038](https://www.fixmystreet.com/report/5323038)
-- 2 potholes, 15th December :- [https://www.fixmystreet.com/report/5322983](https://www.fixmystreet.com/report/5322983)
-- Damaged road tarmac causing high drop kerb, 15th December :- [https://www.fixmystreet.com/report/5322777](https://www.fixmystreet.com/report/5322777)
-- Street light has been out for weeks, 15th December :- [https://www.fixmystreet.com/report/5322749](https://www.fixmystreet.com/report/5322749)
-- Flytipping / litter, 15th December :- [https://www.fixmystreet.com/report/5322711](https://www.fixmystreet.com/report/5322711)
-- Potholes along a large strip, 15th December :- [https://www.fixmystreet.com/report/5322634](https://www.fixmystreet.com/report/5322634)
-- Tarmac path sunk, 15th December :- [https://www.fixmystreet.com/report/5322478](https://www.fixmystreet.com/report/5322478)
 
 <!-- fix_marker ends -->
