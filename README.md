@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Utility Company Work/Repair Sinking, 16th December :- [https://www.fixmystreet.com/report/5328582](https://www.fixmystreet.com/report/5328582)
+- Deep pothole on north road west, 16th December :- [https://www.fixmystreet.com/report/5328438](https://www.fixmystreet.com/report/5328438)
+- Street lights are not working, 16th December :- [https://www.fixmystreet.com/report/5328347](https://www.fixmystreet.com/report/5328347)
 - Large pot hole westbound on the Old Gloucester Road just before the building works.. Both my offside wheels wend down it with a loud bang. I need to get the car checked for damage. There is no way you can see this in the dark., 16th December :- [https://www.fixmystreet.com/report/5328155](https://www.fixmystreet.com/report/5328155)
 - Car park in a deplorable state, 16th December :- [https://www.fixmystreet.com/report/5327663](https://www.fixmystreet.com/report/5327663)
 - Vegetation needs removing to get original width of the path, 16th December :- [https://www.fixmystreet.com/report/5327567](https://www.fixmystreet.com/report/5327567)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in well place, 15th December :- [https://www.fixmystreet.com/report/5324104](https://www.fixmystreet.com/report/5324104)
 - The light doesnt flash - one of the two lights stays on, which doesnt highlight the 20mph zone at crucial times, 15th December :- [https://www.fixmystreet.com/report/5324058](https://www.fixmystreet.com/report/5324058)
 - A pothole in road problem, 15th December :- [https://www.fixmystreet.com/report/5324354](https://www.fixmystreet.com/report/5324354)
-- Parking on the path, 15th December :- [https://www.fixmystreet.com/report/5323246](https://www.fixmystreet.com/report/5323246)
-- Vegetation not cleared, 15th December :- [https://www.fixmystreet.com/report/5323163](https://www.fixmystreet.com/report/5323163)
-- Fly tipping from builders, 15th December :- [https://www.fixmystreet.com/report/5323071](https://www.fixmystreet.com/report/5323071)
 
 <!-- fix_marker ends -->
