@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 17th December :- [https://www.fixmystreet.com/report/5330686](https://www.fixmystreet.com/report/5330686)
+- Large pothole next to bench, 17th December :- [https://www.fixmystreet.com/report/5330028](https://www.fixmystreet.com/report/5330028)
+- Many potholes!, 17th December :- [https://www.fixmystreet.com/report/5329777](https://www.fixmystreet.com/report/5329777)
+- There are a large collection of signs and barriers that we used when the council marked out the Z15 parking zones. The yhave not moved since mid September save when drunk people block to the road with them. This happened last night at North hall mews and some have been carried further down the road to the top of All Saints Road. I have not retrieved these as they are 100 meters away. Is there any chance they could be collected?, 17th December :- [https://www.fixmystreet.com/report/5329389](https://www.fixmystreet.com/report/5329389)
+- Blocked gully overflowing down the road, 17th December :- [https://www.fixmystreet.com/report/5328955](https://www.fixmystreet.com/report/5328955)
 - Utility Company Work/Repair Sinking, 16th December :- [https://www.fixmystreet.com/report/5328582](https://www.fixmystreet.com/report/5328582)
 - Deep pothole on north road west, 16th December :- [https://www.fixmystreet.com/report/5328438](https://www.fixmystreet.com/report/5328438)
 - Street lights are not working, 16th December :- [https://www.fixmystreet.com/report/5328347](https://www.fixmystreet.com/report/5328347)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole next to bus stop, 15th December :- [https://www.fixmystreet.com/report/5324871](https://www.fixmystreet.com/report/5324871)
 - Whole area needing attention, 15th December :- [https://www.fixmystreet.com/report/5324527](https://www.fixmystreet.com/report/5324527)
 - The road is permanently wet with shallow ponding - I believe that there may be a leaking water pipe under the road? Is it worth checking?, 15th December :- [https://www.fixmystreet.com/report/5324144](https://www.fixmystreet.com/report/5324144)
-- Cycle path cleaniness causing hazard to cyclists, 15th December :- [https://www.fixmystreet.com/report/5324129](https://www.fixmystreet.com/report/5324129)
-- The speed check screen isnt working. It is useful to slow down speeding cars before they reach the school, 15th December :- [https://www.fixmystreet.com/report/5324118](https://www.fixmystreet.com/report/5324118)
-- Pothole in well place, 15th December :- [https://www.fixmystreet.com/report/5324104](https://www.fixmystreet.com/report/5324104)
-- The light doesnt flash - one of the two lights stays on, which doesnt highlight the 20mph zone at crucial times, 15th December :- [https://www.fixmystreet.com/report/5324058](https://www.fixmystreet.com/report/5324058)
-- A pothole in road problem, 15th December :- [https://www.fixmystreet.com/report/5324354](https://www.fixmystreet.com/report/5324354)
 
 <!-- fix_marker ends -->
