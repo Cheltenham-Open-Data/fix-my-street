@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Two street lights out on Bethesda Street, 18th December :- [https://www.fixmystreet.com/report/5331521](https://www.fixmystreet.com/report/5331521)
+- Waste bin overflowing with dog waste, 17th December :- [https://www.fixmystreet.com/report/5331426](https://www.fixmystreet.com/report/5331426)
+- Water doesn't drain, 17th December :- [https://www.fixmystreet.com/report/5331425](https://www.fixmystreet.com/report/5331425)
+- Fly tipping at bmx site, 17th December :- [https://www.fixmystreet.com/report/5331417](https://www.fixmystreet.com/report/5331417)
+- Fallen tree on Nuthill soon turning from Painswick Road, 17th December :- [https://www.fixmystreet.com/report/5331039](https://www.fixmystreet.com/report/5331039)
 - A pothole in road problem, 17th December :- [https://www.fixmystreet.com/report/5330686](https://www.fixmystreet.com/report/5330686)
 - Large pothole next to bench, 17th December :- [https://www.fixmystreet.com/report/5330028](https://www.fixmystreet.com/report/5330028)
 - Many potholes!, 17th December :- [https://www.fixmystreet.com/report/5329777](https://www.fixmystreet.com/report/5329777)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Significant amount of water pouring down Bushcombe Lane from a problem further uptake hill., 16th December :- [https://www.fixmystreet.com/report/5327090](https://www.fixmystreet.com/report/5327090)
 - Fence post blocking footpath, 16th December :- [https://www.fixmystreet.com/report/5326826](https://www.fixmystreet.com/report/5326826)
 - Few pot holes on the road, 16th December :- [https://www.fixmystreet.com/report/5326415](https://www.fixmystreet.com/report/5326415)
-- Large pot hole which is getting deeper every time it rains., 15th December :- [https://www.fixmystreet.com/report/5326085](https://www.fixmystreet.com/report/5326085)
-- The entire strip off road is covered in deep potholes, 15th December :- [https://www.fixmystreet.com/report/5325934](https://www.fixmystreet.com/report/5325934)
-- Large pothole next to bus stop, 15th December :- [https://www.fixmystreet.com/report/5324871](https://www.fixmystreet.com/report/5324871)
-- Whole area needing attention, 15th December :- [https://www.fixmystreet.com/report/5324527](https://www.fixmystreet.com/report/5324527)
-- The road is permanently wet with shallow ponding - I believe that there may be a leaking water pipe under the road? Is it worth checking?, 15th December :- [https://www.fixmystreet.com/report/5324144](https://www.fixmystreet.com/report/5324144)
 
 <!-- fix_marker ends -->
