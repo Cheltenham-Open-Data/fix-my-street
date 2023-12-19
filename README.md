@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fence obstructs highway, 19th December :- [https://www.fixmystreet.com/report/5335752](https://www.fixmystreet.com/report/5335752)
+- Rubbish, 18th December :- [https://www.fixmystreet.com/report/5335369](https://www.fixmystreet.com/report/5335369)
+- Leaves, 18th December :- [https://www.fixmystreet.com/report/5335364](https://www.fixmystreet.com/report/5335364)
+- Street light not working, 18th December :- [https://www.fixmystreet.com/report/5335104](https://www.fixmystreet.com/report/5335104)
+- More than 4 streetlights out, 18th December :- [https://www.fixmystreet.com/report/5335049](https://www.fixmystreet.com/report/5335049)
+- Neat miss collision, 18th December :- [https://www.fixmystreet.com/report/5335030](https://www.fixmystreet.com/report/5335030)
 - Pothole, 18th December :- [https://www.fixmystreet.com/report/5334876](https://www.fixmystreet.com/report/5334876)
 - Large trench type pothole on the approach to building site., 18th December :- [https://www.fixmystreet.com/report/5334739](https://www.fixmystreet.com/report/5334739)
 - Drains on balcarras lane are blocked, 18th December :- [https://www.fixmystreet.com/report/5334629](https://www.fixmystreet.com/report/5334629)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain blocked for at least 5yrs, 18th December :- [https://www.fixmystreet.com/report/5333282](https://www.fixmystreet.com/report/5333282)
 - Water flowing across road apron junction, 18th December :- [https://www.fixmystreet.com/report/5333153](https://www.fixmystreet.com/report/5333153)
 - Multiple deep potholes causing damage to wheels, 18th December :- [https://www.fixmystreet.com/report/5333131](https://www.fixmystreet.com/report/5333131)
-- A pothole in road problem, 18th December :- [https://www.fixmystreet.com/report/5332887](https://www.fixmystreet.com/report/5332887)
-- Bollard has been pulled out of tarmac surface, 18th December :- [https://www.fixmystreet.com/report/5332687](https://www.fixmystreet.com/report/5332687)
-- Abandoned Vehicle, 18th December :- [https://www.fixmystreet.com/report/5332557](https://www.fixmystreet.com/report/5332557)
-- Obstruction caused by wall/building problem, 18th December :- [https://www.fixmystreet.com/report/5332505](https://www.fixmystreet.com/report/5332505)
-- Rattling man hole cover, 18th December :- [https://www.fixmystreet.com/report/5332305](https://www.fixmystreet.com/report/5332305)
-- A pothole in road problem, 18th December :- [https://www.fixmystreet.com/report/5332139](https://www.fixmystreet.com/report/5332139)
 
 <!-- fix_marker ends -->
