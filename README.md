@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipping, 19th December :- [https://www.fixmystreet.com/report/5339264](https://www.fixmystreet.com/report/5339264)
+- Streetlight not working., 19th December :- [https://www.fixmystreet.com/report/5339250](https://www.fixmystreet.com/report/5339250)
 - At least 6 potholes of varying sizes along the middle of Westbourne Drive, 19th December :- [https://www.fixmystreet.com/report/5338618](https://www.fixmystreet.com/report/5338618)
 - Light sensor is not detecting vehicles problem, 19th December :- [https://www.fixmystreet.com/report/5338406](https://www.fixmystreet.com/report/5338406)
 - Broken sign being driven over, 19th December :- [https://www.fixmystreet.com/report/5337938](https://www.fixmystreet.com/report/5337938)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Protruding steel girder, 19th December :- [https://www.fixmystreet.com/report/5335945](https://www.fixmystreet.com/report/5335945)
 - Fence obstructs highway, 19th December :- [https://www.fixmystreet.com/report/5335752](https://www.fixmystreet.com/report/5335752)
 - Rubbish, 18th December :- [https://www.fixmystreet.com/report/5335369](https://www.fixmystreet.com/report/5335369)
-- Leaves, 18th December :- [https://www.fixmystreet.com/report/5335364](https://www.fixmystreet.com/report/5335364)
-- Street light not working, 18th December :- [https://www.fixmystreet.com/report/5335104](https://www.fixmystreet.com/report/5335104)
 
 <!-- fix_marker ends -->
