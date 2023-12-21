@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hole on left had edge of road, just before entrance to Churchdown library, 20th December :- [https://www.fixmystreet.com/report/5343160](https://www.fixmystreet.com/report/5343160)
+- Pothole now larger and cars know when they have hit it., 20th December :- [https://www.fixmystreet.com/report/5342886](https://www.fixmystreet.com/report/5342886)
+- Continuous run of potholes along entire stretch of road, 20th December :- [https://www.fixmystreet.com/report/5342665](https://www.fixmystreet.com/report/5342665)
 - Industrial Estate not signposted, 20th December :- [https://www.fixmystreet.com/report/5342541](https://www.fixmystreet.com/report/5342541)
 - Poor traffic flow, 20th December :- [https://www.fixmystreet.com/report/5342467](https://www.fixmystreet.com/report/5342467)
 - Bin needs emptying, 20th December :- [https://www.fixmystreet.com/report/5342460](https://www.fixmystreet.com/report/5342460)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light is permanently out problem, 20th December :- [https://www.fixmystreet.com/report/5341516](https://www.fixmystreet.com/report/5341516)
 - Graffiti on traffic lights, 20th December :- [https://www.fixmystreet.com/report/5341411](https://www.fixmystreet.com/report/5341411)
 - Blocking visibility on road/junction (Grass/verge) problem, 20th December :- [https://www.fixmystreet.com/report/5341677](https://www.fixmystreet.com/report/5341677)
-- Rocking man hole cover creating additional noise, 20th December :- [https://www.fixmystreet.com/report/5341276](https://www.fixmystreet.com/report/5341276)
-- Loose/rattling cover/ironwork problem, 20th December :- [https://www.fixmystreet.com/report/5341213](https://www.fixmystreet.com/report/5341213)
-- Double manhole cover is loose/damaged and noisy, 20th December :- [https://www.fixmystreet.com/report/5341082](https://www.fixmystreet.com/report/5341082)
 
 <!-- fix_marker ends -->
