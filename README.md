@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pot hole, 22nd December :- [https://www.fixmystreet.com/report/5349592](https://www.fixmystreet.com/report/5349592)
+- Large pothole and has become larger over recent weeks. The whole section should be resurfaced due to heavy traffic use and bus route, 22nd December :- [https://www.fixmystreet.com/report/5349533](https://www.fixmystreet.com/report/5349533)
+- No Through Road sign fallen over, 22nd December :- [https://www.fixmystreet.com/report/5348949](https://www.fixmystreet.com/report/5348949)
+- Sink hole developed on pavement following work by utility company, 22nd December :- [https://www.fixmystreet.com/report/5348700](https://www.fixmystreet.com/report/5348700)
+- Customer has fallen on raised metal cover. Surface around has eroded leaving the metal exposed. Fallen over this and fractured ankle, 22nd December :- [https://www.fixmystreet.com/report/5348652](https://www.fixmystreet.com/report/5348652)
+- Tree is damaged problem, 22nd December :- [https://www.fixmystreet.com/report/5348227](https://www.fixmystreet.com/report/5348227)
+- Blocked drain, 22nd December :- [https://www.fixmystreet.com/report/5348106](https://www.fixmystreet.com/report/5348106)
+- Broken street name sign, 22nd December :- [https://www.fixmystreet.com/report/5348019](https://www.fixmystreet.com/report/5348019)
+- The sign is illegible problem, 22nd December :- [https://www.fixmystreet.com/report/5347941](https://www.fixmystreet.com/report/5347941)
+- A pothole in road problem, 22nd December :- [https://www.fixmystreet.com/report/5349139](https://www.fixmystreet.com/report/5349139)
 - Street Lights Not Working, 21st December :- [https://www.fixmystreet.com/report/5347370](https://www.fixmystreet.com/report/5347370)
 - Streetlight not working, 21st December :- [https://www.fixmystreet.com/report/5347141](https://www.fixmystreet.com/report/5347141)
 - Cracked, uneven, sunken and damaged pavement by busy stop and post box on Nine Elms Road near the Greyhound junction., 21st December :- [https://www.fixmystreet.com/report/5346607](https://www.fixmystreet.com/report/5346607)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Uncompleted works, 21st December :- [https://www.fixmystreet.com/report/5346343](https://www.fixmystreet.com/report/5346343)
 - A pothole in road problem, 21st December :- [https://www.fixmystreet.com/report/5346208](https://www.fixmystreet.com/report/5346208)
 - Tree fallen down, 21st December :- [https://www.fixmystreet.com/report/5345799](https://www.fixmystreet.com/report/5345799)
-- Loose/rattling cover/ironwork problem, 21st December :- [https://www.fixmystreet.com/report/5345698](https://www.fixmystreet.com/report/5345698)
-- Tree is damaged problem, 21st December :- [https://www.fixmystreet.com/report/5345545](https://www.fixmystreet.com/report/5345545)
-- The traffic lights are extremely slow to respond to traffic causing large queues when busy, 21st December :- [https://www.fixmystreet.com/report/5345428](https://www.fixmystreet.com/report/5345428)
-- Road blocked by tree, 21st December :- [https://www.fixmystreet.com/report/5345267](https://www.fixmystreet.com/report/5345267)
-- Tree is damaged problem, 21st December :- [https://www.fixmystreet.com/report/5345697](https://www.fixmystreet.com/report/5345697)
-- Tree is damaged problem, 21st December :- [https://www.fixmystreet.com/report/5345217](https://www.fixmystreet.com/report/5345217)
-- Entrance to Birdlip Farm requires h markings on the road to stop vehicles right up to single vehicle road., 21st December :- [https://www.fixmystreet.com/report/5345122](https://www.fixmystreet.com/report/5345122)
-- Ash Tree located on Highway land problem, 21st December :- [https://www.fixmystreet.com/report/5345043](https://www.fixmystreet.com/report/5345043)
-- Tree is damaged problem, 21st December :- [https://www.fixmystreet.com/report/5345041](https://www.fixmystreet.com/report/5345041)
-- Tree is damaged problem, 21st December :- [https://www.fixmystreet.com/report/5345215](https://www.fixmystreet.com/report/5345215)
 
 <!-- fix_marker ends -->
