@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The black ┌ marking on the 'No right turn' sign on this island, facing Westal Green/Gloucester, has completely faded, leaving a red circle and red diagonal bar with a completely white background., 23rd December :- [https://www.fixmystreet.com/report/5351595](https://www.fixmystreet.com/report/5351595)
+- Deep pothole, 23rd December :- [https://www.fixmystreet.com/report/5351264](https://www.fixmystreet.com/report/5351264)
+- 24 inch pothole roughly 70mm deep, 23rd December :- [https://www.fixmystreet.com/report/5351165](https://www.fixmystreet.com/report/5351165)
+- Pothole as road narrows, 23rd December :- [https://www.fixmystreet.com/report/5350710](https://www.fixmystreet.com/report/5350710)
 - Deep pot hole, 22nd December :- [https://www.fixmystreet.com/report/5349592](https://www.fixmystreet.com/report/5349592)
 - Large pothole and has become larger over recent weeks. The whole section should be resurfaced due to heavy traffic use and bus route, 22nd December :- [https://www.fixmystreet.com/report/5349533](https://www.fixmystreet.com/report/5349533)
 - No Through Road sign fallen over, 22nd December :- [https://www.fixmystreet.com/report/5348949](https://www.fixmystreet.com/report/5348949)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fallen leaves make the pavements hazardous and filthy to walk on, very slippery when wet, gutters blocked with fallen leaves and drains blocked., 21st December :- [https://www.fixmystreet.com/report/5346570](https://www.fixmystreet.com/report/5346570)
 - Metal Protruding, 21st December :- [https://www.fixmystreet.com/report/5346524](https://www.fixmystreet.com/report/5346524)
 - Commercial multi pack rappers, fly tipped outside number 63 Pitman Road, 21st December :- [https://www.fixmystreet.com/report/5346438](https://www.fixmystreet.com/report/5346438)
-- Footpath Drainage Metal Cover protruding. Trips and Falls can happen at any time, 21st December :- [https://www.fixmystreet.com/report/5346422](https://www.fixmystreet.com/report/5346422)
-- Uncompleted works, 21st December :- [https://www.fixmystreet.com/report/5346343](https://www.fixmystreet.com/report/5346343)
-- A pothole in road problem, 21st December :- [https://www.fixmystreet.com/report/5346208](https://www.fixmystreet.com/report/5346208)
-- Tree fallen down, 21st December :- [https://www.fixmystreet.com/report/5345799](https://www.fixmystreet.com/report/5345799)
 
 <!-- fix_marker ends -->
