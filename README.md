@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Awful potholes, 23rd December :- [https://www.fixmystreet.com/report/5352215](https://www.fixmystreet.com/report/5352215)
+- Considerable water leak, raised manhole type cover in road, 23rd December :- [https://www.fixmystreet.com/report/5352113](https://www.fixmystreet.com/report/5352113)
 - The black ┌ marking on the 'No right turn' sign on this island, facing Westal Green/Gloucester, has completely faded, leaving a red circle and red diagonal bar with a completely white background., 23rd December :- [https://www.fixmystreet.com/report/5351595](https://www.fixmystreet.com/report/5351595)
 - Deep pothole, 23rd December :- [https://www.fixmystreet.com/report/5351264](https://www.fixmystreet.com/report/5351264)
 - 24 inch pothole roughly 70mm deep, 23rd December :- [https://www.fixmystreet.com/report/5351165](https://www.fixmystreet.com/report/5351165)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlight not working, 21st December :- [https://www.fixmystreet.com/report/5347141](https://www.fixmystreet.com/report/5347141)
 - Cracked, uneven, sunken and damaged pavement by busy stop and post box on Nine Elms Road near the Greyhound junction., 21st December :- [https://www.fixmystreet.com/report/5346607](https://www.fixmystreet.com/report/5346607)
 - Fallen leaves make the pavements hazardous and filthy to walk on, very slippery when wet, gutters blocked with fallen leaves and drains blocked., 21st December :- [https://www.fixmystreet.com/report/5346570](https://www.fixmystreet.com/report/5346570)
-- Metal Protruding, 21st December :- [https://www.fixmystreet.com/report/5346524](https://www.fixmystreet.com/report/5346524)
-- Commercial multi pack rappers, fly tipped outside number 63 Pitman Road, 21st December :- [https://www.fixmystreet.com/report/5346438](https://www.fixmystreet.com/report/5346438)
 
 <!-- fix_marker ends -->
