@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Relocate roundabout sign as its in cycle path, 24th December :- [https://www.fixmystreet.com/report/5353125](https://www.fixmystreet.com/report/5353125)
+- It's on the footpath on hillfield, 24th December :- [https://www.fixmystreet.com/report/5352931](https://www.fixmystreet.com/report/5352931)
 - Awful potholes, 23rd December :- [https://www.fixmystreet.com/report/5352215](https://www.fixmystreet.com/report/5352215)
 - Considerable water leak, raised manhole type cover in road, 23rd December :- [https://www.fixmystreet.com/report/5352113](https://www.fixmystreet.com/report/5352113)
 - The black ┌ marking on the 'No right turn' sign on this island, facing Westal Green/Gloucester, has completely faded, leaving a red circle and red diagonal bar with a completely white background., 23rd December :- [https://www.fixmystreet.com/report/5351595](https://www.fixmystreet.com/report/5351595)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 22nd December :- [https://www.fixmystreet.com/report/5349139](https://www.fixmystreet.com/report/5349139)
 - Street Lights Not Working, 21st December :- [https://www.fixmystreet.com/report/5347370](https://www.fixmystreet.com/report/5347370)
 - Streetlight not working, 21st December :- [https://www.fixmystreet.com/report/5347141](https://www.fixmystreet.com/report/5347141)
-- Cracked, uneven, sunken and damaged pavement by busy stop and post box on Nine Elms Road near the Greyhound junction., 21st December :- [https://www.fixmystreet.com/report/5346607](https://www.fixmystreet.com/report/5346607)
-- Fallen leaves make the pavements hazardous and filthy to walk on, very slippery when wet, gutters blocked with fallen leaves and drains blocked., 21st December :- [https://www.fixmystreet.com/report/5346570](https://www.fixmystreet.com/report/5346570)
 
 <!-- fix_marker ends -->
