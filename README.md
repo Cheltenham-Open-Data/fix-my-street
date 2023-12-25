@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlights still not working on Wymans and Thames Roads, 25th December :- [https://www.fixmystreet.com/report/5354197](https://www.fixmystreet.com/report/5354197)
 - Tree fallen down, partially blocking road, 24th December :- [https://www.fixmystreet.com/report/5353689](https://www.fixmystreet.com/report/5353689)
 - Large drop off at edge of road, 24th December :- [https://www.fixmystreet.com/report/5353571](https://www.fixmystreet.com/report/5353571)
 - The metal bin liner has been taken, 24th December :- [https://www.fixmystreet.com/report/5353561](https://www.fixmystreet.com/report/5353561)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 22nd December :- [https://www.fixmystreet.com/report/5348227](https://www.fixmystreet.com/report/5348227)
 - Blocked drain, 22nd December :- [https://www.fixmystreet.com/report/5348106](https://www.fixmystreet.com/report/5348106)
 - Broken street name sign, 22nd December :- [https://www.fixmystreet.com/report/5348019](https://www.fixmystreet.com/report/5348019)
-- The sign is illegible problem, 22nd December :- [https://www.fixmystreet.com/report/5347941](https://www.fixmystreet.com/report/5347941)
 
 <!-- fix_marker ends -->
