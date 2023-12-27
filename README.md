@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Another trolley, 27th December :- [https://www.fixmystreet.com/report/5358600](https://www.fixmystreet.com/report/5358600)
+- Trolley, 27th December :- [https://www.fixmystreet.com/report/5358595](https://www.fixmystreet.com/report/5358595)
+- Several deep potholes with raised ironwork, 27th December :- [https://www.fixmystreet.com/report/5358341](https://www.fixmystreet.com/report/5358341)
+- Blocked drain, 27th December :- [https://www.fixmystreet.com/report/5358221](https://www.fixmystreet.com/report/5358221)
+- A pothole in road problem, 27th December :- [https://www.fixmystreet.com/report/5357725](https://www.fixmystreet.com/report/5357725)
+- Tree is damaged problem, 27th December :- [https://www.fixmystreet.com/report/5357722](https://www.fixmystreet.com/report/5357722)
+- Non visible bollards at GX, 27th December :- [https://www.fixmystreet.com/report/5356509](https://www.fixmystreet.com/report/5356509)
 - Blocked drains, 26th December :- [https://www.fixmystreet.com/report/5355688](https://www.fixmystreet.com/report/5355688)
 - Traffic island damage, 26th December :- [https://www.fixmystreet.com/report/5355449](https://www.fixmystreet.com/report/5355449)
 - Broken sign post at base needs renewing, 26th December :- [https://www.fixmystreet.com/report/5355419](https://www.fixmystreet.com/report/5355419)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Relocate roundabout sign as its in cycle path, 24th December :- [https://www.fixmystreet.com/report/5353125](https://www.fixmystreet.com/report/5353125)
 - It's on the footpath on hillfield, 24th December :- [https://www.fixmystreet.com/report/5352931](https://www.fixmystreet.com/report/5352931)
 - Awful potholes, 23rd December :- [https://www.fixmystreet.com/report/5352215](https://www.fixmystreet.com/report/5352215)
-- Considerable water leak, raised manhole type cover in road, 23rd December :- [https://www.fixmystreet.com/report/5352113](https://www.fixmystreet.com/report/5352113)
-- The black ┌ marking on the 'No right turn' sign on this island, facing Westal Green/Gloucester, has completely faded, leaving a red circle and red diagonal bar with a completely white background., 23rd December :- [https://www.fixmystreet.com/report/5351595](https://www.fixmystreet.com/report/5351595)
-- Deep pothole, 23rd December :- [https://www.fixmystreet.com/report/5351264](https://www.fixmystreet.com/report/5351264)
-- 24 inch pothole roughly 70mm deep, 23rd December :- [https://www.fixmystreet.com/report/5351165](https://www.fixmystreet.com/report/5351165)
-- Pothole as road narrows, 23rd December :- [https://www.fixmystreet.com/report/5350710](https://www.fixmystreet.com/report/5350710)
-- Deep pot hole, 22nd December :- [https://www.fixmystreet.com/report/5349592](https://www.fixmystreet.com/report/5349592)
-- Large pothole and has become larger over recent weeks. The whole section should be resurfaced due to heavy traffic use and bus route, 22nd December :- [https://www.fixmystreet.com/report/5349533](https://www.fixmystreet.com/report/5349533)
 
 <!-- fix_marker ends -->
