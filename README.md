@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gaping gaps all over the place, 28th December :- [https://www.fixmystreet.com/report/5359711](https://www.fixmystreet.com/report/5359711)
 - Another trolley, 27th December :- [https://www.fixmystreet.com/report/5358600](https://www.fixmystreet.com/report/5358600)
 - Trolley, 27th December :- [https://www.fixmystreet.com/report/5358595](https://www.fixmystreet.com/report/5358595)
 - Several deep potholes with raised ironwork, 27th December :- [https://www.fixmystreet.com/report/5358341](https://www.fixmystreet.com/report/5358341)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The metal bin liner has been taken, 24th December :- [https://www.fixmystreet.com/report/5353561](https://www.fixmystreet.com/report/5353561)
 - Relocate roundabout sign as its in cycle path, 24th December :- [https://www.fixmystreet.com/report/5353125](https://www.fixmystreet.com/report/5353125)
 - It's on the footpath on hillfield, 24th December :- [https://www.fixmystreet.com/report/5352931](https://www.fixmystreet.com/report/5352931)
-- Awful potholes, 23rd December :- [https://www.fixmystreet.com/report/5352215](https://www.fixmystreet.com/report/5352215)
 
 <!-- fix_marker ends -->
