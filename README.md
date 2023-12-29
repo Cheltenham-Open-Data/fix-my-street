@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain completely blocked, water pouring out and has been for a year now! I have tried to divert the water but it is hopeless and nobody seems to care. I have reported this numerous times the work sheet acknowledged then nothing done, 28th December :- [https://www.fixmystreet.com/report/5363385](https://www.fixmystreet.com/report/5363385)
+- Street lighting out, 28th December :- [https://www.fixmystreet.com/report/5362972](https://www.fixmystreet.com/report/5362972)
 - Three 30 cm potholes on Cherry Avenue, 28th December :- [https://www.fixmystreet.com/report/5362338](https://www.fixmystreet.com/report/5362338)
 - 20 cm pothole at end of the driveway of 23 Ravensgate Road, 28th December :- [https://www.fixmystreet.com/report/5362311](https://www.fixmystreet.com/report/5362311)
 - Sustained damage problem, 28th December :- [https://www.fixmystreet.com/report/5362275](https://www.fixmystreet.com/report/5362275)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ash Tree located on Highway land problem, 28th December :- [https://www.fixmystreet.com/report/5360608](https://www.fixmystreet.com/report/5360608)
 - Ash Tree located on Highway land problem, 28th December :- [https://www.fixmystreet.com/report/5360606](https://www.fixmystreet.com/report/5360606)
 - Ash Tree located on Highway land problem, 28th December :- [https://www.fixmystreet.com/report/5360605](https://www.fixmystreet.com/report/5360605)
-- Streetlight completely obscured by enormous hedge. Dangerous for cyclists and motorists as cannot see edge of road or even most of the left-hand carriageway in the dark, 28th December :- [https://www.fixmystreet.com/report/5360406](https://www.fixmystreet.com/report/5360406)
-- Light sensor is not detecting vehicles problem, 28th December :- [https://www.fixmystreet.com/report/5360297](https://www.fixmystreet.com/report/5360297)
 
 <!-- fix_marker ends -->
