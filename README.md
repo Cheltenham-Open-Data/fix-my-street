@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Two potholes left hand side road climing hill, 30th December :- [https://www.fixmystreet.com/report/5367349](https://www.fixmystreet.com/report/5367349)
+- 10 inch pothole, 29th December :- [https://www.fixmystreet.com/report/5366767](https://www.fixmystreet.com/report/5366767)
+- 12” pothole near junction of the roundabout, 29th December :- [https://www.fixmystreet.com/report/5366763](https://www.fixmystreet.com/report/5366763)
+- Blocked stream with overgrowth, 29th December :- [https://www.fixmystreet.com/report/5366671](https://www.fixmystreet.com/report/5366671)
 - 2 Laurel Trees blocking visibility at junction, 29th December :- [https://www.fixmystreet.com/report/5366439](https://www.fixmystreet.com/report/5366439)
 - Flooding in rain, 29th December :- [https://www.fixmystreet.com/report/5366326](https://www.fixmystreet.com/report/5366326)
 - Deep pothole in the middle of the carriageway, 29th December :- [https://www.fixmystreet.com/report/5366049](https://www.fixmystreet.com/report/5366049)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dead tree fallen against my rear fence, 29th December :- [https://www.fixmystreet.com/report/5364971](https://www.fixmystreet.com/report/5364971)
 - Loose/rattling cover/ironwork problem, 29th December :- [https://www.fixmystreet.com/report/5364614](https://www.fixmystreet.com/report/5364614)
 - Broken pipe, 29th December :- [https://www.fixmystreet.com/report/5364188](https://www.fixmystreet.com/report/5364188)
-- Drain completely blocked, water pouring out and has been for a year now! I have tried to divert the water but it is hopeless and nobody seems to care. I have reported this numerous times the work sheet acknowledged then nothing done, 28th December :- [https://www.fixmystreet.com/report/5363385](https://www.fixmystreet.com/report/5363385)
-- Street lighting out, 28th December :- [https://www.fixmystreet.com/report/5362972](https://www.fixmystreet.com/report/5362972)
-- Three 30 cm potholes on Cherry Avenue, 28th December :- [https://www.fixmystreet.com/report/5362338](https://www.fixmystreet.com/report/5362338)
-- 20 cm pothole at end of the driveway of 23 Ravensgate Road, 28th December :- [https://www.fixmystreet.com/report/5362311](https://www.fixmystreet.com/report/5362311)
 
 <!-- fix_marker ends -->
