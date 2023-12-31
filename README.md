@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes in the tracks of vehicles, 30th December :- [https://www.fixmystreet.com/report/5370025](https://www.fixmystreet.com/report/5370025)
 - Dangerous branches falling regularly from tree onto driveway with risk of injuring children or people waiting at bus stop, 30th December :- [https://www.fixmystreet.com/report/5369350](https://www.fixmystreet.com/report/5369350)
 - Loose paving slabs, 30th December :- [https://www.fixmystreet.com/report/5369275](https://www.fixmystreet.com/report/5369275)
 - 2 green wheelies and rubbish, 30th December :- [https://www.fixmystreet.com/report/5369265](https://www.fixmystreet.com/report/5369265)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain in wrong position to stop severe flooding, 30th December :- [https://www.fixmystreet.com/report/5368103](https://www.fixmystreet.com/report/5368103)
 - Bus stop covered in graffiti, 30th December :- [https://www.fixmystreet.com/report/5367937](https://www.fixmystreet.com/report/5367937)
 - Pile of food, 30th December :- [https://www.fixmystreet.com/report/5367901](https://www.fixmystreet.com/report/5367901)
-- Broken glass, 30th December :- [https://www.fixmystreet.com/report/5367886](https://www.fixmystreet.com/report/5367886)
 
 <!-- fix_marker ends -->
