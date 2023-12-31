@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gutter drain is blocked., 31st December :- [https://www.fixmystreet.com/report/5372667](https://www.fixmystreet.com/report/5372667)
+- Fallen trees blocking path and phone/power line brought to the ground, 31st December :- [https://www.fixmystreet.com/report/5372399](https://www.fixmystreet.com/report/5372399)
+- Two pot hole in middle of Beeches Road., 31st December :- [https://www.fixmystreet.com/report/5372286](https://www.fixmystreet.com/report/5372286)
+- Tree overhanging public footpath and private driveway by 132 Abbotswood Road,, 31st December :- [https://www.fixmystreet.com/report/5372222](https://www.fixmystreet.com/report/5372222)
+- There seems to be some damage/hole next to a drainhole cover and the kerbstone has become dislodged., 31st December :- [https://www.fixmystreet.com/report/5372166](https://www.fixmystreet.com/report/5372166)
+- Water gushing from manhole cover, 31st December :- [https://www.fixmystreet.com/report/5371394](https://www.fixmystreet.com/report/5371394)
+- Large pothole very dangerous, 31st December :- [https://www.fixmystreet.com/report/5371234](https://www.fixmystreet.com/report/5371234)
+- British Gas went through electric, sewer trying to put a property on to gas pipes and the streets lights haven't worked since, 31st December :- [https://www.fixmystreet.com/report/5371082](https://www.fixmystreet.com/report/5371082)
+- By lamppost before Millbridge Road turning, 31st December :- [https://www.fixmystreet.com/report/5371027](https://www.fixmystreet.com/report/5371027)
+- Broken drain cover and hole., 31st December :- [https://www.fixmystreet.com/report/5370570](https://www.fixmystreet.com/report/5370570)
+- A pothole in road problem, 31st December :- [https://www.fixmystreet.com/report/5370556](https://www.fixmystreet.com/report/5370556)
 - Potholes in the tracks of vehicles, 30th December :- [https://www.fixmystreet.com/report/5370025](https://www.fixmystreet.com/report/5370025)
 - Dangerous branches falling regularly from tree onto driveway with risk of injuring children or people waiting at bus stop, 30th December :- [https://www.fixmystreet.com/report/5369350](https://www.fixmystreet.com/report/5369350)
 - Loose paving slabs, 30th December :- [https://www.fixmystreet.com/report/5369275](https://www.fixmystreet.com/report/5369275)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole / sagging in pavement, 30th December :- [https://www.fixmystreet.com/report/5368976](https://www.fixmystreet.com/report/5368976)
 - Pothole 30cm diameter, 30th December :- [https://www.fixmystreet.com/report/5368968](https://www.fixmystreet.com/report/5368968)
 - Sodden leaves badly blocking drain causing loosing and obstacle in road for pedestrians., 30th December :- [https://www.fixmystreet.com/report/5368950](https://www.fixmystreet.com/report/5368950)
-- Massive pothole it made a hell of a bang I had to check my car, 30th December :- [https://www.fixmystreet.com/report/5368918](https://www.fixmystreet.com/report/5368918)
-- Loss of surface tarmac in large areas, 30th December :- [https://www.fixmystreet.com/report/5368668](https://www.fixmystreet.com/report/5368668)
-- Grass verge was recently dug up mounds of dirt left, 30th December :- [https://www.fixmystreet.com/report/5368634](https://www.fixmystreet.com/report/5368634)
-- Sign showing direction of Parish Church and Public Car Park is almost completely obscured by overgrown bushes/shrubs, 30th December :- [https://www.fixmystreet.com/report/5368527](https://www.fixmystreet.com/report/5368527)
-- Pothole still not fixed, 30th December :- [https://www.fixmystreet.com/report/5368455](https://www.fixmystreet.com/report/5368455)
-- Broken glass bottle on pavement, 30th December :- [https://www.fixmystreet.com/report/5368428](https://www.fixmystreet.com/report/5368428)
-- Graffiti on fence, 30th December :- [https://www.fixmystreet.com/report/5368425](https://www.fixmystreet.com/report/5368425)
-- Pothole in road on A46, 30th December :- [https://www.fixmystreet.com/report/5368325](https://www.fixmystreet.com/report/5368325)
-- Drain in wrong position to stop severe flooding, 30th December :- [https://www.fixmystreet.com/report/5368103](https://www.fixmystreet.com/report/5368103)
-- Bus stop covered in graffiti, 30th December :- [https://www.fixmystreet.com/report/5367937](https://www.fixmystreet.com/report/5367937)
-- Pile of food, 30th December :- [https://www.fixmystreet.com/report/5367901](https://www.fixmystreet.com/report/5367901)
 
 <!-- fix_marker ends -->
