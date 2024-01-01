@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Wall encroaching public footpath, 31st December :- [https://www.fixmystreet.com/report/5372797](https://www.fixmystreet.com/report/5372797)
+- New graffiti tags along wall, 31st December :- [https://www.fixmystreet.com/report/5372790](https://www.fixmystreet.com/report/5372790)
+- Excessive accumulation of leaves and storm debris, 31st December :- [https://www.fixmystreet.com/report/5372703](https://www.fixmystreet.com/report/5372703)
 - Gutter drain is blocked., 31st December :- [https://www.fixmystreet.com/report/5372667](https://www.fixmystreet.com/report/5372667)
 - Fallen trees blocking path and phone/power line brought to the ground, 31st December :- [https://www.fixmystreet.com/report/5372399](https://www.fixmystreet.com/report/5372399)
 - Two pot hole in middle of Beeches Road., 31st December :- [https://www.fixmystreet.com/report/5372286](https://www.fixmystreet.com/report/5372286)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 green wheelies and rubbish, 30th December :- [https://www.fixmystreet.com/report/5369265](https://www.fixmystreet.com/report/5369265)
 - Abandoned trolley, 30th December :- [https://www.fixmystreet.com/report/5369240](https://www.fixmystreet.com/report/5369240)
 - Pothole on bend - junction of Birdlip Road & Aggs Hill, 30th December :- [https://www.fixmystreet.com/report/5369200](https://www.fixmystreet.com/report/5369200)
-- Large pothole / sagging in pavement, 30th December :- [https://www.fixmystreet.com/report/5368976](https://www.fixmystreet.com/report/5368976)
-- Pothole 30cm diameter, 30th December :- [https://www.fixmystreet.com/report/5368968](https://www.fixmystreet.com/report/5368968)
-- Sodden leaves badly blocking drain causing loosing and obstacle in road for pedestrians., 30th December :- [https://www.fixmystreet.com/report/5368950](https://www.fixmystreet.com/report/5368950)
 
 <!-- fix_marker ends -->
