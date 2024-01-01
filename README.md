@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole adjacent to speed bump near Sandstar Close, 1st January :- [https://www.fixmystreet.com/report/5374893](https://www.fixmystreet.com/report/5374893)
+- Drain is blocked causing localised flooding, 1st January :- [https://www.fixmystreet.com/report/5373779](https://www.fixmystreet.com/report/5373779)
+- Two potholes on Maple Drive, 1st January :- [https://www.fixmystreet.com/report/5373640](https://www.fixmystreet.com/report/5373640)
+- Potholes on Barnmeadow Road, winchcombe, 1st January :- [https://www.fixmystreet.com/report/5373325](https://www.fixmystreet.com/report/5373325)
+- A pothole in road problem, 1st January :- [https://www.fixmystreet.com/report/5373311](https://www.fixmystreet.com/report/5373311)
 - Wall encroaching public footpath, 31st December :- [https://www.fixmystreet.com/report/5372797](https://www.fixmystreet.com/report/5372797)
 - New graffiti tags along wall, 31st December :- [https://www.fixmystreet.com/report/5372790](https://www.fixmystreet.com/report/5372790)
 - Excessive accumulation of leaves and storm debris, 31st December :- [https://www.fixmystreet.com/report/5372703](https://www.fixmystreet.com/report/5372703)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken drain cover and hole., 31st December :- [https://www.fixmystreet.com/report/5370570](https://www.fixmystreet.com/report/5370570)
 - A pothole in road problem, 31st December :- [https://www.fixmystreet.com/report/5370556](https://www.fixmystreet.com/report/5370556)
 - Potholes in the tracks of vehicles, 30th December :- [https://www.fixmystreet.com/report/5370025](https://www.fixmystreet.com/report/5370025)
-- Dangerous branches falling regularly from tree onto driveway with risk of injuring children or people waiting at bus stop, 30th December :- [https://www.fixmystreet.com/report/5369350](https://www.fixmystreet.com/report/5369350)
-- Loose paving slabs, 30th December :- [https://www.fixmystreet.com/report/5369275](https://www.fixmystreet.com/report/5369275)
-- 2 green wheelies and rubbish, 30th December :- [https://www.fixmystreet.com/report/5369265](https://www.fixmystreet.com/report/5369265)
-- Abandoned trolley, 30th December :- [https://www.fixmystreet.com/report/5369240](https://www.fixmystreet.com/report/5369240)
-- Pothole on bend - junction of Birdlip Road & Aggs Hill, 30th December :- [https://www.fixmystreet.com/report/5369200](https://www.fixmystreet.com/report/5369200)
 
 <!-- fix_marker ends -->
