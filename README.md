@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very deep pothole, 2nd January :- [https://www.fixmystreet.com/report/5375938](https://www.fixmystreet.com/report/5375938)
 - Pothole adjacent to speed bump near Sandstar Close, 1st January :- [https://www.fixmystreet.com/report/5374893](https://www.fixmystreet.com/report/5374893)
 - Drain is blocked causing localised flooding, 1st January :- [https://www.fixmystreet.com/report/5373779](https://www.fixmystreet.com/report/5373779)
 - Two potholes on Maple Drive, 1st January :- [https://www.fixmystreet.com/report/5373640](https://www.fixmystreet.com/report/5373640)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - By lamppost before Millbridge Road turning, 31st December :- [https://www.fixmystreet.com/report/5371027](https://www.fixmystreet.com/report/5371027)
 - Broken drain cover and hole., 31st December :- [https://www.fixmystreet.com/report/5370570](https://www.fixmystreet.com/report/5370570)
 - A pothole in road problem, 31st December :- [https://www.fixmystreet.com/report/5370556](https://www.fixmystreet.com/report/5370556)
-- Potholes in the tracks of vehicles, 30th December :- [https://www.fixmystreet.com/report/5370025](https://www.fixmystreet.com/report/5370025)
 
 <!-- fix_marker ends -->
