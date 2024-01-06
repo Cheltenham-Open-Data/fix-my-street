@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain has been collapsing for over a year. Have to drive in middle of road to avoid., 6th January :- [https://www.fixmystreet.com/report/5403160](https://www.fixmystreet.com/report/5403160)
+- White paint worn away. Pothole now deeper and wider and causing people to swerve to avoid., 6th January :- [https://www.fixmystreet.com/report/5403157](https://www.fixmystreet.com/report/5403157)
+- 50m centre of road badly repaired and just as bad as before, 6th January :- [https://www.fixmystreet.com/report/5403152](https://www.fixmystreet.com/report/5403152)
+- Nearside pothole, 5th January :- [https://www.fixmystreet.com/report/5402991](https://www.fixmystreet.com/report/5402991)
 - Large pothole next to the one that was filled in December, 5th January :- [https://www.fixmystreet.com/report/5401985](https://www.fixmystreet.com/report/5401985)
 - Previously repatrd pot hole failing and getting bigger, 5th January :- [https://www.fixmystreet.com/report/5401657](https://www.fixmystreet.com/report/5401657)
 - Tree is damaged problem, 5th January :- [https://www.fixmystreet.com/report/5401506](https://www.fixmystreet.com/report/5401506)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Persistent problem with e-scooters being dumped, 5th January :- [https://www.fixmystreet.com/report/5399504](https://www.fixmystreet.com/report/5399504)
 - Tree is damaged problem, 5th January :- [https://www.fixmystreet.com/report/5399550](https://www.fixmystreet.com/report/5399550)
 - Loose/rattling cover/ironwork problem, 5th January :- [https://www.fixmystreet.com/report/5399302](https://www.fixmystreet.com/report/5399302)
-- There are three highways authority uneven road surface signs, 5th January :- [https://www.fixmystreet.com/report/5398925](https://www.fixmystreet.com/report/5398925)
-- Missing Road sign for A436 junction ahead, 5th January :- [https://www.fixmystreet.com/report/5398625](https://www.fixmystreet.com/report/5398625)
-- Persistent potholes and cracks in centre of road surface, 5th January :- [https://www.fixmystreet.com/report/5398312](https://www.fixmystreet.com/report/5398312)
-- Drain blocked, 5th January :- [https://www.fixmystreet.com/report/5398112](https://www.fixmystreet.com/report/5398112)
 
 <!-- fix_marker ends -->
