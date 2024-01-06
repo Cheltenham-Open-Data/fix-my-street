@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A fridge freezer has been dumped on Pillowell Close, 6th January :- [https://www.fixmystreet.com/report/5406086](https://www.fixmystreet.com/report/5406086)
+- Tree is dead, 6th January :- [https://www.fixmystreet.com/report/5405516](https://www.fixmystreet.com/report/5405516)
+- Deep Pothole on manor road, 6th January :- [https://www.fixmystreet.com/report/5404738](https://www.fixmystreet.com/report/5404738)
+- Deep pothole just before the bridge., 6th January :- [https://www.fixmystreet.com/report/5404500](https://www.fixmystreet.com/report/5404500)
+- Large pothole, 6th January :- [https://www.fixmystreet.com/report/5404035](https://www.fixmystreet.com/report/5404035)
+- Large pothole, 6th January :- [https://www.fixmystreet.com/report/5404024](https://www.fixmystreet.com/report/5404024)
+- Flytipping, 6th January :- [https://www.fixmystreet.com/report/5403744](https://www.fixmystreet.com/report/5403744)
 - Drain has been collapsing for over a year. Have to drive in middle of road to avoid., 6th January :- [https://www.fixmystreet.com/report/5403160](https://www.fixmystreet.com/report/5403160)
 - White paint worn away. Pothole now deeper and wider and causing people to swerve to avoid., 6th January :- [https://www.fixmystreet.com/report/5403157](https://www.fixmystreet.com/report/5403157)
 - 50m centre of road badly repaired and just as bad as before, 6th January :- [https://www.fixmystreet.com/report/5403152](https://www.fixmystreet.com/report/5403152)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The sign is illegible problem, 5th January :- [https://www.fixmystreet.com/report/5401004](https://www.fixmystreet.com/report/5401004)
 - Deep sharp pothole, Has cause £100s of damage to my car, 5th January :- [https://www.fixmystreet.com/report/5400888](https://www.fixmystreet.com/report/5400888)
 - A pothole in road problem, 5th January :- [https://www.fixmystreet.com/report/5401002](https://www.fixmystreet.com/report/5401002)
-- A pothole in road problem, 5th January :- [https://www.fixmystreet.com/report/5400770](https://www.fixmystreet.com/report/5400770)
-- Drain on roundabout blocked causing large amounts of standing water, 5th January :- [https://www.fixmystreet.com/report/5400369](https://www.fixmystreet.com/report/5400369)
-- 12inch to 15inch wide 5cm deep pothole in middle of the road. Difficult to spot when full of water after heavy rain. Frequently hit by cars turning into or out of Sandford Park Place., 5th January :- [https://www.fixmystreet.com/report/5400190](https://www.fixmystreet.com/report/5400190)
-- Damaged pavement, 5th January :- [https://www.fixmystreet.com/report/5399869](https://www.fixmystreet.com/report/5399869)
-- Persistent problem with e-scooters being dumped, 5th January :- [https://www.fixmystreet.com/report/5399504](https://www.fixmystreet.com/report/5399504)
-- Tree is damaged problem, 5th January :- [https://www.fixmystreet.com/report/5399550](https://www.fixmystreet.com/report/5399550)
-- Loose/rattling cover/ironwork problem, 5th January :- [https://www.fixmystreet.com/report/5399302](https://www.fixmystreet.com/report/5399302)
 
 <!-- fix_marker ends -->
