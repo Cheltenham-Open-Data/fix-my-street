@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 10 inch pot hole wide and deep, 8th January :- [https://www.fixmystreet.com/report/5411125](https://www.fixmystreet.com/report/5411125)
+- Nasty pothole in pavement, 7th January :- [https://www.fixmystreet.com/report/5410172](https://www.fixmystreet.com/report/5410172)
 - Street light out, 7th January :- [https://www.fixmystreet.com/report/5410144](https://www.fixmystreet.com/report/5410144)
 - Flytipping - mattress, 7th January :- [https://www.fixmystreet.com/report/5410140](https://www.fixmystreet.com/report/5410140)
 - The drain on the A40 to the East of Woodgate Close does nothing as it is too high to collect all the water from the fields. The A40 was resurfaced which was great but this drain was not altered. It cannot cope when it rains or with the aftermarth from the fields., 7th January :- [https://www.fixmystreet.com/report/5409543](https://www.fixmystreet.com/report/5409543)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole just before the bridge., 6th January :- [https://www.fixmystreet.com/report/5404500](https://www.fixmystreet.com/report/5404500)
 - Large pothole, 6th January :- [https://www.fixmystreet.com/report/5404035](https://www.fixmystreet.com/report/5404035)
 - Large pothole, 6th January :- [https://www.fixmystreet.com/report/5404024](https://www.fixmystreet.com/report/5404024)
-- Flytipping, 6th January :- [https://www.fixmystreet.com/report/5403744](https://www.fixmystreet.com/report/5403744)
-- Drain has been collapsing for over a year. Have to drive in middle of road to avoid., 6th January :- [https://www.fixmystreet.com/report/5403160](https://www.fixmystreet.com/report/5403160)
 
 <!-- fix_marker ends -->
