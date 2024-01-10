@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Damaged tree from recent storm, 9th January :- [https://www.fixmystreet.com/report/5421441](https://www.fixmystreet.com/report/5421441)
+- The manhole surround is breaking up., 9th January :- [https://www.fixmystreet.com/report/5421436](https://www.fixmystreet.com/report/5421436)
+- A pothole in road problem, 9th January :- [https://www.fixmystreet.com/report/5421244](https://www.fixmystreet.com/report/5421244)
 - Wide pothole on road between 22 and 21 Corpus Street, 9th January :- [https://www.fixmystreet.com/report/5420610](https://www.fixmystreet.com/report/5420610)
 - Large pothole at end of Corpus Street (London Road end) by parking zone, 9th January :- [https://www.fixmystreet.com/report/5420579](https://www.fixmystreet.com/report/5420579)
 - Appalling potholed road surface - extended area, 9th January :- [https://www.fixmystreet.com/report/5420573](https://www.fixmystreet.com/report/5420573)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot holes Wellington Lane, 9th January :- [https://www.fixmystreet.com/report/5417849](https://www.fixmystreet.com/report/5417849)
 - A tree has fallen into Charlton Park Drive., 9th January :- [https://www.fixmystreet.com/report/5417630](https://www.fixmystreet.com/report/5417630)
 - Double manhole is loose and bangs as vehicles pass, 9th January :- [https://www.fixmystreet.com/report/5417405](https://www.fixmystreet.com/report/5417405)
-- Tree is damaged problem, 9th January :- [https://www.fixmystreet.com/report/5417301](https://www.fixmystreet.com/report/5417301)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 9th January :- [https://www.fixmystreet.com/report/5419412](https://www.fixmystreet.com/report/5419412)
-- Speed sign facing wrong way, 9th January :- [https://www.fixmystreet.com/report/5417055](https://www.fixmystreet.com/report/5417055)
 
 <!-- fix_marker ends -->
