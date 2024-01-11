@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road breaking up and has large potholes, 10th January :- [https://www.fixmystreet.com/report/5426953](https://www.fixmystreet.com/report/5426953)
+- Potholes from bouncers lane junction, up priors road to Prestbury road junction., 10th January :- [https://www.fixmystreet.com/report/5426475](https://www.fixmystreet.com/report/5426475)
+- Water runs across the road and freezes in cold conditions, 10th January :- [https://www.fixmystreet.com/report/5426230](https://www.fixmystreet.com/report/5426230)
+- Tall led streetlight out, 10th January :- [https://www.fixmystreet.com/report/5426123](https://www.fixmystreet.com/report/5426123)
 - On the Hucclecote Road, travelling towards Gloucester, but before the M5 bridge. It is beyond the turning to Bird Road and yes it has painted lines but I am fed up with trying to report this problem. I must inform you that having told you of this problem if I hear or learn of a cyclist being involved in an accident at this point I will report you to the relevant authorities. This is a very dangerous pothole for cyclists of which I am one. Finally this website is so difficult to use and as I type out this message I can only see the last few words which again is indicative of a poorly designed website . If you wish to call me to discuss this my telephone number is (01452) 611614., 10th January :- [https://www.fixmystreet.com/report/5425788](https://www.fixmystreet.com/report/5425788)
 - Abandoned vehicle causing obstruction to junction, 10th January :- [https://www.fixmystreet.com/report/5425701](https://www.fixmystreet.com/report/5425701)
 - Blocking visibility on road/junction (Grass/verge) problem, 10th January :- [https://www.fixmystreet.com/report/5425609](https://www.fixmystreet.com/report/5425609)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes, 10th January :- [https://www.fixmystreet.com/report/5424113](https://www.fixmystreet.com/report/5424113)
 - Damaged road surface and potholes, 10th January :- [https://www.fixmystreet.com/report/5424091](https://www.fixmystreet.com/report/5424091)
 - Sizeable pothole in the middle of Andover Street (north), 10th January :- [https://www.fixmystreet.com/report/5423664](https://www.fixmystreet.com/report/5423664)
-- Large potholes on Frogfurlong lane caused by increased traffic, 10th January :- [https://www.fixmystreet.com/report/5423322](https://www.fixmystreet.com/report/5423322)
-- Multiple potholes that will damage wheels/suspension, 10th January :- [https://www.fixmystreet.com/report/5422996](https://www.fixmystreet.com/report/5422996)
-- A pothole in road problem, 10th January :- [https://www.fixmystreet.com/report/5423082](https://www.fixmystreet.com/report/5423082)
-- The highway is directly up against the foundations of an exsisting Cotswold Boundry wall of a property Shepherds Cottage. The surface of the highway has been eroded by the constant flow of storm water along the surfaces. A repair is urgently required as it is undermining the foundation of the boundary wall which could cause it to collapse. Highways own the road up to the boundary wall - there is no verge., 10th January :- [https://www.fixmystreet.com/report/5422872](https://www.fixmystreet.com/report/5422872)
 
 <!-- fix_marker ends -->
