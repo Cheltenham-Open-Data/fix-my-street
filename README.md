@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 street lamps with lights out, 13th January :- [https://www.fixmystreet.com/report/5438568](https://www.fixmystreet.com/report/5438568)
+- Burst water pipe., 13th January :- [https://www.fixmystreet.com/report/5438453](https://www.fixmystreet.com/report/5438453)
+- Street lights out, very dark, unsafe, 13th January :- [https://www.fixmystreet.com/report/5438114](https://www.fixmystreet.com/report/5438114)
+- End of stone wall damaged with rubble lying on pavement and road, 13th January :- [https://www.fixmystreet.com/report/5437843](https://www.fixmystreet.com/report/5437843)
+- Potholes in turning point, 13th January :- [https://www.fixmystreet.com/report/5437524](https://www.fixmystreet.com/report/5437524)
+- Circular pothole near traffic lights, 13th January :- [https://www.fixmystreet.com/report/5436954](https://www.fixmystreet.com/report/5436954)
+- Web Reference: 5324058 Enquiry Number: 22035990 Issue: SL-Illuminated Bollard or Sign Location: Opposite the end of Winton Road in Warden Hill Road. It has been like this for at least 14 days - I pass it every day. Site: WARDEN HILL ROAD Please be advised that the equipment has now been repaired and it has been left in working order. Your enquiry will now be closed.The problem is still present. I checked on Thurs and Fri at 3pm, 13th January :- [https://www.fixmystreet.com/report/5436913](https://www.fixmystreet.com/report/5436913)
+- Damaged verge causing mud across road and pavement, 13th January :- [https://www.fixmystreet.com/report/5436815](https://www.fixmystreet.com/report/5436815)
 - Holes in road from removal of studs/markings, 13th January :- [https://www.fixmystreet.com/report/5436438](https://www.fixmystreet.com/report/5436438)
 - 2 street lights out in Willow close, 12th January :- [https://www.fixmystreet.com/report/5436353](https://www.fixmystreet.com/report/5436353)
 - Injury caused by sign not visible in dark, 12th January :- [https://www.fixmystreet.com/report/5436117](https://www.fixmystreet.com/report/5436117)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The pavement is frequently blocked by the vehicle shown in the image, forcing pedestrians, including children, onto the road. I note that your website suggests I involve the police, but when I call them they advise that the issue is one for the local authority to resolve., 12th January :- [https://www.fixmystreet.com/report/5435785](https://www.fixmystreet.com/report/5435785)
 - Filter lane turning red with main signal, 12th January :- [https://www.fixmystreet.com/report/5435749](https://www.fixmystreet.com/report/5435749)
 - Half pathway blockef, 12th January :- [https://www.fixmystreet.com/report/5435741](https://www.fixmystreet.com/report/5435741)
-- Awful litter,flytipping and graffiti, 12th January :- [https://www.fixmystreet.com/report/5435718](https://www.fixmystreet.com/report/5435718)
-- Obstruction caused by wall/building problem, 12th January :- [https://www.fixmystreet.com/report/5435273](https://www.fixmystreet.com/report/5435273)
-- Tree is damaged problem, 12th January :- [https://www.fixmystreet.com/report/5435272](https://www.fixmystreet.com/report/5435272)
-- No-parking cones been put on the road with no notice of authorisation., 12th January :- [https://www.fixmystreet.com/report/5435132](https://www.fixmystreet.com/report/5435132)
-- Large pothole that is likely going to cause damage to cars on the road., 12th January :- [https://www.fixmystreet.com/report/5435083](https://www.fixmystreet.com/report/5435083)
-- Tree is damaged problem, 12th January :- [https://www.fixmystreet.com/report/5435092](https://www.fixmystreet.com/report/5435092)
-- A large pothole just outside doorway to Baker and Graze, 12th January :- [https://www.fixmystreet.com/report/5435003](https://www.fixmystreet.com/report/5435003)
-- Street light is permanently out problem, 12th January :- [https://www.fixmystreet.com/report/5434930](https://www.fixmystreet.com/report/5434930)
 
 <!-- fix_marker ends -->
