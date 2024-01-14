@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The street light at 2, 13th January :- [https://www.fixmystreet.com/report/5439282](https://www.fixmystreet.com/report/5439282)
 - 2 street lamps with lights out, 13th January :- [https://www.fixmystreet.com/report/5438568](https://www.fixmystreet.com/report/5438568)
 - Burst water pipe., 13th January :- [https://www.fixmystreet.com/report/5438453](https://www.fixmystreet.com/report/5438453)
 - Street lights out, very dark, unsafe, 13th January :- [https://www.fixmystreet.com/report/5438114](https://www.fixmystreet.com/report/5438114)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlight not working, 12th January :- [https://www.fixmystreet.com/report/5435871](https://www.fixmystreet.com/report/5435871)
 - The pavement is frequently blocked by the vehicle shown in the image, forcing pedestrians, including children, onto the road. I note that your website suggests I involve the police, but when I call them they advise that the issue is one for the local authority to resolve., 12th January :- [https://www.fixmystreet.com/report/5435785](https://www.fixmystreet.com/report/5435785)
 - Filter lane turning red with main signal, 12th January :- [https://www.fixmystreet.com/report/5435749](https://www.fixmystreet.com/report/5435749)
-- Half pathway blockef, 12th January :- [https://www.fixmystreet.com/report/5435741](https://www.fixmystreet.com/report/5435741)
 
 <!-- fix_marker ends -->
