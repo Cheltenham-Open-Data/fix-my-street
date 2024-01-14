@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlight obscured by vegetation, 14th January :- [https://www.fixmystreet.com/report/5440616](https://www.fixmystreet.com/report/5440616)
+- Footpath appears blocked and no markers on entrance to field, 14th January :- [https://www.fixmystreet.com/report/5440287](https://www.fixmystreet.com/report/5440287)
+- Multiple potholes deep enough to make serious damage to suspension or three and wheels, 14th January :- [https://www.fixmystreet.com/report/5440215](https://www.fixmystreet.com/report/5440215)
+- Large branch fell and just missed passers by on the pavement, 14th January :- [https://www.fixmystreet.com/report/5440044](https://www.fixmystreet.com/report/5440044)
+- Raised pavement due to trees roots in a private garden, 14th January :- [https://www.fixmystreet.com/report/5439997](https://www.fixmystreet.com/report/5439997)
+- Pothole in centre of road, 14th January :- [https://www.fixmystreet.com/report/5439730](https://www.fixmystreet.com/report/5439730)
+- A pothole at the bottom of the cul de sac, 14th January :- [https://www.fixmystreet.com/report/5439634](https://www.fixmystreet.com/report/5439634)
+- Big pothole on frequently used road, 14th January :- [https://www.fixmystreet.com/report/5439564](https://www.fixmystreet.com/report/5439564)
 - The street light at 2, 13th January :- [https://www.fixmystreet.com/report/5439282](https://www.fixmystreet.com/report/5439282)
 - 2 street lamps with lights out, 13th January :- [https://www.fixmystreet.com/report/5438568](https://www.fixmystreet.com/report/5438568)
 - Burst water pipe., 13th January :- [https://www.fixmystreet.com/report/5438453](https://www.fixmystreet.com/report/5438453)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Holes in road from removal of studs/markings, 13th January :- [https://www.fixmystreet.com/report/5436438](https://www.fixmystreet.com/report/5436438)
 - 2 street lights out in Willow close, 12th January :- [https://www.fixmystreet.com/report/5436353](https://www.fixmystreet.com/report/5436353)
 - Injury caused by sign not visible in dark, 12th January :- [https://www.fixmystreet.com/report/5436117](https://www.fixmystreet.com/report/5436117)
-- Injury caused by sign not visible in dark, 12th January :- [https://www.fixmystreet.com/report/5436050](https://www.fixmystreet.com/report/5436050)
-- Side of road hole, 12th January :- [https://www.fixmystreet.com/report/5435967](https://www.fixmystreet.com/report/5435967)
-- Leaf mould is blocking pavement and drains the whole length of Naunton Lane from Thirlestaine Rodcto Whitecross Square making the pavement dangerous and leaving the gullies impossible on one side for bikes and leaving water to splash pedestrians; the lane has not be cleared for months., 12th January :- [https://www.fixmystreet.com/report/5435891](https://www.fixmystreet.com/report/5435891)
-- Streetlight not working, 12th January :- [https://www.fixmystreet.com/report/5435885](https://www.fixmystreet.com/report/5435885)
-- Large strip of interconnecting potholes causing cars to drive in the middle of the road., 12th January :- [https://www.fixmystreet.com/report/5435883](https://www.fixmystreet.com/report/5435883)
-- Streetlight not working, 12th January :- [https://www.fixmystreet.com/report/5435871](https://www.fixmystreet.com/report/5435871)
-- The pavement is frequently blocked by the vehicle shown in the image, forcing pedestrians, including children, onto the road. I note that your website suggests I involve the police, but when I call them they advise that the issue is one for the local authority to resolve., 12th January :- [https://www.fixmystreet.com/report/5435785](https://www.fixmystreet.com/report/5435785)
-- Filter lane turning red with main signal, 12th January :- [https://www.fixmystreet.com/report/5435749](https://www.fixmystreet.com/report/5435749)
 
 <!-- fix_marker ends -->
