@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Poor junction design Gotherington Lane, 15th January :- [https://www.fixmystreet.com/report/5447819](https://www.fixmystreet.com/report/5447819)
+- Poor road design Gotherington Lane, 15th January :- [https://www.fixmystreet.com/report/5447763](https://www.fixmystreet.com/report/5447763)
+- Deep pothole on edge of road, 15th January :- [https://www.fixmystreet.com/report/5447600](https://www.fixmystreet.com/report/5447600)
 - A pothole in road problem, 15th January :- [https://www.fixmystreet.com/report/5447365](https://www.fixmystreet.com/report/5447365)
 - Pot hole beside the drain, 15th January :- [https://www.fixmystreet.com/report/5446941](https://www.fixmystreet.com/report/5446941)
 - Bridge repairs never undertaken, 15th January :- [https://www.fixmystreet.com/report/5446617](https://www.fixmystreet.com/report/5446617)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Leaves on Cycle lan, 15th January :- [https://www.fixmystreet.com/report/5445772](https://www.fixmystreet.com/report/5445772)
 - Loose Manhole covers, 15th January :- [https://www.fixmystreet.com/report/5445101](https://www.fixmystreet.com/report/5445101)
 - Eight Street Lights out for a month, 15th January :- [https://www.fixmystreet.com/report/5445090](https://www.fixmystreet.com/report/5445090)
-- Degraded surface, multiple holes, 15th January :- [https://www.fixmystreet.com/report/5445079](https://www.fixmystreet.com/report/5445079)
-- Hedge was cut back by highways on saturday., 15th January :- [https://www.fixmystreet.com/report/5445042](https://www.fixmystreet.com/report/5445042)
-- Street light covered in vegetation, 15th January :- [https://www.fixmystreet.com/report/5444914](https://www.fixmystreet.com/report/5444914)
 
 <!-- fix_marker ends -->
