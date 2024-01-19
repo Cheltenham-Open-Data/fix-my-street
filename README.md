@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dead deer on side of road, 18th January :- [https://www.fixmystreet.com/report/5462615](https://www.fixmystreet.com/report/5462615)
+- Very deep pothole on edge of road, 18th January :- [https://www.fixmystreet.com/report/5462613](https://www.fixmystreet.com/report/5462613)
+- Sunken manhole cover, 18th January :- [https://www.fixmystreet.com/report/5462610](https://www.fixmystreet.com/report/5462610)
+- Abandoned shopping trolley, 18th January :- [https://www.fixmystreet.com/report/5462257](https://www.fixmystreet.com/report/5462257)
+- Overflowing drain outside church, 18th January :- [https://www.fixmystreet.com/report/5462101](https://www.fixmystreet.com/report/5462101)
+- Numerous pothole in Seymour Place, 18th January :- [https://www.fixmystreet.com/report/5462003](https://www.fixmystreet.com/report/5462003)
 - Large stone slab has been struck again and is laying precariously, on the edge, of the corner of the B4070 causing vehicles to avoid hitting the slab., 18th January :- [https://www.fixmystreet.com/report/5461796](https://www.fixmystreet.com/report/5461796)
 - Constant water flowing freezing as black ice, 18th January :- [https://www.fixmystreet.com/report/5461539](https://www.fixmystreet.com/report/5461539)
 - Traffic light 2 facing wrong direction, 18th January :- [https://www.fixmystreet.com/report/5461481](https://www.fixmystreet.com/report/5461481)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 5cm deep x 20cm in the worst area but larger than this. on Leckhampton Road see below., 18th January :- [https://www.fixmystreet.com/report/5459548](https://www.fixmystreet.com/report/5459548)
 - Buliders rubbish left months ago, 18th January :- [https://www.fixmystreet.com/report/5459334](https://www.fixmystreet.com/report/5459334)
 - Barriers left by workmen, now 1x has ended up in stream, 18th January :- [https://www.fixmystreet.com/report/5459303](https://www.fixmystreet.com/report/5459303)
-- Deep pothole on junction - difficult to avoid. has caused considerable damage to car. Will be charging any future damage to GCC now this has reported., 18th January :- [https://www.fixmystreet.com/report/5458799](https://www.fixmystreet.com/report/5458799)
-- Deep pothole on cudall st near cirencester rd, 18th January :- [https://www.fixmystreet.com/report/5458620](https://www.fixmystreet.com/report/5458620)
-- Pavement in the road after a blind corner, 17th January :- [https://www.fixmystreet.com/report/5457836](https://www.fixmystreet.com/report/5457836)
-- Several pothole all around square again., 17th January :- [https://www.fixmystreet.com/report/5457408](https://www.fixmystreet.com/report/5457408)
-- Crossing sound extremely quiet and barely audible, 17th January :- [https://www.fixmystreet.com/report/5457274](https://www.fixmystreet.com/report/5457274)
-- Street light out, 17th January :- [https://www.fixmystreet.com/report/5457270](https://www.fixmystreet.com/report/5457270)
 
 <!-- fix_marker ends -->
