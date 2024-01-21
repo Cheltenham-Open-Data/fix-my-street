@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 slabs broken and 2 posts knocked over and damged. Caused at 0120 21.01 by a careless driver mounting the kerb. CCTV footage avaliable from Sainsburys, 21st January :- [https://www.fixmystreet.com/report/5469333](https://www.fixmystreet.com/report/5469333)
+- Newly installed lampposts -some lights are not working, 20th January :- [https://www.fixmystreet.com/report/5468993](https://www.fixmystreet.com/report/5468993)
 - Light button not working, 20th January :- [https://www.fixmystreet.com/report/5468769](https://www.fixmystreet.com/report/5468769)
 - Deep potholes, difficult to avoid, 20th January :- [https://www.fixmystreet.com/report/5468751](https://www.fixmystreet.com/report/5468751)
 - Road breaking up at greyhound gardens / blackwater way junction, 20th January :- [https://www.fixmystreet.com/report/5468675](https://www.fixmystreet.com/report/5468675)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Amber light not working on traffic light, 19th January :- [https://www.fixmystreet.com/report/5465365](https://www.fixmystreet.com/report/5465365)
 - Multiple briken and rocky pavement slabs, 19th January :- [https://www.fixmystreet.com/report/5465010](https://www.fixmystreet.com/report/5465010)
 - Damaged x2 drain covers, iron sticking out, large hole, very dangerous to cyclists and other road users, 19th January :- [https://www.fixmystreet.com/report/5464927](https://www.fixmystreet.com/report/5464927)
-- Loose/rattling cover/ironwork problem, 19th January :- [https://www.fixmystreet.com/report/5467128](https://www.fixmystreet.com/report/5467128)
-- Repaired potholes need quality checks, 19th January :- [https://www.fixmystreet.com/report/5464684](https://www.fixmystreet.com/report/5464684)
 
 <!-- fix_marker ends -->
