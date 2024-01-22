@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road blocked by fallen tree, 21st January :- [https://www.fixmystreet.com/report/5472387](https://www.fixmystreet.com/report/5472387)
+- Fallen tree dangerously resting on another. Danger of falling, 21st January :- [https://www.fixmystreet.com/report/5472092](https://www.fixmystreet.com/report/5472092)
+- Overgrown hedge, 21st January :- [https://www.fixmystreet.com/report/5471656](https://www.fixmystreet.com/report/5471656)
 - Multiple pot holes, repaired many times, due for annual 'fix'., 21st January :- [https://www.fixmystreet.com/report/5471307](https://www.fixmystreet.com/report/5471307)
 - Gait is in a huge pothole, 21st January :- [https://www.fixmystreet.com/report/5471134](https://www.fixmystreet.com/report/5471134)
 - Phone box on Shakespeare Road, vandalised with graffiti, 21st January :- [https://www.fixmystreet.com/report/5471096](https://www.fixmystreet.com/report/5471096)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped christmas tree, 21st January :- [https://www.fixmystreet.com/report/5469616](https://www.fixmystreet.com/report/5469616)
 - Poorly completed driveway work across foot way., 21st January :- [https://www.fixmystreet.com/report/5469443](https://www.fixmystreet.com/report/5469443)
 - Several potholes in between patched potholes, 21st January :- [https://www.fixmystreet.com/report/5469434](https://www.fixmystreet.com/report/5469434)
-- Several potholes appeared in Langdale Road., 21st January :- [https://www.fixmystreet.com/report/5469363](https://www.fixmystreet.com/report/5469363)
-- 2 slabs broken and 2 posts knocked over and damged. Caused at 0120 21.01 by a careless driver mounting the kerb. CCTV footage avaliable from Sainsburys, 21st January :- [https://www.fixmystreet.com/report/5469333](https://www.fixmystreet.com/report/5469333)
-- Newly installed lampposts -some lights are not working, 20th January :- [https://www.fixmystreet.com/report/5468993](https://www.fixmystreet.com/report/5468993)
 
 <!-- fix_marker ends -->
