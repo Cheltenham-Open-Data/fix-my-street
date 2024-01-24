@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked Drain, 23rd January :- [https://www.fixmystreet.com/report/5482933](https://www.fixmystreet.com/report/5482933)
+- Glass in subway, 23rd January :- [https://www.fixmystreet.com/report/5482729](https://www.fixmystreet.com/report/5482729)
+- 10 inch pothole, 23rd January :- [https://www.fixmystreet.com/report/5482449](https://www.fixmystreet.com/report/5482449)
+- No double yellow lines at junction, 23rd January :- [https://www.fixmystreet.com/report/5482182](https://www.fixmystreet.com/report/5482182)
+- Pothole at junction of Cirencester Road and Bafford Aporoach, 23rd January :- [https://www.fixmystreet.com/report/5482170](https://www.fixmystreet.com/report/5482170)
 - Led street light not working, 23rd January :- [https://www.fixmystreet.com/report/5482049](https://www.fixmystreet.com/report/5482049)
 - Pothole in road by prince wales stadium, 23rd January :- [https://www.fixmystreet.com/report/5481934](https://www.fixmystreet.com/report/5481934)
 - Multpilemtree roots breaking though tarmac, 23rd January :- [https://www.fixmystreet.com/report/5481791](https://www.fixmystreet.com/report/5481791)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Ash Tree located on Highway land problem, 23rd January :- [https://www.fixmystreet.com/report/5481107](https://www.fixmystreet.com/report/5481107)
 - Tree is damaged problem, 23rd January :- [https://www.fixmystreet.com/report/5481106](https://www.fixmystreet.com/report/5481106)
 - Large branch cracked which spans over road, 23rd January :- [https://www.fixmystreet.com/report/5480932](https://www.fixmystreet.com/report/5480932)
-- 3 trees dangerously leaning towards the path and road, 23rd January :- [https://www.fixmystreet.com/report/5480913](https://www.fixmystreet.com/report/5480913)
-- Huge pothole, 23rd January :- [https://www.fixmystreet.com/report/5480784](https://www.fixmystreet.com/report/5480784)
-- Poor give way road markings, 23rd January :- [https://www.fixmystreet.com/report/5480543](https://www.fixmystreet.com/report/5480543)
-- Poor uneven road surface, 23rd January :- [https://www.fixmystreet.com/report/5480504](https://www.fixmystreet.com/report/5480504)
-- Sustained damage problem, 23rd January :- [https://www.fixmystreet.com/report/5481286](https://www.fixmystreet.com/report/5481286)
 
 <!-- fix_marker ends -->
