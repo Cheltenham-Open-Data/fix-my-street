@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The street light outside 19 Clarence Square is not working., 24th January :- [https://www.fixmystreet.com/report/5487844](https://www.fixmystreet.com/report/5487844)
+- Bridge missing over brook or stream, 24th January :- [https://www.fixmystreet.com/report/5487535](https://www.fixmystreet.com/report/5487535)
+- Streetlight outside No 40 and No 41 not working, 24th January :- [https://www.fixmystreet.com/report/5487322](https://www.fixmystreet.com/report/5487322)
 - Branches from three trees on the corner are over hanging into the carriageway causing vehicles to travel in the centre of the road. Also, there is debris in the gutter which is obscuring the kerb on the corner., 24th January :- [https://www.fixmystreet.com/report/5487022](https://www.fixmystreet.com/report/5487022)
 - Many potholes all over the road (see pictures), 24th January :- [https://www.fixmystreet.com/report/5486829](https://www.fixmystreet.com/report/5486829)
 - Road surface breaking down , buses going over it shakes my house, 24th January :- [https://www.fixmystreet.com/report/5486708](https://www.fixmystreet.com/report/5486708)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 24th January :- [https://www.fixmystreet.com/report/5484091](https://www.fixmystreet.com/report/5484091)
 - Large potholes both lanes, 24th January :- [https://www.fixmystreet.com/report/5484015](https://www.fixmystreet.com/report/5484015)
 - Kerb stones damaged and missing, tarmac broken down at entrance to 19 and 21 Eldon Road, 24th January :- [https://www.fixmystreet.com/report/5483877](https://www.fixmystreet.com/report/5483877)
-- Pothole under trees, 24th January :- [https://www.fixmystreet.com/report/5483869](https://www.fixmystreet.com/report/5483869)
-- Large pothole opposite Leisure centre entrance, 24th January :- [https://www.fixmystreet.com/report/5483694](https://www.fixmystreet.com/report/5483694)
-- Unrepaired damage, 24th January :- [https://www.fixmystreet.com/report/5483692](https://www.fixmystreet.com/report/5483692)
 
 <!-- fix_marker ends -->
