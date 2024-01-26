@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Just as you go past the national speed limit sign heading out of Prestbury towards southam, 25th January :- [https://www.fixmystreet.com/report/5492739](https://www.fixmystreet.com/report/5492739)
+- On a T junction and on wheel line, 25th January :- [https://www.fixmystreet.com/report/5492729](https://www.fixmystreet.com/report/5492729)
+- Streetlight not working, 25th January :- [https://www.fixmystreet.com/report/5492048](https://www.fixmystreet.com/report/5492048)
 - Pot hole, 25th January :- [https://www.fixmystreet.com/report/5491785](https://www.fixmystreet.com/report/5491785)
 - 2 pot holes just to London road side of the ford, 25th January :- [https://www.fixmystreet.com/report/5491776](https://www.fixmystreet.com/report/5491776)
 - Moved paving slab, 25th January :- [https://www.fixmystreet.com/report/5491669](https://www.fixmystreet.com/report/5491669)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 25th January :- [https://www.fixmystreet.com/report/5490297](https://www.fixmystreet.com/report/5490297)
 - Deep sharp edged hole which has damaged my near side wheels and steering., 25th January :- [https://www.fixmystreet.com/report/5490008](https://www.fixmystreet.com/report/5490008)
 - Several potholes in road, 25th January :- [https://www.fixmystreet.com/report/5489745](https://www.fixmystreet.com/report/5489745)
-- Tree is damaged problem, 25th January :- [https://www.fixmystreet.com/report/5491337](https://www.fixmystreet.com/report/5491337)
-- Tree is damaged problem, 25th January :- [https://www.fixmystreet.com/report/5489720](https://www.fixmystreet.com/report/5489720)
-- Tree is damaged problem, 25th January :- [https://www.fixmystreet.com/report/5489719](https://www.fixmystreet.com/report/5489719)
 
 <!-- fix_marker ends -->
