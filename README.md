@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Extremely loud manhole cover in carriageway keeping residents awake all night, 29th January :- [https://www.fixmystreet.com/report/5508218](https://www.fixmystreet.com/report/5508218)
+- Streetlight not working, 29th January :- [https://www.fixmystreet.com/report/5507835](https://www.fixmystreet.com/report/5507835)
+- Streetlight not working, 29th January :- [https://www.fixmystreet.com/report/5507800](https://www.fixmystreet.com/report/5507800)
+- Multiple defects, 29th January :- [https://www.fixmystreet.com/report/5507766](https://www.fixmystreet.com/report/5507766)
 - Water not getting away opposite farm, 29th January :- [https://www.fixmystreet.com/report/5507204](https://www.fixmystreet.com/report/5507204)
 - Tree is damaged problem, 29th January :- [https://www.fixmystreet.com/report/5506967](https://www.fixmystreet.com/report/5506967)
 - Ground waterlogged and walkers climbing over fence, 29th January :- [https://www.fixmystreet.com/report/5506734](https://www.fixmystreet.com/report/5506734)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Swindon Lane over bridge by St Nicholas Church, 29th January :- [https://www.fixmystreet.com/report/5505900](https://www.fixmystreet.com/report/5505900)
 - Lightt at Pedestrian Crossing out, 29th January :- [https://www.fixmystreet.com/report/5505876](https://www.fixmystreet.com/report/5505876)
 - Series of long trenches and potholes, 29th January :- [https://www.fixmystreet.com/report/5505558](https://www.fixmystreet.com/report/5505558)
-- Tree is damaged problem, 29th January :- [https://www.fixmystreet.com/report/5504804](https://www.fixmystreet.com/report/5504804)
-- The sign is illegible problem, 29th January :- [https://www.fixmystreet.com/report/5504803](https://www.fixmystreet.com/report/5504803)
-- Phone box blocking pavement, 29th January :- [https://www.fixmystreet.com/report/5504597](https://www.fixmystreet.com/report/5504597)
-- A pothole in road problem, 29th January :- [https://www.fixmystreet.com/report/5504579](https://www.fixmystreet.com/report/5504579)
 
 <!-- fix_marker ends -->
