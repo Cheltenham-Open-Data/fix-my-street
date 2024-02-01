@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Many drains on left hand side going down the hill not flat, feels like going in pot holes, 31st January :- [https://www.fixmystreet.com/report/5517471](https://www.fixmystreet.com/report/5517471)
 - Crossing audible sound too loud/soft problem, 31st January :- [https://www.fixmystreet.com/report/5516242](https://www.fixmystreet.com/report/5516242)
 - Build up of Soil/Grass and a fly tipped piece of concrete need removing, along the wall, at the end of Denbigh Road, it is part of the Road, 31st January :- [https://www.fixmystreet.com/report/5515974](https://www.fixmystreet.com/report/5515974)
 - Drain cover sudden into ground, 31st January :- [https://www.fixmystreet.com/report/5515948](https://www.fixmystreet.com/report/5515948)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Poor Street cleaning Usrn: 40101176 hucclecote road junction with Hucclecote footpath 36 usrn 40102389, 30th January :- [https://www.fixmystreet.com/report/5512848](https://www.fixmystreet.com/report/5512848)
 - Large pothole in central part of road., 30th January :- [https://www.fixmystreet.com/report/5512816](https://www.fixmystreet.com/report/5512816)
 - Light is out, 30th January :- [https://www.fixmystreet.com/report/5512815](https://www.fixmystreet.com/report/5512815)
-- Poor Street cleaning USRN: 40101176 Hucclecote Road, Brockworth, 30th January :- [https://www.fixmystreet.com/report/5512812](https://www.fixmystreet.com/report/5512812)
 
 <!-- fix_marker ends -->
