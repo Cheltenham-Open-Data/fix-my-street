@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlights have not worked between the main entrance (3) of the university and going towards the moorend roundabout. It is pitch black, dangerous to pedestrians, joggers and cyclists. As a woman who has to walk my dog before work early in the morning I feel very vulnerable as it is so dark. The lights have been out for at least 3 weeks. An accident will happen if not fixed., 1st February :- [https://www.fixmystreet.com/report/5521822](https://www.fixmystreet.com/report/5521822)
+- Street light not working, 2nd February :- [https://www.fixmystreet.com/report/5521725](https://www.fixmystreet.com/report/5521725)
+- 3 ‘ long hole kerbside, 1st February :- [https://www.fixmystreet.com/report/5521622](https://www.fixmystreet.com/report/5521622)
+- Pot hole along the length of priors road, 1st February :- [https://www.fixmystreet.com/report/5521345](https://www.fixmystreet.com/report/5521345)
 - Pothole needs filling, 1st February :- [https://www.fixmystreet.com/report/5520534](https://www.fixmystreet.com/report/5520534)
 - Build up of gravel around crossing, 1st February :- [https://www.fixmystreet.com/report/5520497](https://www.fixmystreet.com/report/5520497)
 - Cycle logo faded so repainting required, 1st February :- [https://www.fixmystreet.com/report/5520471](https://www.fixmystreet.com/report/5520471)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole in road, 1st February :- [https://www.fixmystreet.com/report/5519726](https://www.fixmystreet.com/report/5519726)
 - Collapsed verges, 1st February :- [https://www.fixmystreet.com/report/5519702](https://www.fixmystreet.com/report/5519702)
 - Deep potholes outside of Western Court, 1st February :- [https://www.fixmystreet.com/report/5519663](https://www.fixmystreet.com/report/5519663)
-- Tree looks partially dead, 1st February :- [https://www.fixmystreet.com/report/5519621](https://www.fixmystreet.com/report/5519621)
-- A series of holes, uneven and damaged road surface for approximately 300m, 1st February :- [https://www.fixmystreet.com/report/5519441](https://www.fixmystreet.com/report/5519441)
-- Loose/rattling cover/ironwork problem, 1st February :- [https://www.fixmystreet.com/report/5519497](https://www.fixmystreet.com/report/5519497)
-- Large pothole where paving stones have collapsed, 1st February :- [https://www.fixmystreet.com/report/5519224](https://www.fixmystreet.com/report/5519224)
 
 <!-- fix_marker ends -->
