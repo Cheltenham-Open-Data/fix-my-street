@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 3rd February :- [https://www.fixmystreet.com/report/5528999](https://www.fixmystreet.com/report/5528999)
+- At top Abbots Close and surrounding ST stop tap, 3rd February :- [https://www.fixmystreet.com/report/5528869](https://www.fixmystreet.com/report/5528869)
+- Flytipping Bath Tub & Building Materials, 3rd February :- [https://www.fixmystreet.com/report/5528824](https://www.fixmystreet.com/report/5528824)
+- Streetlight not working, 3rd February :- [https://www.fixmystreet.com/report/5528757](https://www.fixmystreet.com/report/5528757)
+- Dirty markers, 3rd February :- [https://www.fixmystreet.com/report/5528587](https://www.fixmystreet.com/report/5528587)
+- Streetlight not working, 3rd February :- [https://www.fixmystreet.com/report/5528525](https://www.fixmystreet.com/report/5528525)
 - Metal bits sticking outbof the ground opposite primark, 3rd February :- [https://www.fixmystreet.com/report/5528441](https://www.fixmystreet.com/report/5528441)
 - Metal bits sticking out of the ground, 3rd February :- [https://www.fixmystreet.com/report/5528429](https://www.fixmystreet.com/report/5528429)
 - Large sunken area in road., 3rd February :- [https://www.fixmystreet.com/report/5527673](https://www.fixmystreet.com/report/5527673)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole affecting speed bump close to 1-6 Coronation Flats, 2nd February :- [https://www.fixmystreet.com/report/5525440](https://www.fixmystreet.com/report/5525440)
 - Long deep pothole in road close to pavement, 2nd February :- [https://www.fixmystreet.com/report/5525423](https://www.fixmystreet.com/report/5525423)
 - Street light out, 2nd February :- [https://www.fixmystreet.com/report/5525405](https://www.fixmystreet.com/report/5525405)
-- Hedge overhanging Charlton Court Road, Cheltenham, 2nd February :- [https://www.fixmystreet.com/report/5525305](https://www.fixmystreet.com/report/5525305)
-- Streetlight not working, 2nd February :- [https://www.fixmystreet.com/report/5525011](https://www.fixmystreet.com/report/5525011)
-- The road and pavement on Morlands Drive are in really poor condition and have been since we moved here in 2010, 2nd February :- [https://www.fixmystreet.com/report/5524792](https://www.fixmystreet.com/report/5524792)
-- Kerb collapsed due to traffic driving over and collapsing and therefore blocking drain and flooding, 2nd February :- [https://www.fixmystreet.com/report/5524453](https://www.fixmystreet.com/report/5524453)
-- Multiple potholes on Shelbourne Road, 2nd February :- [https://www.fixmystreet.com/report/5524399](https://www.fixmystreet.com/report/5524399)
-- A pothole in road problem, 2nd February :- [https://www.fixmystreet.com/report/5524385](https://www.fixmystreet.com/report/5524385)
 
 <!-- fix_marker ends -->
