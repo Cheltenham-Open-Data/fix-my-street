@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Near miss due to change in road markings, 4th February :- [https://www.fixmystreet.com/report/5531277](https://www.fixmystreet.com/report/5531277)
+- Dead fox, 4th February :- [https://www.fixmystreet.com/report/5531245](https://www.fixmystreet.com/report/5531245)
+- Loose/rattling cover/ironwork problem, 4th February :- [https://www.fixmystreet.com/report/5531090](https://www.fixmystreet.com/report/5531090)
+- Fly tipping. Sofa thrown onto bushes in layby., 4th February :- [https://www.fixmystreet.com/report/5531034](https://www.fixmystreet.com/report/5531034)
+- Dustbin full, 4th February :- [https://www.fixmystreet.com/report/5530903](https://www.fixmystreet.com/report/5530903)
+- Loose Manhole cover , loud and dangerous, 4th February :- [https://www.fixmystreet.com/report/5530801](https://www.fixmystreet.com/report/5530801)
+- Tree is damaged problem, 4th February :- [https://www.fixmystreet.com/report/5530716](https://www.fixmystreet.com/report/5530716)
+- Street light permanently out, 4th February :- [https://www.fixmystreet.com/report/5530431](https://www.fixmystreet.com/report/5530431)
+- Sunken manhole cover, 4th February :- [https://www.fixmystreet.com/report/5530105](https://www.fixmystreet.com/report/5530105)
+- Several potholes of varying size within a small area, 4th February :- [https://www.fixmystreet.com/report/5529560](https://www.fixmystreet.com/report/5529560)
 - Streetlight not working, 3rd February :- [https://www.fixmystreet.com/report/5528999](https://www.fixmystreet.com/report/5528999)
 - At top Abbots Close and surrounding ST stop tap, 3rd February :- [https://www.fixmystreet.com/report/5528869](https://www.fixmystreet.com/report/5528869)
 - Flytipping Bath Tub & Building Materials, 3rd February :- [https://www.fixmystreet.com/report/5528824](https://www.fixmystreet.com/report/5528824)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Metal bits sticking out of the ground, 3rd February :- [https://www.fixmystreet.com/report/5528429](https://www.fixmystreet.com/report/5528429)
 - Large sunken area in road., 3rd February :- [https://www.fixmystreet.com/report/5527673](https://www.fixmystreet.com/report/5527673)
 - Flytipping, 3rd February :- [https://www.fixmystreet.com/report/5527250](https://www.fixmystreet.com/report/5527250)
-- Council red barriers, 3rd February :- [https://www.fixmystreet.com/report/5527175](https://www.fixmystreet.com/report/5527175)
-- Road breaking away, 3rd February :- [https://www.fixmystreet.com/report/5527117](https://www.fixmystreet.com/report/5527117)
-- Pothole at the side of the road, 3rd February :- [https://www.fixmystreet.com/report/5526899](https://www.fixmystreet.com/report/5526899)
-- Dumped gas bottles in hedge, 3rd February :- [https://www.fixmystreet.com/report/5526876](https://www.fixmystreet.com/report/5526876)
-- Road needs surfacing, 3rd February :- [https://www.fixmystreet.com/report/5526630](https://www.fixmystreet.com/report/5526630)
-- Pothole in outside lane of dual carriageway, 3rd February :- [https://www.fixmystreet.com/report/5526248](https://www.fixmystreet.com/report/5526248)
-- Fly tipping, 3rd February :- [https://www.fixmystreet.com/report/5526163](https://www.fixmystreet.com/report/5526163)
-- Pothole affecting speed bump close to 1-6 Coronation Flats, 2nd February :- [https://www.fixmystreet.com/report/5525440](https://www.fixmystreet.com/report/5525440)
-- Long deep pothole in road close to pavement, 2nd February :- [https://www.fixmystreet.com/report/5525423](https://www.fixmystreet.com/report/5525423)
-- Street light out, 2nd February :- [https://www.fixmystreet.com/report/5525405](https://www.fixmystreet.com/report/5525405)
 
 <!-- fix_marker ends -->
