@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Long pothole in middle of road opposite exit of brizen road, 4th February :- [https://www.fixmystreet.com/report/5531810](https://www.fixmystreet.com/report/5531810)
+- Street lamp out, 4th February :- [https://www.fixmystreet.com/report/5531474](https://www.fixmystreet.com/report/5531474)
+- 2No banging manhole covers, 4th February :- [https://www.fixmystreet.com/report/5531407](https://www.fixmystreet.com/report/5531407)
 - Near miss due to change in road markings, 4th February :- [https://www.fixmystreet.com/report/5531277](https://www.fixmystreet.com/report/5531277)
 - Dead fox, 4th February :- [https://www.fixmystreet.com/report/5531245](https://www.fixmystreet.com/report/5531245)
 - Loose/rattling cover/ironwork problem, 4th February :- [https://www.fixmystreet.com/report/5531090](https://www.fixmystreet.com/report/5531090)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dirty markers, 3rd February :- [https://www.fixmystreet.com/report/5528587](https://www.fixmystreet.com/report/5528587)
 - Streetlight not working, 3rd February :- [https://www.fixmystreet.com/report/5528525](https://www.fixmystreet.com/report/5528525)
 - Metal bits sticking outbof the ground opposite primark, 3rd February :- [https://www.fixmystreet.com/report/5528441](https://www.fixmystreet.com/report/5528441)
-- Metal bits sticking out of the ground, 3rd February :- [https://www.fixmystreet.com/report/5528429](https://www.fixmystreet.com/report/5528429)
-- Large sunken area in road., 3rd February :- [https://www.fixmystreet.com/report/5527673](https://www.fixmystreet.com/report/5527673)
-- Flytipping, 3rd February :- [https://www.fixmystreet.com/report/5527250](https://www.fixmystreet.com/report/5527250)
 
 <!-- fix_marker ends -->
