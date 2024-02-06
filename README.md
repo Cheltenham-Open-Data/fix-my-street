@@ -2,7 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light not working for months. Dangerous at night when turning into Leckhampton Place as very difficult to see pedestrians., 6th February :- [https://www.fixmystreet.com/report/5536802](https://www.fixmystreet.com/report/5536802)
+- Pothole in road, 5th February :- [https://www.fixmystreet.com/report/5536592](https://www.fixmystreet.com/report/5536592)
+- Pot hole in centre of road plus loose stones starting to be thrown out, 5th February :- [https://www.fixmystreet.com/report/5536515](https://www.fixmystreet.com/report/5536515)
+- Pothole on road between the bollards, 5th February :- [https://www.fixmystreet.com/report/5536123](https://www.fixmystreet.com/report/5536123)
+- The entire length of Caernarvon Road!!!, 5th February :- [https://www.fixmystreet.com/report/5536066](https://www.fixmystreet.com/report/5536066)
+- Vehicle blocking public access - not the first time, 5th February :- [https://www.fixmystreet.com/report/5535984](https://www.fixmystreet.com/report/5535984)
+- Road repaired badly, 5th February :- [https://www.fixmystreet.com/report/5535908](https://www.fixmystreet.com/report/5535908)
+- Disgusting amount of rubbish, 5th February :- [https://www.fixmystreet.com/report/5535890](https://www.fixmystreet.com/report/5535890)
 - Pothole, 5th February :- [https://www.fixmystreet.com/report/5535814](https://www.fixmystreet.com/report/5535814)
+- Rocking and broken slabs and concrete, very dangerous to pedestrians and not safe to walk on, 5th February :- [https://www.fixmystreet.com/report/5535774](https://www.fixmystreet.com/report/5535774)
 - Footpath broken up with multiple holes, 5th February :- [https://www.fixmystreet.com/report/5534965](https://www.fixmystreet.com/report/5534965)
 - Large pothole/uneven road, 5th February :- [https://www.fixmystreet.com/report/5534733](https://www.fixmystreet.com/report/5534733)
 - Traffic over lip in road causing substantial house shaking, 5th February :- [https://www.fixmystreet.com/report/5534312](https://www.fixmystreet.com/report/5534312)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two large pot holes on left hand edging., 5th February :- [https://www.fixmystreet.com/report/5533654](https://www.fixmystreet.com/report/5533654)
 - Swindon road outside hindu centre, 5th February :- [https://www.fixmystreet.com/report/5533610](https://www.fixmystreet.com/report/5533610)
 - Multiple potholes and road deformation, 5th February :- [https://www.fixmystreet.com/report/5533269](https://www.fixmystreet.com/report/5533269)
-- A new deep pothole, 5th February :- [https://www.fixmystreet.com/report/5532858](https://www.fixmystreet.com/report/5532858)
-- Lots of holes, 5th February :- [https://www.fixmystreet.com/report/5532841](https://www.fixmystreet.com/report/5532841)
-- A pothole in road problem, 5th February :- [https://www.fixmystreet.com/report/5532722](https://www.fixmystreet.com/report/5532722)
-- Car parking blocking my drive, 5th February :- [https://www.fixmystreet.com/report/5532596](https://www.fixmystreet.com/report/5532596)
-- Loose/rattling cover/ironwork problem, 5th February :- [https://www.fixmystreet.com/report/5533534](https://www.fixmystreet.com/report/5533534)
-- Street light not working, 5th February :- [https://www.fixmystreet.com/report/5532472](https://www.fixmystreet.com/report/5532472)
-- Broken slab around water main in pavement, 5th February :- [https://www.fixmystreet.com/report/5532442](https://www.fixmystreet.com/report/5532442)
-- Long pothole in middle of road opposite exit of brizen road, 4th February :- [https://www.fixmystreet.com/report/5531810](https://www.fixmystreet.com/report/5531810)
-- Street lamp out, 4th February :- [https://www.fixmystreet.com/report/5531474](https://www.fixmystreet.com/report/5531474)
 
 <!-- fix_marker ends -->
