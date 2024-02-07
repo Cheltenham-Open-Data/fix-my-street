@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 7th February :- [https://www.fixmystreet.com/report/5541354](https://www.fixmystreet.com/report/5541354)
+- Large puddles along Rippledale Close, 6th February :- [https://www.fixmystreet.com/report/5540538](https://www.fixmystreet.com/report/5540538)
 - Slabs, 6th February :- [https://www.fixmystreet.com/report/5538973](https://www.fixmystreet.com/report/5538973)
 - 2 meter /1 meter hole, 6th February :- [https://www.fixmystreet.com/report/5538765](https://www.fixmystreet.com/report/5538765)
 - Tree is damaged problem, 6th February :- [https://www.fixmystreet.com/report/5538698](https://www.fixmystreet.com/report/5538698)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole on road between the bollards, 5th February :- [https://www.fixmystreet.com/report/5536123](https://www.fixmystreet.com/report/5536123)
 - The entire length of Caernarvon Road!!!, 5th February :- [https://www.fixmystreet.com/report/5536066](https://www.fixmystreet.com/report/5536066)
 - Vehicle blocking public access - not the first time, 5th February :- [https://www.fixmystreet.com/report/5535984](https://www.fixmystreet.com/report/5535984)
-- Road repaired badly, 5th February :- [https://www.fixmystreet.com/report/5535908](https://www.fixmystreet.com/report/5535908)
-- Disgusting amount of rubbish, 5th February :- [https://www.fixmystreet.com/report/5535890](https://www.fixmystreet.com/report/5535890)
 
 <!-- fix_marker ends -->
