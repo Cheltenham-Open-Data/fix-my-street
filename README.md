@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Loose/rattling cover/ironwork problem, 7th February :- [https://www.fixmystreet.com/report/5545513](https://www.fixmystreet.com/report/5545513)
 - Huge collection of pot holes, 7th February :- [https://www.fixmystreet.com/report/5545265](https://www.fixmystreet.com/report/5545265)
 - Disgustingly large collection of pot holes, 7th February :- [https://www.fixmystreet.com/report/5545258](https://www.fixmystreet.com/report/5545258)
 - Blocked road drainage gratings, 7th February :- [https://www.fixmystreet.com/report/5545251](https://www.fixmystreet.com/report/5545251)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Corner of Milbrook street/ Great Western Terrace Drain blocked causing flooding, 7th February :- [https://www.fixmystreet.com/report/5543948](https://www.fixmystreet.com/report/5543948)
 - Cars keep parking across this dropped kerb opposite my house, 7th February :- [https://www.fixmystreet.com/report/5543931](https://www.fixmystreet.com/report/5543931)
 - A pothole in road problem, 7th February :- [https://www.fixmystreet.com/report/5543915](https://www.fixmystreet.com/report/5543915)
-- Huge amounts of rubbish, 7th February :- [https://www.fixmystreet.com/report/5543098](https://www.fixmystreet.com/report/5543098)
 
 <!-- fix_marker ends -->
