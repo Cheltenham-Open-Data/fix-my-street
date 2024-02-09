@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road Flooded, 8th February :- [https://www.fixmystreet.com/report/5551392](https://www.fixmystreet.com/report/5551392)
+- Several large potholes, 9th February :- [https://www.fixmystreet.com/report/5551243](https://www.fixmystreet.com/report/5551243)
+- Several potholes in the same area all very deep, 9th February :- [https://www.fixmystreet.com/report/5551235](https://www.fixmystreet.com/report/5551235)
+- Street light completely not working, 8th February :- [https://www.fixmystreet.com/report/5550816](https://www.fixmystreet.com/report/5550816)
+- A pothole in road problem, 8th February :- [https://www.fixmystreet.com/report/5550917](https://www.fixmystreet.com/report/5550917)
+- Blocked drain at the top of Bedford Avenue, 8th February :- [https://www.fixmystreet.com/report/5550722](https://www.fixmystreet.com/report/5550722)
+- A pothole in road problem, 8th February :- [https://www.fixmystreet.com/report/5550820](https://www.fixmystreet.com/report/5550820)
 - Cars ignoring red light and driving through pedestrian crossing on green, 8th February :- [https://www.fixmystreet.com/report/5550356](https://www.fixmystreet.com/report/5550356)
 - Excessive drainage from Churchdown hill is flooding highway due to blocked/inadequate manhole, 8th February :- [https://www.fixmystreet.com/report/5550144](https://www.fixmystreet.com/report/5550144)
 - Pothole by roundabout junction, 8th February :- [https://www.fixmystreet.com/report/5550081](https://www.fixmystreet.com/report/5550081)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pavment is subsiding, 8th February :- [https://www.fixmystreet.com/report/5549149](https://www.fixmystreet.com/report/5549149)
 - Lots of fallen/cut branches in water course, 8th February :- [https://www.fixmystreet.com/report/5549005](https://www.fixmystreet.com/report/5549005)
 - Bin has not been emptied for 20 days, 8th February :- [https://www.fixmystreet.com/report/5548798](https://www.fixmystreet.com/report/5548798)
-- Pothole on road, 8th February :- [https://www.fixmystreet.com/report/5548761](https://www.fixmystreet.com/report/5548761)
-- Deep pothole, 8th February :- [https://www.fixmystreet.com/report/5548755](https://www.fixmystreet.com/report/5548755)
-- Two deep potholes, 8th February :- [https://www.fixmystreet.com/report/5548752](https://www.fixmystreet.com/report/5548752)
-- 300mm pothole outside 17 Whittington Road GL51 6DQ, 8th February :- [https://www.fixmystreet.com/report/5548470](https://www.fixmystreet.com/report/5548470)
-- Speed ramp pot hole and movement, 8th February :- [https://www.fixmystreet.com/report/5548460](https://www.fixmystreet.com/report/5548460)
-- Tree is damaged problem, 8th February :- [https://www.fixmystreet.com/report/5548975](https://www.fixmystreet.com/report/5548975)
-- Pipe under footpath bridge is poor design and regularly blocks causing flooding onto footpath. Prolonged rainfall will cause flooding onto road with houses nearby, 8th February :- [https://www.fixmystreet.com/report/5547932](https://www.fixmystreet.com/report/5547932)
 
 <!-- fix_marker ends -->
