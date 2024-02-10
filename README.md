@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 18 inch + large pothole., 9th February :- [https://www.fixmystreet.com/report/5556236](https://www.fixmystreet.com/report/5556236)
+- The majority of the drains on Battldown Approach are blocked, 9th February :- [https://www.fixmystreet.com/report/5556176](https://www.fixmystreet.com/report/5556176)
+- Flooding covering one lane of a two lane section, 9th February :- [https://www.fixmystreet.com/report/5555967](https://www.fixmystreet.com/report/5555967)
+- Blocked drain/collapsed underground pipe, 9th February :- [https://www.fixmystreet.com/report/5555689](https://www.fixmystreet.com/report/5555689)
 - Blocked drain flooding road, 9th February :- [https://www.fixmystreet.com/report/5555629](https://www.fixmystreet.com/report/5555629)
 - Large pothole, 9th February :- [https://www.fixmystreet.com/report/5555615](https://www.fixmystreet.com/report/5555615)
 - Approx 50 potholes in Caernarvon Road which are now very deep with loose stones being clipped by psssinh vehicles on, 9th February :- [https://www.fixmystreet.com/report/5555463](https://www.fixmystreet.com/report/5555463)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken, uneven, pot holed road, 9th February :- [https://www.fixmystreet.com/report/5554266](https://www.fixmystreet.com/report/5554266)
 - Pothole on Chargrove Lane., 9th February :- [https://www.fixmystreet.com/report/5554197](https://www.fixmystreet.com/report/5554197)
 - Flooding on A46 , Farm Lane to No 3., 9th February :- [https://www.fixmystreet.com/report/5554166](https://www.fixmystreet.com/report/5554166)
-- Tree is damaged problem, 9th February :- [https://www.fixmystreet.com/report/5554320](https://www.fixmystreet.com/report/5554320)
-- Leaf litter blocking drains, 9th February :- [https://www.fixmystreet.com/report/5553755](https://www.fixmystreet.com/report/5553755)
-- Bus stop flooding. Danger to users who have to stand on road., 9th February :- [https://www.fixmystreet.com/report/5553686](https://www.fixmystreet.com/report/5553686)
-- Obstruction caused by wall/building problem, 9th February :- [https://www.fixmystreet.com/report/5553672](https://www.fixmystreet.com/report/5553672)
 
 <!-- fix_marker ends -->
