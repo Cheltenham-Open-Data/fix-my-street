@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes on a short stretch of road in desperate need of resurfcing, 17th February :- [https://www.fixmystreet.com/report/5591737](https://www.fixmystreet.com/report/5591737)
 - Several holes along Marsland Rd between junctions of Seacomb Rd & Lewis Rd, 17th February :- [https://www.fixmystreet.com/report/5591695](https://www.fixmystreet.com/report/5591695)
 - The gutters and pavement are ankle deep in slushy leaves from autumn 23., 17th February :- [https://www.fixmystreet.com/report/5591589](https://www.fixmystreet.com/report/5591589)
 - Short sharp potholes, 17th February :- [https://www.fixmystreet.com/report/5591390](https://www.fixmystreet.com/report/5591390)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 17th February :- [https://www.fixmystreet.com/report/5589378](https://www.fixmystreet.com/report/5589378)
 - Virtually every drain in cowley is blocked with mud., 17th February :- [https://www.fixmystreet.com/report/5589352](https://www.fixmystreet.com/report/5589352)
 - Drain is broken, causing water to run across the drive which is causing the drive and road to collapse, 17th February :- [https://www.fixmystreet.com/report/5589277](https://www.fixmystreet.com/report/5589277)
-- Recently repaired patch breaking down again., 16th February :- [https://www.fixmystreet.com/report/5589085](https://www.fixmystreet.com/report/5589085)
 
 <!-- fix_marker ends -->
