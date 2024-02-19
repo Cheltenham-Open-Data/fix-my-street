@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Temporary repairs x3 since October already and failing within a week. Causing noise nuisance, house to shake and could cause accident. Please can this be fully repaired properly as the temporary tarmac fixes aren’t enough., 18th February :- [https://www.fixmystreet.com/report/5596055](https://www.fixmystreet.com/report/5596055)
+- Street light out, 18th February :- [https://www.fixmystreet.com/report/5595647](https://www.fixmystreet.com/report/5595647)
 - Floodwater under bridge not clearing, 18th February :- [https://www.fixmystreet.com/report/5595528](https://www.fixmystreet.com/report/5595528)
 - Hole on the mini roundabout, 18th February :- [https://www.fixmystreet.com/report/5595512](https://www.fixmystreet.com/report/5595512)
 - Dumped fridge on the grass verge, 18th February :- [https://www.fixmystreet.com/report/5595489](https://www.fixmystreet.com/report/5595489)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain blocked for years, 18th February :- [https://www.fixmystreet.com/report/5594190](https://www.fixmystreet.com/report/5594190)
 - Bin has not been emptied for 10 days, 18th February :- [https://www.fixmystreet.com/report/5594174](https://www.fixmystreet.com/report/5594174)
 - Manhole cover is still rattling and has dropped. Reported in January, 18th February :- [https://www.fixmystreet.com/report/5594164](https://www.fixmystreet.com/report/5594164)
-- Blocked drain. Water not getting away for many hours after stoppage of rain. Thi problem has been going on for a long time without resolution., 18th February :- [https://www.fixmystreet.com/report/5594108](https://www.fixmystreet.com/report/5594108)
-- The storm drain outside my fathers property is over flowing nd causing flooding within his property, 18th February :- [https://www.fixmystreet.com/report/5593930](https://www.fixmystreet.com/report/5593930)
 
 <!-- fix_marker ends -->
