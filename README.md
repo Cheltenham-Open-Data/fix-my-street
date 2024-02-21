@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 large potholes, 20th February :- [https://www.fixmystreet.com/report/5606663](https://www.fixmystreet.com/report/5606663)
 - From Junction to Home Farm, 20th February :- [https://www.fixmystreet.com/report/5605851](https://www.fixmystreet.com/report/5605851)
 - Blocked storm drain, during the rain water overflows and road is flooded., 20th February :- [https://www.fixmystreet.com/report/5605355](https://www.fixmystreet.com/report/5605355)
 - Previous repair has failed. Trench filling and resurfacing has sunk creating a drop across the w, 20th February :- [https://www.fixmystreet.com/report/5605350](https://www.fixmystreet.com/report/5605350)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 ft ridge half way down hill, 20th February :- [https://www.fixmystreet.com/report/5602657](https://www.fixmystreet.com/report/5602657)
 - Bin overflowing again, 20th February :- [https://www.fixmystreet.com/report/5602539](https://www.fixmystreet.com/report/5602539)
 - Series of potholes along centre line of carriageway, 19th February :- [https://www.fixmystreet.com/report/5602032](https://www.fixmystreet.com/report/5602032)
-- Wide, and deep pothole on the railway bridge, 19th February :- [https://www.fixmystreet.com/report/5601927](https://www.fixmystreet.com/report/5601927)
 
 <!-- fix_marker ends -->
