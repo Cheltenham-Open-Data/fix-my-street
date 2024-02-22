@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Two pot holes- but because the road is now used as an exit road by Belmont school traffic they are getting worse and when people park down the road which lots do now then there is no way to drive around the pot holes and avoid them, 21st February :- [https://www.fixmystreet.com/report/5612368](https://www.fixmystreet.com/report/5612368)
+- Split manhole was supposed to be fixed but , evert time vehicle goes over it clatters And keeps us awake or wakes us up , maybe put a 1 piece lid on rather than a split one, 21st February :- [https://www.fixmystreet.com/report/5612332](https://www.fixmystreet.com/report/5612332)
+- Street lamps not coming on, cottage rake avenue Cheltenham, 21st February :- [https://www.fixmystreet.com/report/5611869](https://www.fixmystreet.com/report/5611869)
+- Another pot hole., 21st February :- [https://www.fixmystreet.com/report/5611759](https://www.fixmystreet.com/report/5611759)
 - The light comes on then goes off, 21st February :- [https://www.fixmystreet.com/report/5611556](https://www.fixmystreet.com/report/5611556)
 - Pot hole Alley the whole road is a disgrace ,shake rattle and roll the whole length , yet you can resurface car park entrancesll, 21st February :- [https://www.fixmystreet.com/report/5611555](https://www.fixmystreet.com/report/5611555)
 - New porhole, 21st February :- [https://www.fixmystreet.com/report/5611508](https://www.fixmystreet.com/report/5611508)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 21st February :- [https://www.fixmystreet.com/report/5609657](https://www.fixmystreet.com/report/5609657)
 - Tree is damaged problem, 21st February :- [https://www.fixmystreet.com/report/5609656](https://www.fixmystreet.com/report/5609656)
 - Drain blocked. Footpath flooded again., 21st February :- [https://www.fixmystreet.com/report/5609149](https://www.fixmystreet.com/report/5609149)
-- MULTIPLE potholes in the first 200 Yards of Butts Lane, reported previously by multiple residents, with repairs carried out being totally inadequate, 21st February :- [https://www.fixmystreet.com/report/5609079](https://www.fixmystreet.com/report/5609079)
-- Tree is damaged problem, 21st February :- [https://www.fixmystreet.com/report/5609279](https://www.fixmystreet.com/report/5609279)
-- Tree sticking out at bus stop, 21st February :- [https://www.fixmystreet.com/report/5608945](https://www.fixmystreet.com/report/5608945)
-- A pothole in road problem, 21st February :- [https://www.fixmystreet.com/report/5609975](https://www.fixmystreet.com/report/5609975)
 
 <!-- fix_marker ends -->
