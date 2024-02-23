@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes on both lanes as you go up, 23rd February :- [https://www.fixmystreet.com/report/5618391](https://www.fixmystreet.com/report/5618391)
+- The drain in the road is blocked at B4070/Ridgeway Close, 22nd February :- [https://www.fixmystreet.com/report/5618174](https://www.fixmystreet.com/report/5618174)
+- Street light at corner of Billings Way and Merestones Drive is not working, 22nd February :- [https://www.fixmystreet.com/report/5617501](https://www.fixmystreet.com/report/5617501)
+- Uneven road surface, 22nd February :- [https://www.fixmystreet.com/report/5617493](https://www.fixmystreet.com/report/5617493)
+- Pothole galore, 22nd February :- [https://www.fixmystreet.com/report/5617294](https://www.fixmystreet.com/report/5617294)
+- Large man hole covered by unsecured piece of wood, 22nd February :- [https://www.fixmystreet.com/report/5617247](https://www.fixmystreet.com/report/5617247)
 - Massive, 22nd February :- [https://www.fixmystreet.com/report/5616896](https://www.fixmystreet.com/report/5616896)
 - Series of potholes growing, 22nd February :- [https://www.fixmystreet.com/report/5616825](https://www.fixmystreet.com/report/5616825)
 - Pothole getting bigger, 22nd February :- [https://www.fixmystreet.com/report/5616813](https://www.fixmystreet.com/report/5616813)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain, 22nd February :- [https://www.fixmystreet.com/report/5615114](https://www.fixmystreet.com/report/5615114)
 - Road flooded, 22nd February :- [https://www.fixmystreet.com/report/5614976](https://www.fixmystreet.com/report/5614976)
 - A pothole in road problem, 22nd February :- [https://www.fixmystreet.com/report/5615144](https://www.fixmystreet.com/report/5615144)
-- Street light is permanently out problem, 22nd February :- [https://www.fixmystreet.com/report/5614950](https://www.fixmystreet.com/report/5614950)
-- 12 inch pothole. several inched deep. Throwing up stones when hit by vehicles, 22nd February :- [https://www.fixmystreet.com/report/5614797](https://www.fixmystreet.com/report/5614797)
-- Hole in road, outside no. 83, in Cheltenham direction, 22nd February :- [https://www.fixmystreet.com/report/5614676](https://www.fixmystreet.com/report/5614676)
-- It appears a drain is blocked and water is flowing down the street at a worrying rate, 22nd February :- [https://www.fixmystreet.com/report/5614535](https://www.fixmystreet.com/report/5614535)
-- Pothole 1m in length, 22nd February :- [https://www.fixmystreet.com/report/5614371](https://www.fixmystreet.com/report/5614371)
-- A pothole in road problem, 22nd February :- [https://www.fixmystreet.com/report/5614488](https://www.fixmystreet.com/report/5614488)
 
 <!-- fix_marker ends -->
