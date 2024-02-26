@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole on corner, 25th February :- [https://www.fixmystreet.com/report/5629974](https://www.fixmystreet.com/report/5629974)
+- There are numerous potholes in thr road, it really needs resurfacing, 25th February :- [https://www.fixmystreet.com/report/5629588](https://www.fixmystreet.com/report/5629588)
 - Long pothole outside of 43 Langdale Road, 25th February :- [https://www.fixmystreet.com/report/5629320](https://www.fixmystreet.com/report/5629320)
 - 3 potholes outside 53 Langdale Road, 25th February :- [https://www.fixmystreet.com/report/5629308](https://www.fixmystreet.com/report/5629308)
 - 6 mixed size potholes and wear on road outside 41 Langdale Road, 25th February :- [https://www.fixmystreet.com/report/5629297](https://www.fixmystreet.com/report/5629297)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain Cover Junction of The Reddings/Grovefield Way roundabout, 25th February :- [https://www.fixmystreet.com/report/5628752](https://www.fixmystreet.com/report/5628752)
 - 6 potholes outside 90/92 Caernarvon Road, 25th February :- [https://www.fixmystreet.com/report/5628540](https://www.fixmystreet.com/report/5628540)
 - Pothole outside 94 Caernarvon Road, 25th February :- [https://www.fixmystreet.com/report/5628450](https://www.fixmystreet.com/report/5628450)
-- 5 potholes outside 119/121 Caernarvon Road, 25th February :- [https://www.fixmystreet.com/report/5628440](https://www.fixmystreet.com/report/5628440)
-- 4 potholes outside 127 Caernarvon Road, 25th February :- [https://www.fixmystreet.com/report/5628424](https://www.fixmystreet.com/report/5628424)
 
 <!-- fix_marker ends -->
