@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Unsightly vandalism, 26th February :- [https://www.fixmystreet.com/report/5635660](https://www.fixmystreet.com/report/5635660)
+- Street Lights Permanently Out, 26th February :- [https://www.fixmystreet.com/report/5635487](https://www.fixmystreet.com/report/5635487)
+- An elongated hole in the road., 26th February :- [https://www.fixmystreet.com/report/5635286](https://www.fixmystreet.com/report/5635286)
 - Pothole No11 Stanley Pontlarge GL54 5HD, 26th February :- [https://www.fixmystreet.com/report/5635087](https://www.fixmystreet.com/report/5635087)
 - Pothole No10 Stanley Pontlarge GL54 5HD, 26th February :- [https://www.fixmystreet.com/report/5635071](https://www.fixmystreet.com/report/5635071)
 - Pothole No9 Stanley Pontlarge GL54 5HD, 26th February :- [https://www.fixmystreet.com/report/5635055](https://www.fixmystreet.com/report/5635055)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 26th February :- [https://www.fixmystreet.com/report/5634259](https://www.fixmystreet.com/report/5634259)
 - Suckers from diseased tree rising on private property, which are coppicing where cut off. This tree and its suckers has been reported numerous times. The tree is diseased and needs removal, stump and suckers grinding and replacement with a new tree., 26th February :- [https://www.fixmystreet.com/report/5634004](https://www.fixmystreet.com/report/5634004)
 - Suckers from diseased tree rising on private property. This tree and its suckers has been reported numerous times. The tree is diseased and needs removal, stump and suckers grinding and replacement with a new tree., 26th February :- [https://www.fixmystreet.com/report/5633946](https://www.fixmystreet.com/report/5633946)
-- The sign is illegible problem, 26th February :- [https://www.fixmystreet.com/report/5633812](https://www.fixmystreet.com/report/5633812)
-- Over 10 unavoidable potholes at 15 Dunster Road, 26th February :- [https://www.fixmystreet.com/report/5633299](https://www.fixmystreet.com/report/5633299)
-- Large pothole impacting cars turning, 26th February :- [https://www.fixmystreet.com/report/5632754](https://www.fixmystreet.com/report/5632754)
 
 <!-- fix_marker ends -->
