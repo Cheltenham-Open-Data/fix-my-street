@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing takes a long time to change., 28th February :- [https://www.fixmystreet.com/report/5646458](https://www.fixmystreet.com/report/5646458)
+- Crossing lights have been turned off, 28th February :- [https://www.fixmystreet.com/report/5646132](https://www.fixmystreet.com/report/5646132)
+- Fly Tipping of a Car Battery etc at the Location, 28th February :- [https://www.fixmystreet.com/report/5646099](https://www.fixmystreet.com/report/5646099)
 - Tarmac and water meter cover well below level of rest of (uneven) pavement., 28th February :- [https://www.fixmystreet.com/report/5645643](https://www.fixmystreet.com/report/5645643)
 - Big pot hole as you turn into daisybank, 28th February :- [https://www.fixmystreet.com/report/5645349](https://www.fixmystreet.com/report/5645349)
 - 3 propane gas cylinders dumped in hedgerow, 28th February :- [https://www.fixmystreet.com/report/5645081](https://www.fixmystreet.com/report/5645081)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bollard and pavement raised, 28th February :- [https://www.fixmystreet.com/report/5642295](https://www.fixmystreet.com/report/5642295)
 - Bottom half of road sign on A4019 Tewkesbury Road, Cheltenham defaced with blue graffiti (paint), 27th February :- [https://www.fixmystreet.com/report/5641661](https://www.fixmystreet.com/report/5641661)
 - Pothole, 27th February :- [https://www.fixmystreet.com/report/5641531](https://www.fixmystreet.com/report/5641531)
-- Midwinter Avenue GL51 9JF - No street lights, 27th February :- [https://www.fixmystreet.com/report/5641295](https://www.fixmystreet.com/report/5641295)
-- Five potholes scattered along northern section of Andover Street, Cheltenham, 27th February :- [https://www.fixmystreet.com/report/5641197](https://www.fixmystreet.com/report/5641197)
-- Rusted jagged pipe sticking out of pavement, 27th February :- [https://www.fixmystreet.com/report/5640958](https://www.fixmystreet.com/report/5640958)
 
 <!-- fix_marker ends -->
