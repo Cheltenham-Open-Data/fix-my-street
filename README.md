@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3 mtr standing water, 1st March :- [https://www.fixmystreet.com/report/5651677](https://www.fixmystreet.com/report/5651677)
+- Slabs either side of drainage channel are loose and tip up causing trip hazard and when wet, water to spray upwards when stood on., 29th February :- [https://www.fixmystreet.com/report/5651329](https://www.fixmystreet.com/report/5651329)
+- Drain on eastbound side of A40 just before crossing, 29th February :- [https://www.fixmystreet.com/report/5651121](https://www.fixmystreet.com/report/5651121)
 - Cracked paving stones and a trip hazard, 29th February :- [https://www.fixmystreet.com/report/5650567](https://www.fixmystreet.com/report/5650567)
 - Poor repair after island removal,400 days ago, 29th February :- [https://www.fixmystreet.com/report/5650323](https://www.fixmystreet.com/report/5650323)
 - A pothole in road problem, 29th February :- [https://www.fixmystreet.com/report/5650058](https://www.fixmystreet.com/report/5650058)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street light is permanently out problem, 29th February :- [https://www.fixmystreet.com/report/5649390](https://www.fixmystreet.com/report/5649390)
 - Loose/rattling cover/ironwork problem, 29th February :- [https://www.fixmystreet.com/report/5649197](https://www.fixmystreet.com/report/5649197)
 - Potholes, 29th February :- [https://www.fixmystreet.com/report/5648938](https://www.fixmystreet.com/report/5648938)
-- Potholes, 29th February :- [https://www.fixmystreet.com/report/5648934](https://www.fixmystreet.com/report/5648934)
-- Potholes, 29th February :- [https://www.fixmystreet.com/report/5648932](https://www.fixmystreet.com/report/5648932)
-- Potholes, 29th February :- [https://www.fixmystreet.com/report/5648915](https://www.fixmystreet.com/report/5648915)
 
 <!-- fix_marker ends -->
