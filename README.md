@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole in the middle of the carriageway just as you go up (or down) the hump in the road at the junction with Station Road, 1st March :- [https://www.fixmystreet.com/report/5655886](https://www.fixmystreet.com/report/5655886)
+- Really deep potholes on Nine Elms Road, 1st March :- [https://www.fixmystreet.com/report/5655505](https://www.fixmystreet.com/report/5655505)
 - Tree blocking visibility of parking rules sign, 1st March :- [https://www.fixmystreet.com/report/5655201](https://www.fixmystreet.com/report/5655201)
 - Stockwell lane embankment of brook on LHS of road badly damaged, 1st March :- [https://www.fixmystreet.com/report/5654797](https://www.fixmystreet.com/report/5654797)
 - Standing water, 1st March :- [https://www.fixmystreet.com/report/5654778](https://www.fixmystreet.com/report/5654778)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 1st March :- [https://www.fixmystreet.com/report/5653186](https://www.fixmystreet.com/report/5653186)
 - Pothole not fully fixed, 1st March :- [https://www.fixmystreet.com/report/5652937](https://www.fixmystreet.com/report/5652937)
 - General road marking and stud issues problem, 1st March :- [https://www.fixmystreet.com/report/5653011](https://www.fixmystreet.com/report/5653011)
-- The owner of the vehicle had left the property several weeks ago but their car remains. New tenants are moving in tomorrow, 1st March :- [https://www.fixmystreet.com/report/5652740](https://www.fixmystreet.com/report/5652740)
-- Loose/rattling cover/ironwork problem, 1st March :- [https://www.fixmystreet.com/report/5652792](https://www.fixmystreet.com/report/5652792)
 
 <!-- fix_marker ends -->
