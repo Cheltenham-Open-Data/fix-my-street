@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lots of smashed/damaged paving stones, 2nd March :- [https://www.fixmystreet.com/report/5658943](https://www.fixmystreet.com/report/5658943)
+- Drain is full of debris and overflows over road when raining., 2nd March :- [https://www.fixmystreet.com/report/5658825](https://www.fixmystreet.com/report/5658825)
+- Tree has blown in the wind and looks as if it could fall over onto the road, 2nd March :- [https://www.fixmystreet.com/report/5658816](https://www.fixmystreet.com/report/5658816)
+- Street light next to the telegraph pole, 2nd March :- [https://www.fixmystreet.com/report/5658767](https://www.fixmystreet.com/report/5658767)
+- Still blocked (despite previous reports), 2nd March :- [https://www.fixmystreet.com/report/5658725](https://www.fixmystreet.com/report/5658725)
 - Potholes and rough area at the junction, 2nd March :- [https://www.fixmystreet.com/report/5658666](https://www.fixmystreet.com/report/5658666)
 - Big elongated hole - see image, 2nd March :- [https://www.fixmystreet.com/report/5658566](https://www.fixmystreet.com/report/5658566)
 - Deep pothole in near side driving line, 2nd March :- [https://www.fixmystreet.com/report/5658479](https://www.fixmystreet.com/report/5658479)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very large and deep pot hole. 37 inches in length, 2nd March :- [https://www.fixmystreet.com/report/5656769](https://www.fixmystreet.com/report/5656769)
 - Very large and deep pot hole. 37 inches in length, 2nd March :- [https://www.fixmystreet.com/report/5656768](https://www.fixmystreet.com/report/5656768)
 - Large hole in what looks like was filled a while ago, 2nd March :- [https://www.fixmystreet.com/report/5656743](https://www.fixmystreet.com/report/5656743)
-- Loose manhole cover causing loud noise, 2nd March :- [https://www.fixmystreet.com/report/5656710](https://www.fixmystreet.com/report/5656710)
-- Blocked road drain on boddington lane adjacent to mill cottage, 2nd March :- [https://www.fixmystreet.com/report/5656482](https://www.fixmystreet.com/report/5656482)
-- Pothole in the middle of the carriageway just as you go up (or down) the hump in the road at the junction with Station Road, 1st March :- [https://www.fixmystreet.com/report/5655886](https://www.fixmystreet.com/report/5655886)
-- Really deep potholes on Nine Elms Road, 1st March :- [https://www.fixmystreet.com/report/5655505](https://www.fixmystreet.com/report/5655505)
-- Tree blocking visibility of parking rules sign, 1st March :- [https://www.fixmystreet.com/report/5655201](https://www.fixmystreet.com/report/5655201)
 
 <!-- fix_marker ends -->
