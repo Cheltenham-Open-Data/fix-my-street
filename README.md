@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 4th March :- [https://www.fixmystreet.com/report/5663494](https://www.fixmystreet.com/report/5663494)
+- Street light not working on dean close side of road on grass verge, 4th March :- [https://www.fixmystreet.com/report/5663466](https://www.fixmystreet.com/report/5663466)
+- Lights turning red with no button pressed, 3rd March :- [https://www.fixmystreet.com/report/5662760](https://www.fixmystreet.com/report/5662760)
+- Paving slab dropped in height in relation to adjacent one., 3rd March :- [https://www.fixmystreet.com/report/5662703](https://www.fixmystreet.com/report/5662703)
+- Wild swimming pool, 3rd March :- [https://www.fixmystreet.com/report/5662686](https://www.fixmystreet.com/report/5662686)
+- Lamppost had been hit and the light fitting fell out and now missing, 3rd March :- [https://www.fixmystreet.com/report/5662386](https://www.fixmystreet.com/report/5662386)
 - Pot hole been “fixed” but rattling man hole cover has not been sorted. Extremely loud, 3rd March :- [https://www.fixmystreet.com/report/5662177](https://www.fixmystreet.com/report/5662177)
 - Potholes and broken pavement Christchurch Road, 3rd March :- [https://www.fixmystreet.com/report/5661967](https://www.fixmystreet.com/report/5661967)
 - Deep pothole on Hucclecote lane, uphill, towards churchdown., 3rd March :- [https://www.fixmystreet.com/report/5661482](https://www.fixmystreet.com/report/5661482)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Street lights have been out in Elmfield Road for a couple of nights at least, 3rd March :- [https://www.fixmystreet.com/report/5659725](https://www.fixmystreet.com/report/5659725)
 - Blocked pipe water streaming down the road, 3rd March :- [https://www.fixmystreet.com/report/5659676](https://www.fixmystreet.com/report/5659676)
 - Pothole in road, 3rd March :- [https://www.fixmystreet.com/report/5659652](https://www.fixmystreet.com/report/5659652)
-- Lots of smashed/damaged paving stones, 2nd March :- [https://www.fixmystreet.com/report/5658943](https://www.fixmystreet.com/report/5658943)
-- Drain is full of debris and overflows over road when raining., 2nd March :- [https://www.fixmystreet.com/report/5658825](https://www.fixmystreet.com/report/5658825)
-- Tree has blown in the wind and looks as if it could fall over onto the road, 2nd March :- [https://www.fixmystreet.com/report/5658816](https://www.fixmystreet.com/report/5658816)
-- Street light next to the telegraph pole, 2nd March :- [https://www.fixmystreet.com/report/5658767](https://www.fixmystreet.com/report/5658767)
-- Still blocked (despite previous reports), 2nd March :- [https://www.fixmystreet.com/report/5658725](https://www.fixmystreet.com/report/5658725)
-- Potholes and rough area at the junction, 2nd March :- [https://www.fixmystreet.com/report/5658666](https://www.fixmystreet.com/report/5658666)
 
 <!-- fix_marker ends -->
