@@ -2,10 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic cone light between middle lane and outer lane, 7th March :- [https://www.fixmystreet.com/report/5679371](https://www.fixmystreet.com/report/5679371)
+- Safe system of work is ignored by contractors working on road. Signage inadequate for cars and for pedeatrians not exist. Accident waiting to happen. Road closure sign is places after last junction to turn around, 6th March :- [https://www.fixmystreet.com/report/5679144](https://www.fixmystreet.com/report/5679144)
+- Large area of damaged road, 6th March :- [https://www.fixmystreet.com/report/5679021](https://www.fixmystreet.com/report/5679021)
+- Mud and debris covering path, 6th March :- [https://www.fixmystreet.com/report/5678848](https://www.fixmystreet.com/report/5678848)
+- Cycle path deteriorating on A40 from Triumph Cheltenham to the Lansdown Pub, 6th March :- [https://www.fixmystreet.com/report/5678597](https://www.fixmystreet.com/report/5678597)
 - Loud noises on main road, 6th March :- [https://www.fixmystreet.com/report/5677931](https://www.fixmystreet.com/report/5677931)
 - Numerous potholes between start of road - no. 30, 6th March :- [https://www.fixmystreet.com/report/5677641](https://www.fixmystreet.com/report/5677641)
 - Enquiry Number: 22042747, 6th March :- [https://www.fixmystreet.com/report/5677629](https://www.fixmystreet.com/report/5677629)
 - 3 large deep pothole near to bus stop near to Oakland house. These have been reported numerous times over the past 18 months, 6th March :- [https://www.fixmystreet.com/report/5677233](https://www.fixmystreet.com/report/5677233)
+- High kerb, 6th March :- [https://www.fixmystreet.com/report/5677001](https://www.fixmystreet.com/report/5677001)
+- High kerb, 6th March :- [https://www.fixmystreet.com/report/5676996](https://www.fixmystreet.com/report/5676996)
 - Fence being put up on grass verge, 6th March :- [https://www.fixmystreet.com/report/5676988](https://www.fixmystreet.com/report/5676988)
 - You need to resurface 100yards of this road., 6th March :- [https://www.fixmystreet.com/report/5676344](https://www.fixmystreet.com/report/5676344)
 - Please sort this road out., 6th March :- [https://www.fixmystreet.com/report/5676322](https://www.fixmystreet.com/report/5676322)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 6th March :- [https://www.fixmystreet.com/report/5676091](https://www.fixmystreet.com/report/5676091)
 - A pothole in road problem, 6th March :- [https://www.fixmystreet.com/report/5676090](https://www.fixmystreet.com/report/5676090)
 - Slab broken sticking up a few inches, 6th March :- [https://www.fixmystreet.com/report/5675861](https://www.fixmystreet.com/report/5675861)
-- A pothole in road problem, 6th March :- [https://www.fixmystreet.com/report/5675918](https://www.fixmystreet.com/report/5675918)
-- Several potholes in a row, 6th March :- [https://www.fixmystreet.com/report/5675731](https://www.fixmystreet.com/report/5675731)
-- A pothole in road problem, 6th March :- [https://www.fixmystreet.com/report/5676947](https://www.fixmystreet.com/report/5676947)
-- A pothole in road problem, 6th March :- [https://www.fixmystreet.com/report/5675711](https://www.fixmystreet.com/report/5675711)
-- A pothole in road problem, 6th March :- [https://www.fixmystreet.com/report/5675710](https://www.fixmystreet.com/report/5675710)
-- A week without light, 6th March :- [https://www.fixmystreet.com/report/5675194](https://www.fixmystreet.com/report/5675194)
-- Tree is damaged problem, 6th March :- [https://www.fixmystreet.com/report/5675131](https://www.fixmystreet.com/report/5675131)
 
 <!-- fix_marker ends -->
