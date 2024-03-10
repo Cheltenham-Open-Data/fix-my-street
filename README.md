@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very noisy loose and sunken manhole cover, 9th March :- [https://www.fixmystreet.com/report/5690666](https://www.fixmystreet.com/report/5690666)
 - Hole on edge of speedbump area, 9th March :- [https://www.fixmystreet.com/report/5690216](https://www.fixmystreet.com/report/5690216)
 - Corner of st georges road and overton park road, 9th March :- [https://www.fixmystreet.com/report/5690109](https://www.fixmystreet.com/report/5690109)
 - Corner of bath road and montpellier road, 9th March :- [https://www.fixmystreet.com/report/5690098](https://www.fixmystreet.com/report/5690098)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole in middle of shelburne road, 9th March :- [https://www.fixmystreet.com/report/5688691](https://www.fixmystreet.com/report/5688691)
 - Three potholes on Shelburne Road, 9th March :- [https://www.fixmystreet.com/report/5688685](https://www.fixmystreet.com/report/5688685)
 - Large sunken area of road, 9th March :- [https://www.fixmystreet.com/report/5688675](https://www.fixmystreet.com/report/5688675)
-- Top flat on corner above Costa, 9th March :- [https://www.fixmystreet.com/report/5688479](https://www.fixmystreet.com/report/5688479)
 
 <!-- fix_marker ends -->
