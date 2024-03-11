@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes that are now a foot and more wide, rapidly deteriorating road. Cars swerving to avoid them are narrowly missing parked cars. Accident will happen soon., 10th March :- [https://www.fixmystreet.com/report/5693520](https://www.fixmystreet.com/report/5693520)
+- Large pothole in middle of road, 10th March :- [https://www.fixmystreet.com/report/5692997](https://www.fixmystreet.com/report/5692997)
+- Verges churned up (by recent roadworks), 10th March :- [https://www.fixmystreet.com/report/5692956](https://www.fixmystreet.com/report/5692956)
 - 2 blocked drains on Battledown side of London Rd, 10th March :- [https://www.fixmystreet.com/report/5692904](https://www.fixmystreet.com/report/5692904)
 - Pot hole to fit a car tyre in., 10th March :- [https://www.fixmystreet.com/report/5692850](https://www.fixmystreet.com/report/5692850)
 - Large pothole and smaller one., 10th March :- [https://www.fixmystreet.com/report/5692721](https://www.fixmystreet.com/report/5692721)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Hole on edge of speedbump area, 9th March :- [https://www.fixmystreet.com/report/5690216](https://www.fixmystreet.com/report/5690216)
 - Corner of st georges road and overton park road, 9th March :- [https://www.fixmystreet.com/report/5690109](https://www.fixmystreet.com/report/5690109)
 - Corner of bath road and montpellier road, 9th March :- [https://www.fixmystreet.com/report/5690098](https://www.fixmystreet.com/report/5690098)
-- Traffic Lights incorrect., 9th March :- [https://www.fixmystreet.com/report/5690097](https://www.fixmystreet.com/report/5690097)
-- 4 drains in a row completely block., 9th March :- [https://www.fixmystreet.com/report/5690086](https://www.fixmystreet.com/report/5690086)
-- Blocked drai. Causing flooding, 9th March :- [https://www.fixmystreet.com/report/5690052](https://www.fixmystreet.com/report/5690052)
 
 <!-- fix_marker ends -->
