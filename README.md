@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep recurring potholes, 11th March :- [https://www.fixmystreet.com/report/5699131](https://www.fixmystreet.com/report/5699131)
+- Pothole at T junction of Innsworth Lane and Wisteria Way, 11th March :- [https://www.fixmystreet.com/report/5698822](https://www.fixmystreet.com/report/5698822)
+- Excessive litter, 11th March :- [https://www.fixmystreet.com/report/5698469](https://www.fixmystreet.com/report/5698469)
+- Very raised pavement brick to side of Cote Brasserie, 11th March :- [https://www.fixmystreet.com/report/5698377](https://www.fixmystreet.com/report/5698377)
 - Knapp Lane has a number of potholes, 11th March :- [https://www.fixmystreet.com/report/5698094](https://www.fixmystreet.com/report/5698094)
 - Not reinstated after 6 months, 11th March :- [https://www.fixmystreet.com/report/5697416](https://www.fixmystreet.com/report/5697416)
 - Building site, 11th March :- [https://www.fixmystreet.com/report/5697260](https://www.fixmystreet.com/report/5697260)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic lights at Hucclecote Road/Churchdown Lane not staying green for long enough moving towards Brockworth from Hucclecote resulting in a back up of traffic along Hucclecote Road, 11th March :- [https://www.fixmystreet.com/report/5695761](https://www.fixmystreet.com/report/5695761)
 - 6 inch pot hole in road, 11th March :- [https://www.fixmystreet.com/report/5695740](https://www.fixmystreet.com/report/5695740)
 - 10inch pot just by bollard in road, 11th March :- [https://www.fixmystreet.com/report/5695693](https://www.fixmystreet.com/report/5695693)
-- Sign/waymarker is damaged problem, 11th March :- [https://www.fixmystreet.com/report/5695798](https://www.fixmystreet.com/report/5695798)
-- Road subsidence, 11th March :- [https://www.fixmystreet.com/report/5695545](https://www.fixmystreet.com/report/5695545)
-- Sign/waymarker is damaged problem, 11th March :- [https://www.fixmystreet.com/report/5695559](https://www.fixmystreet.com/report/5695559)
-- Light sensor is not detecting vehicles problem, 11th March :- [https://www.fixmystreet.com/report/5695557](https://www.fixmystreet.com/report/5695557)
 
 <!-- fix_marker ends -->
