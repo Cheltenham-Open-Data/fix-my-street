@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sizeable potholes, 12th March :- [https://www.fixmystreet.com/report/5704498](https://www.fixmystreet.com/report/5704498)
+- Potholes In Road, 12th March :- [https://www.fixmystreet.com/report/5704226](https://www.fixmystreet.com/report/5704226)
+- Yellow Zig Zag Lines, 12th March :- [https://www.fixmystreet.com/report/5704221](https://www.fixmystreet.com/report/5704221)
+- Street light direction outside Kensey Cottage has stopped working, 12th March :- [https://www.fixmystreet.com/report/5704098](https://www.fixmystreet.com/report/5704098)
+- Huge potholed area forcing traffic onto the wrong side on a bend. Worsening day by day., 12th March :- [https://www.fixmystreet.com/report/5703818](https://www.fixmystreet.com/report/5703818)
 - Potholes, 12th March :- [https://www.fixmystreet.com/report/5703524](https://www.fixmystreet.com/report/5703524)
 - Whole Road., 12th March :- [https://www.fixmystreet.com/report/5703169](https://www.fixmystreet.com/report/5703169)
 - Loose/rattling cover/ironwork problem, 12th March :- [https://www.fixmystreet.com/report/5703122](https://www.fixmystreet.com/report/5703122)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Obstruction caused by wall/building problem, 12th March :- [https://www.fixmystreet.com/report/5701176](https://www.fixmystreet.com/report/5701176)
 - Pooling, 12th March :- [https://www.fixmystreet.com/report/5700684](https://www.fixmystreet.com/report/5700684)
 - 3 way lights with race traffic building up!!!!!, 12th March :- [https://www.fixmystreet.com/report/5700112](https://www.fixmystreet.com/report/5700112)
-- Traffic light sequence- Hucclecote toward Brockworth, 12th March :- [https://www.fixmystreet.com/report/5700069](https://www.fixmystreet.com/report/5700069)
-- Potholes, 12th March :- [https://www.fixmystreet.com/report/5699938](https://www.fixmystreet.com/report/5699938)
-- Pothole at Jct of B4632 & gravel Pit lane, 12th March :- [https://www.fixmystreet.com/report/5699848](https://www.fixmystreet.com/report/5699848)
-- A pothole in road problem, 12th March :- [https://www.fixmystreet.com/report/5702637](https://www.fixmystreet.com/report/5702637)
-- Deep recurring potholes, 11th March :- [https://www.fixmystreet.com/report/5699131](https://www.fixmystreet.com/report/5699131)
 
 <!-- fix_marker ends -->
