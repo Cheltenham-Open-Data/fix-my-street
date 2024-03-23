@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Big branch going out left towards park, 22nd March :- [https://www.fixmystreet.com/report/5754830](https://www.fixmystreet.com/report/5754830)
 - Sent to Gloucestershire County Council less than a minute later. FixMyStreet ref: 5719747. Photo of this report At the Junction between Guinevere Road and Tennyson Road close to Nº 39 Tennyson - this has been reported as being’fixed’ and clearly only a holding action has been taken leaving sharp metal that if fallen against would cause potential injury. Please revisit and complete the remediation. Thank you, 22nd March :- [https://www.fixmystreet.com/report/5754598](https://www.fixmystreet.com/report/5754598)
 - Young trees need to raise crown, 22nd March :- [https://www.fixmystreet.com/report/5754435](https://www.fixmystreet.com/report/5754435)
 - Pothole, 22nd March :- [https://www.fixmystreet.com/report/5754317](https://www.fixmystreet.com/report/5754317)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 22nd March :- [https://www.fixmystreet.com/report/5753736](https://www.fixmystreet.com/report/5753736)
 - 5 inch pot hole on road runnig along Cowley Hotel parkland, 22nd March :- [https://www.fixmystreet.com/report/5753257](https://www.fixmystreet.com/report/5753257)
 - Two Trench Type Potholes, 22nd March :- [https://www.fixmystreet.com/report/5753176](https://www.fixmystreet.com/report/5753176)
-- Road edge broken away, 22nd March :- [https://www.fixmystreet.com/report/5753071](https://www.fixmystreet.com/report/5753071)
 
 <!-- fix_marker ends -->
