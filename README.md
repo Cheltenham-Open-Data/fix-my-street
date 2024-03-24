@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Repeat report of missing tarmac, 24th March :- [https://www.fixmystreet.com/report/5757961](https://www.fixmystreet.com/report/5757961)
+- Fly tipping on Brockhampton lane several bags some with address if person who fly tip also there was an incident on Thursday where the police had to smash a car window the glass is still there and not cleaned up!, 23rd March :- [https://www.fixmystreet.com/report/5757822](https://www.fixmystreet.com/report/5757822)
 - Large pothole, 23rd March :- [https://www.fixmystreet.com/report/5756933](https://www.fixmystreet.com/report/5756933)
 - Erosion of camber resulting in a permanent wide, deep puddle, 23rd March :- [https://www.fixmystreet.com/report/5756924](https://www.fixmystreet.com/report/5756924)
 - Pot hole as per photograph attached, 23rd March :- [https://www.fixmystreet.com/report/5756856](https://www.fixmystreet.com/report/5756856)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 22nd March :- [https://www.fixmystreet.com/report/5754313](https://www.fixmystreet.com/report/5754313)
 - Pothole, 22nd March :- [https://www.fixmystreet.com/report/5754279](https://www.fixmystreet.com/report/5754279)
 - Pothole, 22nd March :- [https://www.fixmystreet.com/report/5754259](https://www.fixmystreet.com/report/5754259)
-- Pothole, 22nd March :- [https://www.fixmystreet.com/report/5754254](https://www.fixmystreet.com/report/5754254)
-- A pothole in road problem, 22nd March :- [https://www.fixmystreet.com/report/5754273](https://www.fixmystreet.com/report/5754273)
 
 <!-- fix_marker ends -->
