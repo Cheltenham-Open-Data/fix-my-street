@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Many large deep pot holes, 24th March :- [https://www.fixmystreet.com/report/5760511](https://www.fixmystreet.com/report/5760511)
+- Two deep hot holes near side of road, 24th March :- [https://www.fixmystreet.com/report/5760437](https://www.fixmystreet.com/report/5760437)
+- Road surface including previous patch repairs is badly deteriorated, 24th March :- [https://www.fixmystreet.com/report/5760423](https://www.fixmystreet.com/report/5760423)
 - Tree is dead and now rotting towards private address., 24th March :- [https://www.fixmystreet.com/report/5760166](https://www.fixmystreet.com/report/5760166)
 - Possible sink hole, 24th March :- [https://www.fixmystreet.com/report/5760158](https://www.fixmystreet.com/report/5760158)
 - Large round deep pothole, 24th March :- [https://www.fixmystreet.com/report/5759871](https://www.fixmystreet.com/report/5759871)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole, 24th March :- [https://www.fixmystreet.com/report/5758718](https://www.fixmystreet.com/report/5758718)
 - Blocked gulley Trafalgar Street, 24th March :- [https://www.fixmystreet.com/report/5758711](https://www.fixmystreet.com/report/5758711)
 - Blocked drain in path between Cambray Place and Rodney Road, 24th March :- [https://www.fixmystreet.com/report/5758696](https://www.fixmystreet.com/report/5758696)
-- Flytip, 24th March :- [https://www.fixmystreet.com/report/5758287](https://www.fixmystreet.com/report/5758287)
-- Road resurface needed, 24th March :- [https://www.fixmystreet.com/report/5758273](https://www.fixmystreet.com/report/5758273)
-- Repeat report of missing tarmac, 24th March :- [https://www.fixmystreet.com/report/5757961](https://www.fixmystreet.com/report/5757961)
 
 <!-- fix_marker ends -->
