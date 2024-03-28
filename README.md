@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole coming off roundabout, 27th March :- [https://www.fixmystreet.com/report/5775987](https://www.fixmystreet.com/report/5775987)
+- 12 inch porthole in centre of road, 27th March :- [https://www.fixmystreet.com/report/5775333](https://www.fixmystreet.com/report/5775333)
+- The road surface in the right hand lane as you intend to turn right from Ermin street on to the bypass heading for Gloucester is very bad and has damaged one spring on my car already. Equally when you turn left into Ermin Street from same bypass, there is also a very bad road surface. Hucclecote Road was recently resurfaced and I was surprised that this was not done at the same time., 27th March :- [https://www.fixmystreet.com/report/5775316](https://www.fixmystreet.com/report/5775316)
+- More falling branches, 27th March :- [https://www.fixmystreet.com/report/5775043](https://www.fixmystreet.com/report/5775043)
 - Pothole, 27th March :- [https://www.fixmystreet.com/report/5774777](https://www.fixmystreet.com/report/5774777)
 - The roadsign pointing West towards the M5 has been badly distorted (?by an accident)., 27th March :- [https://www.fixmystreet.com/report/5774702](https://www.fixmystreet.com/report/5774702)
 - TMC - Defects -other CW10 problem, 27th March :- [https://www.fixmystreet.com/report/5774118](https://www.fixmystreet.com/report/5774118)
@@ -14,13 +18,9 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 27th March :- [https://www.fixmystreet.com/report/5773755](https://www.fixmystreet.com/report/5773755)
 - Really deep pothole causing vehicle to swerve, 27th March :- [https://www.fixmystreet.com/report/5773521](https://www.fixmystreet.com/report/5773521)
 - TMC - Defects -CW10 Potholes problem, 27th March :- [https://www.fixmystreet.com/report/5773571](https://www.fixmystreet.com/report/5773571)
-- TMC - Defects -CW10 Potholes problem, 27th March :- [https://www.fixmystreet.com/report/5773569](https://www.fixmystreet.com/report/5773569)
 - TMC - Defects -CW10 Potholes problem, 27th March :- [https://www.fixmystreet.com/report/5773570](https://www.fixmystreet.com/report/5773570)
+- TMC - Defects -CW10 Potholes problem, 27th March :- [https://www.fixmystreet.com/report/5773569](https://www.fixmystreet.com/report/5773569)
 - TMC - Defects -CW10 Potholes problem, 27th March :- [https://www.fixmystreet.com/report/5773568](https://www.fixmystreet.com/report/5773568)
 - A pothole in road problem, 27th March :- [https://www.fixmystreet.com/report/5773923](https://www.fixmystreet.com/report/5773923)
-- Large piece of plastic near the fluster airport junction, 27th March :- [https://www.fixmystreet.com/report/5773440](https://www.fixmystreet.com/report/5773440)
-- Opposite 88elmleaze, this was done last week and has repoened again., 27th March :- [https://www.fixmystreet.com/report/5773313](https://www.fixmystreet.com/report/5773313)
-- TMC - Defects -CW10 Potholes problem, 27th March :- [https://www.fixmystreet.com/report/5773393](https://www.fixmystreet.com/report/5773393)
-- Large pothole in road, 27th March :- [https://www.fixmystreet.com/report/5773179](https://www.fixmystreet.com/report/5773179)
 
 <!-- fix_marker ends -->
