@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- About 20 potholes ridiculous needs resurfacing not filling like you do every few months, 30th March :- [https://www.fixmystreet.com/report/5786437](https://www.fixmystreet.com/report/5786437)
+- Street Lights Still Out Fairfield Walk, 30th March :- [https://www.fixmystreet.com/report/5786433](https://www.fixmystreet.com/report/5786433)
+- Street lights not working, 30th March :- [https://www.fixmystreet.com/report/5786095](https://www.fixmystreet.com/report/5786095)
 - Blocked drain, 30th March :- [https://www.fixmystreet.com/report/5785941](https://www.fixmystreet.com/report/5785941)
 - Wobbly / loose kerb at exit of Syndenham Villas Rd, 30th March :- [https://www.fixmystreet.com/report/5785638](https://www.fixmystreet.com/report/5785638)
 - Potholes, have been repaired several times, but repair has disintegrated again, 30th March :- [https://www.fixmystreet.com/report/5785542](https://www.fixmystreet.com/report/5785542)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Deep pothole on Greenway lane, 30th March :- [https://www.fixmystreet.com/report/5784075](https://www.fixmystreet.com/report/5784075)
 - Fly tipping on Brockhampton Lane, Swindon Village, 30th March :- [https://www.fixmystreet.com/report/5783915](https://www.fixmystreet.com/report/5783915)
 - Public footpath sign on corner of Park Lane & Spring Lane has rusted through and is falling over, could possibly fall on somebody., 29th March :- [https://www.fixmystreet.com/report/5783636](https://www.fixmystreet.com/report/5783636)
-- Tree has fallen over path, 29th March :- [https://www.fixmystreet.com/report/5783498](https://www.fixmystreet.com/report/5783498)
-- Large pavement pothole by Brethren meeting place, 29th March :- [https://www.fixmystreet.com/report/5783439](https://www.fixmystreet.com/report/5783439)
-- A street light on Shurdington Road is not working, 29th March :- [https://www.fixmystreet.com/report/5783425](https://www.fixmystreet.com/report/5783425)
 
 <!-- fix_marker ends -->
