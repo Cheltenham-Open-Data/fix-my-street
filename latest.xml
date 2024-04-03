@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,132 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798798</link>
+<description>28 day with give an take plus replace x1 missing brick /block 200x100x30mm (FW Broken Slabs)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798798&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798798</guid>
+<pubDate>Wed, 03 Apr 2024 07:14:46 +0100</pubDate>
+<georss:point>51.8954633999995 -2.08268829999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798797</link>
+<description>28 day with give an take carriage way pothole 400x300x45mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798797</guid>
+<pubDate>Wed, 03 Apr 2024 07:14:24 +0100</pubDate>
+<georss:point>51.8982519825885 -2.08115828508752</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798796</link>
+<description>NWD with give an take carriage way pothole 1100x400x70mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798796&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798796</guid>
+<pubDate>Wed, 03 Apr 2024 07:14:06 +0100</pubDate>
+<georss:point>51.8981414999996 -2.08127630000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798795</link>
+<description>28 day with give an take carriage way pothole 600x300x40mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798795&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798795</guid>
+<pubDate>Wed, 03 Apr 2024 07:13:55 +0100</pubDate>
+<georss:point>51.8980179999996 -2.081447</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798794</link>
+<description>28 day with give an take carriage way pothole 600x400x50mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798794&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798794</guid>
+<pubDate>Wed, 03 Apr 2024 07:02:43 +0100</pubDate>
+<georss:point>51.8969184999996 -2.08150110000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW10 Potholes problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798730</link>
+<description>28 day with give an take plus 15 minutes delay boards needed carriage way pothole 600x500x50mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798730&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW10 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798730</guid>
+<pubDate>Wed, 03 Apr 2024 06:50:26 +0100</pubDate>
+<georss:point>51.8945970999995 -2.08350920000001</georss:point>
+</item>
+<item>
+<title>TMC - Defects - Footways Slabs problem, 3rd April</title>
+<link>https://www.fixmystreet.com/report/5798729</link>
+<description>28 day lane closure coming from promenade end plus temporary footway closure needed please relay x1 400x400x20mm rocking slab tactiel (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798729&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects - Footways Slabs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798729</guid>
+<pubDate>Wed, 03 Apr 2024 06:35:08 +0100</pubDate>
+<georss:point>51.896724823675 -2.08054208459614</georss:point>
+</item>
+<item>
+<title>Multiple road potholes, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798291</link>
+<description>Junction from prestbury road to juction of Cromwell road . This part of the road is terrible multiple pot holes , the surface of the entire road is getting worse and wors .&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 91, Pennine Road, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798291&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798291</guid>
+<pubDate>Tue, 02 Apr 2024 21:39:42 +0100</pubDate>
+<georss:point>51.911206 -2.050399</georss:point>
+</item>
+<item>
+<title>Cars parked on verges, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798102</link>
+<description>Hill view drive, larkhay road, cars parked on grass verges causing damage in wet weather.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Larkhay Road, Hucclecote, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798102&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Car parking</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798102</guid>
+<pubDate>Tue, 02 Apr 2024 20:03:09 +0100</pubDate>
+<georss:point>51.858983 -2.186824</georss:point>
+</item>
+<item>
+<title>Drain cover, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798100</link>
+<description>In poor condition, sunken/ broken.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Larkhay Road, Hucclecote, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798100&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Loose/rattling cover/ironwork</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798100</guid>
+<pubDate>Tue, 02 Apr 2024 20:01:15 +0100</pubDate>
+<georss:point>51.858718 -2.187167</georss:point>
+</item>
+<item>
+<title>Traffic light timing, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798096</link>
+<description>Heading towards brockworth on hucclecote road the timing does not allow time for adequate vehicles to pass before changing&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Carisbrooke Road, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798096&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Green or amber traffic light is not working</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798096</guid>
+<pubDate>Tue, 02 Apr 2024 19:58:53 +0100</pubDate>
+<georss:point>51.853556 -2.182528</georss:point>
+</item>
+<item>
+<title>Fence erected, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798091</link>
+<description>Between barnett way and hammond way adj. to 11a barnett way. no access, as now blocked by fence erected this bank holiday weekend. this is a very popular route, and i understand that planning was not consented.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 31, Barnett Way, Barnwood, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798091&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Obstruction by unpermitted skip, scaffolding, building material on pavement</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798091</guid>
+<pubDate>Tue, 02 Apr 2024 19:55:38 +0100</pubDate>
+<georss:point>51.864131 -2.206024</georss:point>
+</item>
+<item>
+<title>Dumped Mattress, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798044</link>
+<description>Dumped Mattress&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 70, Mendip Road, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798044&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798044</guid>
+<pubDate>Tue, 02 Apr 2024 19:45:36 +0100</pubDate>
+<georss:point>51.909093 -2.053874</georss:point>
+</item>
+<item>
+<title>Flytipping, 2nd April</title>
+<link>https://www.fixmystreet.com/report/5798041</link>
+<description>Flytipping next to clothes recycling&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Cotswold Road, Lynworth, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5798041&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/5798041</guid>
+<pubDate>Tue, 02 Apr 2024 19:44:53 +0100</pubDate>
+<georss:point>51.908447 -2.053581</georss:point>
+</item>
 <item>
 <title>Deep pothole on Painswick Road(towards Painswick)., 2nd April</title>
 <link>https://www.fixmystreet.com/report/5797535</link>
@@ -65,132 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/5797022</guid>
 <pubDate>Tue, 02 Apr 2024 16:10:14 +0100</pubDate>
 <georss:point>51.888622 -2.202998</georss:point>
-</item>
-<item>
-<title>Lage hole in pavement, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796847</link>
-<description>Large hole in pavement causing trip hazard and damage to cars&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/5796847.0.jpeg?8e6c3b97&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Old Cheltenham Road, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796847&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796847</guid>
-<pubDate>Tue, 02 Apr 2024 16:03:45 +0100</pubDate>
-<georss:point>51.874617 -2.210565</georss:point>
-</item>
-<item>
-<title>Very deep pot hold danger to cars and pedestrians, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796520</link>
-<description>Large pothole on pavement on entrance to caraprk so damages to car as well as trip hazard&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/5796520.0.jpeg?8e6c3b97&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Old Cheltenham Road, Longlevens, Gloucester&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>A pothole in pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796520</guid>
-<pubDate>Tue, 02 Apr 2024 16:49:56 +0100</pubDate>
-<georss:point>51.874574 -2.210535</georss:point>
-</item>
-<item>
-<title>Light sensor is not detecting vehicles problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796794</link>
-<description>Perm lights was at 06:30 This morning and the police have just called us to make us ware that the lights have been hit and the light column has been knocked down and wires are exposed. &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796794&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Light sensor is not detecting vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796794</guid>
-<pubDate>Tue, 02 Apr 2024 15:16:40 +0100</pubDate>
-<georss:point>51.893984 -2.095753</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Footways Slabs problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796815</link>
-<description>NWD WITH GIVE AN TAKE PLEASE REMOVE X1 RAISED 750X600X30MM SLAB AND REPLACE WITH TARMAC PATCH (FW Rocking/Unstable Slab)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796815&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Footways Slabs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796815</guid>
-<pubDate>Tue, 02 Apr 2024 15:05:45 +0100</pubDate>
-<georss:point>51.900644978048 -2.10520793626774</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796816</link>
-<description>28 day with give an take plus 15 minutes delay boards needed carriage way pothole 500x500x50mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796816&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796816</guid>
-<pubDate>Tue, 02 Apr 2024 15:05:45 +0100</pubDate>
-<georss:point>51.9008785999995 -2.10489999999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW10 Potholes problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796814</link>
-<description>28 day with give an take  carriage way pothole  around gully frame 700x300x45mm (CW10 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796814&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW10 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796814</guid>
-<pubDate>Tue, 02 Apr 2024 15:04:15 +0100</pubDate>
-<georss:point>51.88805496 -2.13140844</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796800</link>
-<description>28 day with give an take plus temporary footway closure boards needed footway edge deteration 6000x300x50mm (FW6 Edge Deterioration)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796800&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796800</guid>
-<pubDate>Tue, 02 Apr 2024 15:02:54 +0100</pubDate>
-<georss:point>51.88635324 -2.14148124</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796798</link>
-<description>28 day with give an take footway abrupt level difference around catv cover 500x100x20mm (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796798&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796798</guid>
-<pubDate>Tue, 02 Apr 2024 15:02:06 +0100</pubDate>
-<georss:point>51.88717944 -2.1357576</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796797</link>
-<description>28 day with give an take please use top soil and seed 1600x700x40mm grass verge damaged due to vehicle overriding (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796797</guid>
-<pubDate>Tue, 02 Apr 2024 15:01:16 +0100</pubDate>
-<georss:point>51.89403834 -2.11151178</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796796</link>
-<description>28 day with give an take footway abrupt level difference 600x300x30mm (FW6 Abrupt Level Differences)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796796&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796796</guid>
-<pubDate>Tue, 02 Apr 2024 15:00:35 +0100</pubDate>
-<georss:point>51.89252436 -2.11749408</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Other FW6  Surface problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796383</link>
-<description>28 day with give an take footway depression 600x500x30mm (FW6 Rutting&amp;amp;Depressions)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796383&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Other FW6  Surface</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796383</guid>
-<pubDate>Tue, 02 Apr 2024 14:59:49 +0100</pubDate>
-<georss:point>51.88728249 -2.13521814</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796382</link>
-<description>28 day with give an take please raise x1 900x150x40mm rocking raised dropped kerb stone  stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796382&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796382</guid>
-<pubDate>Tue, 02 Apr 2024 14:59:00 +0100</pubDate>
-<georss:point>51.88715946 -2.1359574</georss:point>
-</item>
-<item>
-<title>General road marking and stud issues problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796330</link>
-<description>Customer stats that there was double yellow lines here before resurfacing. Customer states these have not been reinstated and there is now parking &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796330&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>General road marking and stud issues</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796330</guid>
-<pubDate>Tue, 02 Apr 2024 14:58:24 +0100</pubDate>
-<georss:point>51.909977 -2.108467</georss:point>
-</item>
-<item>
-<title>TMC - Defects - Kerbs and Channels problem, 2nd April</title>
-<link>https://www.fixmystreet.com/report/5796381</link>
-<description>28 day with give an take please replace x1 900x150x40mm broken  kerb stone  stats required (CW Edge Kerbing &amp;amp; Channels)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/5796381&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects - Kerbs and Channels</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/5796381</guid>
-<pubDate>Tue, 02 Apr 2024 14:58:11 +0100</pubDate>
-<georss:point>51.88764267 -2.13336216</georss:point>
 </item>
 </channel>
 </rss>
