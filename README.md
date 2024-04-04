@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fly tipping from Walton house, 4th April :- [https://www.fixmystreet.com/report/5804276](https://www.fixmystreet.com/report/5804276)
+- TMC - Defects -CW10 Potholes problem, 4th April :- [https://www.fixmystreet.com/report/5804287](https://www.fixmystreet.com/report/5804287)
+- 1 -Glebe road prestbury, 4th April :- [https://www.fixmystreet.com/report/5804174](https://www.fixmystreet.com/report/5804174)
+- 10 inch pothole, 3rd April :- [https://www.fixmystreet.com/report/5803599](https://www.fixmystreet.com/report/5803599)
+- 8 inch pothole (pair), 3rd April :- [https://www.fixmystreet.com/report/5803578](https://www.fixmystreet.com/report/5803578)
+- There is a continuous flow of water from the manhole at the end of Naunton Park Close at the junction with Old Bath Road, 3rd April :- [https://www.fixmystreet.com/report/5803529](https://www.fixmystreet.com/report/5803529)
+- Drain is blocked and is not letting water through, 3rd April :- [https://www.fixmystreet.com/report/5803256](https://www.fixmystreet.com/report/5803256)
 - Vandalised 'No Entry' sign – 1) black graffiti on white horizontal bar on sign + 2) sign appears to have been twisted on top of post & so pointing in wrong direction. Sign is legible (despite graffiti) – but is pointing the wrong way., 3rd April :- [https://www.fixmystreet.com/report/5803212](https://www.fixmystreet.com/report/5803212)
 - Potholes, 3rd April :- [https://www.fixmystreet.com/report/5802942](https://www.fixmystreet.com/report/5802942)
 - Big pothole in road, 3rd April :- [https://www.fixmystreet.com/report/5802676](https://www.fixmystreet.com/report/5802676)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 12x3 pothole on right of road as gi towards the SQUARE, 3rd April :- [https://www.fixmystreet.com/report/5801856](https://www.fixmystreet.com/report/5801856)
 - Drain Blocked, 3rd April :- [https://www.fixmystreet.com/report/5801837](https://www.fixmystreet.com/report/5801837)
 - 12 inch pothole, 3rd April :- [https://www.fixmystreet.com/report/5801732](https://www.fixmystreet.com/report/5801732)
-- TMC - Defects - Other problem, 3rd April :- [https://www.fixmystreet.com/report/5801967](https://www.fixmystreet.com/report/5801967)
-- TMC - Defects -CW10 Potholes problem, 3rd April :- [https://www.fixmystreet.com/report/5801777](https://www.fixmystreet.com/report/5801777)
-- Pothole on main A40 left hand lane Gloucester to Cheltenham, 3rd April :- [https://www.fixmystreet.com/report/5801598](https://www.fixmystreet.com/report/5801598)
-- TMC - Defects -CW10 Potholes problem, 3rd April :- [https://www.fixmystreet.com/report/5801570](https://www.fixmystreet.com/report/5801570)
-- TMC - Defects -CW10 Potholes problem, 3rd April :- [https://www.fixmystreet.com/report/5801563](https://www.fixmystreet.com/report/5801563)
-- Path/Way doesn't match map problem, 3rd April :- [https://www.fixmystreet.com/report/5801342](https://www.fixmystreet.com/report/5801342)
-- Broken metal cover on junction of Gwernant/Bala Road, 3rd April :- [https://www.fixmystreet.com/report/5801251](https://www.fixmystreet.com/report/5801251)
 
 <!-- fix_marker ends -->
