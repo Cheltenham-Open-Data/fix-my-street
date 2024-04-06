@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 6th April :- [https://www.fixmystreet.com/report/5814387](https://www.fixmystreet.com/report/5814387)
+- TMC - Defects -other CW10 problem, 6th April :- [https://www.fixmystreet.com/report/5814339](https://www.fixmystreet.com/report/5814339)
+- Keep right sign positioned round a bend - warning signs have been erected on. The wrong side of the sign!, 5th April :- [https://www.fixmystreet.com/report/5813860](https://www.fixmystreet.com/report/5813860)
+- Bad pothole on bend, 5th April :- [https://www.fixmystreet.com/report/5813855](https://www.fixmystreet.com/report/5813855)
 - Potholes all over place, 5th April :- [https://www.fixmystreet.com/report/5813243](https://www.fixmystreet.com/report/5813243)
 - This pothole has been "fixed" twice since Christmas but because the edges were not sealed, which is typical of all pothole "fixes" the filling has just come out again...., 5th April :- [https://www.fixmystreet.com/report/5813114](https://www.fixmystreet.com/report/5813114)
 - A pothole in road problem, 5th April :- [https://www.fixmystreet.com/report/5813055](https://www.fixmystreet.com/report/5813055)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Traffic lights, 5th April :- [https://www.fixmystreet.com/report/5812359](https://www.fixmystreet.com/report/5812359)
 - TMC - Defects - Other problem, 5th April :- [https://www.fixmystreet.com/report/5812380](https://www.fixmystreet.com/report/5812380)
 - TMC - Defects - Other FW6  Surface problem, 5th April :- [https://www.fixmystreet.com/report/5812379](https://www.fixmystreet.com/report/5812379)
-- A pothole in road problem, 5th April :- [https://www.fixmystreet.com/report/5812375](https://www.fixmystreet.com/report/5812375)
-- As a cyclist I received verbal abuse from multiple car drivers after I was forced off the cycle lane by the roadworks at the hare & hounds junction., 5th April :- [https://www.fixmystreet.com/report/5812081](https://www.fixmystreet.com/report/5812081)
-- Outside Chequers Pirton Lane/end of Chosen Drive. Utilities repair trench fill on is now sunking and causing a rough channel for car drivers. Trench is Disintegrating slowly. Please renew., 5th April :- [https://www.fixmystreet.com/report/5812058](https://www.fixmystreet.com/report/5812058)
-- A pothole in road problem, 5th April :- [https://www.fixmystreet.com/report/5811980](https://www.fixmystreet.com/report/5811980)
 
 <!-- fix_marker ends -->
