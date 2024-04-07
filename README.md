@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes and broken surface, 7th April :- [https://www.fixmystreet.com/report/5817784](https://www.fixmystreet.com/report/5817784)
+- Noisy when driven over, 6th April :- [https://www.fixmystreet.com/report/5817550](https://www.fixmystreet.com/report/5817550)
+- Large pothole, 6th April :- [https://www.fixmystreet.com/report/5817471](https://www.fixmystreet.com/report/5817471)
+- Arctic tanker lorry slipped off road, got stuck and damaged road and verge, 6th April :- [https://www.fixmystreet.com/report/5817469](https://www.fixmystreet.com/report/5817469)
+- Large pothole in road on near side when driving towards House in the tree pub, 6th April :- [https://www.fixmystreet.com/report/5817461](https://www.fixmystreet.com/report/5817461)
+- Potholes, 6th April :- [https://www.fixmystreet.com/report/5817106](https://www.fixmystreet.com/report/5817106)
+- Poor road surface, multiple potholes., 6th April :- [https://www.fixmystreet.com/report/5817102](https://www.fixmystreet.com/report/5817102)
 - Pothole previously reported on 5779761, 6th April :- [https://www.fixmystreet.com/report/5816697](https://www.fixmystreet.com/report/5816697)
 - Long pot hole in the middle of the junction and on the corner, 6th April :- [https://www.fixmystreet.com/report/5816566](https://www.fixmystreet.com/report/5816566)
 - Sign damaged from impact, 6th April :- [https://www.fixmystreet.com/report/5816249](https://www.fixmystreet.com/report/5816249)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked culvert, 6th April :- [https://www.fixmystreet.com/report/5814561](https://www.fixmystreet.com/report/5814561)
 - TMC - Defects -CW10 Potholes problem, 6th April :- [https://www.fixmystreet.com/report/5814387](https://www.fixmystreet.com/report/5814387)
 - TMC - Defects -other CW10 problem, 6th April :- [https://www.fixmystreet.com/report/5814339](https://www.fixmystreet.com/report/5814339)
-- Keep right sign positioned round a bend - warning signs have been erected on. The wrong side of the sign!, 5th April :- [https://www.fixmystreet.com/report/5813860](https://www.fixmystreet.com/report/5813860)
-- Bad pothole on bend, 5th April :- [https://www.fixmystreet.com/report/5813855](https://www.fixmystreet.com/report/5813855)
-- Potholes all over place, 5th April :- [https://www.fixmystreet.com/report/5813243](https://www.fixmystreet.com/report/5813243)
-- This pothole has been "fixed" twice since Christmas but because the edges were not sealed, which is typical of all pothole "fixes" the filling has just come out again...., 5th April :- [https://www.fixmystreet.com/report/5813114](https://www.fixmystreet.com/report/5813114)
-- A pothole in road problem, 5th April :- [https://www.fixmystreet.com/report/5813055](https://www.fixmystreet.com/report/5813055)
-- A pothole in road problem, 5th April :- [https://www.fixmystreet.com/report/5812917](https://www.fixmystreet.com/report/5812917)
-- A pothole in road problem, 5th April :- [https://www.fixmystreet.com/report/5812916](https://www.fixmystreet.com/report/5812916)
 
 <!-- fix_marker ends -->
