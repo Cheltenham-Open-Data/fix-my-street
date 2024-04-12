@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Footways Slabs problem, 12th April :- [https://www.fixmystreet.com/report/5842010](https://www.fixmystreet.com/report/5842010)
+- TMC - Defects -CW10 Potholes problem, 12th April :- [https://www.fixmystreet.com/report/5842008](https://www.fixmystreet.com/report/5842008)
+- TMC - Defects -CW10 Potholes problem, 12th April :- [https://www.fixmystreet.com/report/5842009](https://www.fixmystreet.com/report/5842009)
+- Recently repaired pothole is subsiding and cracking, 12th April :- [https://www.fixmystreet.com/report/5841758](https://www.fixmystreet.com/report/5841758)
+- Potholes returning to a recently repaired patch, 12th April :- [https://www.fixmystreet.com/report/5841756](https://www.fixmystreet.com/report/5841756)
+- Traffic lights sequence, 11th April :- [https://www.fixmystreet.com/report/5840314](https://www.fixmystreet.com/report/5840314)
 - Traffic light timing too short, 11th April :- [https://www.fixmystreet.com/report/5840255](https://www.fixmystreet.com/report/5840255)
 - A pothole in road problem, 11th April :- [https://www.fixmystreet.com/report/5840252](https://www.fixmystreet.com/report/5840252)
 - Uneven kerb stone, 11th April :- [https://www.fixmystreet.com/report/5840090](https://www.fixmystreet.com/report/5840090)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - An extended stretch of road with multiple potholes and surface damage, 11th April :- [https://www.fixmystreet.com/report/5839584](https://www.fixmystreet.com/report/5839584)
 - Multiple potholes in middle of road, 11th April :- [https://www.fixmystreet.com/report/5839548](https://www.fixmystreet.com/report/5839548)
 - Old repair now a pothole again., 11th April :- [https://www.fixmystreet.com/report/5839544](https://www.fixmystreet.com/report/5839544)
-- A pothole in road problem, 11th April :- [https://www.fixmystreet.com/report/5839553](https://www.fixmystreet.com/report/5839553)
-- TMC - Defects -CW10 Potholes problem, 11th April :- [https://www.fixmystreet.com/report/5839556](https://www.fixmystreet.com/report/5839556)
-- TMC - Defects - Footways Slabs problem, 11th April :- [https://www.fixmystreet.com/report/5839554](https://www.fixmystreet.com/report/5839554)
-- TMC - Defects -CW10 Potholes problem, 11th April :- [https://www.fixmystreet.com/report/5839417](https://www.fixmystreet.com/report/5839417)
-- TMC - Defects -CW10 Potholes problem, 11th April :- [https://www.fixmystreet.com/report/5839415](https://www.fixmystreet.com/report/5839415)
-- Deep vertical pothole, 11th April :- [https://www.fixmystreet.com/report/5839268](https://www.fixmystreet.com/report/5839268)
 
 <!-- fix_marker ends -->
