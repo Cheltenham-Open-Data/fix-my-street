@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Narrow and uneven path forcing pedestrians into road, 14th April :- [https://www.fixmystreet.com/report/5848896](https://www.fixmystreet.com/report/5848896)
+- Sign on slip road leaving M5 at junction 11 is totally faded, 13th April :- [https://www.fixmystreet.com/report/5848525](https://www.fixmystreet.com/report/5848525)
+- Sign is completely faded and barely readable anymore, 13th April :- [https://www.fixmystreet.com/report/5848515](https://www.fixmystreet.com/report/5848515)
+- Complete failure of road surface, this really isn't difficult to miss, 13th April :- [https://www.fixmystreet.com/report/5848496](https://www.fixmystreet.com/report/5848496)
 - Large potholes on Chapel Lane at Commercial Street end, 13th April :- [https://www.fixmystreet.com/report/5848251](https://www.fixmystreet.com/report/5848251)
 - Looks like a road from a warzone, 13th April :- [https://www.fixmystreet.com/report/5847893](https://www.fixmystreet.com/report/5847893)
 - Sinking pavement into my front garden., 13th April :- [https://www.fixmystreet.com/report/5847883](https://www.fixmystreet.com/report/5847883)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Uneven paving resulting in accident needing hospital treatment, 13th April :- [https://www.fixmystreet.com/report/5846658](https://www.fixmystreet.com/report/5846658)
 - Traffic light change in 5 seconds, 13th April :- [https://www.fixmystreet.com/report/5846335](https://www.fixmystreet.com/report/5846335)
 - Priors Road heavily rutted and desperately needs resurfacing, 12th April :- [https://www.fixmystreet.com/report/5845357](https://www.fixmystreet.com/report/5845357)
-- Traffic lights from A417, 12th April :- [https://www.fixmystreet.com/report/5845095](https://www.fixmystreet.com/report/5845095)
-- Graffiti in children’s play park, 12th April :- [https://www.fixmystreet.com/report/5844869](https://www.fixmystreet.com/report/5844869)
-- Traffic lights changing too quickly, only allowing 2-3 cars through which is causing a back up of traffic, 12th April :- [https://www.fixmystreet.com/report/5844408](https://www.fixmystreet.com/report/5844408)
-- Diversion sign left after and now roadwork blown over, 12th April :- [https://www.fixmystreet.com/report/5844063](https://www.fixmystreet.com/report/5844063)
 
 <!-- fix_marker ends -->
