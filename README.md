@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot holes everywhere, 18th April :- [https://www.fixmystreet.com/report/5868296](https://www.fixmystreet.com/report/5868296)
+- Large area of road is breaking up making the road unsafe for cars and cyclists especially., 18th April :- [https://www.fixmystreet.com/report/5868240](https://www.fixmystreet.com/report/5868240)
+- Large broken up areas at road junction, 18th April :- [https://www.fixmystreet.com/report/5868211](https://www.fixmystreet.com/report/5868211)
+- Temporary Signals at on Kings ditch lane are out of time, 18th April :- [https://www.fixmystreet.com/report/5868206](https://www.fixmystreet.com/report/5868206)
+- Entire road surface is breaking up, 18th April :- [https://www.fixmystreet.com/report/5868198](https://www.fixmystreet.com/report/5868198)
+- Large pothole getting bigger daily, 18th April :- [https://www.fixmystreet.com/report/5868184](https://www.fixmystreet.com/report/5868184)
+- Road patch failing, 17th April :- [https://www.fixmystreet.com/report/5867748](https://www.fixmystreet.com/report/5867748)
+- Waste dumped into drain blocking it, 17th April :- [https://www.fixmystreet.com/report/5867323](https://www.fixmystreet.com/report/5867323)
+- Massive potholes, 17th April :- [https://www.fixmystreet.com/report/5867283](https://www.fixmystreet.com/report/5867283)
 - Series of potholes, 17th April :- [https://www.fixmystreet.com/report/5867106](https://www.fixmystreet.com/report/5867106)
 - Outside41 Whittington Road Cheltenham, 17th April :- [https://www.fixmystreet.com/report/5867090](https://www.fixmystreet.com/report/5867090)
 - Flytipped tumble dryer, 17th April :- [https://www.fixmystreet.com/report/5866660](https://www.fixmystreet.com/report/5866660)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 17th April :- [https://www.fixmystreet.com/report/5866251](https://www.fixmystreet.com/report/5866251)
 - 8 inch pothole in middle of Moorend road, 17th April :- [https://www.fixmystreet.com/report/5866234](https://www.fixmystreet.com/report/5866234)
 - A pothole in road problem, 17th April :- [https://www.fixmystreet.com/report/5866250](https://www.fixmystreet.com/report/5866250)
-- Two potholes by manhole cover, 17th April :- [https://www.fixmystreet.com/report/5865821](https://www.fixmystreet.com/report/5865821)
-- Road damage on Keynsham bank, 17th April :- [https://www.fixmystreet.com/report/5865811](https://www.fixmystreet.com/report/5865811)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 17th April :- [https://www.fixmystreet.com/report/5865869](https://www.fixmystreet.com/report/5865869)
-- The sign is illegible problem, 17th April :- [https://www.fixmystreet.com/report/5865868](https://www.fixmystreet.com/report/5865868)
-- TMC - Defects -CW10 Potholes problem, 17th April :- [https://www.fixmystreet.com/report/5865872](https://www.fixmystreet.com/report/5865872)
-- Tree is damaged problem, 17th April :- [https://www.fixmystreet.com/report/5865866](https://www.fixmystreet.com/report/5865866)
-- Loose/rattling cover/ironwork problem, 17th April :- [https://www.fixmystreet.com/report/5865668](https://www.fixmystreet.com/report/5865668)
-- Pot hole near overhead cables/junction, 17th April :- [https://www.fixmystreet.com/report/5865436](https://www.fixmystreet.com/report/5865436)
-- A pothole in road problem, 17th April :- [https://www.fixmystreet.com/report/5865480](https://www.fixmystreet.com/report/5865480)
 
 <!-- fix_marker ends -->
