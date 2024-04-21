@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tall weeds reducing visibility, 20th April :- [https://www.fixmystreet.com/report/5879306](https://www.fixmystreet.com/report/5879306)
+- Constantly parked on the pavement, 20th April :- [https://www.fixmystreet.com/report/5879254](https://www.fixmystreet.com/report/5879254)
+- Pothole which is damaging vehicles, and elderly people falling over and little kids falling over., 20th April :- [https://www.fixmystreet.com/report/5879198](https://www.fixmystreet.com/report/5879198)
 - White line needs replacing outside number 2 Gladstone Road, 20th April :- [https://www.fixmystreet.com/report/5878976](https://www.fixmystreet.com/report/5878976)
 - A pothole in road problem, 20th April :- [https://www.fixmystreet.com/report/5878573](https://www.fixmystreet.com/report/5878573)
 - Gate will not self close and is being left open frequently by walkers meaning, 20th April :- [https://www.fixmystreet.com/report/5878366](https://www.fixmystreet.com/report/5878366)
@@ -17,10 +20,7 @@ Fix my street items within 10km of Cheltenham centre
 - Partial failure of bridge structure, 19th April :- [https://www.fixmystreet.com/report/5875604](https://www.fixmystreet.com/report/5875604)
 - Deep pothole on Bethesda Street, 19th April :- [https://www.fixmystreet.com/report/5875532](https://www.fixmystreet.com/report/5875532)
 - Loose/rattling cover/ironwork problem, 19th April :- [https://www.fixmystreet.com/report/5875529](https://www.fixmystreet.com/report/5875529)
-- TMC - Defects -CW10 Potholes problem, 19th April :- [https://www.fixmystreet.com/report/5875389](https://www.fixmystreet.com/report/5875389)
 - TMC - Defects -CW10 Potholes problem, 19th April :- [https://www.fixmystreet.com/report/5875391](https://www.fixmystreet.com/report/5875391)
-- TMC - Defects -CW10 Potholes problem, 19th April :- [https://www.fixmystreet.com/report/5875390](https://www.fixmystreet.com/report/5875390)
-- TMC - Defects -CW10 Potholes problem, 19th April :- [https://www.fixmystreet.com/report/5875235](https://www.fixmystreet.com/report/5875235)
-- TMC - Defects -CW10 Potholes problem, 19th April :- [https://www.fixmystreet.com/report/5875232](https://www.fixmystreet.com/report/5875232)
+- TMC - Defects -CW10 Potholes problem, 19th April :- [https://www.fixmystreet.com/report/5875389](https://www.fixmystreet.com/report/5875389)
 
 <!-- fix_marker ends -->
