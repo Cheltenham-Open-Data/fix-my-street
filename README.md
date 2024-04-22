@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bin needs emptying, 22nd April :- [https://www.fixmystreet.com/report/5882486](https://www.fixmystreet.com/report/5882486)
+- Several potholes - some deep - at Norwood Triangle. Towards top end of Great Norwood Street, 22nd April :- [https://www.fixmystreet.com/report/5882349](https://www.fixmystreet.com/report/5882349)
+- Flytipping in bus stop, 21st April :- [https://www.fixmystreet.com/report/5882105](https://www.fixmystreet.com/report/5882105)
+- Tree blocking view of traffic lights, 21st April :- [https://www.fixmystreet.com/report/5882010](https://www.fixmystreet.com/report/5882010)
 - Conifer trees obscuring traffic lights, 21st April :- [https://www.fixmystreet.com/report/5881616](https://www.fixmystreet.com/report/5881616)
 - Sunken pothole, 21st April :- [https://www.fixmystreet.com/report/5881403](https://www.fixmystreet.com/report/5881403)
 - Manhole corner has sunk and is trip hazard, 21st April :- [https://www.fixmystreet.com/report/5881343](https://www.fixmystreet.com/report/5881343)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Multiple pothole & deformations, 21st April :- [https://www.fixmystreet.com/report/5879813](https://www.fixmystreet.com/report/5879813)
 - Potholes and deformed carriageways, 21st April :- [https://www.fixmystreet.com/report/5879801](https://www.fixmystreet.com/report/5879801)
 - Tall weeds reducing visibility, 20th April :- [https://www.fixmystreet.com/report/5879306](https://www.fixmystreet.com/report/5879306)
-- Constantly parked on the pavement, 20th April :- [https://www.fixmystreet.com/report/5879254](https://www.fixmystreet.com/report/5879254)
-- Pothole which is damaging vehicles, and elderly people falling over and little kids falling over., 20th April :- [https://www.fixmystreet.com/report/5879198](https://www.fixmystreet.com/report/5879198)
-- White line needs replacing outside number 2 Gladstone Road, 20th April :- [https://www.fixmystreet.com/report/5878976](https://www.fixmystreet.com/report/5878976)
-- A pothole in road problem, 20th April :- [https://www.fixmystreet.com/report/5878573](https://www.fixmystreet.com/report/5878573)
 
 <!-- fix_marker ends -->
