@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Road continues to flood during rainfall ok due to blocked or inadequate road drain, 28th April :- [https://www.fixmystreet.com/report/5906908](https://www.fixmystreet.com/report/5906908)
+- Flooding, 28th April :- [https://www.fixmystreet.com/report/5906855](https://www.fixmystreet.com/report/5906855)
+- By Sainsbury’s. Sunken patch, 27th April :- [https://www.fixmystreet.com/report/5906682](https://www.fixmystreet.com/report/5906682)
+- Large patch of uneven road surface, 27th April :- [https://www.fixmystreet.com/report/5906675](https://www.fixmystreet.com/report/5906675)
 - Collapsed manhole cover half way up hill, 27th April :- [https://www.fixmystreet.com/report/5905973](https://www.fixmystreet.com/report/5905973)
 - On junction. Lots of potholes, 27th April :- [https://www.fixmystreet.com/report/5905958](https://www.fixmystreet.com/report/5905958)
 - No street lights, 27th April :- [https://www.fixmystreet.com/report/5905658](https://www.fixmystreet.com/report/5905658)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fallen tree on Honey bourne Line, 26th April :- [https://www.fixmystreet.com/report/5904066](https://www.fixmystreet.com/report/5904066)
 - Pavement surface has disintegrated, difficult to walk over, 26th April :- [https://www.fixmystreet.com/report/5904041](https://www.fixmystreet.com/report/5904041)
 - Rubbish Bin needs empty, 26th April :- [https://www.fixmystreet.com/report/5904000](https://www.fixmystreet.com/report/5904000)
-- Wasting Money, 26th April :- [https://www.fixmystreet.com/report/5903781](https://www.fixmystreet.com/report/5903781)
-- Deep & wide potholes opposite busy school, 26th April :- [https://www.fixmystreet.com/report/5903655](https://www.fixmystreet.com/report/5903655)
-- Multiple deep / wide / long potholes, 26th April :- [https://www.fixmystreet.com/report/5903607](https://www.fixmystreet.com/report/5903607)
-- Deep rutted edge of the carriageway caused a tyre to blow out and need replacing, 26th April :- [https://www.fixmystreet.com/report/5903502](https://www.fixmystreet.com/report/5903502)
 
 <!-- fix_marker ends -->
