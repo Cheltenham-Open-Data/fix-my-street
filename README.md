@@ -2,7 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 pot holes on the this roundabout entrance coming from Brockworth. Still haven't been filled in., 29th April :- [https://www.fixmystreet.com/report/5909560](https://www.fixmystreet.com/report/5909560)
+- Significant worsening of clanking drain., 29th April :- [https://www.fixmystreet.com/report/5909505](https://www.fixmystreet.com/report/5909505)
+- Huge pothole extending in lenght and obliterating the double yellow lines., 28th April :- [https://www.fixmystreet.com/report/5909206](https://www.fixmystreet.com/report/5909206)
+- Abandoned horse box, 28th April :- [https://www.fixmystreet.com/report/5909167](https://www.fixmystreet.com/report/5909167)
 - Intermittent fault on pushbutton, 28th April :- [https://www.fixmystreet.com/report/5908719](https://www.fixmystreet.com/report/5908719)
+- Blocked drain, 29th April :- [https://www.fixmystreet.com/report/5908684](https://www.fixmystreet.com/report/5908684)
 - Streetlight not working, 28th April :- [https://www.fixmystreet.com/report/5908443](https://www.fixmystreet.com/report/5908443)
 - 36x46x7 cm pothole, 28th April :- [https://www.fixmystreet.com/report/5908196](https://www.fixmystreet.com/report/5908196)
 - Very deep hole on edge of grass verge., 28th April :- [https://www.fixmystreet.com/report/5908151](https://www.fixmystreet.com/report/5908151)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Repeat report of overgrown hedge on path, 28th April :- [https://www.fixmystreet.com/report/5907710](https://www.fixmystreet.com/report/5907710)
 - Metal items strewn around, 28th April :- [https://www.fixmystreet.com/report/5907505](https://www.fixmystreet.com/report/5907505)
 - Rubbish, 28th April :- [https://www.fixmystreet.com/report/5907493](https://www.fixmystreet.com/report/5907493)
-- Pavement collapse around water stop tap, 28th April :- [https://www.fixmystreet.com/report/5907288](https://www.fixmystreet.com/report/5907288)
-- Blocked drain- continues problem, 28th April :- [https://www.fixmystreet.com/report/5907229](https://www.fixmystreet.com/report/5907229)
-- Road continues to flood during rainfall ok due to blocked or inadequate road drain, 28th April :- [https://www.fixmystreet.com/report/5906908](https://www.fixmystreet.com/report/5906908)
-- Flooding, 28th April :- [https://www.fixmystreet.com/report/5906855](https://www.fixmystreet.com/report/5906855)
-- By Sainsbury’s. Sunken patch, 27th April :- [https://www.fixmystreet.com/report/5906682](https://www.fixmystreet.com/report/5906682)
 
 <!-- fix_marker ends -->
