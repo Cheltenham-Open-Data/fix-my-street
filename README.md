@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Horrible potholes x2 just after traffic island, 30th April :- [https://www.fixmystreet.com/report/5918506](https://www.fixmystreet.com/report/5918506)
+- Lane guidance unclear/not followed by drivers, 30th April :- [https://www.fixmystreet.com/report/5918378](https://www.fixmystreet.com/report/5918378)
+- Footpath collapsing into sewer, 30th April :- [https://www.fixmystreet.com/report/5918148](https://www.fixmystreet.com/report/5918148)
+- Bad phasing is causing light and queue jumpers. Two incidents witnessed today., 30th April :- [https://www.fixmystreet.com/report/5917888](https://www.fixmystreet.com/report/5917888)
 - Pavement is worn away and broken up, 30th April :- [https://www.fixmystreet.com/report/5917846](https://www.fixmystreet.com/report/5917846)
 - Side of road eroded into a long pothole, 30th April :- [https://www.fixmystreet.com/report/5917779](https://www.fixmystreet.com/report/5917779)
 - No pavements, 30th April :- [https://www.fixmystreet.com/report/5917753](https://www.fixmystreet.com/report/5917753)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW6 Potholes  problem, 30th April :- [https://www.fixmystreet.com/report/5916798](https://www.fixmystreet.com/report/5916798)
 - TMC - Defects -CW10 Potholes problem, 30th April :- [https://www.fixmystreet.com/report/5916797](https://www.fixmystreet.com/report/5916797)
 - TMC - Defects - Other problem, 30th April :- [https://www.fixmystreet.com/report/5916640](https://www.fixmystreet.com/report/5916640)
-- TMC - Defects - Other FW6  Surface problem, 30th April :- [https://www.fixmystreet.com/report/5916639](https://www.fixmystreet.com/report/5916639)
-- TMC - Defects -FW6 Potholes problem, 30th April :- [https://www.fixmystreet.com/report/5916638](https://www.fixmystreet.com/report/5916638)
-- TMC - Defects -CW6 Potholes  problem, 30th April :- [https://www.fixmystreet.com/report/5916633](https://www.fixmystreet.com/report/5916633)
-- No. 4 Gladstone Road white line, 30th April :- [https://www.fixmystreet.com/report/5916497](https://www.fixmystreet.com/report/5916497)
 
 <!-- fix_marker ends -->
