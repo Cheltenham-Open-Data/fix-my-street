@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931602](https://www.fixmystreet.com/report/5931602)
+- Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931597](https://www.fixmystreet.com/report/5931597)
+- Drain blocked, 4th May :- [https://www.fixmystreet.com/report/5931591](https://www.fixmystreet.com/report/5931591)
+- Drains are blocked, 3rd May :- [https://www.fixmystreet.com/report/5931359](https://www.fixmystreet.com/report/5931359)
+- At least three pot holes where road dips down, uSudeley Castle, visitors to Sudeley Castle use this road / dangerous for low profile tyres and problem getting worse., 3rd May :- [https://www.fixmystreet.com/report/5931295](https://www.fixmystreet.com/report/5931295)
+- Blocked drain opposite Golden Miller footpath, 3rd May :- [https://www.fixmystreet.com/report/5931240](https://www.fixmystreet.com/report/5931240)
 - Midwinter Avenue GL51 9JF Street lights, 3rd May :- [https://www.fixmystreet.com/report/5930638](https://www.fixmystreet.com/report/5930638)
 - Large pothole in outside lane of dual carriageway, 3rd May :- [https://www.fixmystreet.com/report/5930598](https://www.fixmystreet.com/report/5930598)
 - Drain floods after rain (never fixed correctly on previous reports), 3rd May :- [https://www.fixmystreet.com/report/5930520](https://www.fixmystreet.com/report/5930520)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain blocked, and has been for some time and this is not the first time this has been reported., 3rd May :- [https://www.fixmystreet.com/report/5929868](https://www.fixmystreet.com/report/5929868)
 - TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929800](https://www.fixmystreet.com/report/5929800)
 - Blocked drain, 3rd May :- [https://www.fixmystreet.com/report/5929310](https://www.fixmystreet.com/report/5929310)
-- Mains drain blocked with leaf debris., 3rd May :- [https://www.fixmystreet.com/report/5929281](https://www.fixmystreet.com/report/5929281)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929255](https://www.fixmystreet.com/report/5929255)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929254](https://www.fixmystreet.com/report/5929254)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929257](https://www.fixmystreet.com/report/5929257)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929256](https://www.fixmystreet.com/report/5929256)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929106](https://www.fixmystreet.com/report/5929106)
 
 <!-- fix_marker ends -->
