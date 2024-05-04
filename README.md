@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Graffiti on rear access to Asda, 4th May :- [https://www.fixmystreet.com/report/5933142](https://www.fixmystreet.com/report/5933142)
+- Graffiti on North Road East to Asda Footpath, 4th May :- [https://www.fixmystreet.com/report/5933090](https://www.fixmystreet.com/report/5933090)
+- Extensive Graffiti Arle Court Underpass, 4th May :- [https://www.fixmystreet.com/report/5933034](https://www.fixmystreet.com/report/5933034)
+- Several potholes grouped together - very deep and highly dangerous for those on 2 wheels, 4th May :- [https://www.fixmystreet.com/report/5932834](https://www.fixmystreet.com/report/5932834)
+- Multiple potholes, 4th May :- [https://www.fixmystreet.com/report/5932725](https://www.fixmystreet.com/report/5932725)
+- 3 potholes still NOT fixed, 4th May :- [https://www.fixmystreet.com/report/5932264](https://www.fixmystreet.com/report/5932264)
+- Huge pothole and cracked carriageway, 4th May :- [https://www.fixmystreet.com/report/5932164](https://www.fixmystreet.com/report/5932164)
+- Missing paving slabs, lifted by the tree roots or teenagers, 4th May :- [https://www.fixmystreet.com/report/5932033](https://www.fixmystreet.com/report/5932033)
+- Traffic light not working, 4th May :- [https://www.fixmystreet.com/report/5932021](https://www.fixmystreet.com/report/5932021)
+- Still some bits of dead deer on pavement, 4th May :- [https://www.fixmystreet.com/report/5932008](https://www.fixmystreet.com/report/5932008)
+- Flytipped waste, 4th May :- [https://www.fixmystreet.com/report/5931883](https://www.fixmystreet.com/report/5931883)
 - Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931602](https://www.fixmystreet.com/report/5931602)
 - Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931597](https://www.fixmystreet.com/report/5931597)
 - Drain blocked, 4th May :- [https://www.fixmystreet.com/report/5931591](https://www.fixmystreet.com/report/5931591)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Midwinter Avenue GL51 9JF Street lights, 3rd May :- [https://www.fixmystreet.com/report/5930638](https://www.fixmystreet.com/report/5930638)
 - Large pothole in outside lane of dual carriageway, 3rd May :- [https://www.fixmystreet.com/report/5930598](https://www.fixmystreet.com/report/5930598)
 - Drain floods after rain (never fixed correctly on previous reports), 3rd May :- [https://www.fixmystreet.com/report/5930520](https://www.fixmystreet.com/report/5930520)
-- Side of road is eroded - one giant long pot hole, 3rd May :- [https://www.fixmystreet.com/report/5930312](https://www.fixmystreet.com/report/5930312)
-- Pot Hole, 3rd May :- [https://www.fixmystreet.com/report/5930231](https://www.fixmystreet.com/report/5930231)
-- Pot hole, 3rd May :- [https://www.fixmystreet.com/report/5930221](https://www.fixmystreet.com/report/5930221)
-- TMC - Defects - Footways Slabs problem, 3rd May :- [https://www.fixmystreet.com/report/5930078](https://www.fixmystreet.com/report/5930078)
-- TMC - Defects - Footways Slabs problem, 3rd May :- [https://www.fixmystreet.com/report/5929966](https://www.fixmystreet.com/report/5929966)
-- Loose/rattling cover/ironwork problem, 3rd May :- [https://www.fixmystreet.com/report/5929951](https://www.fixmystreet.com/report/5929951)
-- No pavement for residents on a busy road., 3rd May :- [https://www.fixmystreet.com/report/5929897](https://www.fixmystreet.com/report/5929897)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929958](https://www.fixmystreet.com/report/5929958)
-- Drain blocked, and has been for some time and this is not the first time this has been reported., 3rd May :- [https://www.fixmystreet.com/report/5929868](https://www.fixmystreet.com/report/5929868)
-- TMC - Defects -CW10 Potholes problem, 3rd May :- [https://www.fixmystreet.com/report/5929800](https://www.fixmystreet.com/report/5929800)
-- Blocked drain, 3rd May :- [https://www.fixmystreet.com/report/5929310](https://www.fixmystreet.com/report/5929310)
 
 <!-- fix_marker ends -->
