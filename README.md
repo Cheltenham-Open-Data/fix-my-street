@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Series of potholes on Rookery Road, 5th May :- [https://www.fixmystreet.com/report/5934746](https://www.fixmystreet.com/report/5934746)
+- Flytipping, 5th May :- [https://www.fixmystreet.com/report/5934575](https://www.fixmystreet.com/report/5934575)
+- 15 inch pot hole, 5th May :- [https://www.fixmystreet.com/report/5934260](https://www.fixmystreet.com/report/5934260)
+- Multiple potholes wider than a single dinner plate, death roughly 40mm each, 5th May :- [https://www.fixmystreet.com/report/5933949](https://www.fixmystreet.com/report/5933949)
 - Two trees taken down many months and stumps left with barriers round. Unsightly and dangerous. Stumps need removing asap. Veindyridge Road Wymans Brook, 5th May :- [https://www.fixmystreet.com/report/5933871](https://www.fixmystreet.com/report/5933871)
 - Fallen tree on footpath, 5th May :- [https://www.fixmystreet.com/report/5933834](https://www.fixmystreet.com/report/5933834)
 - Potholes, 4th May :- [https://www.fixmystreet.com/report/5933693](https://www.fixmystreet.com/report/5933693)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped waste, 4th May :- [https://www.fixmystreet.com/report/5931883](https://www.fixmystreet.com/report/5931883)
 - Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931602](https://www.fixmystreet.com/report/5931602)
 - Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931597](https://www.fixmystreet.com/report/5931597)
-- Drain blocked, 4th May :- [https://www.fixmystreet.com/report/5931591](https://www.fixmystreet.com/report/5931591)
-- Drains are blocked, 3rd May :- [https://www.fixmystreet.com/report/5931359](https://www.fixmystreet.com/report/5931359)
-- At least three pot holes where road dips down, uSudeley Castle, visitors to Sudeley Castle use this road / dangerous for low profile tyres and problem getting worse., 3rd May :- [https://www.fixmystreet.com/report/5931295](https://www.fixmystreet.com/report/5931295)
-- Blocked drain opposite Golden Miller footpath, 3rd May :- [https://www.fixmystreet.com/report/5931240](https://www.fixmystreet.com/report/5931240)
 
 <!-- fix_marker ends -->
