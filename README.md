@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Entire length of Oakleaze and Elmleaze Roads, 6th May :- [https://www.fixmystreet.com/report/5936161](https://www.fixmystreet.com/report/5936161)
 - Series of potholes on Rookery Road, 5th May :- [https://www.fixmystreet.com/report/5934746](https://www.fixmystreet.com/report/5934746)
 - Flytipping, 5th May :- [https://www.fixmystreet.com/report/5934575](https://www.fixmystreet.com/report/5934575)
 - 15 inch pot hole, 5th May :- [https://www.fixmystreet.com/report/5934260](https://www.fixmystreet.com/report/5934260)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Still some bits of dead deer on pavement, 4th May :- [https://www.fixmystreet.com/report/5932008](https://www.fixmystreet.com/report/5932008)
 - Flytipped waste, 4th May :- [https://www.fixmystreet.com/report/5931883](https://www.fixmystreet.com/report/5931883)
 - Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931602](https://www.fixmystreet.com/report/5931602)
-- Blocked drain, 4th May :- [https://www.fixmystreet.com/report/5931597](https://www.fixmystreet.com/report/5931597)
 
 <!-- fix_marker ends -->
