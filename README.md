@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Huge cluster of potholes, 8th May :- [https://www.fixmystreet.com/report/5944336](https://www.fixmystreet.com/report/5944336)
+- Massive pothole, 8th May :- [https://www.fixmystreet.com/report/5944324](https://www.fixmystreet.com/report/5944324)
+- Large pothole, 8th May :- [https://www.fixmystreet.com/report/5943989](https://www.fixmystreet.com/report/5943989)
+- Danger land slip path and road not safe, 7th May :- [https://www.fixmystreet.com/report/5943828](https://www.fixmystreet.com/report/5943828)
+- Bulb not working in green light, 7th May :- [https://www.fixmystreet.com/report/5943679](https://www.fixmystreet.com/report/5943679)
+- Street lights out along Old Gloucester Road, 7th May :- [https://www.fixmystreet.com/report/5943674](https://www.fixmystreet.com/report/5943674)
+- Blocked drains. One drain is now completely covered with silt. The other drain is overgrown with weeds and backing up., 7th May :- [https://www.fixmystreet.com/report/5943645](https://www.fixmystreet.com/report/5943645)
+- Mini manhole cover missing - hedgehogs are probably drowning!, 7th May :- [https://www.fixmystreet.com/report/5943506](https://www.fixmystreet.com/report/5943506)
+- Broken glass all over the street and pavement, 7th May :- [https://www.fixmystreet.com/report/5943242](https://www.fixmystreet.com/report/5943242)
 - Large ponding on corner of junction, 7th May :- [https://www.fixmystreet.com/report/5943205](https://www.fixmystreet.com/report/5943205)
 - Water leak?, 7th May :- [https://www.fixmystreet.com/report/5943070](https://www.fixmystreet.com/report/5943070)
 - Severn Trent tarmac not done correctly, 7th May :- [https://www.fixmystreet.com/report/5942630](https://www.fixmystreet.com/report/5942630)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Triangular 'Beware Pedestrians' sign + '<-- P Regent Arcade' car park direction sign currently pointing to Montpellier Walk shops & Montpellier Arcade, on same post. These two signs appear to have been twisted on their post around 180 degrees so that they face S towards Montpellier (Rotunda) Roundabout rather than N towards Cheltenham town centre. A Google Street View photo of March 2023 shows these two signs both facing in the opposite direction, ie towards the town centre., 7th May :- [https://www.fixmystreet.com/report/5942128](https://www.fixmystreet.com/report/5942128)
 - TMC - Defects -CW10 Potholes problem, 7th May :- [https://www.fixmystreet.com/report/5942039](https://www.fixmystreet.com/report/5942039)
 - TMC - Defects - Vegetation problem, 7th May :- [https://www.fixmystreet.com/report/5942038](https://www.fixmystreet.com/report/5942038)
-- TMC - Defects -other CW10 problem, 7th May :- [https://www.fixmystreet.com/report/5942036](https://www.fixmystreet.com/report/5942036)
-- TMC - Defects -other CW10 problem, 7th May :- [https://www.fixmystreet.com/report/5942035](https://www.fixmystreet.com/report/5942035)
-- TMC - Defects -other CW10 problem, 7th May :- [https://www.fixmystreet.com/report/5942034](https://www.fixmystreet.com/report/5942034)
-- TMC - Defects -other CW10 problem, 7th May :- [https://www.fixmystreet.com/report/5942033](https://www.fixmystreet.com/report/5942033)
-- TMC - Defects -other CW10 problem, 7th May :- [https://www.fixmystreet.com/report/5942032](https://www.fixmystreet.com/report/5942032)
-- TMC - Defects -other CW10 problem, 7th May :- [https://www.fixmystreet.com/report/5942031](https://www.fixmystreet.com/report/5942031)
-- Bin has disappeared, 7th May :- [https://www.fixmystreet.com/report/5941702](https://www.fixmystreet.com/report/5941702)
-- Litter dumped, 7th May :- [https://www.fixmystreet.com/report/5941666](https://www.fixmystreet.com/report/5941666)
-- TMC - Defects - Covers, Gratings & Frames problem, 7th May :- [https://www.fixmystreet.com/report/5941695](https://www.fixmystreet.com/report/5941695)
 
 <!-- fix_marker ends -->
