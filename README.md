@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sunken Manhole Cover, 9th May :- [https://www.fixmystreet.com/report/5949403](https://www.fixmystreet.com/report/5949403)
+- Pavement Broken all up , Manhole cover all Bent in, 8th May :- [https://www.fixmystreet.com/report/5948918](https://www.fixmystreet.com/report/5948918)
+- Abandoned barriers on pavements, 8th May :- [https://www.fixmystreet.com/report/5948680](https://www.fixmystreet.com/report/5948680)
+- Grass very high needs cutting, 8th May :- [https://www.fixmystreet.com/report/5948425](https://www.fixmystreet.com/report/5948425)
+- Potholes on entrance to meadoway, 8th May :- [https://www.fixmystreet.com/report/5948398](https://www.fixmystreet.com/report/5948398)
+- Black & white horse charging and attacking dogs when walking on footpath, 8th May :- [https://www.fixmystreet.com/report/5948361](https://www.fixmystreet.com/report/5948361)
+- Gl54 4et Entrance to Hewletts Farm, 8th May :- [https://www.fixmystreet.com/report/5948357](https://www.fixmystreet.com/report/5948357)
+- Sudden Drop in level of verge., 8th May :- [https://www.fixmystreet.com/report/5948333](https://www.fixmystreet.com/report/5948333)
 - Spring is coming through tarmac and road is breaking up, 8th May :- [https://www.fixmystreet.com/report/5947770](https://www.fixmystreet.com/report/5947770)
 - 50cm sinkhole in pavement, 8th May :- [https://www.fixmystreet.com/report/5947633](https://www.fixmystreet.com/report/5947633)
 - Fallen tree blocking footpath, 8th May :- [https://www.fixmystreet.com/report/5947620](https://www.fixmystreet.com/report/5947620)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Hole in carriagewway causing rocks to be exposed and scattering acooss the road, 8th May :- [https://www.fixmystreet.com/report/5947208](https://www.fixmystreet.com/report/5947208)
 - Tree is damaged problem, 8th May :- [https://www.fixmystreet.com/report/5947263](https://www.fixmystreet.com/report/5947263)
 - Manhole TENNYSON ROAD, 8th May :- [https://www.fixmystreet.com/report/5947010](https://www.fixmystreet.com/report/5947010)
-- TMC - Defects -FW6 Potholes problem, 8th May :- [https://www.fixmystreet.com/report/5946942](https://www.fixmystreet.com/report/5946942)
-- TMC - Defects -FW6 Potholes problem, 8th May :- [https://www.fixmystreet.com/report/5946941](https://www.fixmystreet.com/report/5946941)
-- TMC - Defects -FW6 Potholes problem, 8th May :- [https://www.fixmystreet.com/report/5946939](https://www.fixmystreet.com/report/5946939)
-- Light sensor is not detecting vehicles problem, 8th May :- [https://www.fixmystreet.com/report/5946927](https://www.fixmystreet.com/report/5946927)
-- Light sensor is not detecting vehicles problem, 8th May :- [https://www.fixmystreet.com/report/5946926](https://www.fixmystreet.com/report/5946926)
-- TMC - Defects -CW10 Potholes problem, 8th May :- [https://www.fixmystreet.com/report/5946781](https://www.fixmystreet.com/report/5946781)
-- TMC - Defects -CW10 Potholes problem, 8th May :- [https://www.fixmystreet.com/report/5946761](https://www.fixmystreet.com/report/5946761)
-- TMC - Defects -CW10 Potholes problem, 8th May :- [https://www.fixmystreet.com/report/5946759](https://www.fixmystreet.com/report/5946759)
 
 <!-- fix_marker ends -->
