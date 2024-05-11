@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken mirror on road, 11th May :- [https://www.fixmystreet.com/report/5958824](https://www.fixmystreet.com/report/5958824)
+- Streetlights not working around public green space and path to Butts Lane, 11th May :- [https://www.fixmystreet.com/report/5958761](https://www.fixmystreet.com/report/5958761)
 - Multiple potholes in the road, 11th May :- [https://www.fixmystreet.com/report/5958546](https://www.fixmystreet.com/report/5958546)
 - Pothole in left lane after the motorway bridge just before the left turn into airport, 11th May :- [https://www.fixmystreet.com/report/5958530](https://www.fixmystreet.com/report/5958530)
 - Reindeer carcass, 11th May :- [https://www.fixmystreet.com/report/5958476](https://www.fixmystreet.com/report/5958476)
@@ -17,10 +19,8 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 10th May :- [https://www.fixmystreet.com/report/5956792](https://www.fixmystreet.com/report/5956792)
 - TMC - Defects -FW6 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956791](https://www.fixmystreet.com/report/5956791)
 - TMC - Defects - Vegetation problem, 10th May :- [https://www.fixmystreet.com/report/5956635](https://www.fixmystreet.com/report/5956635)
-- TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956463](https://www.fixmystreet.com/report/5956463)
 - TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956464](https://www.fixmystreet.com/report/5956464)
 - TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956465](https://www.fixmystreet.com/report/5956465)
 - TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956466](https://www.fixmystreet.com/report/5956466)
-- TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956467](https://www.fixmystreet.com/report/5956467)
 
 <!-- fix_marker ends -->
