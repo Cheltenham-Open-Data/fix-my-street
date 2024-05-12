@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cycle path is overgrown, 12th May :- [https://www.fixmystreet.com/report/5961111](https://www.fixmystreet.com/report/5961111)
+- Damaged Access Panel - possibly Severn Trent main sewer., 11th May :- [https://www.fixmystreet.com/report/5960710](https://www.fixmystreet.com/report/5960710)
+- Sunken manhole cover, 11th May :- [https://www.fixmystreet.com/report/5960683](https://www.fixmystreet.com/report/5960683)
 - Broken mirror on road, 11th May :- [https://www.fixmystreet.com/report/5958824](https://www.fixmystreet.com/report/5958824)
 - Streetlights not working around public green space and path to Butts Lane, 11th May :- [https://www.fixmystreet.com/report/5958761](https://www.fixmystreet.com/report/5958761)
 - Multiple potholes in the road, 11th May :- [https://www.fixmystreet.com/report/5958546](https://www.fixmystreet.com/report/5958546)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 10th May :- [https://www.fixmystreet.com/report/5956792](https://www.fixmystreet.com/report/5956792)
 - TMC - Defects -FW6 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956791](https://www.fixmystreet.com/report/5956791)
 - TMC - Defects - Vegetation problem, 10th May :- [https://www.fixmystreet.com/report/5956635](https://www.fixmystreet.com/report/5956635)
-- TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956464](https://www.fixmystreet.com/report/5956464)
-- TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956465](https://www.fixmystreet.com/report/5956465)
-- TMC - Defects -CW10 Potholes problem, 10th May :- [https://www.fixmystreet.com/report/5956466](https://www.fixmystreet.com/report/5956466)
 
 <!-- fix_marker ends -->
