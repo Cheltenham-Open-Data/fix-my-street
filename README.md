@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Two different speed signs, 15th May :- [https://www.fixmystreet.com/report/5974984](https://www.fixmystreet.com/report/5974984)
+- Pittville Crescent Lane Wallkway unsafe, 14th May :- [https://www.fixmystreet.com/report/5974497](https://www.fixmystreet.com/report/5974497)
+- Pothole appeared after rain. Deep but relatively small in diameter, 14th May :- [https://www.fixmystreet.com/report/5974455](https://www.fixmystreet.com/report/5974455)
+- Weeds that look a mess and need weed killer on, 14th May :- [https://www.fixmystreet.com/report/5974437](https://www.fixmystreet.com/report/5974437)
+- Damaged tarmac by drain cover, and cover loose, 14th May :- [https://www.fixmystreet.com/report/5974263](https://www.fixmystreet.com/report/5974263)
 - Recently repaired pothole starting to subside again, 14th May :- [https://www.fixmystreet.com/report/5974028](https://www.fixmystreet.com/report/5974028)
 - Bridge slats broken through, 14th May :- [https://www.fixmystreet.com/report/5973961](https://www.fixmystreet.com/report/5973961)
 - Double mattress dumped against a tree on Reddings Road, near Humpty Dumps Playground, 14th May :- [https://www.fixmystreet.com/report/5973748](https://www.fixmystreet.com/report/5973748)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other FW6  Surface problem, 14th May :- [https://www.fixmystreet.com/report/5972669](https://www.fixmystreet.com/report/5972669)
 - Tree is damaged problem, 14th May :- [https://www.fixmystreet.com/report/5972450](https://www.fixmystreet.com/report/5972450)
 - TMC - Defects -CW10 Potholes problem, 14th May :- [https://www.fixmystreet.com/report/5972463](https://www.fixmystreet.com/report/5972463)
-- A pothole in road problem, 14th May :- [https://www.fixmystreet.com/report/5972449](https://www.fixmystreet.com/report/5972449)
-- TMC - Defects -CW10 Potholes problem, 14th May :- [https://www.fixmystreet.com/report/5972452](https://www.fixmystreet.com/report/5972452)
-- TMC - Defects -FW6 Potholes problem, 14th May :- [https://www.fixmystreet.com/report/5972261](https://www.fixmystreet.com/report/5972261)
-- TMC - Defects - Other problem, 14th May :- [https://www.fixmystreet.com/report/5972260](https://www.fixmystreet.com/report/5972260)
-- TMC - Defects -CW10 Potholes problem, 14th May :- [https://www.fixmystreet.com/report/5972259](https://www.fixmystreet.com/report/5972259)
 
 <!-- fix_marker ends -->
