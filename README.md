@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Right next to one that only got fill Tuesday, 16th May :- [https://www.fixmystreet.com/report/5984007](https://www.fixmystreet.com/report/5984007)
+- Ref 5451456, 16th May :- [https://www.fixmystreet.com/report/5983974](https://www.fixmystreet.com/report/5983974)
 - A few holes all together, 16th May :- [https://www.fixmystreet.com/report/5983721](https://www.fixmystreet.com/report/5983721)
 - Missing kerb, 16th May :- [https://www.fixmystreet.com/report/5983566](https://www.fixmystreet.com/report/5983566)
 - Missing drainage cover adj pavement, 16th May :- [https://www.fixmystreet.com/report/5983429](https://www.fixmystreet.com/report/5983429)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Trees blocking visibility to traffic lights, 16th May :- [https://www.fixmystreet.com/report/5981981](https://www.fixmystreet.com/report/5981981)
 - Deep, 16th May :- [https://www.fixmystreet.com/report/5981467](https://www.fixmystreet.com/report/5981467)
 - Sign/waymarker is damaged problem, 16th May :- [https://www.fixmystreet.com/report/5981539](https://www.fixmystreet.com/report/5981539)
-- No sound, 16th May :- [https://www.fixmystreet.com/report/5981244](https://www.fixmystreet.com/report/5981244)
-- Several redundant "Diversion" signs need to be removed, 16th May :- [https://www.fixmystreet.com/report/5981233](https://www.fixmystreet.com/report/5981233)
 
 <!-- fix_marker ends -->
