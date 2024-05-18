@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large item has been fly tipped, 18th May :- [https://www.fixmystreet.com/report/5988855](https://www.fixmystreet.com/report/5988855)
+- Street sign for Tutor Court damaged, 17th May :- [https://www.fixmystreet.com/report/5988622](https://www.fixmystreet.com/report/5988622)
+- Very large long extended pot hole. Turning from the by pass into towards Ermin Street is very dangerous as you have to swerve to avoid the two or three large long potholes. Need to be done ASAP as will damage cars wheels., 17th May :- [https://www.fixmystreet.com/report/5988618](https://www.fixmystreet.com/report/5988618)
+- The grass is too long to see on coming traffic, 17th May :- [https://www.fixmystreet.com/report/5988424](https://www.fixmystreet.com/report/5988424)
+- Graffiti all over toilets, 17th May :- [https://www.fixmystreet.com/report/5988288](https://www.fixmystreet.com/report/5988288)
 - Broken and raised pavement slabs, 17th May :- [https://www.fixmystreet.com/report/5988109](https://www.fixmystreet.com/report/5988109)
 - Corner cheese stone dislodged and adjacent kerb cracked/damaged, fir by Tesco delivery truck, 17th May :- [https://www.fixmystreet.com/report/5988032](https://www.fixmystreet.com/report/5988032)
 - Graffiti on substation, 17th May :- [https://www.fixmystreet.com/report/5988006](https://www.fixmystreet.com/report/5988006)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain blocked at Hewlett Road junction, 17th May :- [https://www.fixmystreet.com/report/5987907](https://www.fixmystreet.com/report/5987907)
 - Multiple large potholes difficult to avoid as some on left and others on right and have to slalom to avoid, 17th May :- [https://www.fixmystreet.com/report/5987893](https://www.fixmystreet.com/report/5987893)
 - 2inch pothole on tarmac surrounding ironwork, 17th May :- [https://www.fixmystreet.com/report/5987648](https://www.fixmystreet.com/report/5987648)
-- 10 inch pothole in road, 17th May :- [https://www.fixmystreet.com/report/5987536](https://www.fixmystreet.com/report/5987536)
-- TMC - Defects - Vegetation problem, 17th May :- [https://www.fixmystreet.com/report/5987355](https://www.fixmystreet.com/report/5987355)
-- TMC - Defects - Covers, Gratings & Frames problem, 17th May :- [https://www.fixmystreet.com/report/5987214](https://www.fixmystreet.com/report/5987214)
-- TMC - Defects - Vegetation problem, 17th May :- [https://www.fixmystreet.com/report/5987208](https://www.fixmystreet.com/report/5987208)
-- Multiple potholes the whole way along church lane stanley pontlarge. Some now deep and dangerous. Road surface disappearing in some areas., 17th May :- [https://www.fixmystreet.com/report/5986995](https://www.fixmystreet.com/report/5986995)
 
 <!-- fix_marker ends -->
