@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree has large rotten branches over hanging my driveway, 21st May :- [https://www.fixmystreet.com/report/5999604](https://www.fixmystreet.com/report/5999604)
+- No street lights are out on Redgrove Road Kingsmead Road, 20th May :- [https://www.fixmystreet.com/report/5999381](https://www.fixmystreet.com/report/5999381)
+- Tree obscuring traffic lights on roundabout, 20th May :- [https://www.fixmystreet.com/report/5999127](https://www.fixmystreet.com/report/5999127)
 - Mini roundabout sign not visible., 20th May :- [https://www.fixmystreet.com/report/5998650](https://www.fixmystreet.com/report/5998650)
 - Dumped bed outside no6, 20th May :- [https://www.fixmystreet.com/report/5998566](https://www.fixmystreet.com/report/5998566)
 - Sign/waymarker is damaged problem, 20th May :- [https://www.fixmystreet.com/report/5998442](https://www.fixmystreet.com/report/5998442)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other FW6  Surface problem, 20th May :- [https://www.fixmystreet.com/report/5997273](https://www.fixmystreet.com/report/5997273)
 - TMC - Defects -CW10 Potholes problem, 20th May :- [https://www.fixmystreet.com/report/5997079](https://www.fixmystreet.com/report/5997079)
 - A pothole in road problem, 20th May :- [https://www.fixmystreet.com/report/5997066](https://www.fixmystreet.com/report/5997066)
-- TMC - Defects -CW10 Potholes problem, 20th May :- [https://www.fixmystreet.com/report/5997077](https://www.fixmystreet.com/report/5997077)
-- TMC - Defects -CW10 Potholes problem, 20th May :- [https://www.fixmystreet.com/report/5997076](https://www.fixmystreet.com/report/5997076)
-- TMC - Defects -CW10 Potholes problem, 20th May :- [https://www.fixmystreet.com/report/5997074](https://www.fixmystreet.com/report/5997074)
 
 <!-- fix_marker ends -->
