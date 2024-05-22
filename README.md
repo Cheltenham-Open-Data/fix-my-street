@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- This is always an issue and is a high risk due to flooding, 22nd May :- [https://www.fixmystreet.com/report/6004688](https://www.fixmystreet.com/report/6004688)
+- Mirror has been moved, 22nd May :- [https://www.fixmystreet.com/report/6004656](https://www.fixmystreet.com/report/6004656)
+- There is no drainage on the tescos side of the zebra crossing and when it rains a massive puddle is made and cars splash pedestrians waiting to cross the road., 21st May :- [https://www.fixmystreet.com/report/6003866](https://www.fixmystreet.com/report/6003866)
+- Manhole cover loose and very very noisy cars go over this and pedestrians as it’s in the crossing, 21st May :- [https://www.fixmystreet.com/report/6003860](https://www.fixmystreet.com/report/6003860)
+- Drain cover loose on the zebra crossing and extremely noisy as ever car goes over it, 22nd May :- [https://www.fixmystreet.com/report/6003849](https://www.fixmystreet.com/report/6003849)
 - Obstructed view to oncoming traffic, 21st May :- [https://www.fixmystreet.com/report/6003203](https://www.fixmystreet.com/report/6003203)
 - Multiple potholes and sinkage where the road has previously been dug up and resurfaced, 21st May :- [https://www.fixmystreet.com/report/6002975](https://www.fixmystreet.com/report/6002975)
 - Light sensor is not detecting vehicles problem, 21st May :- [https://www.fixmystreet.com/report/6003139](https://www.fixmystreet.com/report/6003139)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001940](https://www.fixmystreet.com/report/6001940)
 - TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001938](https://www.fixmystreet.com/report/6001938)
 - TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001939](https://www.fixmystreet.com/report/6001939)
-- TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001795](https://www.fixmystreet.com/report/6001795)
-- TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001794](https://www.fixmystreet.com/report/6001794)
-- TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001793](https://www.fixmystreet.com/report/6001793)
-- TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001792](https://www.fixmystreet.com/report/6001792)
-- TMC - Defects -CW10 Potholes problem, 21st May :- [https://www.fixmystreet.com/report/6001791](https://www.fixmystreet.com/report/6001791)
 
 <!-- fix_marker ends -->
