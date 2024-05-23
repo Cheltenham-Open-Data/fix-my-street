@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Kerbs and Channels problem, 23rd May :- [https://www.fixmystreet.com/report/6009711](https://www.fixmystreet.com/report/6009711)
+- Water logged pedestrian crossing, 23rd May :- [https://www.fixmystreet.com/report/6009649](https://www.fixmystreet.com/report/6009649)
+- Road markings worn away, 23rd May :- [https://www.fixmystreet.com/report/6009407](https://www.fixmystreet.com/report/6009407)
+- Very poor markings for the junction from Chapman Way onto Almer Road this then allows drivers to cut across other drivers awaiting to pull onto Almar Road, 22nd May :- [https://www.fixmystreet.com/report/6009180](https://www.fixmystreet.com/report/6009180)
+- Blocked drain, 22nd May :- [https://www.fixmystreet.com/report/6008848](https://www.fixmystreet.com/report/6008848)
 - Large pot holes on junction, 22nd May :- [https://www.fixmystreet.com/report/6008279](https://www.fixmystreet.com/report/6008279)
 - Tree is damaged problem, 22nd May :- [https://www.fixmystreet.com/report/6007922](https://www.fixmystreet.com/report/6007922)
 - Water flowing from drain outside Endsleigh Insurance building., 22nd May :- [https://www.fixmystreet.com/report/6007816](https://www.fixmystreet.com/report/6007816)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Completely blocks one lane of carriageway.very dangerous due to near by facilities, causes a backlog of double queue of vehicles causing blind spots for drivers, in a well used children, disabled and elderly area., 22nd May :- [https://www.fixmystreet.com/report/6006838](https://www.fixmystreet.com/report/6006838)
 - TMC - Defects - Other problem, 22nd May :- [https://www.fixmystreet.com/report/6006882](https://www.fixmystreet.com/report/6006882)
 - TMC - Defects - Other FW6  Surface problem, 22nd May :- [https://www.fixmystreet.com/report/6006730](https://www.fixmystreet.com/report/6006730)
-- TMC - Defects -CW10 Potholes problem, 22nd May :- [https://www.fixmystreet.com/report/6006729](https://www.fixmystreet.com/report/6006729)
-- Tree is damaged problem, 22nd May :- [https://www.fixmystreet.com/report/6006726](https://www.fixmystreet.com/report/6006726)
-- TMC - Defects -CW10 Potholes problem, 22nd May :- [https://www.fixmystreet.com/report/6006534](https://www.fixmystreet.com/report/6006534)
-- TMC - Defects -CW10 Potholes problem, 22nd May :- [https://www.fixmystreet.com/report/6006535](https://www.fixmystreet.com/report/6006535)
-- TMC - Defects -CW10 Potholes problem, 22nd May :- [https://www.fixmystreet.com/report/6006533](https://www.fixmystreet.com/report/6006533)
 
 <!-- fix_marker ends -->
