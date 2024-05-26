@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Uneven slabs caused me to fall over outside of greggs, 26th May :- [https://www.fixmystreet.com/report/6022447](https://www.fixmystreet.com/report/6022447)
+- Fallen Tree Issue, 26th May :- [https://www.fixmystreet.com/report/6022177](https://www.fixmystreet.com/report/6022177)
+- Grass verges are too high to safely join the highway, 26th May :- [https://www.fixmystreet.com/report/6021931](https://www.fixmystreet.com/report/6021931)
+- Fly tipping of house hold goods on highgrove way just past Tudor close, 26th May :- [https://www.fixmystreet.com/report/6021338](https://www.fixmystreet.com/report/6021338)
+- Huge pothole outside building site, 26th May :- [https://www.fixmystreet.com/report/6021117](https://www.fixmystreet.com/report/6021117)
 - Street light not working, 25th May :- [https://www.fixmystreet.com/report/6020776](https://www.fixmystreet.com/report/6020776)
 - Various potholes, 25th May :- [https://www.fixmystreet.com/report/6020733](https://www.fixmystreet.com/report/6020733)
 - The signpost to The Leigh travelling from Coombe Hill has been damaged and cannot be seen. This is extremely dangerous for traffic wishing to slow down to turn right into Blacksmiths Lane., 25th May :- [https://www.fixmystreet.com/report/6020608](https://www.fixmystreet.com/report/6020608)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Abandoned builders merchant/ DIY store troleery, 25th May :- [https://www.fixmystreet.com/report/6019014](https://www.fixmystreet.com/report/6019014)
 - Glass in road, 25th May :- [https://www.fixmystreet.com/report/6019007](https://www.fixmystreet.com/report/6019007)
 - Flytipped garden waste, 25th May :- [https://www.fixmystreet.com/report/6019004](https://www.fixmystreet.com/report/6019004)
-- Graffiti on church wall, 25th May :- [https://www.fixmystreet.com/report/6018995](https://www.fixmystreet.com/report/6018995)
-- Shurdlington roundabout, 25th May :- [https://www.fixmystreet.com/report/6018931](https://www.fixmystreet.com/report/6018931)
-- 2 potholes at caf width, ime. You cant go around both at same time,, 25th May :- [https://www.fixmystreet.com/report/6018528](https://www.fixmystreet.com/report/6018528)
-- TMC - Defects - Vegetation problem, 25th May :- [https://www.fixmystreet.com/report/6018486](https://www.fixmystreet.com/report/6018486)
-- TMC - Defects - Vegetation problem, 25th May :- [https://www.fixmystreet.com/report/6018454](https://www.fixmystreet.com/report/6018454)
 
 <!-- fix_marker ends -->
