@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The bridleway has become dangerous for walkers, cyclists and horses / horse riders. The surface of the bridleway has broken up leaving deep and wide holes and and unfirm surface. Someone or a horse could easily be injured if not taking great care., 1st June :- [https://www.fixmystreet.com/report/6048659](https://www.fixmystreet.com/report/6048659)
+- Where the resurfaced part of the road ends, the resurfacing wasn't graded down to the remaining road, causing cars to bump down onto the old road, creating deep pot holes either side of the road., 1st June :- [https://www.fixmystreet.com/report/6048400](https://www.fixmystreet.com/report/6048400)
+- Grass verges are very overgrown, 1st June :- [https://www.fixmystreet.com/report/6048160](https://www.fixmystreet.com/report/6048160)
+- Graffiti on fencing, 1st June :- [https://www.fixmystreet.com/report/6048104](https://www.fixmystreet.com/report/6048104)
+- Vegetation obscuring view, 1st June :- [https://www.fixmystreet.com/report/6048091](https://www.fixmystreet.com/report/6048091)
+- New graffiti, 1st June :- [https://www.fixmystreet.com/report/6048075](https://www.fixmystreet.com/report/6048075)
+- Ash Tree growing on the highway side of the Stoke Road brook outside Old Forge Cotrages, 1st June :- [https://www.fixmystreet.com/report/6047706](https://www.fixmystreet.com/report/6047706)
+- Large pothole getting worse daily. Also manhole cover subsiding, 1st June :- [https://www.fixmystreet.com/report/6047465](https://www.fixmystreet.com/report/6047465)
+- Pothole, 1st June :- [https://www.fixmystreet.com/report/6047405](https://www.fixmystreet.com/report/6047405)
+- Pothole, 1st June :- [https://www.fixmystreet.com/report/6047388](https://www.fixmystreet.com/report/6047388)
 - Large Dead Tree Limbs At Risk Of Falling, 31st May :- [https://www.fixmystreet.com/report/6046295](https://www.fixmystreet.com/report/6046295)
 - Lots of weeds all along kerb line in Oldfield road, 31st May :- [https://www.fixmystreet.com/report/6046059](https://www.fixmystreet.com/report/6046059)
 - Street light needs replacing, 31st May :- [https://www.fixmystreet.com/report/6045763](https://www.fixmystreet.com/report/6045763)
@@ -11,16 +21,6 @@ Fix my street items within 10km of Cheltenham centre
 - Very unsafe overgrown tree lower branches for Road users and pedestrians, 31st May :- [https://www.fixmystreet.com/report/6045355](https://www.fixmystreet.com/report/6045355)
 - 6" pothole, Large, 31st May :- [https://www.fixmystreet.com/report/6045111](https://www.fixmystreet.com/report/6045111)
 - TMC - Defects -CW10 Potholes problem, 31st May :- [https://www.fixmystreet.com/report/6045153](https://www.fixmystreet.com/report/6045153)
-- TMC - Defects - Vegetation problem, 31st May :- [https://www.fixmystreet.com/report/6045151](https://www.fixmystreet.com/report/6045151)
-- TMC - Defects - Vegetation problem, 31st May :- [https://www.fixmystreet.com/report/6045152](https://www.fixmystreet.com/report/6045152)
-- TMC - Defects - Vegetation problem, 31st May :- [https://www.fixmystreet.com/report/6045150](https://www.fixmystreet.com/report/6045150)
 - TMC - Defects - Vegetation problem, 31st May :- [https://www.fixmystreet.com/report/6045149](https://www.fixmystreet.com/report/6045149)
-- 12” pothole on Mill Lane, Prestbury, 31st May :- [https://www.fixmystreet.com/report/6044966](https://www.fixmystreet.com/report/6044966)
-- TMC - Defects -CW10 Potholes problem, 31st May :- [https://www.fixmystreet.com/report/6044849](https://www.fixmystreet.com/report/6044849)
-- TMC - Defects -CW10 Potholes problem, 31st May :- [https://www.fixmystreet.com/report/6044848](https://www.fixmystreet.com/report/6044848)
-- Three potholes in narrow section of Andover Street, 31st May :- [https://www.fixmystreet.com/report/6044728](https://www.fixmystreet.com/report/6044728)
-- TMC - Defects - Vegetation problem, 31st May :- [https://www.fixmystreet.com/report/6044687](https://www.fixmystreet.com/report/6044687)
-- The sign is illegible problem, 31st May :- [https://www.fixmystreet.com/report/6044683](https://www.fixmystreet.com/report/6044683)
-- TMC - Defects -CW10 Potholes problem, 31st May :- [https://www.fixmystreet.com/report/6044548](https://www.fixmystreet.com/report/6044548)
 
 <!-- fix_marker ends -->
