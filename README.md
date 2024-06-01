@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large Dead Tree Limbs At Risk Of Falling, 31st May :- [https://www.fixmystreet.com/report/6046295](https://www.fixmystreet.com/report/6046295)
+- Lots of weeds all along kerb line in Oldfield road, 31st May :- [https://www.fixmystreet.com/report/6046059](https://www.fixmystreet.com/report/6046059)
 - Street light needs replacing, 31st May :- [https://www.fixmystreet.com/report/6045763](https://www.fixmystreet.com/report/6045763)
 - Flytipping, 31st May :- [https://www.fixmystreet.com/report/6045739](https://www.fixmystreet.com/report/6045739)
 - Parking on junctions, no road markings, 31st May :- [https://www.fixmystreet.com/report/6045623](https://www.fixmystreet.com/report/6045623)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 31st May :- [https://www.fixmystreet.com/report/6044687](https://www.fixmystreet.com/report/6044687)
 - The sign is illegible problem, 31st May :- [https://www.fixmystreet.com/report/6044683](https://www.fixmystreet.com/report/6044683)
 - TMC - Defects -CW10 Potholes problem, 31st May :- [https://www.fixmystreet.com/report/6044548](https://www.fixmystreet.com/report/6044548)
-- TMC - Defects - Other FW6  Surface problem, 31st May :- [https://www.fixmystreet.com/report/6044547](https://www.fixmystreet.com/report/6044547)
-- TMC - Defects - Other FW6  Surface problem, 31st May :- [https://www.fixmystreet.com/report/6044546](https://www.fixmystreet.com/report/6044546)
 
 <!-- fix_marker ends -->
