@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Two potholes on Keynsham Street, 4th June :- [https://www.fixmystreet.com/report/6064051](https://www.fixmystreet.com/report/6064051)
 - Pot hole and raised curb, 4th June :- [https://www.fixmystreet.com/report/6063437](https://www.fixmystreet.com/report/6063437)
 - Nettles taking over the pavement. So many children walk down here and baby in pushchair would struggle with a double pushchair, 4th June :- [https://www.fixmystreet.com/report/6063163](https://www.fixmystreet.com/report/6063163)
 - Tall weeds making it very dangerous to pull onto road, 4th June :- [https://www.fixmystreet.com/report/6063026](https://www.fixmystreet.com/report/6063026)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 4th June :- [https://www.fixmystreet.com/report/6061929](https://www.fixmystreet.com/report/6061929)
 - TMC - Defects -CW10 Potholes problem, 4th June :- [https://www.fixmystreet.com/report/6061923](https://www.fixmystreet.com/report/6061923)
 - TMC - Defects -CW10 Potholes problem, 4th June :- [https://www.fixmystreet.com/report/6061729](https://www.fixmystreet.com/report/6061729)
-- TMC - Defects -CW10 Potholes problem, 4th June :- [https://www.fixmystreet.com/report/6061724](https://www.fixmystreet.com/report/6061724)
 
 <!-- fix_marker ends -->
