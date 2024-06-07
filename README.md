@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hugely Overgrown bushes in Alley, 7th June :- [https://www.fixmystreet.com/report/6075327](https://www.fixmystreet.com/report/6075327)
+- Street light not working, 6th June :- [https://www.fixmystreet.com/report/6075222](https://www.fixmystreet.com/report/6075222)
 - Bridge damaged, 6th June :- [https://www.fixmystreet.com/report/6074372](https://www.fixmystreet.com/report/6074372)
 - Dumped mattress, 6th June :- [https://www.fixmystreet.com/report/6074164](https://www.fixmystreet.com/report/6074164)
 - Large area along street plus kerbsides, 6th June :- [https://www.fixmystreet.com/report/6073690](https://www.fixmystreet.com/report/6073690)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 6th June :- [https://www.fixmystreet.com/report/6072780](https://www.fixmystreet.com/report/6072780)
 - Ash Tree located on Highway land problem, 6th June :- [https://www.fixmystreet.com/report/6072771](https://www.fixmystreet.com/report/6072771)
 - Ash Tree located on Highway land problem, 6th June :- [https://www.fixmystreet.com/report/6072573](https://www.fixmystreet.com/report/6072573)
-- TMC - Defects - Other problem, 6th June :- [https://www.fixmystreet.com/report/6072778](https://www.fixmystreet.com/report/6072778)
-- Ash Tree located on Highway land problem, 6th June :- [https://www.fixmystreet.com/report/6072572](https://www.fixmystreet.com/report/6072572)
 
 <!-- fix_marker ends -->
