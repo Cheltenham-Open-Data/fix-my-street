@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The whole road is without street lights in front of the college, 7th June :- [https://www.fixmystreet.com/report/6079823](https://www.fixmystreet.com/report/6079823)
+- Wonky tree, 7th June :- [https://www.fixmystreet.com/report/6079624](https://www.fixmystreet.com/report/6079624)
+- Arle Court Underpass - Rubbish left from KFC, 7th June :- [https://www.fixmystreet.com/report/6079411](https://www.fixmystreet.com/report/6079411)
 - Damage to bridge, 7th June :- [https://www.fixmystreet.com/report/6079343](https://www.fixmystreet.com/report/6079343)
 - Graffiti on street sign, 7th June :- [https://www.fixmystreet.com/report/6079201](https://www.fixmystreet.com/report/6079201)
 - Graffiti on stop sign, 7th June :- [https://www.fixmystreet.com/report/6079198](https://www.fixmystreet.com/report/6079198)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Resident's vegetation has left most of the pavement inaccessible., 7th June :- [https://www.fixmystreet.com/report/6078415](https://www.fixmystreet.com/report/6078415)
 - Overgrown verge, 7th June :- [https://www.fixmystreet.com/report/6078335](https://www.fixmystreet.com/report/6078335)
 - TMC - Defects - Vegetation problem, 7th June :- [https://www.fixmystreet.com/report/6078363](https://www.fixmystreet.com/report/6078363)
-- Very loose manhole cover creating a very loud noise whenever vehicles pass over it. Being going on for well over 12 months now., 7th June :- [https://www.fixmystreet.com/report/6078290](https://www.fixmystreet.com/report/6078290)
-- Group of potholes getting bigger. Not properly fixed last time., 7th June :- [https://www.fixmystreet.com/report/6078215](https://www.fixmystreet.com/report/6078215)
-- TMC - Defects -CW10 Potholes problem, 7th June :- [https://www.fixmystreet.com/report/6078223](https://www.fixmystreet.com/report/6078223)
 
 <!-- fix_marker ends -->
