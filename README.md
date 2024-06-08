@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hedges obstructing path causing pedestrians to step into road, 8th June :- [https://www.fixmystreet.com/report/6081873](https://www.fixmystreet.com/report/6081873)
+- Raised ridge in the road causing people to fall, 8th June :- [https://www.fixmystreet.com/report/6081682](https://www.fixmystreet.com/report/6081682)
+- BBQ Abandoned, 8th June :- [https://www.fixmystreet.com/report/6081363](https://www.fixmystreet.com/report/6081363)
+- Graffiti on bus stop, 8th June :- [https://www.fixmystreet.com/report/6081021](https://www.fixmystreet.com/report/6081021)
+- Settee dumped on green space, 8th June :- [https://www.fixmystreet.com/report/6080901](https://www.fixmystreet.com/report/6080901)
+- Blocked drain, tarmac being plucked out around it, 8th June :- [https://www.fixmystreet.com/report/6080898](https://www.fixmystreet.com/report/6080898)
+- Swing broken vandalism, 8th June :- [https://www.fixmystreet.com/report/6080729](https://www.fixmystreet.com/report/6080729)
+- Dead Tree outside 41 Kipling Road, 8th June :- [https://www.fixmystreet.com/report/6080559](https://www.fixmystreet.com/report/6080559)
+- Roadworks sign STILL dumped on pavement, 8th June :- [https://www.fixmystreet.com/report/6080358](https://www.fixmystreet.com/report/6080358)
+- Lots of loose large stones and rubble covering the exit and roundabout edging, 8th June :- [https://www.fixmystreet.com/report/6080332](https://www.fixmystreet.com/report/6080332)
+- Dangerously high grass and vegetation blocking view for drivers and cyclists leaving Coberley onto A435, 8th June :- [https://www.fixmystreet.com/report/6080277](https://www.fixmystreet.com/report/6080277)
 - The whole road is without street lights in front of the college, 7th June :- [https://www.fixmystreet.com/report/6079823](https://www.fixmystreet.com/report/6079823)
 - Wonky tree, 7th June :- [https://www.fixmystreet.com/report/6079624](https://www.fixmystreet.com/report/6079624)
 - Arle Court Underpass - Rubbish left from KFC, 7th June :- [https://www.fixmystreet.com/report/6079411](https://www.fixmystreet.com/report/6079411)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on bus stop, 7th June :- [https://www.fixmystreet.com/report/6079191](https://www.fixmystreet.com/report/6079191)
 - Bus stop covered in graffiti, 7th June :- [https://www.fixmystreet.com/report/6079186](https://www.fixmystreet.com/report/6079186)
 - Several worsening potholes, 7th June :- [https://www.fixmystreet.com/report/6079085](https://www.fixmystreet.com/report/6079085)
-- Fly tipping in nature reserve, 7th June :- [https://www.fixmystreet.com/report/6078876](https://www.fixmystreet.com/report/6078876)
-- Racist graffiti, 7th June :- [https://www.fixmystreet.com/report/6078834](https://www.fixmystreet.com/report/6078834)
-- Obscene graffiti, 7th June :- [https://www.fixmystreet.com/report/6078823](https://www.fixmystreet.com/report/6078823)
-- Pothole in path, 7th June :- [https://www.fixmystreet.com/report/6078794](https://www.fixmystreet.com/report/6078794)
-- Abandoned trolley, 7th June :- [https://www.fixmystreet.com/report/6078742](https://www.fixmystreet.com/report/6078742)
-- Overflowing bin outside locale shop.(corner Swindon and Baker street), 7th June :- [https://www.fixmystreet.com/report/6078601](https://www.fixmystreet.com/report/6078601)
-- Resident's vegetation has left most of the pavement inaccessible., 7th June :- [https://www.fixmystreet.com/report/6078440](https://www.fixmystreet.com/report/6078440)
-- TMC - Defects - Vegetation problem, 7th June :- [https://www.fixmystreet.com/report/6078521](https://www.fixmystreet.com/report/6078521)
-- Resident's vegetation has left most of the pavement inaccessible., 7th June :- [https://www.fixmystreet.com/report/6078415](https://www.fixmystreet.com/report/6078415)
-- Overgrown verge, 7th June :- [https://www.fixmystreet.com/report/6078335](https://www.fixmystreet.com/report/6078335)
-- TMC - Defects - Vegetation problem, 7th June :- [https://www.fixmystreet.com/report/6078363](https://www.fixmystreet.com/report/6078363)
 
 <!-- fix_marker ends -->
