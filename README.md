@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree outside 57, 9th June :- [https://www.fixmystreet.com/report/6082872](https://www.fixmystreet.com/report/6082872)
+- Streetlight out, 9th June :- [https://www.fixmystreet.com/report/6082689](https://www.fixmystreet.com/report/6082689)
 - Hedges obstructing path causing pedestrians to step into road, 8th June :- [https://www.fixmystreet.com/report/6081873](https://www.fixmystreet.com/report/6081873)
 - Raised ridge in the road causing people to fall, 8th June :- [https://www.fixmystreet.com/report/6081682](https://www.fixmystreet.com/report/6081682)
 - BBQ Abandoned, 8th June :- [https://www.fixmystreet.com/report/6081363](https://www.fixmystreet.com/report/6081363)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Graffiti on street sign, 7th June :- [https://www.fixmystreet.com/report/6079201](https://www.fixmystreet.com/report/6079201)
 - Graffiti on stop sign, 7th June :- [https://www.fixmystreet.com/report/6079198](https://www.fixmystreet.com/report/6079198)
 - Graffiti on bus stop, 7th June :- [https://www.fixmystreet.com/report/6079191](https://www.fixmystreet.com/report/6079191)
-- Bus stop covered in graffiti, 7th June :- [https://www.fixmystreet.com/report/6079186](https://www.fixmystreet.com/report/6079186)
-- Several worsening potholes, 7th June :- [https://www.fixmystreet.com/report/6079085](https://www.fixmystreet.com/report/6079085)
 
 <!-- fix_marker ends -->
