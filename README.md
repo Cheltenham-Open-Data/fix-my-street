@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pavement outside entrance to Sixways Clinic/Car Park is difficult for people to walk on, 9th June :- [https://www.fixmystreet.com/report/6084551](https://www.fixmystreet.com/report/6084551)
+- Missing drain cover - on the entrance to the underpass, 9th June :- [https://www.fixmystreet.com/report/6084496](https://www.fixmystreet.com/report/6084496)
+- The whole road and pavement is disgraceful, full of pot holes and uneven surfaces. This is one of the oldest roads in Cheltenham with lots of investment being made on the road. In encourage further investment and gentrification of the area the road and pavement need addressing., 9th June :- [https://www.fixmystreet.com/report/6084338](https://www.fixmystreet.com/report/6084338)
+- Dumped sign by entrance to brook, 9th June :- [https://www.fixmystreet.com/report/6083773](https://www.fixmystreet.com/report/6083773)
+- Pot hole in between road and drive of 219, 9th June :- [https://www.fixmystreet.com/report/6083220](https://www.fixmystreet.com/report/6083220)
 - Tree outside 57, 9th June :- [https://www.fixmystreet.com/report/6082872](https://www.fixmystreet.com/report/6082872)
 - Streetlight out, 9th June :- [https://www.fixmystreet.com/report/6082689](https://www.fixmystreet.com/report/6082689)
 - Hedges obstructing path causing pedestrians to step into road, 8th June :- [https://www.fixmystreet.com/report/6081873](https://www.fixmystreet.com/report/6081873)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dangerously high grass and vegetation blocking view for drivers and cyclists leaving Coberley onto A435, 8th June :- [https://www.fixmystreet.com/report/6080277](https://www.fixmystreet.com/report/6080277)
 - The whole road is without street lights in front of the college, 7th June :- [https://www.fixmystreet.com/report/6079823](https://www.fixmystreet.com/report/6079823)
 - Wonky tree, 7th June :- [https://www.fixmystreet.com/report/6079624](https://www.fixmystreet.com/report/6079624)
-- Arle Court Underpass - Rubbish left from KFC, 7th June :- [https://www.fixmystreet.com/report/6079411](https://www.fixmystreet.com/report/6079411)
-- Damage to bridge, 7th June :- [https://www.fixmystreet.com/report/6079343](https://www.fixmystreet.com/report/6079343)
-- Graffiti on street sign, 7th June :- [https://www.fixmystreet.com/report/6079201](https://www.fixmystreet.com/report/6079201)
-- Graffiti on stop sign, 7th June :- [https://www.fixmystreet.com/report/6079198](https://www.fixmystreet.com/report/6079198)
-- Graffiti on bus stop, 7th June :- [https://www.fixmystreet.com/report/6079191](https://www.fixmystreet.com/report/6079191)
 
 <!-- fix_marker ends -->
