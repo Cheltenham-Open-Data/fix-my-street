@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree limb across single track road., 9th June :- [https://www.fixmystreet.com/report/6085314](https://www.fixmystreet.com/report/6085314)
 - Pavement outside entrance to Sixways Clinic/Car Park is difficult for people to walk on, 9th June :- [https://www.fixmystreet.com/report/6084551](https://www.fixmystreet.com/report/6084551)
 - Missing drain cover - on the entrance to the underpass, 9th June :- [https://www.fixmystreet.com/report/6084496](https://www.fixmystreet.com/report/6084496)
 - The whole road and pavement is disgraceful, full of pot holes and uneven surfaces. This is one of the oldest roads in Cheltenham with lots of investment being made on the road. In encourage further investment and gentrification of the area the road and pavement need addressing., 9th June :- [https://www.fixmystreet.com/report/6084338](https://www.fixmystreet.com/report/6084338)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lots of loose large stones and rubble covering the exit and roundabout edging, 8th June :- [https://www.fixmystreet.com/report/6080332](https://www.fixmystreet.com/report/6080332)
 - Dangerously high grass and vegetation blocking view for drivers and cyclists leaving Coberley onto A435, 8th June :- [https://www.fixmystreet.com/report/6080277](https://www.fixmystreet.com/report/6080277)
 - The whole road is without street lights in front of the college, 7th June :- [https://www.fixmystreet.com/report/6079823](https://www.fixmystreet.com/report/6079823)
-- Wonky tree, 7th June :- [https://www.fixmystreet.com/report/6079624](https://www.fixmystreet.com/report/6079624)
 
 <!-- fix_marker ends -->
