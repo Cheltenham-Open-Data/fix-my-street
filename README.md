@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Giant hogweed next to road, 12th June :- [https://www.fixmystreet.com/report/6096603](https://www.fixmystreet.com/report/6096603)
+- Overgrown tree obstructing walkway, 12th June :- [https://www.fixmystreet.com/report/6096461](https://www.fixmystreet.com/report/6096461)
+- Drain cover collapsing, 11th June :- [https://www.fixmystreet.com/report/6095715](https://www.fixmystreet.com/report/6095715)
+- Pothole outside imperial house, 11th June :- [https://www.fixmystreet.com/report/6095683](https://www.fixmystreet.com/report/6095683)
 - Overgrown vegetation on footpath between Mill Lane and footbridge, 11th June :- [https://www.fixmystreet.com/report/6094997](https://www.fixmystreet.com/report/6094997)
 - Overgrown vegetation blocking pathway between Ham Lane and Mill Lane, 11th June :- [https://www.fixmystreet.com/report/6094975](https://www.fixmystreet.com/report/6094975)
 - The road has sunken/rippled on the corner to Court Road., 11th June :- [https://www.fixmystreet.com/report/6094910](https://www.fixmystreet.com/report/6094910)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 11th June :- [https://www.fixmystreet.com/report/6094070](https://www.fixmystreet.com/report/6094070)
 - TMC - Defects -CW10 Potholes problem, 11th June :- [https://www.fixmystreet.com/report/6094069](https://www.fixmystreet.com/report/6094069)
 - TMC - Defects - Other FW6  Surface problem, 11th June :- [https://www.fixmystreet.com/report/6094067](https://www.fixmystreet.com/report/6094067)
-- TMC - Defects - Vegetation problem, 11th June :- [https://www.fixmystreet.com/report/6094066](https://www.fixmystreet.com/report/6094066)
-- TMC - Defects -other CW10 problem, 11th June :- [https://www.fixmystreet.com/report/6093862](https://www.fixmystreet.com/report/6093862)
-- Massive trench down the road with several large deeper holes along the way, 11th June :- [https://www.fixmystreet.com/report/6093745](https://www.fixmystreet.com/report/6093745)
-- Still hazardous, cones or not, 11th June :- [https://www.fixmystreet.com/report/6093718](https://www.fixmystreet.com/report/6093718)
 
 <!-- fix_marker ends -->
