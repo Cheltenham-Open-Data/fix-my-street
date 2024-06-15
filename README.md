@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree is damaged problem, 15th June :- [https://www.fixmystreet.com/report/6111710](https://www.fixmystreet.com/report/6111710)
+- Stinging Nettles and brambles overgrowing path, 15th June :- [https://www.fixmystreet.com/report/6111426](https://www.fixmystreet.com/report/6111426)
+- Blocked Drains causing retained surface water, 15th June :- [https://www.fixmystreet.com/report/6110394](https://www.fixmystreet.com/report/6110394)
 - 3 Street lights not working, 15th June :- [https://www.fixmystreet.com/report/6110211](https://www.fixmystreet.com/report/6110211)
 - Street light in church lane Shurdington is out, 14th June :- [https://www.fixmystreet.com/report/6110102](https://www.fixmystreet.com/report/6110102)
 - Pink and white Ute abandoned on verge. Window open. Noticed there Thursday 1900 hours. Still there Friday 1200 hours, 14th June :- [https://www.fixmystreet.com/report/6109866](https://www.fixmystreet.com/report/6109866)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Signs & Street Furniture problem, 14th June :- [https://www.fixmystreet.com/report/6108691](https://www.fixmystreet.com/report/6108691)
 - TMC - Defects - Signs & Street Furniture problem, 14th June :- [https://www.fixmystreet.com/report/6108690](https://www.fixmystreet.com/report/6108690)
 - TMC - Defects - Footways Slabs problem, 14th June :- [https://www.fixmystreet.com/report/6108688](https://www.fixmystreet.com/report/6108688)
-- TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108544](https://www.fixmystreet.com/report/6108544)
-- TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108545](https://www.fixmystreet.com/report/6108545)
-- TMC - Defects - Vegetation problem, 14th June :- [https://www.fixmystreet.com/report/6108543](https://www.fixmystreet.com/report/6108543)
 
 <!-- fix_marker ends -->
