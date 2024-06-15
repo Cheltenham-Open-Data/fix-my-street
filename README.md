@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3 Street lights not working, 15th June :- [https://www.fixmystreet.com/report/6110211](https://www.fixmystreet.com/report/6110211)
+- Street light in church lane Shurdington is out, 14th June :- [https://www.fixmystreet.com/report/6110102](https://www.fixmystreet.com/report/6110102)
+- Pink and white Ute abandoned on verge. Window open. Noticed there Thursday 1900 hours. Still there Friday 1200 hours, 14th June :- [https://www.fixmystreet.com/report/6109866](https://www.fixmystreet.com/report/6109866)
+- There is a sunken drain cover in the northbound carriageway - its been previously reported in November 2023 under Web Reference: 5212149 Enquiry Number: 22034128 but it appears to have not been fixed. Please could this be attended to as it presents a danger/risk of damage to car tyres/suspensions or worse still for cyclists etc., 14th June :- [https://www.fixmystreet.com/report/6109829](https://www.fixmystreet.com/report/6109829)
+- Disintegrated surface, 14th June :- [https://www.fixmystreet.com/report/6109754](https://www.fixmystreet.com/report/6109754)
 - Pavement all broken, 14th June :- [https://www.fixmystreet.com/report/6109641](https://www.fixmystreet.com/report/6109641)
 - Blocked Drain, 14th June :- [https://www.fixmystreet.com/report/6109241](https://www.fixmystreet.com/report/6109241)
 - Loose paving slabs, 14th June :- [https://www.fixmystreet.com/report/6109200](https://www.fixmystreet.com/report/6109200)
@@ -14,13 +19,8 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Signs & Street Furniture problem, 14th June :- [https://www.fixmystreet.com/report/6108691](https://www.fixmystreet.com/report/6108691)
 - TMC - Defects - Signs & Street Furniture problem, 14th June :- [https://www.fixmystreet.com/report/6108690](https://www.fixmystreet.com/report/6108690)
 - TMC - Defects - Footways Slabs problem, 14th June :- [https://www.fixmystreet.com/report/6108688](https://www.fixmystreet.com/report/6108688)
-- TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108545](https://www.fixmystreet.com/report/6108545)
 - TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108544](https://www.fixmystreet.com/report/6108544)
+- TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108545](https://www.fixmystreet.com/report/6108545)
 - TMC - Defects - Vegetation problem, 14th June :- [https://www.fixmystreet.com/report/6108543](https://www.fixmystreet.com/report/6108543)
-- TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108380](https://www.fixmystreet.com/report/6108380)
-- Broken tree branch, 14th June :- [https://www.fixmystreet.com/report/6108282](https://www.fixmystreet.com/report/6108282)
-- Tree is damaged problem, 14th June :- [https://www.fixmystreet.com/report/6108370](https://www.fixmystreet.com/report/6108370)
-- TMC - Defects -CW10 Potholes problem, 14th June :- [https://www.fixmystreet.com/report/6108230](https://www.fixmystreet.com/report/6108230)
-- TMC - Defects - Kerbs and Channels problem, 14th June :- [https://www.fixmystreet.com/report/6108227](https://www.fixmystreet.com/report/6108227)
 
 <!-- fix_marker ends -->
