@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain blocked, 16th June :- [https://www.fixmystreet.com/report/6112497](https://www.fixmystreet.com/report/6112497)
+- Sign needs repostioning, 16th June :- [https://www.fixmystreet.com/report/6112418](https://www.fixmystreet.com/report/6112418)
+- Street light flashing, 15th June :- [https://www.fixmystreet.com/report/6112267](https://www.fixmystreet.com/report/6112267)
+- Pot hole on side of ride, 16th June :- [https://www.fixmystreet.com/report/6112091](https://www.fixmystreet.com/report/6112091)
 - Tree is damaged problem, 15th June :- [https://www.fixmystreet.com/report/6111710](https://www.fixmystreet.com/report/6111710)
 - Stinging Nettles and brambles overgrowing path, 15th June :- [https://www.fixmystreet.com/report/6111426](https://www.fixmystreet.com/report/6111426)
 - Blocked Drains causing retained surface water, 15th June :- [https://www.fixmystreet.com/report/6110394](https://www.fixmystreet.com/report/6110394)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 14th June :- [https://www.fixmystreet.com/report/6108856](https://www.fixmystreet.com/report/6108856)
 - TMC - Defects - Vegetation problem, 14th June :- [https://www.fixmystreet.com/report/6108860](https://www.fixmystreet.com/report/6108860)
 - Large pothole next to pavement in road, and then pothole continues narrower across road, 14th June :- [https://www.fixmystreet.com/report/6108774](https://www.fixmystreet.com/report/6108774)
-- A pothole in road problem, 14th June :- [https://www.fixmystreet.com/report/6108686](https://www.fixmystreet.com/report/6108686)
-- TMC - Defects - Signs & Street Furniture problem, 14th June :- [https://www.fixmystreet.com/report/6108691](https://www.fixmystreet.com/report/6108691)
-- TMC - Defects - Signs & Street Furniture problem, 14th June :- [https://www.fixmystreet.com/report/6108690](https://www.fixmystreet.com/report/6108690)
-- TMC - Defects - Footways Slabs problem, 14th June :- [https://www.fixmystreet.com/report/6108688](https://www.fixmystreet.com/report/6108688)
 
 <!-- fix_marker ends -->
