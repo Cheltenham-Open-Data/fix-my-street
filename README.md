@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- At least 2 street light are not working in hawthorn road, 17th June :- [https://www.fixmystreet.com/report/6114834](https://www.fixmystreet.com/report/6114834)
+- Barking dog on right on way through yard, 17th June :- [https://www.fixmystreet.com/report/6114823](https://www.fixmystreet.com/report/6114823)
+- Series of potholes, 16th June :- [https://www.fixmystreet.com/report/6114713](https://www.fixmystreet.com/report/6114713)
+- Hole in road close to pavement, 16th June :- [https://www.fixmystreet.com/report/6114570](https://www.fixmystreet.com/report/6114570)
 - Political graffiti on wall, 16th June :- [https://www.fixmystreet.com/report/6114066](https://www.fixmystreet.com/report/6114066)
 - Black tag on wall, 16th June :- [https://www.fixmystreet.com/report/6114055](https://www.fixmystreet.com/report/6114055)
 - Water coming up through and round edge or manhole, 16th June :- [https://www.fixmystreet.com/report/6113412](https://www.fixmystreet.com/report/6113412)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pot hole on side of ride, 16th June :- [https://www.fixmystreet.com/report/6112091](https://www.fixmystreet.com/report/6112091)
 - Tree is damaged problem, 15th June :- [https://www.fixmystreet.com/report/6111710](https://www.fixmystreet.com/report/6111710)
 - Stinging Nettles and brambles overgrowing path, 15th June :- [https://www.fixmystreet.com/report/6111426](https://www.fixmystreet.com/report/6111426)
-- Blocked Drains causing retained surface water, 15th June :- [https://www.fixmystreet.com/report/6110394](https://www.fixmystreet.com/report/6110394)
-- 3 Street lights not working, 15th June :- [https://www.fixmystreet.com/report/6110211](https://www.fixmystreet.com/report/6110211)
-- Street light in church lane Shurdington is out, 14th June :- [https://www.fixmystreet.com/report/6110102](https://www.fixmystreet.com/report/6110102)
-- Pink and white Ute abandoned on verge. Window open. Noticed there Thursday 1900 hours. Still there Friday 1200 hours, 14th June :- [https://www.fixmystreet.com/report/6109866](https://www.fixmystreet.com/report/6109866)
 
 <!-- fix_marker ends -->
