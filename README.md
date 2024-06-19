@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 19th June :- [https://www.fixmystreet.com/report/6125390](https://www.fixmystreet.com/report/6125390)
+- Speed limit should be reduced to 30, 19th June :- [https://www.fixmystreet.com/report/6125273](https://www.fixmystreet.com/report/6125273)
+- A small 40mph reminder sign is now a legacy sign and ought to be removed ?, 18th June :- [https://www.fixmystreet.com/report/6124964](https://www.fixmystreet.com/report/6124964)
 - Multiple potholes, 18th June :- [https://www.fixmystreet.com/report/6124188](https://www.fixmystreet.com/report/6124188)
 - Trees outside no 7&8 have large overhang make it difficult to see when pulling out of drive onto roac, 18th June :- [https://www.fixmystreet.com/report/6124131](https://www.fixmystreet.com/report/6124131)
 - Weeds, 18th June :- [https://www.fixmystreet.com/report/6124057](https://www.fixmystreet.com/report/6124057)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other FW6  Surface problem, 18th June :- [https://www.fixmystreet.com/report/6123350](https://www.fixmystreet.com/report/6123350)
 - TMC - Defects -FW6 Potholes problem, 18th June :- [https://www.fixmystreet.com/report/6123181](https://www.fixmystreet.com/report/6123181)
 - TMC - Defects - Kerbs and Channels problem, 18th June :- [https://www.fixmystreet.com/report/6123179](https://www.fixmystreet.com/report/6123179)
-- TMC - Defects - Kerbs and Channels problem, 18th June :- [https://www.fixmystreet.com/report/6123176](https://www.fixmystreet.com/report/6123176)
-- TMC - Defects -CW10 Potholes problem, 18th June :- [https://www.fixmystreet.com/report/6123175](https://www.fixmystreet.com/report/6123175)
-- TMC - Defects - Road Markings problem, 18th June :- [https://www.fixmystreet.com/report/6123019](https://www.fixmystreet.com/report/6123019)
 
 <!-- fix_marker ends -->
