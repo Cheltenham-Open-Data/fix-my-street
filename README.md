@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dumped carpet/AstroTurf left in a trolley, 23rd June :- [https://www.fixmystreet.com/report/6143711](https://www.fixmystreet.com/report/6143711)
+- Access to stile blocked by temporary fencing cord., 23rd June :- [https://www.fixmystreet.com/report/6143533](https://www.fixmystreet.com/report/6143533)
+- Vegetation on verge is so overgrown it is getting dangerous to cross the road at the roundabout, 23rd June :- [https://www.fixmystreet.com/report/6143030](https://www.fixmystreet.com/report/6143030)
+- Pot hole at the Give Way line of mini roundabout at junction of Moorend Road, Greenhills Road and Sandy Lane, 23rd June :- [https://www.fixmystreet.com/report/6142920](https://www.fixmystreet.com/report/6142920)
+- Sunken drain on blind inside of bend, 23rd June :- [https://www.fixmystreet.com/report/6142819](https://www.fixmystreet.com/report/6142819)
+- Very large fallen free. Split branch. Very heavy. In area where people walk/play, 23rd June :- [https://www.fixmystreet.com/report/6142386](https://www.fixmystreet.com/report/6142386)
+- Dead tree dropping material onto pavement & road, 23rd June :- [https://www.fixmystreet.com/report/6141997](https://www.fixmystreet.com/report/6141997)
 - Nettles and PROW inaccessible., 22nd June :- [https://www.fixmystreet.com/report/6141459](https://www.fixmystreet.com/report/6141459)
 - Holes and exposed drain, 22nd June :- [https://www.fixmystreet.com/report/6141310](https://www.fixmystreet.com/report/6141310)
 - Large holes, 22nd June :- [https://www.fixmystreet.com/report/6141301](https://www.fixmystreet.com/report/6141301)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Unable to access gate on PRoW, 22nd June :- [https://www.fixmystreet.com/report/6140535](https://www.fixmystreet.com/report/6140535)
 - Deep square pothole on Melville road, 22nd June :- [https://www.fixmystreet.com/report/6140407](https://www.fixmystreet.com/report/6140407)
 - Anti social behaviour, 22nd June :- [https://www.fixmystreet.com/report/6140216](https://www.fixmystreet.com/report/6140216)
-- Broke kerb outside 22 St Paul’s road, 22nd June :- [https://www.fixmystreet.com/report/6140183](https://www.fixmystreet.com/report/6140183)
-- See photos, 22nd June :- [https://www.fixmystreet.com/report/6140133](https://www.fixmystreet.com/report/6140133)
-- See photos, 22nd June :- [https://www.fixmystreet.com/report/6140132](https://www.fixmystreet.com/report/6140132)
-- 10 inch deep hole in middle of road, (sinkhole), 22nd June :- [https://www.fixmystreet.com/report/6140048](https://www.fixmystreet.com/report/6140048)
-- Tarmac damage, 22nd June :- [https://www.fixmystreet.com/report/6139745](https://www.fixmystreet.com/report/6139745)
-- Subsidence of Honeybourne line railway bank resulting in garden subsidence, 22nd June :- [https://www.fixmystreet.com/report/6139630](https://www.fixmystreet.com/report/6139630)
-- Giant Hog Weed, 22nd June :- [https://www.fixmystreet.com/report/6139450](https://www.fixmystreet.com/report/6139450)
 
 <!-- fix_marker ends -->
