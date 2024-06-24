@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 24th June :- [https://www.fixmystreet.com/report/6144686](https://www.fixmystreet.com/report/6144686)
+- Offensive Graffiti, 24th June :- [https://www.fixmystreet.com/report/6144591](https://www.fixmystreet.com/report/6144591)
+- Street light not working, 23rd June :- [https://www.fixmystreet.com/report/6144351](https://www.fixmystreet.com/report/6144351)
+- Damaged road at Tivoli Circus junction, 23rd June :- [https://www.fixmystreet.com/report/6144154](https://www.fixmystreet.com/report/6144154)
+- Strip of missing surface, 23rd June :- [https://www.fixmystreet.com/report/6144146](https://www.fixmystreet.com/report/6144146)
+- Lots of grit on the cyclelane between Starverton Junction and Cheltenham, 23rd June :- [https://www.fixmystreet.com/report/6143911](https://www.fixmystreet.com/report/6143911)
 - Dumped carpet/AstroTurf left in a trolley, 23rd June :- [https://www.fixmystreet.com/report/6143711](https://www.fixmystreet.com/report/6143711)
 - Access to stile blocked by temporary fencing cord., 23rd June :- [https://www.fixmystreet.com/report/6143533](https://www.fixmystreet.com/report/6143533)
 - Vegetation on verge is so overgrown it is getting dangerous to cross the road at the roundabout, 23rd June :- [https://www.fixmystreet.com/report/6143030](https://www.fixmystreet.com/report/6143030)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Several large holes, 22nd June :- [https://www.fixmystreet.com/report/6141288](https://www.fixmystreet.com/report/6141288)
 - Several holes either side of the road, 22nd June :- [https://www.fixmystreet.com/report/6141280](https://www.fixmystreet.com/report/6141280)
 - Pothole, 22nd June :- [https://www.fixmystreet.com/report/6141266](https://www.fixmystreet.com/report/6141266)
-- Street light completely obscured by tree foliage, 22nd June :- [https://www.fixmystreet.com/report/6140918](https://www.fixmystreet.com/report/6140918)
-- Lpose kerb, 22nd June :- [https://www.fixmystreet.com/report/6140897](https://www.fixmystreet.com/report/6140897)
-- Vegetation Requires Cutback, 22nd June :- [https://www.fixmystreet.com/report/6140558](https://www.fixmystreet.com/report/6140558)
-- Unable to access gate on PRoW, 22nd June :- [https://www.fixmystreet.com/report/6140535](https://www.fixmystreet.com/report/6140535)
-- Deep square pothole on Melville road, 22nd June :- [https://www.fixmystreet.com/report/6140407](https://www.fixmystreet.com/report/6140407)
-- Anti social behaviour, 22nd June :- [https://www.fixmystreet.com/report/6140216](https://www.fixmystreet.com/report/6140216)
 
 <!-- fix_marker ends -->
