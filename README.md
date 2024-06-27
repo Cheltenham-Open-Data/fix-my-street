@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pothole close to road, dropped kerb, 26th June :- [https://www.fixmystreet.com/report/6159724](https://www.fixmystreet.com/report/6159724)
 - 'Free Palestine' Grafitti on wall near Church Lane, 26th June :- [https://www.fixmystreet.com/report/6159213](https://www.fixmystreet.com/report/6159213)
 - Path/Way doesn't match map problem, 26th June :- [https://www.fixmystreet.com/report/6158480](https://www.fixmystreet.com/report/6158480)
 - Lorrys have caused dents and telephone box now leaning, 26th June :- [https://www.fixmystreet.com/report/6158217](https://www.fixmystreet.com/report/6158217)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 26th June :- [https://www.fixmystreet.com/report/6157984](https://www.fixmystreet.com/report/6157984)
 - TMC - Defects -other CW10 problem, 26th June :- [https://www.fixmystreet.com/report/6157980](https://www.fixmystreet.com/report/6157980)
 - TMC - Defects -other CW10 problem, 26th June :- [https://www.fixmystreet.com/report/6157979](https://www.fixmystreet.com/report/6157979)
-- TMC - Defects -other CW10 problem, 26th June :- [https://www.fixmystreet.com/report/6157978](https://www.fixmystreet.com/report/6157978)
 
 <!-- fix_marker ends -->
