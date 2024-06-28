@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Raised keen causing obstruction and a hazard for cyclists, 28th June :- [https://www.fixmystreet.com/report/6165324](https://www.fixmystreet.com/report/6165324)
+- Light flashes rapidly on and off, usually between midnight and daylight next morning, 27th June :- [https://www.fixmystreet.com/report/6164401](https://www.fixmystreet.com/report/6164401)
 - Road name and numbers sign posts are rotten and the sign is loose and leaning. Its difficult for delivery drivers to see., 27th June :- [https://www.fixmystreet.com/report/6164349](https://www.fixmystreet.com/report/6164349)
 - Another drain missing brickwork, 27th June :- [https://www.fixmystreet.com/report/6163836](https://www.fixmystreet.com/report/6163836)
 - Missing stonework around sewer causing hole in floor, 27th June :- [https://www.fixmystreet.com/report/6163817](https://www.fixmystreet.com/report/6163817)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 27th June :- [https://www.fixmystreet.com/report/6163254](https://www.fixmystreet.com/report/6163254)
 - Two sets of offensive graffiti on the cycle route through Barnett Way, between Sainsburys & TSB, 27th June :- [https://www.fixmystreet.com/report/6163142](https://www.fixmystreet.com/report/6163142)
 - TMC - Defects - Kerbs and Channels problem, 27th June :- [https://www.fixmystreet.com/report/6163247](https://www.fixmystreet.com/report/6163247)
-- Overgrown grass/weeds on verge blocking pavement, 27th June :- [https://www.fixmystreet.com/report/6163097](https://www.fixmystreet.com/report/6163097)
-- TMC - Defects - Other problem, 27th June :- [https://www.fixmystreet.com/report/6163084](https://www.fixmystreet.com/report/6163084)
 
 <!-- fix_marker ends -->
