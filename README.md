@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole down to base layer or road, 30th June :- [https://www.fixmystreet.com/report/6173628](https://www.fixmystreet.com/report/6173628)
+- Diversion signs block visibility, 30th June :- [https://www.fixmystreet.com/report/6173613](https://www.fixmystreet.com/report/6173613)
+- Investigation chamber cover missing, 30th June :- [https://www.fixmystreet.com/report/6173231](https://www.fixmystreet.com/report/6173231)
+- Grass is getting overgrown, 30th June :- [https://www.fixmystreet.com/report/6173155](https://www.fixmystreet.com/report/6173155)
+- Side panel of kissing gate has been removed, 30th June :- [https://www.fixmystreet.com/report/6173016](https://www.fixmystreet.com/report/6173016)
+- Streetlight 10 Hawthorn Road is out, 30th June :- [https://www.fixmystreet.com/report/6172354](https://www.fixmystreet.com/report/6172354)
+- 3 inch sinkhole on pavement outside driveway getting bigger everyday, 30th June :- [https://www.fixmystreet.com/report/6172227](https://www.fixmystreet.com/report/6172227)
 - Multiple potholes, broken patch tarmac and uneven surfaces, especially along nearside edge - very dangerous for cyclists, 29th June :- [https://www.fixmystreet.com/report/6171485](https://www.fixmystreet.com/report/6171485)
 - 2 potholes on left side of road towards Gotherington, 29th June :- [https://www.fixmystreet.com/report/6171204](https://www.fixmystreet.com/report/6171204)
 - Abandoned Shopping Trolley, 29th June :- [https://www.fixmystreet.com/report/6170890](https://www.fixmystreet.com/report/6170890)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Foot wide pot hole around drain cover, 29th June :- [https://www.fixmystreet.com/report/6169834](https://www.fixmystreet.com/report/6169834)
 - Broken glass, 29th June :- [https://www.fixmystreet.com/report/6169826](https://www.fixmystreet.com/report/6169826)
 - Broken glass, 29th June :- [https://www.fixmystreet.com/report/6169818](https://www.fixmystreet.com/report/6169818)
-- Abandoned industrial cart, 29th June :- [https://www.fixmystreet.com/report/6169816](https://www.fixmystreet.com/report/6169816)
-- Broken glass on pavement, 29th June :- [https://www.fixmystreet.com/report/6169793](https://www.fixmystreet.com/report/6169793)
-- Tagging, 29th June :- [https://www.fixmystreet.com/report/6169791](https://www.fixmystreet.com/report/6169791)
-- Graffiti on houses, 29th June :- [https://www.fixmystreet.com/report/6169790](https://www.fixmystreet.com/report/6169790)
-- Tagging, 29th June :- [https://www.fixmystreet.com/report/6169787](https://www.fixmystreet.com/report/6169787)
-- Pothole, 29th June :- [https://www.fixmystreet.com/report/6169735](https://www.fixmystreet.com/report/6169735)
-- Surface dip into pothole, 29th June :- [https://www.fixmystreet.com/report/6169726](https://www.fixmystreet.com/report/6169726)
 
 <!-- fix_marker ends -->
