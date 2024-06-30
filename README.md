@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes, broken patch tarmac and uneven surfaces, especially along nearside edge - very dangerous for cyclists, 29th June :- [https://www.fixmystreet.com/report/6171485](https://www.fixmystreet.com/report/6171485)
 - 2 potholes on left side of road towards Gotherington, 29th June :- [https://www.fixmystreet.com/report/6171204](https://www.fixmystreet.com/report/6171204)
 - Abandoned Shopping Trolley, 29th June :- [https://www.fixmystreet.com/report/6170890](https://www.fixmystreet.com/report/6170890)
 - Temporary diversion sign abandoned, 29th June :- [https://www.fixmystreet.com/report/6170887](https://www.fixmystreet.com/report/6170887)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tagging, 29th June :- [https://www.fixmystreet.com/report/6169787](https://www.fixmystreet.com/report/6169787)
 - Pothole, 29th June :- [https://www.fixmystreet.com/report/6169735](https://www.fixmystreet.com/report/6169735)
 - Surface dip into pothole, 29th June :- [https://www.fixmystreet.com/report/6169726](https://www.fixmystreet.com/report/6169726)
-- Pot hole, 29th June :- [https://www.fixmystreet.com/report/6169717](https://www.fixmystreet.com/report/6169717)
 
 <!-- fix_marker ends -->
