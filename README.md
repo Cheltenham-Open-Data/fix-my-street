@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects - Other FW6  Surface problem, 1st July :- [https://www.fixmystreet.com/report/6174460](https://www.fixmystreet.com/report/6174460)
+- Flytip on roadside, 1st July :- [https://www.fixmystreet.com/report/6174344](https://www.fixmystreet.com/report/6174344)
+- Warped, damaged and raised pavement, 5 Pilley Lane, 30th June :- [https://www.fixmystreet.com/report/6174154](https://www.fixmystreet.com/report/6174154)
+- Unstable wall, 30th June :- [https://www.fixmystreet.com/report/6173892](https://www.fixmystreet.com/report/6173892)
 - Pothole down to base layer or road, 30th June :- [https://www.fixmystreet.com/report/6173628](https://www.fixmystreet.com/report/6173628)
 - Diversion signs block visibility, 30th June :- [https://www.fixmystreet.com/report/6173613](https://www.fixmystreet.com/report/6173613)
 - Investigation chamber cover missing, 30th June :- [https://www.fixmystreet.com/report/6173231](https://www.fixmystreet.com/report/6173231)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Mattress flytipped, 29th June :- [https://www.fixmystreet.com/report/6169896](https://www.fixmystreet.com/report/6169896)
 - Missing drain slab, 29th June :- [https://www.fixmystreet.com/report/6169884](https://www.fixmystreet.com/report/6169884)
 - Potholes all along road - massive problem, 29th June :- [https://www.fixmystreet.com/report/6169847](https://www.fixmystreet.com/report/6169847)
-- Flytipping outside number 37, 29th June :- [https://www.fixmystreet.com/report/6169840](https://www.fixmystreet.com/report/6169840)
-- Foot wide pot hole around drain cover, 29th June :- [https://www.fixmystreet.com/report/6169834](https://www.fixmystreet.com/report/6169834)
-- Broken glass, 29th June :- [https://www.fixmystreet.com/report/6169826](https://www.fixmystreet.com/report/6169826)
-- Broken glass, 29th June :- [https://www.fixmystreet.com/report/6169818](https://www.fixmystreet.com/report/6169818)
 
 <!-- fix_marker ends -->
