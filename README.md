@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Missing bollards outside 25 Old Cheltenham Road. Meaning cars park illegally to go to Tescos, 2nd July :- [https://www.fixmystreet.com/report/6183773](https://www.fixmystreet.com/report/6183773)
+- Massive cctv camera that can look straight into my apartment?!, 2nd July :- [https://www.fixmystreet.com/report/6183765](https://www.fixmystreet.com/report/6183765)
+- Potholes that keep recurring, 2nd July :- [https://www.fixmystreet.com/report/6183739](https://www.fixmystreet.com/report/6183739)
+- Section of pavement is moving up when you walk on it, 2nd July :- [https://www.fixmystreet.com/report/6183707](https://www.fixmystreet.com/report/6183707)
+- This is a sunkeb/broken water manhole cover!, 2nd July :- [https://www.fixmystreet.com/report/6183641](https://www.fixmystreet.com/report/6183641)
+- Pavement is all broken and uneven, 2nd July :- [https://www.fixmystreet.com/report/6183590](https://www.fixmystreet.com/report/6183590)
 - The alleyways and footpaths between the streets are hugely overgrown, 2nd July :- [https://www.fixmystreet.com/report/6183063](https://www.fixmystreet.com/report/6183063)
 - Drain full of soil etc, 2nd July :- [https://www.fixmystreet.com/report/6182979](https://www.fixmystreet.com/report/6182979)
 - Flytipped sofa, 2nd July :- [https://www.fixmystreet.com/report/6182740](https://www.fixmystreet.com/report/6182740)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 2nd July :- [https://www.fixmystreet.com/report/6181801](https://www.fixmystreet.com/report/6181801)
 - TMC - Defects -other CW6 problem, 2nd July :- [https://www.fixmystreet.com/report/6181800](https://www.fixmystreet.com/report/6181800)
 - The sign is illegible problem, 2nd July :- [https://www.fixmystreet.com/report/6181583](https://www.fixmystreet.com/report/6181583)
-- Depression in carriageway., 2nd July :- [https://www.fixmystreet.com/report/6181494](https://www.fixmystreet.com/report/6181494)
-- TMC - Defects - Vegetation problem, 2nd July :- [https://www.fixmystreet.com/report/6181588](https://www.fixmystreet.com/report/6181588)
-- Badly broken pavement, 2nd July :- [https://www.fixmystreet.com/report/6181319](https://www.fixmystreet.com/report/6181319)
-- TMC - Defects - Other problem, 2nd July :- [https://www.fixmystreet.com/report/6181400](https://www.fixmystreet.com/report/6181400)
-- Concrete section lifting and causing damage to car wheels and tyres also trip hazard, 2nd July :- [https://www.fixmystreet.com/report/6181213](https://www.fixmystreet.com/report/6181213)
-- TMC - Defects -CW10 Potholes problem, 2nd July :- [https://www.fixmystreet.com/report/6181025](https://www.fixmystreet.com/report/6181025)
 
 <!-- fix_marker ends -->
