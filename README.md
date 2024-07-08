@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dead deer on pavement, 7th July :- [https://www.fixmystreet.com/report/6201432](https://www.fixmystreet.com/report/6201432)
+- Road needs resurfacing on both sides, 7th July :- [https://www.fixmystreet.com/report/6201420](https://www.fixmystreet.com/report/6201420)
+- Large pot hole, 7th July :- [https://www.fixmystreet.com/report/6201408](https://www.fixmystreet.com/report/6201408)
+- Very poor surface. Difficult to traverse using a wheelchair., 7th July :- [https://www.fixmystreet.com/report/6201193](https://www.fixmystreet.com/report/6201193)
 - Pothole spraying debris onto parked cars, 7th July :- [https://www.fixmystreet.com/report/6200424](https://www.fixmystreet.com/report/6200424)
 - Drain blocked so water pooling at junction, 7th July :- [https://www.fixmystreet.com/report/6199896](https://www.fixmystreet.com/report/6199896)
 - Road sign in the middle of the pavement, 7th July :- [https://www.fixmystreet.com/report/6199519](https://www.fixmystreet.com/report/6199519)
@@ -16,11 +20,7 @@ Fix my street items within 10km of Cheltenham centre
 - Road markings faint, 5th July :- [https://www.fixmystreet.com/report/6196317](https://www.fixmystreet.com/report/6196317)
 - Traffic cones taking 6 parking spaces, 5th July :- [https://www.fixmystreet.com/report/6196049](https://www.fixmystreet.com/report/6196049)
 - Hedge row/ trees, opposite the parking spaces are damaging school coaches, 5th July :- [https://www.fixmystreet.com/report/6195588](https://www.fixmystreet.com/report/6195588)
-- TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195645](https://www.fixmystreet.com/report/6195645)
 - TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195637](https://www.fixmystreet.com/report/6195637)
-- TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195636](https://www.fixmystreet.com/report/6195636)
-- TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195639](https://www.fixmystreet.com/report/6195639)
-- TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195638](https://www.fixmystreet.com/report/6195638)
-- TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195646](https://www.fixmystreet.com/report/6195646)
+- TMC - Defects -CW10 Potholes problem, 5th July :- [https://www.fixmystreet.com/report/6195645](https://www.fixmystreet.com/report/6195645)
 
 <!-- fix_marker ends -->
