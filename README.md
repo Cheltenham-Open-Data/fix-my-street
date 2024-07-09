@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 9th July :- [https://www.fixmystreet.com/report/6206922](https://www.fixmystreet.com/report/6206922)
+- TMC - Defects - Kerbs and Channels problem, 9th July :- [https://www.fixmystreet.com/report/6206921](https://www.fixmystreet.com/report/6206921)
+- The cycling lane is littered with debris, 9th July :- [https://www.fixmystreet.com/report/6206815](https://www.fixmystreet.com/report/6206815)
+- Grass verges overgrown along A38, causing pedestrians to have to walk in the road, sometimes on blind bends, which is extremely dangerous, 8th July :- [https://www.fixmystreet.com/report/6206334](https://www.fixmystreet.com/report/6206334)
+- Dumped carrier bags of rubbish have split, 8th July :- [https://www.fixmystreet.com/report/6206145](https://www.fixmystreet.com/report/6206145)
+- Multiple locations on Sherborne Place, 8th July :- [https://www.fixmystreet.com/report/6206034](https://www.fixmystreet.com/report/6206034)
+- Metal covering sinking causing trip hazard, 8th July :- [https://www.fixmystreet.com/report/6206011](https://www.fixmystreet.com/report/6206011)
+- Ovwrgrown plants, 8th July :- [https://www.fixmystreet.com/report/6205965](https://www.fixmystreet.com/report/6205965)
 - Water to centre line after minimal rain, 8th July :- [https://www.fixmystreet.com/report/6205727](https://www.fixmystreet.com/report/6205727)
 - Painted but signs are being crashed in to, 8th July :- [https://www.fixmystreet.com/report/6205430](https://www.fixmystreet.com/report/6205430)
 - Broken glass rubbish dog fouling, 8th July :- [https://www.fixmystreet.com/report/6205424](https://www.fixmystreet.com/report/6205424)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 8th July :- [https://www.fixmystreet.com/report/6204857](https://www.fixmystreet.com/report/6204857)
 - TMC - Defects - Other FW6  Surface problem, 8th July :- [https://www.fixmystreet.com/report/6204856](https://www.fixmystreet.com/report/6204856)
 - Multiple potholes dangerous!!, 8th July :- [https://www.fixmystreet.com/report/6204579](https://www.fixmystreet.com/report/6204579)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [https://www.fixmystreet.com/report/6204640](https://www.fixmystreet.com/report/6204640)
-- TMC - Defects -CW10 Potholes problem, 8th July :- [https://www.fixmystreet.com/report/6204639](https://www.fixmystreet.com/report/6204639)
-- Van load of rubbish, 8th July :- [https://www.fixmystreet.com/report/6204535](https://www.fixmystreet.com/report/6204535)
-- TMC - Defects - Vegetation problem, 8th July :- [https://www.fixmystreet.com/report/6204616](https://www.fixmystreet.com/report/6204616)
-- TMC - Defects - Vegetation problem, 8th July :- [https://www.fixmystreet.com/report/6204454](https://www.fixmystreet.com/report/6204454)
-- Just requesting to High Way peoples to feel big patches on road please it is getting worse day by day and our building is shaking every time when buses & lorrys go pass . it is in cheltenham on clarence street by BOSTAN TEA SHOP in middle of road so please do ASAP., 8th July :- [https://www.fixmystreet.com/report/6204404](https://www.fixmystreet.com/report/6204404)
-- 2 large branches have broken from main tree to the ground, 8th July :- [https://www.fixmystreet.com/report/6204391](https://www.fixmystreet.com/report/6204391)
-- Blocking visibility on road/junction (Grass/verge) problem, 8th July :- [https://www.fixmystreet.com/report/6204842](https://www.fixmystreet.com/report/6204842)
 
 <!-- fix_marker ends -->
