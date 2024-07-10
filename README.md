@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overgrown shoots on tree on Tennyson road obscuring junction visibility, 9th July :- [https://www.fixmystreet.com/report/6210824](https://www.fixmystreet.com/report/6210824)
+- 2 potholes in the road in front of 79 Pittville Lawn, 9th July :- [https://www.fixmystreet.com/report/6210642](https://www.fixmystreet.com/report/6210642)
+- Blocked footpath due to vegetation, 9th July :- [https://www.fixmystreet.com/report/6210547](https://www.fixmystreet.com/report/6210547)
+- Vegetation blocking footpath, 9th July :- [https://www.fixmystreet.com/report/6210518](https://www.fixmystreet.com/report/6210518)
 - Commercial vehicle left on corner of junction, 9th July :- [https://www.fixmystreet.com/report/6210266](https://www.fixmystreet.com/report/6210266)
 - New barrier on a cycle path which is dangerous to cyclists, 9th July :- [https://www.fixmystreet.com/report/6210252](https://www.fixmystreet.com/report/6210252)
 - Tree is damaged problem, 9th July :- [https://www.fixmystreet.com/report/6209752](https://www.fixmystreet.com/report/6209752)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 9th July :- [https://www.fixmystreet.com/report/6209011](https://www.fixmystreet.com/report/6209011)
 - TMC - Defects - Other problem, 9th July :- [https://www.fixmystreet.com/report/6209010](https://www.fixmystreet.com/report/6209010)
 - Pothole by kerb, 9th July :- [https://www.fixmystreet.com/report/6208921](https://www.fixmystreet.com/report/6208921)
-- TMC - Defects - Vegetation problem, 9th July :- [https://www.fixmystreet.com/report/6208885](https://www.fixmystreet.com/report/6208885)
-- TMC - Defects - Vegetation problem, 9th July :- [https://www.fixmystreet.com/report/6208883](https://www.fixmystreet.com/report/6208883)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [https://www.fixmystreet.com/report/6208882](https://www.fixmystreet.com/report/6208882)
-- TMC - Defects -CW10 Potholes problem, 9th July :- [https://www.fixmystreet.com/report/6208881](https://www.fixmystreet.com/report/6208881)
 
 <!-- fix_marker ends -->
