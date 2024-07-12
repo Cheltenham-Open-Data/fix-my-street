@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Hole in pavement, 12th July :- [https://www.fixmystreet.com/report/6220507](https://www.fixmystreet.com/report/6220507)
+- Streetlight 30,31,32 are permanently out not been working for a couple weeks which with a young population in the area as well as fast traffic is very dangerous for them not to be working., 11th July :- [https://www.fixmystreet.com/report/6220302](https://www.fixmystreet.com/report/6220302)
+- Red light not working on near side primary (no option on your website to select Red light not working please correct), 11th July :- [https://www.fixmystreet.com/report/6219684](https://www.fixmystreet.com/report/6219684)
 - Brambles and foliage encroaching on road, 11th July :- [https://www.fixmystreet.com/report/6219367](https://www.fixmystreet.com/report/6219367)
 - Two loose manhole covers, 11th July :- [https://www.fixmystreet.com/report/6219192](https://www.fixmystreet.com/report/6219192)
 - Two loose manhole covers that rattle when vehicles drive over them., 11th July :- [https://www.fixmystreet.com/report/6219182](https://www.fixmystreet.com/report/6219182)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Covers, Gratings & Frames problem, 11th July :- [https://www.fixmystreet.com/report/6218192](https://www.fixmystreet.com/report/6218192)
 - Sign/waymarker is damaged problem, 11th July :- [https://www.fixmystreet.com/report/6218187](https://www.fixmystreet.com/report/6218187)
 - TMC - Defects - Vegetation problem, 11th July :- [https://www.fixmystreet.com/report/6218190](https://www.fixmystreet.com/report/6218190)
-- TMC - Defects -CW10 Potholes problem, 11th July :- [https://www.fixmystreet.com/report/6218188](https://www.fixmystreet.com/report/6218188)
-- Fly tipped shopping trolley full of rubbish, 11th July :- [https://www.fixmystreet.com/report/6217981](https://www.fixmystreet.com/report/6217981)
-- Pot hole middle of rd, 11th July :- [https://www.fixmystreet.com/report/6217963](https://www.fixmystreet.com/report/6217963)
 
 <!-- fix_marker ends -->
