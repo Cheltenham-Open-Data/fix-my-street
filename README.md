@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light covered by tree growth, 14th July :- [https://www.fixmystreet.com/report/6228529](https://www.fixmystreet.com/report/6228529)
+- Partial Pavement Obstruction, 14th July :- [https://www.fixmystreet.com/report/6228509](https://www.fixmystreet.com/report/6228509)
+- Blocked or collapsed counterfort drain, 14th July :- [https://www.fixmystreet.com/report/6228126](https://www.fixmystreet.com/report/6228126)
+- High grass between bus shelter and direction of Cirencester, 14th July :- [https://www.fixmystreet.com/report/6227823](https://www.fixmystreet.com/report/6227823)
+- Application to create a new access onto Gravel walk over public land, 14th July :- [https://www.fixmystreet.com/report/6227251](https://www.fixmystreet.com/report/6227251)
+- The cycles path is almost impassable, 14th July :- [https://www.fixmystreet.com/report/6226805](https://www.fixmystreet.com/report/6226805)
 - Storm drain and kerb have lifted significantly, 14th July :- [https://www.fixmystreet.com/report/6226687](https://www.fixmystreet.com/report/6226687)
 - PRoW overgrown, 13th July :- [https://www.fixmystreet.com/report/6226211](https://www.fixmystreet.com/report/6226211)
 - PRoW overgrown, 13th July :- [https://www.fixmystreet.com/report/6226194](https://www.fixmystreet.com/report/6226194)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Several large pot holes, 13th July :- [https://www.fixmystreet.com/report/6224680](https://www.fixmystreet.com/report/6224680)
 - Fly Tipping in Milham Playing Field, 12th July :- [https://www.fixmystreet.com/report/6224098](https://www.fixmystreet.com/report/6224098)
 - Deep potholes and cracks in tod, 12th July :- [https://www.fixmystreet.com/report/6224036](https://www.fixmystreet.com/report/6224036)
-- Entrance to reserve blocked, 12th July :- [https://www.fixmystreet.com/report/6223970](https://www.fixmystreet.com/report/6223970)
-- Difficult access to Hucclecote meadows, 12th July :- [https://www.fixmystreet.com/report/6223961](https://www.fixmystreet.com/report/6223961)
-- Green lane nature reserve path overran, 12th July :- [https://www.fixmystreet.com/report/6223952](https://www.fixmystreet.com/report/6223952)
-- Offensive graffiit, 12th July :- [https://www.fixmystreet.com/report/6223597](https://www.fixmystreet.com/report/6223597)
-- Large pothole, pedestrians keep reporting how they fall on it., 12th July :- [https://www.fixmystreet.com/report/6223334](https://www.fixmystreet.com/report/6223334)
-- Pot hole, 12th July :- [https://www.fixmystreet.com/report/6223276](https://www.fixmystreet.com/report/6223276)
 
 <!-- fix_marker ends -->
