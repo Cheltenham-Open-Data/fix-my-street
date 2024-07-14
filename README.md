@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Storm drain and kerb have lifted significantly, 14th July :- [https://www.fixmystreet.com/report/6226687](https://www.fixmystreet.com/report/6226687)
+- PRoW overgrown, 13th July :- [https://www.fixmystreet.com/report/6226211](https://www.fixmystreet.com/report/6226211)
 - PRoW overgrown, 13th July :- [https://www.fixmystreet.com/report/6226194](https://www.fixmystreet.com/report/6226194)
 - Large box of Nitrous Oxide pressurized containers., 13th July :- [https://www.fixmystreet.com/report/6226046](https://www.fixmystreet.com/report/6226046)
 - Growth at the base of a tree restricting vision of road, 13th July :- [https://www.fixmystreet.com/report/6226029](https://www.fixmystreet.com/report/6226029)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Offensive graffiit, 12th July :- [https://www.fixmystreet.com/report/6223597](https://www.fixmystreet.com/report/6223597)
 - Large pothole, pedestrians keep reporting how they fall on it., 12th July :- [https://www.fixmystreet.com/report/6223334](https://www.fixmystreet.com/report/6223334)
 - Pot hole, 12th July :- [https://www.fixmystreet.com/report/6223276](https://www.fixmystreet.com/report/6223276)
-- Offensive graffiti on phonebox, 12th July :- [https://www.fixmystreet.com/report/6223248](https://www.fixmystreet.com/report/6223248)
-- Break up of road, 12th July :- [https://www.fixmystreet.com/report/6223200](https://www.fixmystreet.com/report/6223200)
 
 <!-- fix_marker ends -->
