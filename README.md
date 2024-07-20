@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep potholes dangerous to cyclists, 20th July :- [https://www.fixmystreet.com/report/6254251](https://www.fixmystreet.com/report/6254251)
+- Damaged pavement stretch, 20th July :- [https://www.fixmystreet.com/report/6254133](https://www.fixmystreet.com/report/6254133)
+- Damaged kerb, 20th July :- [https://www.fixmystreet.com/report/6254110](https://www.fixmystreet.com/report/6254110)
+- Pothole, 20th July :- [https://www.fixmystreet.com/report/6254099](https://www.fixmystreet.com/report/6254099)
+- Outside 86 pothole, 20th July :- [https://www.fixmystreet.com/report/6254095](https://www.fixmystreet.com/report/6254095)
+- Manhole is sinking, 20th July :- [https://www.fixmystreet.com/report/6253767](https://www.fixmystreet.com/report/6253767)
+- Items left by maintenance, 20th July :- [https://www.fixmystreet.com/report/6253068](https://www.fixmystreet.com/report/6253068)
+- Faulty street light. Not working, 20th July :- [https://www.fixmystreet.com/report/6252841](https://www.fixmystreet.com/report/6252841)
+- Mirror on junction with mill lane, 20th July :- [https://www.fixmystreet.com/report/6252790](https://www.fixmystreet.com/report/6252790)
 - Missing roadmarkings, 20th July :- [https://www.fixmystreet.com/report/6252187](https://www.fixmystreet.com/report/6252187)
 - Noxious weeds, 20th July :- [https://www.fixmystreet.com/report/6252176](https://www.fixmystreet.com/report/6252176)
 - The right hand filter into Honeybourne Way was not working this morning., 19th July :- [https://www.fixmystreet.com/report/6251618](https://www.fixmystreet.com/report/6251618)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Obstruction caused by wall/building problem, 19th July :- [https://www.fixmystreet.com/report/6250840](https://www.fixmystreet.com/report/6250840)
 - Path/Way doesn't match map problem, 19th July :- [https://www.fixmystreet.com/report/6250685](https://www.fixmystreet.com/report/6250685)
 - Obstruction caused by wall/building problem, 19th July :- [https://www.fixmystreet.com/report/6250684](https://www.fixmystreet.com/report/6250684)
-- Obstruction caused by wall/building problem, 19th July :- [https://www.fixmystreet.com/report/6250683](https://www.fixmystreet.com/report/6250683)
-- Path/Way doesn't match map problem, 19th July :- [https://www.fixmystreet.com/report/6250682](https://www.fixmystreet.com/report/6250682)
-- Sign/waymarker is damaged problem, 19th July :- [https://www.fixmystreet.com/report/6250681](https://www.fixmystreet.com/report/6250681)
-- TMC - Defects - Vegetation problem, 19th July :- [https://www.fixmystreet.com/report/6250561](https://www.fixmystreet.com/report/6250561)
-- All the surface of the road is lifting outside my property its an eyesore and dangerous, 19th July :- [https://www.fixmystreet.com/report/6250483](https://www.fixmystreet.com/report/6250483)
-- A Tree is damaged problem has been found, 19th July :- [https://www.fixmystreet.com/report/6250421](https://www.fixmystreet.com/report/6250421)
-- TMC - Defects - Other FW6  Surface problem, 19th July :- [https://www.fixmystreet.com/report/6250526](https://www.fixmystreet.com/report/6250526)
-- Tree is damaged problem, 19th July :- [https://www.fixmystreet.com/report/6250383](https://www.fixmystreet.com/report/6250383)
-- A pothole in road problem, 19th July :- [https://www.fixmystreet.com/report/6250379](https://www.fixmystreet.com/report/6250379)
 
 <!-- fix_marker ends -->
