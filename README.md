@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3 inch wide sinkhole emerged in pavement - at least 12 inches deep and edges are breaking away fast, increasing size of hole, 21st July :- [https://www.fixmystreet.com/report/6257065](https://www.fixmystreet.com/report/6257065)
+- White lines barely visible on pavement around Westal Green, 21st July :- [https://www.fixmystreet.com/report/6257030](https://www.fixmystreet.com/report/6257030)
+- Lack of markings on pavement to indicate cycling and pedestrian areas, 21st July :- [https://www.fixmystreet.com/report/6257010](https://www.fixmystreet.com/report/6257010)
+- Noisy manhole cover, very disturbing, bangs loudly all day and night. It's a very busy road, every car/van/lorry/bus goes over it throughout the day and night. Please fix it before a vehicle disappears down it. The noise has been happening since February, 21st July :- [https://www.fixmystreet.com/report/6256980](https://www.fixmystreet.com/report/6256980)
+- Multiple issues on same stretch of road, 21st July :- [https://www.fixmystreet.com/report/6256843](https://www.fixmystreet.com/report/6256843)
+- Hugely overgrown Lime tree, limbs exposed and drop regularly in wind. Danger to pedestrians and vehicles. Needs to be cut back significantly to reduce danger to pedestrians/property/vehicles, 21st July :- [https://www.fixmystreet.com/report/6256577](https://www.fixmystreet.com/report/6256577)
+- Trees on both sides of road obscuring traffic lights when travellin East, 21st July :- [https://www.fixmystreet.com/report/6256460](https://www.fixmystreet.com/report/6256460)
+- Potholes, 21st July :- [https://www.fixmystreet.com/report/6255378](https://www.fixmystreet.com/report/6255378)
+- Inaccessible footpath., 21st July :- [https://www.fixmystreet.com/report/6255313](https://www.fixmystreet.com/report/6255313)
+- Damage to bridge, 21st July :- [https://www.fixmystreet.com/report/6255310](https://www.fixmystreet.com/report/6255310)
 - Bin set on fire, 20th July :- [https://www.fixmystreet.com/report/6254635](https://www.fixmystreet.com/report/6254635)
 - Deep potholes dangerous to cyclists, 20th July :- [https://www.fixmystreet.com/report/6254251](https://www.fixmystreet.com/report/6254251)
 - Damaged pavement stretch, 20th July :- [https://www.fixmystreet.com/report/6254133](https://www.fixmystreet.com/report/6254133)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Items left by maintenance, 20th July :- [https://www.fixmystreet.com/report/6253068](https://www.fixmystreet.com/report/6253068)
 - Faulty street light. Not working, 20th July :- [https://www.fixmystreet.com/report/6252841](https://www.fixmystreet.com/report/6252841)
 - Mirror on junction with mill lane, 20th July :- [https://www.fixmystreet.com/report/6252790](https://www.fixmystreet.com/report/6252790)
-- Missing roadmarkings, 20th July :- [https://www.fixmystreet.com/report/6252187](https://www.fixmystreet.com/report/6252187)
-- Noxious weeds, 20th July :- [https://www.fixmystreet.com/report/6252176](https://www.fixmystreet.com/report/6252176)
-- The right hand filter into Honeybourne Way was not working this morning., 19th July :- [https://www.fixmystreet.com/report/6251618](https://www.fixmystreet.com/report/6251618)
-- 2 dumped bikes, 19th July :- [https://www.fixmystreet.com/report/6251593](https://www.fixmystreet.com/report/6251593)
-- Overgrown trees requiring urgent pruning, 19th July :- [https://www.fixmystreet.com/report/6251412](https://www.fixmystreet.com/report/6251412)
-- Keep left signed flattened by 4x4, 19th July :- [https://www.fixmystreet.com/report/6251096](https://www.fixmystreet.com/report/6251096)
-- Very poor state of road, 19th July :- [https://www.fixmystreet.com/report/6250897](https://www.fixmystreet.com/report/6250897)
-- The lights won't change to let pedestrians cross, 19th July :- [https://www.fixmystreet.com/report/6250849](https://www.fixmystreet.com/report/6250849)
-- Obstruction caused by wall/building problem, 19th July :- [https://www.fixmystreet.com/report/6250840](https://www.fixmystreet.com/report/6250840)
-- Path/Way doesn't match map problem, 19th July :- [https://www.fixmystreet.com/report/6250685](https://www.fixmystreet.com/report/6250685)
 
 <!-- fix_marker ends -->
