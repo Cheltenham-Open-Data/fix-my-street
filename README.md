@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bin set on fire, 20th July :- [https://www.fixmystreet.com/report/6254635](https://www.fixmystreet.com/report/6254635)
 - Deep potholes dangerous to cyclists, 20th July :- [https://www.fixmystreet.com/report/6254251](https://www.fixmystreet.com/report/6254251)
 - Damaged pavement stretch, 20th July :- [https://www.fixmystreet.com/report/6254133](https://www.fixmystreet.com/report/6254133)
 - Damaged kerb, 20th July :- [https://www.fixmystreet.com/report/6254110](https://www.fixmystreet.com/report/6254110)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The lights won't change to let pedestrians cross, 19th July :- [https://www.fixmystreet.com/report/6250849](https://www.fixmystreet.com/report/6250849)
 - Obstruction caused by wall/building problem, 19th July :- [https://www.fixmystreet.com/report/6250840](https://www.fixmystreet.com/report/6250840)
 - Path/Way doesn't match map problem, 19th July :- [https://www.fixmystreet.com/report/6250685](https://www.fixmystreet.com/report/6250685)
-- Obstruction caused by wall/building problem, 19th July :- [https://www.fixmystreet.com/report/6250684](https://www.fixmystreet.com/report/6250684)
 
 <!-- fix_marker ends -->
