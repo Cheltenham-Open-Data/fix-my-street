@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Quite a large dip in the grass verge, 24th July :- [https://www.fixmystreet.com/report/6272713](https://www.fixmystreet.com/report/6272713)
+- Pothole in road., 24th July :- [https://www.fixmystreet.com/report/6272374](https://www.fixmystreet.com/report/6272374)
+- White line needs repainting outside alley, 24th July :- [https://www.fixmystreet.com/report/6272094](https://www.fixmystreet.com/report/6272094)
+- Drain surround is substantially damaged and likely to collapse., 24th July :- [https://www.fixmystreet.com/report/6271955](https://www.fixmystreet.com/report/6271955)
 - Grass over 5ft high obscuring view to cross road. 50 mph + road with minimal vision to cross, 24th July :- [https://www.fixmystreet.com/report/6271509](https://www.fixmystreet.com/report/6271509)
 - Abandoned shopping trolley, 24th July :- [https://www.fixmystreet.com/report/6271445](https://www.fixmystreet.com/report/6271445)
 - Abandoned Waitrose Shopping trolley, 24th July :- [https://www.fixmystreet.com/report/6271431](https://www.fixmystreet.com/report/6271431)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 24th July :- [https://www.fixmystreet.com/report/6270487](https://www.fixmystreet.com/report/6270487)
 - TMC - Defects -CW10 Potholes problem, 24th July :- [https://www.fixmystreet.com/report/6270485](https://www.fixmystreet.com/report/6270485)
 - Loose/rattling cover/ironwork problem, 24th July :- [https://www.fixmystreet.com/report/6270478](https://www.fixmystreet.com/report/6270478)
-- Sign/waymarker is damaged problem, 24th July :- [https://www.fixmystreet.com/report/6270480](https://www.fixmystreet.com/report/6270480)
-- Tree is damaged problem, 24th July :- [https://www.fixmystreet.com/report/6270477](https://www.fixmystreet.com/report/6270477)
-- Path/Way doesn't match map problem, 24th July :- [https://www.fixmystreet.com/report/6270479](https://www.fixmystreet.com/report/6270479)
-- Green traffic lamp not working, 24th July :- [https://www.fixmystreet.com/report/6270301](https://www.fixmystreet.com/report/6270301)
 
 <!-- fix_marker ends -->
