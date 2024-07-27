@@ -19,8 +19,8 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 26th July :- [https://www.fixmystreet.com/report/6279913](https://www.fixmystreet.com/report/6279913)
 - Tree is damaged problem, 26th July :- [https://www.fixmystreet.com/report/6279760](https://www.fixmystreet.com/report/6279760)
 - TMC - Defects - Signs & Street Furniture problem, 26th July :- [https://www.fixmystreet.com/report/6279766](https://www.fixmystreet.com/report/6279766)
-- TMC - Defects -CW10 Potholes problem, 26th July :- [https://www.fixmystreet.com/report/6279449](https://www.fixmystreet.com/report/6279449)
 - TMC - Defects -CW10 Potholes problem, 26th July :- [https://www.fixmystreet.com/report/6279448](https://www.fixmystreet.com/report/6279448)
+- TMC - Defects -CW10 Potholes problem, 26th July :- [https://www.fixmystreet.com/report/6279449](https://www.fixmystreet.com/report/6279449)
 - Low hanging branch, 26th July :- [https://www.fixmystreet.com/report/6279326](https://www.fixmystreet.com/report/6279326)
 
 <!-- fix_marker ends -->
