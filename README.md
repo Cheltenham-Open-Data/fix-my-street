@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Weed Clearing, 28th July :- [https://www.fixmystreet.com/report/6285653](https://www.fixmystreet.com/report/6285653)
+- Blocked payment no 8 marsh lane, 28th July :- [https://www.fixmystreet.com/report/6284718](https://www.fixmystreet.com/report/6284718)
+- Trinity lane is in very poor condition with lots of loose stones from road and several potholes and ridges forming in road, 28th July :- [https://www.fixmystreet.com/report/6284622](https://www.fixmystreet.com/report/6284622)
+- Light out very dark, 28th July :- [https://www.fixmystreet.com/report/6284567](https://www.fixmystreet.com/report/6284567)
 - Second noisy cover in Alma Road, 28th July :- [https://www.fixmystreet.com/report/6284193](https://www.fixmystreet.com/report/6284193)
 - Road markings confusing and causing confusion, 28th July :- [https://www.fixmystreet.com/report/6284147](https://www.fixmystreet.com/report/6284147)
 - Illegal driveway access without dropped kerb, 27th July :- [https://www.fixmystreet.com/report/6283998](https://www.fixmystreet.com/report/6283998)
@@ -17,10 +21,6 @@ Fix my street items within 10km of Cheltenham centre
 - The big has broken, 27th July :- [https://www.fixmystreet.com/report/6281960](https://www.fixmystreet.com/report/6281960)
 - Water leak observed today, 26th July :- [https://www.fixmystreet.com/report/6280432](https://www.fixmystreet.com/report/6280432)
 - General road marking and stud issues problem, 26th July :- [https://www.fixmystreet.com/report/6280531](https://www.fixmystreet.com/report/6280531)
-- TMC - Defects -other CW10 problem, 26th July :- [https://www.fixmystreet.com/report/6280533](https://www.fixmystreet.com/report/6280533)
 - TMC - Defects -other CW10 problem, 26th July :- [https://www.fixmystreet.com/report/6280532](https://www.fixmystreet.com/report/6280532)
-- Overgrown trees blocking the view of two traffic signs giving priority to oncoming vehicles., 26th July :- [https://www.fixmystreet.com/report/6280312](https://www.fixmystreet.com/report/6280312)
-- Overgrown hedge/bush blocking traffic sign on approach to crossroads, 26th July :- [https://www.fixmystreet.com/report/6280258](https://www.fixmystreet.com/report/6280258)
-- TMC - Defects - Other FW6  Surface problem, 26th July :- [https://www.fixmystreet.com/report/6280368](https://www.fixmystreet.com/report/6280368)
 
 <!-- fix_marker ends -->
