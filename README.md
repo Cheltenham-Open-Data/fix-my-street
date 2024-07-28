@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Second noisy cover in Alma Road, 28th July :- [https://www.fixmystreet.com/report/6284193](https://www.fixmystreet.com/report/6284193)
+- Road markings confusing and causing confusion, 28th July :- [https://www.fixmystreet.com/report/6284147](https://www.fixmystreet.com/report/6284147)
+- Illegal driveway access without dropped kerb, 27th July :- [https://www.fixmystreet.com/report/6283998](https://www.fixmystreet.com/report/6283998)
 - Broken chairs, slide other items including trollies, 27th July :- [https://www.fixmystreet.com/report/6283658](https://www.fixmystreet.com/report/6283658)
 - Sign that is wobbly and not relevant outside 6, Old Forge Cottage, 27th July :- [https://www.fixmystreet.com/report/6283644](https://www.fixmystreet.com/report/6283644)
 - Traffic light cycle disrupted/faulty sensor, 27th July :- [https://www.fixmystreet.com/report/6283278](https://www.fixmystreet.com/report/6283278)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Overgrown trees blocking the view of two traffic signs giving priority to oncoming vehicles., 26th July :- [https://www.fixmystreet.com/report/6280312](https://www.fixmystreet.com/report/6280312)
 - Overgrown hedge/bush blocking traffic sign on approach to crossroads, 26th July :- [https://www.fixmystreet.com/report/6280258](https://www.fixmystreet.com/report/6280258)
 - TMC - Defects - Other FW6  Surface problem, 26th July :- [https://www.fixmystreet.com/report/6280368](https://www.fixmystreet.com/report/6280368)
-- Path/Way doesn't match map problem, 26th July :- [https://www.fixmystreet.com/report/6280209](https://www.fixmystreet.com/report/6280209)
-- Sign/waymarker is damaged problem, 26th July :- [https://www.fixmystreet.com/report/6280208](https://www.fixmystreet.com/report/6280208)
-- Obstruction caused by wall/building problem, 26th July :- [https://www.fixmystreet.com/report/6280207](https://www.fixmystreet.com/report/6280207)
 
 <!-- fix_marker ends -->
