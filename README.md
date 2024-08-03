@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipped mattress outside no 52, 3rd August :- [https://www.fixmystreet.com/report/6311269](https://www.fixmystreet.com/report/6311269)
+- Center of road pothole, 3rd August :- [https://www.fixmystreet.com/report/6311222](https://www.fixmystreet.com/report/6311222)
+- Loose and noisy manhole cover on Station road, outside 1 Barnhay perimeter wall. Junction of Station Road/Pirton Lane (Churchdown), 3rd August :- [https://www.fixmystreet.com/report/6311208](https://www.fixmystreet.com/report/6311208)
+- Lights on all red needs resolving, 3rd August :- [https://www.fixmystreet.com/report/6311074](https://www.fixmystreet.com/report/6311074)
+- Grass overgrown, 3rd August :- [https://www.fixmystreet.com/report/6311067](https://www.fixmystreet.com/report/6311067)
+- Road drain becoming damaged/blocked by vegetation., 3rd August :- [https://www.fixmystreet.com/report/6310894](https://www.fixmystreet.com/report/6310894)
+- Dead fox, 3rd August :- [https://www.fixmystreet.com/report/6310693](https://www.fixmystreet.com/report/6310693)
 - Holes in grass, 3rd August :- [https://www.fixmystreet.com/report/6310228](https://www.fixmystreet.com/report/6310228)
 - Small tree growing in the gap between the road and the kerb and an excess of other plants growing and entering the drain, 2nd August :- [https://www.fixmystreet.com/report/6309750](https://www.fixmystreet.com/report/6309750)
 - Pot hole on pavement, 2nd August :- [https://www.fixmystreet.com/report/6309690](https://www.fixmystreet.com/report/6309690)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain full of mud blocked, 2nd August :- [https://www.fixmystreet.com/report/6308528](https://www.fixmystreet.com/report/6308528)
 - The of the smaller trees has turned into a shrub and the lower branches are encroaching onto the road causing a problem especially if someone parks in the road opposite, 2nd August :- [https://www.fixmystreet.com/report/6308521](https://www.fixmystreet.com/report/6308521)
 - Raised fixing bolt, as shown in picture. Trip hazard., 2nd August :- [https://www.fixmystreet.com/report/6308376](https://www.fixmystreet.com/report/6308376)
-- All stones missing in carpark parking spaces have weeds and could do with a new surface to stop weeds, 2nd August :- [https://www.fixmystreet.com/report/6308323](https://www.fixmystreet.com/report/6308323)
-- Surface is coming up weeds growing in path, 2nd August :- [https://www.fixmystreet.com/report/6308244](https://www.fixmystreet.com/report/6308244)
-- Pothole, 2nd August :- [https://www.fixmystreet.com/report/6308211](https://www.fixmystreet.com/report/6308211)
-- Pot hole !!!, 2nd August :- [https://www.fixmystreet.com/report/6308199](https://www.fixmystreet.com/report/6308199)
-- Tree is damaged problem, 2nd August :- [https://www.fixmystreet.com/report/6308257](https://www.fixmystreet.com/report/6308257)
-- Light sensor is not detecting vehicles problem, 2nd August :- [https://www.fixmystreet.com/report/6308088](https://www.fixmystreet.com/report/6308088)
-- Light sensor is not detecting vehicles problem, 2nd August :- [https://www.fixmystreet.com/report/6307915](https://www.fixmystreet.com/report/6307915)
 
 <!-- fix_marker ends -->
