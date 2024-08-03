@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Holes in grass, 3rd August :- [https://www.fixmystreet.com/report/6310228](https://www.fixmystreet.com/report/6310228)
+- Small tree growing in the gap between the road and the kerb and an excess of other plants growing and entering the drain, 2nd August :- [https://www.fixmystreet.com/report/6309750](https://www.fixmystreet.com/report/6309750)
+- Pot hole on pavement, 2nd August :- [https://www.fixmystreet.com/report/6309690](https://www.fixmystreet.com/report/6309690)
 - Pot hole emerging from existing repair in path of car tyre, 2nd August :- [https://www.fixmystreet.com/report/6309583](https://www.fixmystreet.com/report/6309583)
 - Brand new fire hydrant cover is loose and banging as cars drive over., 2nd August :- [https://www.fixmystreet.com/report/6309472](https://www.fixmystreet.com/report/6309472)
 - Road name sign collpasing, 2nd August :- [https://www.fixmystreet.com/report/6309011](https://www.fixmystreet.com/report/6309011)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 2nd August :- [https://www.fixmystreet.com/report/6308257](https://www.fixmystreet.com/report/6308257)
 - Light sensor is not detecting vehicles problem, 2nd August :- [https://www.fixmystreet.com/report/6308088](https://www.fixmystreet.com/report/6308088)
 - Light sensor is not detecting vehicles problem, 2nd August :- [https://www.fixmystreet.com/report/6307915](https://www.fixmystreet.com/report/6307915)
-- Light sensor is not detecting vehicles problem, 2nd August :- [https://www.fixmystreet.com/report/6307913](https://www.fixmystreet.com/report/6307913)
-- TMC - Defects -CW6 Potholes  problem, 2nd August :- [https://www.fixmystreet.com/report/6307755](https://www.fixmystreet.com/report/6307755)
-- TMC - Defects - Other FW6  Surface problem, 2nd August :- [https://www.fixmystreet.com/report/6307587](https://www.fixmystreet.com/report/6307587)
 
 <!-- fix_marker ends -->
