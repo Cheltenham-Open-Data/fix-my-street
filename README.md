@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree fallen, 4th August :- [https://www.fixmystreet.com/report/6312817](https://www.fixmystreet.com/report/6312817)
+- Unsafe footpath!, 3rd August :- [https://www.fixmystreet.com/report/6312776](https://www.fixmystreet.com/report/6312776)
+- Both manhole covers are loose and make a noise, 3rd August :- [https://www.fixmystreet.com/report/6312563](https://www.fixmystreet.com/report/6312563)
+- Flytipped mattress St Paul’s Road, 3rd August :- [https://www.fixmystreet.com/report/6312408](https://www.fixmystreet.com/report/6312408)
 - Flytipped mattress outside no 52, 3rd August :- [https://www.fixmystreet.com/report/6311269](https://www.fixmystreet.com/report/6311269)
 - Center of road pothole, 3rd August :- [https://www.fixmystreet.com/report/6311222](https://www.fixmystreet.com/report/6311222)
 - Loose and noisy manhole cover on Station road, outside 1 Barnhay perimeter wall. Junction of Station Road/Pirton Lane (Churchdown), 3rd August :- [https://www.fixmystreet.com/report/6311208](https://www.fixmystreet.com/report/6311208)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Damaged pavement, 2nd August :- [https://www.fixmystreet.com/report/6308875](https://www.fixmystreet.com/report/6308875)
 - The sign is illegible problem, 2nd August :- [https://www.fixmystreet.com/report/6308871](https://www.fixmystreet.com/report/6308871)
 - Car-par unsafe, 2nd August :- [https://www.fixmystreet.com/report/6308595](https://www.fixmystreet.com/report/6308595)
-- Carpark oakhurst close needs weeds sorted stones replaced, 2nd August :- [https://www.fixmystreet.com/report/6308552](https://www.fixmystreet.com/report/6308552)
-- Drain full of mud blocked, 2nd August :- [https://www.fixmystreet.com/report/6308528](https://www.fixmystreet.com/report/6308528)
-- The of the smaller trees has turned into a shrub and the lower branches are encroaching onto the road causing a problem especially if someone parks in the road opposite, 2nd August :- [https://www.fixmystreet.com/report/6308521](https://www.fixmystreet.com/report/6308521)
-- Raised fixing bolt, as shown in picture. Trip hazard., 2nd August :- [https://www.fixmystreet.com/report/6308376](https://www.fixmystreet.com/report/6308376)
 
 <!-- fix_marker ends -->
