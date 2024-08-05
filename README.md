@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Layby rubbish, 5th August :- [https://www.fixmystreet.com/report/6315770](https://www.fixmystreet.com/report/6315770)
+- Emergency but lines not open - FH steel cover bounced out of housing, 5th August :- [https://www.fixmystreet.com/report/6315757](https://www.fixmystreet.com/report/6315757)
+- Flytipped mattresses etc alleyway off Dunalley Parade, 5th August :- [https://www.fixmystreet.com/report/6315694](https://www.fixmystreet.com/report/6315694)
+- This issues hasn't been resolved like the say as you can by the images, 5th August :- [https://www.fixmystreet.com/report/6315691](https://www.fixmystreet.com/report/6315691)
+- Drain on road, blocked with weeds and grass, 4th August :- [https://www.fixmystreet.com/report/6315105](https://www.fixmystreet.com/report/6315105)
 - Worn road markings outside our house not redone last week with the rest of the road, 4th August :- [https://www.fixmystreet.com/report/6314623](https://www.fixmystreet.com/report/6314623)
 - Road sensor not working. Waited and waited, got bored and just drove through when there was a gap in the traffic, 4th August :- [https://www.fixmystreet.com/report/6314554](https://www.fixmystreet.com/report/6314554)
 - Water leaking out of drain onto pavement, 4th August :- [https://www.fixmystreet.com/report/6314530](https://www.fixmystreet.com/report/6314530)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Center of road pothole, 3rd August :- [https://www.fixmystreet.com/report/6311222](https://www.fixmystreet.com/report/6311222)
 - Loose and noisy manhole cover on Station road, outside 1 Barnhay perimeter wall. Junction of Station Road/Pirton Lane (Churchdown), 3rd August :- [https://www.fixmystreet.com/report/6311208](https://www.fixmystreet.com/report/6311208)
 - Lights on all red needs resolving, 3rd August :- [https://www.fixmystreet.com/report/6311074](https://www.fixmystreet.com/report/6311074)
-- Grass overgrown, 3rd August :- [https://www.fixmystreet.com/report/6311067](https://www.fixmystreet.com/report/6311067)
-- Road drain becoming damaged/blocked by vegetation., 3rd August :- [https://www.fixmystreet.com/report/6310894](https://www.fixmystreet.com/report/6310894)
-- Dead fox, 3rd August :- [https://www.fixmystreet.com/report/6310693](https://www.fixmystreet.com/report/6310693)
-- Holes in grass, 3rd August :- [https://www.fixmystreet.com/report/6310228](https://www.fixmystreet.com/report/6310228)
-- Small tree growing in the gap between the road and the kerb and an excess of other plants growing and entering the drain, 2nd August :- [https://www.fixmystreet.com/report/6309750](https://www.fixmystreet.com/report/6309750)
 
 <!-- fix_marker ends -->
