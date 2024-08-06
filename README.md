@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Appalling, unacceptable, and damaged road surface., 6th August :- [https://www.fixmystreet.com/report/6321062](https://www.fixmystreet.com/report/6321062)
+- Flytipped rubbish, 6th August :- [https://www.fixmystreet.com/report/6321012](https://www.fixmystreet.com/report/6321012)
+- Depression in the tarmac with cracking starting to appear, 5th August :- [https://www.fixmystreet.com/report/6319839](https://www.fixmystreet.com/report/6319839)
+- Road cycle logos need repainting, 5th August :- [https://www.fixmystreet.com/report/6319636](https://www.fixmystreet.com/report/6319636)
 - Broken DANGEROUS paving steps leading into park , broken gate catch, 5th August :- [https://www.fixmystreet.com/report/6319314](https://www.fixmystreet.com/report/6319314)
 - Term time parking issues, 5th August :- [https://www.fixmystreet.com/report/6319177](https://www.fixmystreet.com/report/6319177)
 - Multiple manhole covers rattling everytime a car drives over it. Has been happening for over a year now., 5th August :- [https://www.fixmystreet.com/report/6319079](https://www.fixmystreet.com/report/6319079)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other FW6  Surface problem, 5th August :- [https://www.fixmystreet.com/report/6318220](https://www.fixmystreet.com/report/6318220)
 - TMC - Defects - Other FW6  Surface problem, 5th August :- [https://www.fixmystreet.com/report/6318214](https://www.fixmystreet.com/report/6318214)
 - TMC - Defects - Vegetation problem, 5th August :- [https://www.fixmystreet.com/report/6318217](https://www.fixmystreet.com/report/6318217)
-- TMC - Defects - Other FW6  Surface problem, 5th August :- [https://www.fixmystreet.com/report/6318215](https://www.fixmystreet.com/report/6318215)
-- TMC - Defects - Other FW6  Surface problem, 5th August :- [https://www.fixmystreet.com/report/6318218](https://www.fixmystreet.com/report/6318218)
-- TMC - Defects - Other FW6  Surface problem, 5th August :- [https://www.fixmystreet.com/report/6318216](https://www.fixmystreet.com/report/6318216)
-- Road surface defect 10metres from Piton Fields. Junction, 5th August :- [https://www.fixmystreet.com/report/6318109](https://www.fixmystreet.com/report/6318109)
 
 <!-- fix_marker ends -->
