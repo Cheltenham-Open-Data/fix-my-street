@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Repeat problem of more tarmac needed to level path, 10th August :- [https://www.fixmystreet.com/report/6338556](https://www.fixmystreet.com/report/6338556)
+- Possible sinkhole reappearing on Leckhampton Road, 10th August :- [https://www.fixmystreet.com/report/6338549](https://www.fixmystreet.com/report/6338549)
+- Pothole on southbound carriageway on nearside, 9th August :- [https://www.fixmystreet.com/report/6338140](https://www.fixmystreet.com/report/6338140)
+- Large pothole on Leckhampton Road, 9th August :- [https://www.fixmystreet.com/report/6337994](https://www.fixmystreet.com/report/6337994)
 - Bin lorry has damaged pavement again!, 9th August :- [https://www.fixmystreet.com/report/6337755](https://www.fixmystreet.com/report/6337755)
 - Large pothole, 9th August :- [https://www.fixmystreet.com/report/6337658](https://www.fixmystreet.com/report/6337658)
 - Looks like two smashed windscreens., 9th August :- [https://www.fixmystreet.com/report/6337592](https://www.fixmystreet.com/report/6337592)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 9th August :- [https://www.fixmystreet.com/report/6336709](https://www.fixmystreet.com/report/6336709)
 - TMC - Defects -CW10 Potholes problem, 9th August :- [https://www.fixmystreet.com/report/6336712](https://www.fixmystreet.com/report/6336712)
 - TMC - Defects -CW10 Potholes problem, 9th August :- [https://www.fixmystreet.com/report/6336713](https://www.fixmystreet.com/report/6336713)
-- TMC - Defects -CW10 Potholes problem, 9th August :- [https://www.fixmystreet.com/report/6336711](https://www.fixmystreet.com/report/6336711)
-- TMC - Defects -CW10 Potholes problem, 9th August :- [https://www.fixmystreet.com/report/6336710](https://www.fixmystreet.com/report/6336710)
-- Post heavily corroded possible structural damage., 9th August :- [https://www.fixmystreet.com/report/6336611](https://www.fixmystreet.com/report/6336611)
-- TMC - Defects - Road Markings problem, 9th August :- [https://www.fixmystreet.com/report/6336545](https://www.fixmystreet.com/report/6336545)
 
 <!-- fix_marker ends -->
