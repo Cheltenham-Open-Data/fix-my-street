@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light out, 11th August :- [https://www.fixmystreet.com/report/6340775](https://www.fixmystreet.com/report/6340775)
+- Barley growing across the path, 10th August :- [https://www.fixmystreet.com/report/6340553](https://www.fixmystreet.com/report/6340553)
 - Overgrown vegetation at the entrance to the cart track going from the end of the Cold Slad road to the farm below., 10th August :- [https://www.fixmystreet.com/report/6340002](https://www.fixmystreet.com/report/6340002)
 - Tree blocking footpath and vegetation makes walking the path impossible without brandishing sticks to clear brambles, nettles and overhanging shrubs, 10th August :- [https://www.fixmystreet.com/report/6339950](https://www.fixmystreet.com/report/6339950)
 - Large, wide pothole, 10th August :- [https://www.fixmystreet.com/report/6339930](https://www.fixmystreet.com/report/6339930)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole, 9th August :- [https://www.fixmystreet.com/report/6337658](https://www.fixmystreet.com/report/6337658)
 - Looks like two smashed windscreens., 9th August :- [https://www.fixmystreet.com/report/6337592](https://www.fixmystreet.com/report/6337592)
 - General road marking and stud issues problem, 9th August :- [https://www.fixmystreet.com/report/6337551](https://www.fixmystreet.com/report/6337551)
-- Rattling manhole after repair, 9th August :- [https://www.fixmystreet.com/report/6337344](https://www.fixmystreet.com/report/6337344)
-- Tree is damaged problem, 9th August :- [https://www.fixmystreet.com/report/6337314](https://www.fixmystreet.com/report/6337314)
 
 <!-- fix_marker ends -->
