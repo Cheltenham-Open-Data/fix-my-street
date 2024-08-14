@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lights stuck on red in all directions, 14th August :- [https://www.fixmystreet.com/report/6353273](https://www.fixmystreet.com/report/6353273)
+- Loose manhole cover, 13th August :- [https://www.fixmystreet.com/report/6353018](https://www.fixmystreet.com/report/6353018)
+- All street lights out in Kingsmead road, 13th August :- [https://www.fixmystreet.com/report/6352957](https://www.fixmystreet.com/report/6352957)
+- Uneven surface and loose gravel outside 60 Painswick Road on Grafton Road, 13th August :- [https://www.fixmystreet.com/report/6352592](https://www.fixmystreet.com/report/6352592)
+- Uneven surface and loose gravel on pavement in Grafton Road, 13th August :- [https://www.fixmystreet.com/report/6352533](https://www.fixmystreet.com/report/6352533)
 - No reinstatement, 13th August :- [https://www.fixmystreet.com/report/6352471](https://www.fixmystreet.com/report/6352471)
 - Temp lights with huge traffic jams, 13th August :- [https://www.fixmystreet.com/report/6352309](https://www.fixmystreet.com/report/6352309)
 - Multiple banners fallen down, 13th August :- [https://www.fixmystreet.com/report/6352236](https://www.fixmystreet.com/report/6352236)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW10 Potholes problem, 13th August :- [https://www.fixmystreet.com/report/6351290](https://www.fixmystreet.com/report/6351290)
 - TMC - Defects -CW10 Potholes problem, 13th August :- [https://www.fixmystreet.com/report/6351291](https://www.fixmystreet.com/report/6351291)
 - Drain cover close to 26 Upper Park St is damaged, 13th August :- [https://www.fixmystreet.com/report/6351168](https://www.fixmystreet.com/report/6351168)
-- Tree stump surrounded by plastic fencing, 13th August :- [https://www.fixmystreet.com/report/6351154](https://www.fixmystreet.com/report/6351154)
-- TMC - Defects - Other FW6  Surface problem, 13th August :- [https://www.fixmystreet.com/report/6351287](https://www.fixmystreet.com/report/6351287)
-- TMC - Defects - Other FW6  Surface problem, 13th August :- [https://www.fixmystreet.com/report/6351286](https://www.fixmystreet.com/report/6351286)
-- TMC - Defects - Signs & Street Furniture problem, 13th August :- [https://www.fixmystreet.com/report/6350913](https://www.fixmystreet.com/report/6350913)
-- Abandoned temporary traffic signs Marle Hill Road, 13th August :- [https://www.fixmystreet.com/report/6350689](https://www.fixmystreet.com/report/6350689)
 
 <!-- fix_marker ends -->
