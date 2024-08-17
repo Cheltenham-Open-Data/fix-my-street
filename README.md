@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Negleted area of Montpellier Walk, 17th August :- [https://www.fixmystreet.com/report/6366587](https://www.fixmystreet.com/report/6366587)
+- Deep strip across road where a previous trench has sunk., 17th August :- [https://www.fixmystreet.com/report/6366555](https://www.fixmystreet.com/report/6366555)
 - Sunken reinstatement this was marked up approximately 18 months ago and never repaired., 16th August :- [https://www.fixmystreet.com/report/6365723](https://www.fixmystreet.com/report/6365723)
 - Obstruction caused by wall/building problem, 16th August :- [https://www.fixmystreet.com/report/6365294](https://www.fixmystreet.com/report/6365294)
 - Tree is damaged problem, 16th August :- [https://www.fixmystreet.com/report/6365293](https://www.fixmystreet.com/report/6365293)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The sign is illegible problem, 16th August :- [https://www.fixmystreet.com/report/6362969](https://www.fixmystreet.com/report/6362969)
 - Street lighting, 16th August :- [https://www.fixmystreet.com/report/6362779](https://www.fixmystreet.com/report/6362779)
 - Muddy mess, 16th August :- [https://www.fixmystreet.com/report/6362706](https://www.fixmystreet.com/report/6362706)
-- Birch tree trim back, 16th August :- [https://www.fixmystreet.com/report/6362702](https://www.fixmystreet.com/report/6362702)
-- Tree stump outside Mira Showers, has become a public bin and the verge cannot be maintained around it. Please resolve what is supposed to only be a temporary safety measure., 15th August :- [https://www.fixmystreet.com/report/6362486](https://www.fixmystreet.com/report/6362486)
 
 <!-- fix_marker ends -->
