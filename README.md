@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Slat missing from bridge, 17th August :- [https://www.fixmystreet.com/report/6368814](https://www.fixmystreet.com/report/6368814)
 - Drain blocked, 17th August :- [https://www.fixmystreet.com/report/6368429](https://www.fixmystreet.com/report/6368429)
 - Large amount of weeds, ivy, debris spreading on pavement, 17th August :- [https://www.fixmystreet.com/report/6368400](https://www.fixmystreet.com/report/6368400)
 - Green light on traffic lights corner of Park Place & Suffolk Road not working, 17th August :- [https://www.fixmystreet.com/report/6367671](https://www.fixmystreet.com/report/6367671)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 16th August :- [https://www.fixmystreet.com/report/6364862](https://www.fixmystreet.com/report/6364862)
 - Uneven road surface needs filling, 16th August :- [https://www.fixmystreet.com/report/6364741](https://www.fixmystreet.com/report/6364741)
 - The sign is illegible problem, 16th August :- [https://www.fixmystreet.com/report/6364584](https://www.fixmystreet.com/report/6364584)
-- Blocking visibility on road/junction (Grass/verge) problem, 16th August :- [https://www.fixmystreet.com/report/6364447](https://www.fixmystreet.com/report/6364447)
 
 <!-- fix_marker ends -->
