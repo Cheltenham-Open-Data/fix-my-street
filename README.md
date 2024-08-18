@@ -2,6 +2,19 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Roots protruding Through pavement, 18th August :- [https://www.fixmystreet.com/report/6371148](https://www.fixmystreet.com/report/6371148)
+- Sunken manhole cover, 18th August :- [https://www.fixmystreet.com/report/6371126](https://www.fixmystreet.com/report/6371126)
+- Pothole on pavement, 18th August :- [https://www.fixmystreet.com/report/6370875](https://www.fixmystreet.com/report/6370875)
+- Blocked footpath, 18th August :- [https://www.fixmystreet.com/report/6370742](https://www.fixmystreet.com/report/6370742)
+- Need sign for Millbrook Court, 18th August :- [https://www.fixmystreet.com/report/6370471](https://www.fixmystreet.com/report/6370471)
+- Flytipped sofa and other rubbish, 18th August :- [https://www.fixmystreet.com/report/6370453](https://www.fixmystreet.com/report/6370453)
+- Dead Young Deer on Slip Road heading towards Zoons Court Roundabout. A417, 18th August :- [https://www.fixmystreet.com/report/6369878](https://www.fixmystreet.com/report/6369878)
+- Drain cover making loud clacking noise every time a car drives over it., 18th August :- [https://www.fixmystreet.com/report/6369877](https://www.fixmystreet.com/report/6369877)
+- Trolleys dumped, 18th August :- [https://www.fixmystreet.com/report/6369860](https://www.fixmystreet.com/report/6369860)
+- Vehicles parking on verge when there's parking at back, 18th August :- [https://www.fixmystreet.com/report/6369856](https://www.fixmystreet.com/report/6369856)
+- Severely overflowing bin, 18th August :- [https://www.fixmystreet.com/report/6369670](https://www.fixmystreet.com/report/6369670)
+- Bin has not been changed for over a month. I was away for 3 weeks to return to an overflowing bin. Twice I have decanted into red bags & twice they have been collected but the full bin ignored. Can someone please change the litter bin., 18th August :- [https://www.fixmystreet.com/report/6369664](https://www.fixmystreet.com/report/6369664)
+- Road breaking up, 18th August :- [https://www.fixmystreet.com/report/6369647](https://www.fixmystreet.com/report/6369647)
 - Slat missing from bridge, 17th August :- [https://www.fixmystreet.com/report/6368814](https://www.fixmystreet.com/report/6368814)
 - Drain blocked, 17th August :- [https://www.fixmystreet.com/report/6368429](https://www.fixmystreet.com/report/6368429)
 - Large amount of weeds, ivy, debris spreading on pavement, 17th August :- [https://www.fixmystreet.com/report/6368400](https://www.fixmystreet.com/report/6368400)
@@ -9,18 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Beech tree has fallen down over the footpath, 17th August :- [https://www.fixmystreet.com/report/6367479](https://www.fixmystreet.com/report/6367479)
 - Dead bird in road, 17th August :- [https://www.fixmystreet.com/report/6367447](https://www.fixmystreet.com/report/6367447)
 - Overhanging tree, 17th August :- [https://www.fixmystreet.com/report/6367230](https://www.fixmystreet.com/report/6367230)
-- Two tree stumps on same road, continue to attract rubbish. Previous logs closed with no details, so logging again., 17th August :- [https://www.fixmystreet.com/report/6367061](https://www.fixmystreet.com/report/6367061)
-- Overhanging tree very close to house, 17th August :- [https://www.fixmystreet.com/report/6366962](https://www.fixmystreet.com/report/6366962)
-- Traffic light rotated, 17th August :- [https://www.fixmystreet.com/report/6366835](https://www.fixmystreet.com/report/6366835)
-- Dangerous paving, 17th August :- [https://www.fixmystreet.com/report/6366588](https://www.fixmystreet.com/report/6366588)
-- Negleted area of Montpellier Walk, 17th August :- [https://www.fixmystreet.com/report/6366587](https://www.fixmystreet.com/report/6366587)
-- Deep strip across road where a previous trench has sunk., 17th August :- [https://www.fixmystreet.com/report/6366555](https://www.fixmystreet.com/report/6366555)
-- Sunken reinstatement this was marked up approximately 18 months ago and never repaired., 16th August :- [https://www.fixmystreet.com/report/6365723](https://www.fixmystreet.com/report/6365723)
-- Obstruction caused by wall/building problem, 16th August :- [https://www.fixmystreet.com/report/6365294](https://www.fixmystreet.com/report/6365294)
-- Tree is damaged problem, 16th August :- [https://www.fixmystreet.com/report/6365293](https://www.fixmystreet.com/report/6365293)
-- Incomplete Repair, 16th August :- [https://www.fixmystreet.com/report/6365084](https://www.fixmystreet.com/report/6365084)
-- Tree is damaged problem, 16th August :- [https://www.fixmystreet.com/report/6364862](https://www.fixmystreet.com/report/6364862)
-- Uneven road surface needs filling, 16th August :- [https://www.fixmystreet.com/report/6364741](https://www.fixmystreet.com/report/6364741)
-- The sign is illegible problem, 16th August :- [https://www.fixmystreet.com/report/6364584](https://www.fixmystreet.com/report/6364584)
 
 <!-- fix_marker ends -->
