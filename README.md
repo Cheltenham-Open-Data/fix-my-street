@@ -2,7 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Overhanging branches blocking pavement (unless you're very very short), 18th August :- [https://www.fixmystreet.com/report/6371609](https://www.fixmystreet.com/report/6371609)
+- 60cm pothole on street near repaired tarmac, 18th August :- [https://www.fixmystreet.com/report/6371442](https://www.fixmystreet.com/report/6371442)
+- Top layer road surface breached in large areas. Sub layer exposed., 18th August :- [https://www.fixmystreet.com/report/6371433](https://www.fixmystreet.com/report/6371433)
+- Dumped rubbish at side of road in hedge - looks like commercial large air duct pipes, 18th August :- [https://www.fixmystreet.com/report/6371260](https://www.fixmystreet.com/report/6371260)
 - Roots protruding Through pavement, 18th August :- [https://www.fixmystreet.com/report/6371148](https://www.fixmystreet.com/report/6371148)
+- Bags of dog mess thrown out of bin onto children’s play park, 18th August :- [https://www.fixmystreet.com/report/6371133](https://www.fixmystreet.com/report/6371133)
 - Sunken manhole cover, 18th August :- [https://www.fixmystreet.com/report/6371126](https://www.fixmystreet.com/report/6371126)
 - Pothole on pavement, 18th August :- [https://www.fixmystreet.com/report/6370875](https://www.fixmystreet.com/report/6370875)
 - Blocked footpath, 18th August :- [https://www.fixmystreet.com/report/6370742](https://www.fixmystreet.com/report/6370742)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road breaking up, 18th August :- [https://www.fixmystreet.com/report/6369647](https://www.fixmystreet.com/report/6369647)
 - Slat missing from bridge, 17th August :- [https://www.fixmystreet.com/report/6368814](https://www.fixmystreet.com/report/6368814)
 - Drain blocked, 17th August :- [https://www.fixmystreet.com/report/6368429](https://www.fixmystreet.com/report/6368429)
-- Large amount of weeds, ivy, debris spreading on pavement, 17th August :- [https://www.fixmystreet.com/report/6368400](https://www.fixmystreet.com/report/6368400)
-- Green light on traffic lights corner of Park Place & Suffolk Road not working, 17th August :- [https://www.fixmystreet.com/report/6367671](https://www.fixmystreet.com/report/6367671)
-- Beech tree has fallen down over the footpath, 17th August :- [https://www.fixmystreet.com/report/6367479](https://www.fixmystreet.com/report/6367479)
-- Dead bird in road, 17th August :- [https://www.fixmystreet.com/report/6367447](https://www.fixmystreet.com/report/6367447)
-- Overhanging tree, 17th August :- [https://www.fixmystreet.com/report/6367230](https://www.fixmystreet.com/report/6367230)
 
 <!-- fix_marker ends -->
