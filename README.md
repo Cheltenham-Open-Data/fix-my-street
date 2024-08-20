@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Buscombe Gardens Street Nameplate - faded, difficult to read, 19th August :- [https://www.fixmystreet.com/report/6376356](https://www.fixmystreet.com/report/6376356)
+- Weeds and vegetation have overgrown along a large area of this footpath and styles making it impossible to navigate, 19th August :- [https://www.fixmystreet.com/report/6376283](https://www.fixmystreet.com/report/6376283)
+- All street lights out on Kingsmead road, 19th August :- [https://www.fixmystreet.com/report/6376250](https://www.fixmystreet.com/report/6376250)
 - Dead deeron hard shoulder, 19th August :- [https://www.fixmystreet.com/report/6375624](https://www.fixmystreet.com/report/6375624)
 - There are two large potholes just at end of bridge on NW side, 19th August :- [https://www.fixmystreet.com/report/6375310](https://www.fixmystreet.com/report/6375310)
 - Fly tip, 19th August :- [https://www.fixmystreet.com/report/6374929](https://www.fixmystreet.com/report/6374929)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dead branch overhanging both footpath and road junction now beginning to shed portions of timber onto path and traffic, 19th August :- [https://www.fixmystreet.com/report/6373382](https://www.fixmystreet.com/report/6373382)
 - Grass clippings not cleared from pathway, 19th August :- [https://www.fixmystreet.com/report/6373278](https://www.fixmystreet.com/report/6373278)
 - Footpath completely obstructed by overgrown vegetation., 19th August :- [https://www.fixmystreet.com/report/6373203](https://www.fixmystreet.com/report/6373203)
-- Bridge is still not fixed- very poor condition, 19th August :- [https://www.fixmystreet.com/report/6373072](https://www.fixmystreet.com/report/6373072)
-- Poor patch breaking uo needs filling, 19th August :- [https://www.fixmystreet.com/report/6373038](https://www.fixmystreet.com/report/6373038)
-- Road surface breaking, needs resurfacing, 19th August :- [https://www.fixmystreet.com/report/6372997](https://www.fixmystreet.com/report/6372997)
 
 <!-- fix_marker ends -->
