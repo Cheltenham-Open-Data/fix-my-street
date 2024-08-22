@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mattress on side of road, 22nd August :- [https://www.fixmystreet.com/report/6384966](https://www.fixmystreet.com/report/6384966)
+- Dead tree branch overhanging road., 21st August :- [https://www.fixmystreet.com/report/6384437](https://www.fixmystreet.com/report/6384437)
+- Incredibly loud, loose manhole on busy road by houses, 21st August :- [https://www.fixmystreet.com/report/6384240](https://www.fixmystreet.com/report/6384240)
+- Road marking lane missing, 21st August :- [https://www.fixmystreet.com/report/6384104](https://www.fixmystreet.com/report/6384104)
 - Tree is encroaching on road (Brandon Terrace Lane), 21st August :- [https://www.fixmystreet.com/report/6383905](https://www.fixmystreet.com/report/6383905)
 - Tree overhanging property and roadway, 21st August :- [https://www.fixmystreet.com/report/6383902](https://www.fixmystreet.com/report/6383902)
 - Sunken Drain cover shakes the Park Home when lorries goes over it, 21st August :- [https://www.fixmystreet.com/report/6383845](https://www.fixmystreet.com/report/6383845)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The entirety of Queen’s road is dangerous for pedestrians, 21st August :- [https://www.fixmystreet.com/report/6380790](https://www.fixmystreet.com/report/6380790)
 - Several large potholes, 21st August :- [https://www.fixmystreet.com/report/6380737](https://www.fixmystreet.com/report/6380737)
 - Abandoned lorry and large trailer, 20th August :- [https://www.fixmystreet.com/report/6380403](https://www.fixmystreet.com/report/6380403)
-- Entrance to Jessop avenue car park, 20th August :- [https://www.fixmystreet.com/report/6380394](https://www.fixmystreet.com/report/6380394)
-- Entrance to Jessop avenue car park, 20th August :- [https://www.fixmystreet.com/report/6380393](https://www.fixmystreet.com/report/6380393)
-- Montpellier Street, 20th August :- [https://www.fixmystreet.com/report/6380363](https://www.fixmystreet.com/report/6380363)
-- Pot holes and rough road surface, 20th August :- [https://www.fixmystreet.com/report/6380359](https://www.fixmystreet.com/report/6380359)
 
 <!-- fix_marker ends -->
