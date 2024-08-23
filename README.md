@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Huge yellow sign saying Road is to be closed on August 3rd ( I think), 22nd August :- [https://www.fixmystreet.com/report/6388537](https://www.fixmystreet.com/report/6388537)
+- Long large deep pothole, 22nd August :- [https://www.fixmystreet.com/report/6388530](https://www.fixmystreet.com/report/6388530)
+- Poor condition path in most weathers even in mid summer, 22nd August :- [https://www.fixmystreet.com/report/6388238](https://www.fixmystreet.com/report/6388238)
 - Bad traffic light sequence, 22nd August :- [https://www.fixmystreet.com/report/6388002](https://www.fixmystreet.com/report/6388002)
 - Hewlett road Oakley traffic lights, 22nd August :- [https://www.fixmystreet.com/report/6387657](https://www.fixmystreet.com/report/6387657)
 - New road sign required, 22nd August :- [https://www.fixmystreet.com/report/6387437](https://www.fixmystreet.com/report/6387437)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is encroaching on road (Brandon Terrace Lane), 21st August :- [https://www.fixmystreet.com/report/6383905](https://www.fixmystreet.com/report/6383905)
 - Tree overhanging property and roadway, 21st August :- [https://www.fixmystreet.com/report/6383902](https://www.fixmystreet.com/report/6383902)
 - Sunken Drain cover shakes the Park Home when lorries goes over it, 21st August :- [https://www.fixmystreet.com/report/6383845](https://www.fixmystreet.com/report/6383845)
-- Overflowing waste bin, 21st August :- [https://www.fixmystreet.com/report/6383544](https://www.fixmystreet.com/report/6383544)
-- The whole pavement round this corner is in a bad state of repair. It is a significant hazard on a busy corner. Some areas have recently been identified as in need of attention, but there adjacent areas that are equally bad especially the section nearer to the junction with Chapel Lane, 21st August :- [https://www.fixmystreet.com/report/6383136](https://www.fixmystreet.com/report/6383136)
-- Tree is damaged problem, 21st August :- [https://www.fixmystreet.com/report/6383236](https://www.fixmystreet.com/report/6383236)
 
 <!-- fix_marker ends -->
