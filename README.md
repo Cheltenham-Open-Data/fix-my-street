@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2 large potholes on entrance to the Sixways clinic car park, near the street, 23rd August :- [https://www.fixmystreet.com/report/6392529](https://www.fixmystreet.com/report/6392529)
+- Pothole (possibly from collapsed manhole cover), 23rd August :- [https://www.fixmystreet.com/report/6392438](https://www.fixmystreet.com/report/6392438)
+- Smashed kerb, 23rd August :- [https://www.fixmystreet.com/report/6392411](https://www.fixmystreet.com/report/6392411)
+- Lack of pavement, 23rd August :- [https://www.fixmystreet.com/report/6392394](https://www.fixmystreet.com/report/6392394)
+- Rotated traffic light head, 23rd August :- [https://www.fixmystreet.com/report/6392297](https://www.fixmystreet.com/report/6392297)
 - Damage to pavement - badly filled in trench. Hazard to pedestrians especially on mobility scooters or visually impaired, 23rd August :- [https://www.fixmystreet.com/report/6391684](https://www.fixmystreet.com/report/6391684)
 - Pavement is very broken up and therefore a trip hazard, 23rd August :- [https://www.fixmystreet.com/report/6391470](https://www.fixmystreet.com/report/6391470)
 - Tree is damaged problem, 23rd August :- [https://www.fixmystreet.com/report/6391450](https://www.fixmystreet.com/report/6391450)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 23rd August :- [https://www.fixmystreet.com/report/6389229](https://www.fixmystreet.com/report/6389229)
 - Huge yellow sign saying Road is to be closed on August 3rd ( I think), 22nd August :- [https://www.fixmystreet.com/report/6388537](https://www.fixmystreet.com/report/6388537)
 - Long large deep pothole, 22nd August :- [https://www.fixmystreet.com/report/6388530](https://www.fixmystreet.com/report/6388530)
-- Poor condition path in most weathers even in mid summer, 22nd August :- [https://www.fixmystreet.com/report/6388238](https://www.fixmystreet.com/report/6388238)
-- Bad traffic light sequence, 22nd August :- [https://www.fixmystreet.com/report/6388002](https://www.fixmystreet.com/report/6388002)
-- Hewlett road Oakley traffic lights, 22nd August :- [https://www.fixmystreet.com/report/6387657](https://www.fixmystreet.com/report/6387657)
-- New road sign required, 22nd August :- [https://www.fixmystreet.com/report/6387437](https://www.fixmystreet.com/report/6387437)
-- Tree branches obstructing pavements, 22nd August :- [https://www.fixmystreet.com/report/6387284](https://www.fixmystreet.com/report/6387284)
 
 <!-- fix_marker ends -->
