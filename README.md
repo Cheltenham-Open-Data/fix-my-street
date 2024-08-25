@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3 foot pothole x 2, 24th August :- [https://www.fixmystreet.com/report/6394366](https://www.fixmystreet.com/report/6394366)
 - Abandoned caravan, 24th August :- [https://www.fixmystreet.com/report/6394039](https://www.fixmystreet.com/report/6394039)
 - Dog waste bin over flowing and bags of dog waste on ground, 24th August :- [https://www.fixmystreet.com/report/6393616](https://www.fixmystreet.com/report/6393616)
 - Fridge flytipped, 24th August :- [https://www.fixmystreet.com/report/6393590](https://www.fixmystreet.com/report/6393590)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 23rd August :- [https://www.fixmystreet.com/report/6391450](https://www.fixmystreet.com/report/6391450)
 - Reinstatement work sunken. Buses going over the strip cause a massive bang which vibrates the building. Noise and movement excessive. Reported earlier in the month but case has been closed and no contact has been made with me, 23rd August :- [https://www.fixmystreet.com/report/6391037](https://www.fixmystreet.com/report/6391037)
 - Sunken reinstatement on Stockwell Lane just before turning into Beverley Gardens,this was marked with paint approximately 18 months ago and never repaired., 23rd August :- [https://www.fixmystreet.com/report/6390958](https://www.fixmystreet.com/report/6390958)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 23rd August :- [https://www.fixmystreet.com/report/6390650](https://www.fixmystreet.com/report/6390650)
 
 <!-- fix_marker ends -->
