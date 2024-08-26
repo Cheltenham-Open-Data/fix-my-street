@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dangerous broken.uneven, lifted paving slabs on entire pavement of street. Grosvenor Place South., 26th August :- [https://www.fixmystreet.com/report/6398046](https://www.fixmystreet.com/report/6398046)
+- Sinkhole or pot hole, 25th August :- [https://www.fixmystreet.com/report/6397741](https://www.fixmystreet.com/report/6397741)
+- This week a mattress and high chair, 25th August :- [https://www.fixmystreet.com/report/6397704](https://www.fixmystreet.com/report/6397704)
 - Sinkhole just near the walls ice cream factory, 25th August :- [https://www.fixmystreet.com/report/6397382](https://www.fixmystreet.com/report/6397382)
 - Possible burst/ water leak, 25th August :- [https://www.fixmystreet.com/report/6397239](https://www.fixmystreet.com/report/6397239)
 - Broken glass in basketball court of play area, 25th August :- [https://www.fixmystreet.com/report/6397110](https://www.fixmystreet.com/report/6397110)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Broken glass in subway again, 24th August :- [https://www.fixmystreet.com/report/6393110](https://www.fixmystreet.com/report/6393110)
 - Overflowing litter bins in layby on A40 Golden Valley, Westbound Gloucester, 24th August :- [https://www.fixmystreet.com/report/6393077](https://www.fixmystreet.com/report/6393077)
 - 2 large potholes on entrance to the Sixways clinic car park, near the street, 23rd August :- [https://www.fixmystreet.com/report/6392529](https://www.fixmystreet.com/report/6392529)
-- Pothole (possibly from collapsed manhole cover), 23rd August :- [https://www.fixmystreet.com/report/6392438](https://www.fixmystreet.com/report/6392438)
-- Large pothole on road, 24th August :- [https://www.fixmystreet.com/report/6392434](https://www.fixmystreet.com/report/6392434)
-- Smashed kerb, 23rd August :- [https://www.fixmystreet.com/report/6392411](https://www.fixmystreet.com/report/6392411)
 
 <!-- fix_marker ends -->
