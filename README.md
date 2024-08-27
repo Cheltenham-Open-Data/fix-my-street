@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Water coming through road surface but is not a water leak., 26th August :- [https://www.fixmystreet.com/report/6400526](https://www.fixmystreet.com/report/6400526)
 - Bike wheels and tyres, 26th August :- [https://www.fixmystreet.com/report/6400172](https://www.fixmystreet.com/report/6400172)
 - Flipping in bushes, 26th August :- [https://www.fixmystreet.com/report/6400160](https://www.fixmystreet.com/report/6400160)
 - Rubbish in street, 26th August :- [https://www.fixmystreet.com/report/6400055](https://www.fixmystreet.com/report/6400055)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large sprouting branches that are reducing visibility need pruning from tree trunk; large fallen branch needs clearing from verge; further pruning might be needed to prevent injury of falling weak/dead branches onto pedestrians/passing cars., 26th August :- [https://www.fixmystreet.com/report/6398527](https://www.fixmystreet.com/report/6398527)
 - Dog poo needs emptying, 26th August :- [https://www.fixmystreet.com/report/6398473](https://www.fixmystreet.com/report/6398473)
 - Light outside No29 doesn't work, 26th August :- [https://www.fixmystreet.com/report/6398205](https://www.fixmystreet.com/report/6398205)
-- Dangerous broken.uneven, lifted paving slabs on entire pavement of street. Grosvenor Place South., 26th August :- [https://www.fixmystreet.com/report/6398046](https://www.fixmystreet.com/report/6398046)
 
 <!-- fix_marker ends -->
