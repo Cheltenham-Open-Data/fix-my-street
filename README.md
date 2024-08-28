@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street Light permanently off, 28th August :- [https://www.fixmystreet.com/report/6405607](https://www.fixmystreet.com/report/6405607)
+- Streetlight outside No 29 not working, 27th August :- [https://www.fixmystreet.com/report/6405176](https://www.fixmystreet.com/report/6405176)
 - Traffic light has been knocked off angle, 27th August :- [https://www.fixmystreet.com/report/6404651](https://www.fixmystreet.com/report/6404651)
 - Pot hole on side of road, 27th August :- [https://www.fixmystreet.com/report/6404214](https://www.fixmystreet.com/report/6404214)
 - Whole street requires resurfacing, 27th August :- [https://www.fixmystreet.com/report/6404022](https://www.fixmystreet.com/report/6404022)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 27th August :- [https://www.fixmystreet.com/report/6402842](https://www.fixmystreet.com/report/6402842)
 - Temporary traffic light not detecting vehicles, 27th August :- [https://www.fixmystreet.com/report/6402220](https://www.fixmystreet.com/report/6402220)
 - Overgrown hedging completely blocking pavement., 27th August :- [https://www.fixmystreet.com/report/6402096](https://www.fixmystreet.com/report/6402096)
-- Overflowing bin next to children’s play area, 27th August :- [https://www.fixmystreet.com/report/6401841](https://www.fixmystreet.com/report/6401841)
-- Large tree has been partially uprooted by wind and now leaning. Risk of falling onto gardens., 27th August :- [https://www.fixmystreet.com/report/6401738](https://www.fixmystreet.com/report/6401738)
 
 <!-- fix_marker ends -->
