@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Obstruction when parking cars in the marked zones which we pay a permit to park., 29th August :- [https://www.fixmystreet.com/report/6410659](https://www.fixmystreet.com/report/6410659)
+- Street light is out, 29th August :- [https://www.fixmystreet.com/report/6410330](https://www.fixmystreet.com/report/6410330)
+- Expansive repairs needed, 28th August :- [https://www.fixmystreet.com/report/6410294](https://www.fixmystreet.com/report/6410294)
+- Working in highway without chapter 8 signing causing a danger to the public particularly cyclists. Tape will not be visible at night causing risk to life for motorcyclists. Access work appears to be underway without planning permission. Please raise with H&S executive asap, 28th August :- [https://www.fixmystreet.com/report/6409842](https://www.fixmystreet.com/report/6409842)
+- Fly tipping nitrous oxide canisters, 28th August :- [https://www.fixmystreet.com/report/6409816](https://www.fixmystreet.com/report/6409816)
 - The temporary lights in Village road are not detecting traffic, 28th August :- [https://www.fixmystreet.com/report/6409396](https://www.fixmystreet.com/report/6409396)
 - Working in highway without chapter 8 signing causing a danger to the public particularly cyclists. Tape will not be visible at night causing risk to life for motorcyclists. Access work appears to be underway without planning permission. Please raise with H&S executive asap., 28th August :- [https://www.fixmystreet.com/report/6409040](https://www.fixmystreet.com/report/6409040)
 - Failed Repair Centre A40 At Traffic Lights, 28th August :- [https://www.fixmystreet.com/report/6408970](https://www.fixmystreet.com/report/6408970)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The non illuminating bollards on this dangerous corner of the road have been knocked over or removed, 28th August :- [https://www.fixmystreet.com/report/6407183](https://www.fixmystreet.com/report/6407183)
 - Street Light permanently off, 28th August :- [https://www.fixmystreet.com/report/6405607](https://www.fixmystreet.com/report/6405607)
 - Streetlight outside No 29 not working, 27th August :- [https://www.fixmystreet.com/report/6405176](https://www.fixmystreet.com/report/6405176)
-- Traffic light has been knocked off angle, 27th August :- [https://www.fixmystreet.com/report/6404651](https://www.fixmystreet.com/report/6404651)
-- Pot hole on side of road, 27th August :- [https://www.fixmystreet.com/report/6404214](https://www.fixmystreet.com/report/6404214)
-- Whole street requires resurfacing, 27th August :- [https://www.fixmystreet.com/report/6404022](https://www.fixmystreet.com/report/6404022)
-- Previous repair outside 81a and b station roaf, 27th August :- [https://www.fixmystreet.com/report/6403974](https://www.fixmystreet.com/report/6403974)
-- Grass verge at entrance to Oakfield road off Pecked lane., 27th August :- [https://www.fixmystreet.com/report/6403925](https://www.fixmystreet.com/report/6403925)
 
 <!-- fix_marker ends -->
