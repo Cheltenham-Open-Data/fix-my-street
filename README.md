@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gate chained and locked to exit field on public right of way, 29th August :- [https://www.fixmystreet.com/report/6414647](https://www.fixmystreet.com/report/6414647)
+- Street Lighting inop all along Kingsmead Road, 29th August :- [https://www.fixmystreet.com/report/6414395](https://www.fixmystreet.com/report/6414395)
+- There is a missing tree on Pittville Circus, can a new one be planted please, 29th August :- [https://www.fixmystreet.com/report/6414055](https://www.fixmystreet.com/report/6414055)
 - Series of sunken paving slabs, 29th August :- [https://www.fixmystreet.com/report/6413173](https://www.fixmystreet.com/report/6413173)
 - Broken glass in alley way, 29th August :- [https://www.fixmystreet.com/report/6412773](https://www.fixmystreet.com/report/6412773)
 - Broken bridge slats, 29th August :- [https://www.fixmystreet.com/report/6412690](https://www.fixmystreet.com/report/6412690)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree is damaged problem, 29th August :- [https://www.fixmystreet.com/report/6411186](https://www.fixmystreet.com/report/6411186)
 - A pothole in road problem, 29th August :- [https://www.fixmystreet.com/report/6411010](https://www.fixmystreet.com/report/6411010)
 - Light sensor is not detecting vehicles problem, 29th August :- [https://www.fixmystreet.com/report/6410864](https://www.fixmystreet.com/report/6410864)
-- Car parking opposite junction, 29th August :- [https://www.fixmystreet.com/report/6410759](https://www.fixmystreet.com/report/6410759)
-- Blocking visibility on road/junction (Grass/verge) problem, 29th August :- [https://www.fixmystreet.com/report/6410863](https://www.fixmystreet.com/report/6410863)
-- Obstruction when parking cars in the marked zones which we pay a permit to park., 29th August :- [https://www.fixmystreet.com/report/6410659](https://www.fixmystreet.com/report/6410659)
 
 <!-- fix_marker ends -->
