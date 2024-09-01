@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lights x2 been put for several days now, 31st August :- [https://www.fixmystreet.com/report/6421296](https://www.fixmystreet.com/report/6421296)
+- Stop / Go indicator not visible from dropped kerb., 31st August :- [https://www.fixmystreet.com/report/6421275](https://www.fixmystreet.com/report/6421275)
+- Manhole cover clanking 24/7 when cars drive over., 31st August :- [https://www.fixmystreet.com/report/6421235](https://www.fixmystreet.com/report/6421235)
 - The sign is located on the top of the railway bridge. It’s slanted and looks as if it will fall onto the road below., 31st August :- [https://www.fixmystreet.com/report/6420578](https://www.fixmystreet.com/report/6420578)
 - Arrows on roundabout marking direction are ambiguous with no right hand arrow, 31st August :- [https://www.fixmystreet.com/report/6420488](https://www.fixmystreet.com/report/6420488)
 - Tree causing property damage, 31st August :- [https://www.fixmystreet.com/report/6420475](https://www.fixmystreet.com/report/6420475)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large branch snapped off and hanging above foot path and car, 30th August :- [https://www.fixmystreet.com/report/6417523](https://www.fixmystreet.com/report/6417523)
 - Slightly sunken low drain cover, 30th August :- [https://www.fixmystreet.com/report/6417489](https://www.fixmystreet.com/report/6417489)
 - Obstructed path following Environment Agency Flood Alleviation Scheme completed 2012, 30th August :- [https://www.fixmystreet.com/report/6417458](https://www.fixmystreet.com/report/6417458)
-- Water main burst/leak, 30th August :- [https://www.fixmystreet.com/report/6417450](https://www.fixmystreet.com/report/6417450)
-- Good afternoon I was wondering what was happening with the footpath closure reference as above in Abbotswood Road Brockworth EY102GH1901000029464, 30th August :- [https://www.fixmystreet.com/report/6417339](https://www.fixmystreet.com/report/6417339)
-- Excessive flyposting/advertising on Swindon road, 30th August :- [https://www.fixmystreet.com/report/6417325](https://www.fixmystreet.com/report/6417325)
 
 <!-- fix_marker ends -->
