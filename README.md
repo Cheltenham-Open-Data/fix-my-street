@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Severe littering of grass verges/hedges along length of Frogfurlong Lane, 2nd September :- [https://www.fixmystreet.com/report/6424445](https://www.fixmystreet.com/report/6424445)
+- Flytipping Albert Street, 2nd September :- [https://www.fixmystreet.com/report/6424361](https://www.fixmystreet.com/report/6424361)
+- Flytipped carpet Victoria Street, 2nd September :- [https://www.fixmystreet.com/report/6424358](https://www.fixmystreet.com/report/6424358)
+- Flytipped furniture Hungerford St, 2nd September :- [https://www.fixmystreet.com/report/6424327](https://www.fixmystreet.com/report/6424327)
+- Metal cover was raised up causing my partner to fall. I went to assess and it’s very loose I have tried to put it down but it needs attention, 1st September :- [https://www.fixmystreet.com/report/6423969](https://www.fixmystreet.com/report/6423969)
+- Overgrown weeds along the pathway near bus stop, 1st September :- [https://www.fixmystreet.com/report/6423948](https://www.fixmystreet.com/report/6423948)
+- Fly tipping of bags of soil, 1st September :- [https://www.fixmystreet.com/report/6423891](https://www.fixmystreet.com/report/6423891)
+- Large amount ofFly tipping, 1st September :- [https://www.fixmystreet.com/report/6423641](https://www.fixmystreet.com/report/6423641)
 - SUGGESTION - would you add a 50 repeater ?, 1st September :- [https://www.fixmystreet.com/report/6423520](https://www.fixmystreet.com/report/6423520)
 - Tree stump, 1st September :- [https://www.fixmystreet.com/report/6423295](https://www.fixmystreet.com/report/6423295)
 - Fly tipping appeared on weekend 31/08-01/09/24, 1st September :- [https://www.fixmystreet.com/report/6423243](https://www.fixmystreet.com/report/6423243)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Stop / Go indicator not visible from dropped kerb., 31st August :- [https://www.fixmystreet.com/report/6421275](https://www.fixmystreet.com/report/6421275)
 - Manhole cover clanking 24/7 when cars drive over., 31st August :- [https://www.fixmystreet.com/report/6421235](https://www.fixmystreet.com/report/6421235)
 - The sign is located on the top of the railway bridge. It’s slanted and looks as if it will fall onto the road below., 31st August :- [https://www.fixmystreet.com/report/6420578](https://www.fixmystreet.com/report/6420578)
-- Arrows on roundabout marking direction are ambiguous with no right hand arrow, 31st August :- [https://www.fixmystreet.com/report/6420488](https://www.fixmystreet.com/report/6420488)
-- Tree causing property damage, 31st August :- [https://www.fixmystreet.com/report/6420475](https://www.fixmystreet.com/report/6420475)
-- Drain outside house blocked. Backing up toilet, 31st August :- [https://www.fixmystreet.com/report/6420415](https://www.fixmystreet.com/report/6420415)
-- Blocked drain, 31st August :- [https://www.fixmystreet.com/report/6419794](https://www.fixmystreet.com/report/6419794)
-- 35 horsefair street, 31st August :- [https://www.fixmystreet.com/report/6419761](https://www.fixmystreet.com/report/6419761)
-- Pedestrians crossing not working on A46 junction with Church Lane Shurdington, 31st August :- [https://www.fixmystreet.com/report/6419727](https://www.fixmystreet.com/report/6419727)
-- Reported this issue a few weeks ago men turned up and only repaired a small section as seen in photo stating politly that contractors would have to do the rest please can you tell me when this will happenn, 31st August :- [https://www.fixmystreet.com/report/6419244](https://www.fixmystreet.com/report/6419244)
-- Lamps numbered 3 and 6 not illuminated, 31st August :- [https://www.fixmystreet.com/report/6418952](https://www.fixmystreet.com/report/6418952)
 
 <!-- fix_marker ends -->
