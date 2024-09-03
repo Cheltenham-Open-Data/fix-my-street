@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dog waste bins not emptied for 3-4 weeks, July & August, 3rd September :- [https://www.fixmystreet.com/report/6432731](https://www.fixmystreet.com/report/6432731)
+- Loose/rattling cover/ironwork problem, 3rd September :- [https://www.fixmystreet.com/report/6432066](https://www.fixmystreet.com/report/6432066)
+- The sign is illegible problem, 3rd September :- [https://www.fixmystreet.com/report/6431275](https://www.fixmystreet.com/report/6431275)
+- Loose/rattling cover/ironwork problem, 3rd September :- [https://www.fixmystreet.com/report/6431273](https://www.fixmystreet.com/report/6431273)
+- 2 deep potholes exiting car park approach -, 3rd September :- [https://www.fixmystreet.com/report/6430813](https://www.fixmystreet.com/report/6430813)
+- A pothole in pavement problem, 3rd September :- [https://www.fixmystreet.com/report/6430801](https://www.fixmystreet.com/report/6430801)
+- Flytipping on Malthouse Lane, 3rd September :- [https://www.fixmystreet.com/report/6429970](https://www.fixmystreet.com/report/6429970)
+- Bocked drains, 3rd September :- [https://www.fixmystreet.com/report/6429911](https://www.fixmystreet.com/report/6429911)
+- Street light is out, 3rd September :- [https://www.fixmystreet.com/report/6429599](https://www.fixmystreet.com/report/6429599)
 - Street light not working, 3rd September :- [https://www.fixmystreet.com/report/6429135](https://www.fixmystreet.com/report/6429135)
 - There are two large potholes just after Gowanlea, 2nd September :- [https://www.fixmystreet.com/report/6428807](https://www.fixmystreet.com/report/6428807)
 - Tree down, 2nd September :- [https://www.fixmystreet.com/report/6428753](https://www.fixmystreet.com/report/6428753)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 2nd September :- [https://www.fixmystreet.com/report/6427057](https://www.fixmystreet.com/report/6427057)
 - Grass verge so overgrown, cannot see oncoming traffic! Danger to life., 2nd September :- [https://www.fixmystreet.com/report/6426812](https://www.fixmystreet.com/report/6426812)
 - Tree is damaged problem, 2nd September :- [https://www.fixmystreet.com/report/6426697](https://www.fixmystreet.com/report/6426697)
-- Graffiti on northbound sign at ///quiet.vision.magma, 2nd September :- [https://www.fixmystreet.com/report/6426476](https://www.fixmystreet.com/report/6426476)
-- Tree is damaged problem, 2nd September :- [https://www.fixmystreet.com/report/6426338](https://www.fixmystreet.com/report/6426338)
-- Tree overhanging house, touching electrical cables, 2nd September :- [https://www.fixmystreet.com/report/6426259](https://www.fixmystreet.com/report/6426259)
-- Concrete blocks dumped, 2nd September :- [https://www.fixmystreet.com/report/6426200](https://www.fixmystreet.com/report/6426200)
-- Residents are now thinking ok to just throw into the street, 2nd September :- [https://www.fixmystreet.com/report/6426086](https://www.fixmystreet.com/report/6426086)
-- Water been coming out of drain for about 3 weeks now, flowing onto the road and could cause surface issues. Most likely a water company issue as been flowing even in dry weather., 2nd September :- [https://www.fixmystreet.com/report/6425919](https://www.fixmystreet.com/report/6425919)
-- Raised, loose paving slab caused by tree roots., 2nd September :- [https://www.fixmystreet.com/report/6425796](https://www.fixmystreet.com/report/6425796)
-- Loose/rattling cover/ironwork problem, 2nd September :- [https://www.fixmystreet.com/report/6425749](https://www.fixmystreet.com/report/6425749)
-- Black plastic bag dumped with cylinder inside, 2nd September :- [https://www.fixmystreet.com/report/6425495](https://www.fixmystreet.com/report/6425495)
 
 <!-- fix_marker ends -->
