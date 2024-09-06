@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lights heading out of Cheltenham not detecting vehicles, 6th September :- [https://www.fixmystreet.com/report/6442077](https://www.fixmystreet.com/report/6442077)
+- Sunken area has been surrounded by ugly Glos Highways barriers -, 5th September :- [https://www.fixmystreet.com/report/6441573](https://www.fixmystreet.com/report/6441573)
+- Road narrows temporary traffic sign left on the verge, 5th September :- [https://www.fixmystreet.com/report/6441567](https://www.fixmystreet.com/report/6441567)
+- Road sign and bollard left after Priors Road resurfacing completed, 5th September :- [https://www.fixmystreet.com/report/6441556](https://www.fixmystreet.com/report/6441556)
+- Front garden overgrown completely blocking pathway, 5th September :- [https://www.fixmystreet.com/report/6441298](https://www.fixmystreet.com/report/6441298)
 - Drains on Cirencester road and Bradley road are blocked with silt they all need unblocking, 5th September :- [https://www.fixmystreet.com/report/6441078](https://www.fixmystreet.com/report/6441078)
 - Drain overflowing, 5th September :- [https://www.fixmystreet.com/report/6440746](https://www.fixmystreet.com/report/6440746)
 - Man hole overflowing, 5th September :- [https://www.fixmystreet.com/report/6440735](https://www.fixmystreet.com/report/6440735)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 5th September :- [https://www.fixmystreet.com/report/6439996](https://www.fixmystreet.com/report/6439996)
 - Road Markings incorrect ,, there are two straight on arrows which end in only one lane at exit , this will cause an accident before long .Previously the left lane was turn left only ., 5th September :- [https://www.fixmystreet.com/report/6439824](https://www.fixmystreet.com/report/6439824)
 - Vegetation encroaching on pavement, 5th September :- [https://www.fixmystreet.com/report/6439671](https://www.fixmystreet.com/report/6439671)
-- Dangerous path, 5th September :- [https://www.fixmystreet.com/report/6439496](https://www.fixmystreet.com/report/6439496)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 5th September :- [https://www.fixmystreet.com/report/6439431](https://www.fixmystreet.com/report/6439431)
-- A pothole in road problem, 5th September :- [https://www.fixmystreet.com/report/6439430](https://www.fixmystreet.com/report/6439430)
-- Street bin not being emptied, 5th September :- [https://www.fixmystreet.com/report/6439266](https://www.fixmystreet.com/report/6439266)
-- 2 girls' bikes in undergrowth, near end of new cycle path, 5th September :- [https://www.fixmystreet.com/report/6439229](https://www.fixmystreet.com/report/6439229)
 
 <!-- fix_marker ends -->
