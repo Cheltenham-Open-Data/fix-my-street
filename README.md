@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Unclear road markings, 7th September :- [https://www.fixmystreet.com/report/6445707](https://www.fixmystreet.com/report/6445707)
+- Impassable footpath, 7th September :- [https://www.fixmystreet.com/report/6445696](https://www.fixmystreet.com/report/6445696)
+- Pavements in General, 7th September :- [https://www.fixmystreet.com/report/6445605](https://www.fixmystreet.com/report/6445605)
+- Corner of Green Lane/Billbrook Rd, 7th September :- [https://www.fixmystreet.com/report/6445604](https://www.fixmystreet.com/report/6445604)
+- B4063 Hare and Hounds -Traffic light sequence causing huge traffic delays, 6th September :- [https://www.fixmystreet.com/report/6445343](https://www.fixmystreet.com/report/6445343)
+- Dog poo bin overflowing, 6th September :- [https://www.fixmystreet.com/report/6445186](https://www.fixmystreet.com/report/6445186)
 - Please paint a cycle box by the traffic lights, 6th September :- [https://www.fixmystreet.com/report/6444927](https://www.fixmystreet.com/report/6444927)
 - Blocked drain in Alexandra Street, 6th September :- [https://www.fixmystreet.com/report/6444575](https://www.fixmystreet.com/report/6444575)
 - Advertising signs, 6th September :- [https://www.fixmystreet.com/report/6444208](https://www.fixmystreet.com/report/6444208)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Lights heading out of Cheltenham not detecting vehicles, 6th September :- [https://www.fixmystreet.com/report/6442077](https://www.fixmystreet.com/report/6442077)
 - Sunken area has been surrounded by ugly Glos Highways barriers -, 5th September :- [https://www.fixmystreet.com/report/6441573](https://www.fixmystreet.com/report/6441573)
 - Road narrows temporary traffic sign left on the verge, 5th September :- [https://www.fixmystreet.com/report/6441567](https://www.fixmystreet.com/report/6441567)
-- Road sign and bollard left after Priors Road resurfacing completed, 5th September :- [https://www.fixmystreet.com/report/6441556](https://www.fixmystreet.com/report/6441556)
-- Front garden overgrown completely blocking pathway, 5th September :- [https://www.fixmystreet.com/report/6441298](https://www.fixmystreet.com/report/6441298)
-- Drains on Cirencester road and Bradley road are blocked with silt they all need unblocking, 5th September :- [https://www.fixmystreet.com/report/6441078](https://www.fixmystreet.com/report/6441078)
-- Drain overflowing, 5th September :- [https://www.fixmystreet.com/report/6440746](https://www.fixmystreet.com/report/6440746)
-- Man hole overflowing, 5th September :- [https://www.fixmystreet.com/report/6440735](https://www.fixmystreet.com/report/6440735)
-- Overflowing and now flooding into the retail park, 5th September :- [https://www.fixmystreet.com/report/6440726](https://www.fixmystreet.com/report/6440726)
 
 <!-- fix_marker ends -->
