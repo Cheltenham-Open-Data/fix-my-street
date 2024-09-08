@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Finger post not visible., 7th September :- [https://www.fixmystreet.com/report/6448070](https://www.fixmystreet.com/report/6448070)
+- Missing fingerpost, 7th September :- [https://www.fixmystreet.com/report/6448068](https://www.fixmystreet.com/report/6448068)
+- Overfill dog waste bins, 7th September :- [https://www.fixmystreet.com/report/6448064](https://www.fixmystreet.com/report/6448064)
+- Dumped fridge, 7th September :- [https://www.fixmystreet.com/report/6448024](https://www.fixmystreet.com/report/6448024)
+- Multiple potholes on dunster road, 7th September :- [https://www.fixmystreet.com/report/6447978](https://www.fixmystreet.com/report/6447978)
+- Drain cover dislodged, 7th September :- [https://www.fixmystreet.com/report/6447910](https://www.fixmystreet.com/report/6447910)
 - Rubbish left outside back gate, 7th September :- [https://www.fixmystreet.com/report/6447463](https://www.fixmystreet.com/report/6447463)
 - Was poor repair, 7th September :- [https://www.fixmystreet.com/report/6447001](https://www.fixmystreet.com/report/6447001)
 - Hazel hedgerow overgrown Green Lane Hucclecote GL3 3RP, 7th September :- [https://www.fixmystreet.com/report/6446634](https://www.fixmystreet.com/report/6446634)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Corner of Green Lane/Billbrook Rd, 7th September :- [https://www.fixmystreet.com/report/6445604](https://www.fixmystreet.com/report/6445604)
 - B4063 Hare and Hounds -Traffic light sequence causing huge traffic delays, 6th September :- [https://www.fixmystreet.com/report/6445343](https://www.fixmystreet.com/report/6445343)
 - Dog poo bin overflowing, 6th September :- [https://www.fixmystreet.com/report/6445186](https://www.fixmystreet.com/report/6445186)
-- Please paint a cycle box by the traffic lights, 6th September :- [https://www.fixmystreet.com/report/6444927](https://www.fixmystreet.com/report/6444927)
-- Blocked drain in Alexandra Street, 6th September :- [https://www.fixmystreet.com/report/6444575](https://www.fixmystreet.com/report/6444575)
-- Advertising signs, 6th September :- [https://www.fixmystreet.com/report/6444208](https://www.fixmystreet.com/report/6444208)
-- Mud on road, 6th September :- [https://www.fixmystreet.com/report/6443447](https://www.fixmystreet.com/report/6443447)
-- Rubbish bin needed, 6th September :- [https://www.fixmystreet.com/report/6443097](https://www.fixmystreet.com/report/6443097)
-- The lights are too dim in a rough area, 6th September :- [https://www.fixmystreet.com/report/6443064](https://www.fixmystreet.com/report/6443064)
 
 <!-- fix_marker ends -->
