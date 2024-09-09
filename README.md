@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pedestrian crossing button always pushed in so the lights change when nobody is waiting to cross., 9th September :- [https://www.fixmystreet.com/report/6451114](https://www.fixmystreet.com/report/6451114)
+- Footpath overgrown, 9th September :- [https://www.fixmystreet.com/report/6450974](https://www.fixmystreet.com/report/6450974)
+- Outside Ciro Brasserie on Bath Road, Cheltenham. Large piece of yellow plastic has been on the pavement for several months. Not sure why. It is very unsightly., 9th September :- [https://www.fixmystreet.com/report/6450870](https://www.fixmystreet.com/report/6450870)
+- Cars joyriding in park. Tyre tracks., 8th September :- [https://www.fixmystreet.com/report/6450801](https://www.fixmystreet.com/report/6450801)
+- Flytipping next to clothes recycling, 8th September :- [https://www.fixmystreet.com/report/6450798](https://www.fixmystreet.com/report/6450798)
+- Street lights do no switch on at Ashbrittle Road, 8th September :- [https://www.fixmystreet.com/report/6450373](https://www.fixmystreet.com/report/6450373)
 - 4 streetlights permanently not working, 8th September :- [https://www.fixmystreet.com/report/6449852](https://www.fixmystreet.com/report/6449852)
 - Street light not on all night. Comes on at dusk but goes off completely around 11pm, 8th September :- [https://www.fixmystreet.com/report/6449850](https://www.fixmystreet.com/report/6449850)
 - Pothole, 8th September :- [https://www.fixmystreet.com/report/6449757](https://www.fixmystreet.com/report/6449757)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Missing fingerpost, 7th September :- [https://www.fixmystreet.com/report/6448068](https://www.fixmystreet.com/report/6448068)
 - Overfill dog waste bins, 7th September :- [https://www.fixmystreet.com/report/6448064](https://www.fixmystreet.com/report/6448064)
 - Dumped fridge, 7th September :- [https://www.fixmystreet.com/report/6448024](https://www.fixmystreet.com/report/6448024)
-- Multiple potholes on dunster road, 7th September :- [https://www.fixmystreet.com/report/6447978](https://www.fixmystreet.com/report/6447978)
-- Drain cover dislodged, 7th September :- [https://www.fixmystreet.com/report/6447910](https://www.fixmystreet.com/report/6447910)
-- Rubbish left outside back gate, 7th September :- [https://www.fixmystreet.com/report/6447463](https://www.fixmystreet.com/report/6447463)
-- Was poor repair, 7th September :- [https://www.fixmystreet.com/report/6447001](https://www.fixmystreet.com/report/6447001)
-- Hazel hedgerow overgrown Green Lane Hucclecote GL3 3RP, 7th September :- [https://www.fixmystreet.com/report/6446634](https://www.fixmystreet.com/report/6446634)
-- Red barriers still on fence, 7th September :- [https://www.fixmystreet.com/report/6446295](https://www.fixmystreet.com/report/6446295)
 
 <!-- fix_marker ends -->
