@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping, 10th September :- [https://www.fixmystreet.com/report/6455661](https://www.fixmystreet.com/report/6455661)
+- Broken Bollard, 10th September :- [https://www.fixmystreet.com/report/6455659](https://www.fixmystreet.com/report/6455659)
+- Multiple potholes at pedestrian crossing, 10th September :- [https://www.fixmystreet.com/report/6455617](https://www.fixmystreet.com/report/6455617)
+- Light Scheduling along Cheltenham Road East, 10th September :- [https://www.fixmystreet.com/report/6455603](https://www.fixmystreet.com/report/6455603)
+- Light into park behind Redwood Park is permanently out, 9th September :- [https://www.fixmystreet.com/report/6455091](https://www.fixmystreet.com/report/6455091)
+- Broken street light, 9th September :- [https://www.fixmystreet.com/report/6455004](https://www.fixmystreet.com/report/6455004)
 - Overgrown bush, 9th September :- [https://www.fixmystreet.com/report/6454707](https://www.fixmystreet.com/report/6454707)
 - The Timing has slipped, 9th September :- [https://www.fixmystreet.com/report/6454690](https://www.fixmystreet.com/report/6454690)
 - Fly tipping again, 9th September :- [https://www.fixmystreet.com/report/6454679](https://www.fixmystreet.com/report/6454679)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Barriers up for almost six months, closing our entrance to basement and stopping scheduled renovation work, 9th September :- [https://www.fixmystreet.com/report/6452044](https://www.fixmystreet.com/report/6452044)
 - Repaired 2 weeks ago, failed already, 9th September :- [https://www.fixmystreet.com/report/6452011](https://www.fixmystreet.com/report/6452011)
 - Loose/rattling cover/ironwork problem, 9th September :- [https://www.fixmystreet.com/report/6451878](https://www.fixmystreet.com/report/6451878)
-- Damaged pavement/ entrance to car park, 9th September :- [https://www.fixmystreet.com/report/6451590](https://www.fixmystreet.com/report/6451590)
-- Red light not working on filter from Priors Road to Redmarley Road, 9th September :- [https://www.fixmystreet.com/report/6451388](https://www.fixmystreet.com/report/6451388)
-- Right turn Filter light not working from St George’s Road down honeybourne way, 9th September :- [https://www.fixmystreet.com/report/6451261](https://www.fixmystreet.com/report/6451261)
-- Pedestrian crossing button always pushed in so the lights change when nobody is waiting to cross., 9th September :- [https://www.fixmystreet.com/report/6451114](https://www.fixmystreet.com/report/6451114)
-- Footpath overgrown, 9th September :- [https://www.fixmystreet.com/report/6450974](https://www.fixmystreet.com/report/6450974)
-- Outside Ciro Brasserie on Bath Road, Cheltenham. Large piece of yellow plastic has been on the pavement for several months. Not sure why. It is very unsightly., 9th September :- [https://www.fixmystreet.com/report/6450870](https://www.fixmystreet.com/report/6450870)
 
 <!-- fix_marker ends -->
