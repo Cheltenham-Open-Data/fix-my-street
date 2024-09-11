@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fallen tree blocking footpath, 11th September :- [https://www.fixmystreet.com/report/6459763](https://www.fixmystreet.com/report/6459763)
+- Faulty pedestrian sensor causing A40 Westbound Red Lights for no reason, 10th September :- [https://www.fixmystreet.com/report/6459426](https://www.fixmystreet.com/report/6459426)
+- Swing and umbrella flytipped, 10th September :- [https://www.fixmystreet.com/report/6459063](https://www.fixmystreet.com/report/6459063)
+- Bed frame flytipped, 10th September :- [https://www.fixmystreet.com/report/6459058](https://www.fixmystreet.com/report/6459058)
 - Lighting obscured by vegetation by the alleyway., 10th September :- [https://www.fixmystreet.com/report/6458941](https://www.fixmystreet.com/report/6458941)
 - Multiple potholes, 10th September :- [https://www.fixmystreet.com/report/6458594](https://www.fixmystreet.com/report/6458594)
 - Last bollard of 3 designating the turning into Whittington on A40 from Cheltenham has been damged and mived by wall collapse and tree pruning., 10th September :- [https://www.fixmystreet.com/report/6458502](https://www.fixmystreet.com/report/6458502)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipping, 10th September :- [https://www.fixmystreet.com/report/6455661](https://www.fixmystreet.com/report/6455661)
 - Broken Bollard, 10th September :- [https://www.fixmystreet.com/report/6455659](https://www.fixmystreet.com/report/6455659)
 - Multiple potholes at pedestrian crossing, 10th September :- [https://www.fixmystreet.com/report/6455617](https://www.fixmystreet.com/report/6455617)
-- Light Scheduling along Cheltenham Road East, 10th September :- [https://www.fixmystreet.com/report/6455603](https://www.fixmystreet.com/report/6455603)
-- Light into park behind Redwood Park is permanently out, 9th September :- [https://www.fixmystreet.com/report/6455091](https://www.fixmystreet.com/report/6455091)
-- Broken street light, 9th September :- [https://www.fixmystreet.com/report/6455004](https://www.fixmystreet.com/report/6455004)
-- Overgrown bush, 9th September :- [https://www.fixmystreet.com/report/6454707](https://www.fixmystreet.com/report/6454707)
 
 <!-- fix_marker ends -->
