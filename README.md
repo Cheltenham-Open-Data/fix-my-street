@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- White line worn out drivers cut corner and fail to stop, 13th September :- [https://www.fixmystreet.com/report/6467144](https://www.fixmystreet.com/report/6467144)
+- Street light not working on Washpool Road, 12th September :- [https://www.fixmystreet.com/report/6466985](https://www.fixmystreet.com/report/6466985)
 - Recurrence of previous problem, 12th September :- [https://www.fixmystreet.com/report/6466520](https://www.fixmystreet.com/report/6466520)
 - Sunken manhole/drain cover in road, 12th September :- [https://www.fixmystreet.com/report/6466464](https://www.fixmystreet.com/report/6466464)
 - Water seeping through road surface., 12th September :- [https://www.fixmystreet.com/report/6466409](https://www.fixmystreet.com/report/6466409)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road markings, 11th September :- [https://www.fixmystreet.com/report/6462946](https://www.fixmystreet.com/report/6462946)
 - There have been temporary lights for 6 weeks - and no sign of any work being carried out . Why? and when will work start and finish?, 11th September :- [https://www.fixmystreet.com/report/6462943](https://www.fixmystreet.com/report/6462943)
 - Cold Pool Lane - consider no right turn, 11th September :- [https://www.fixmystreet.com/report/6462493](https://www.fixmystreet.com/report/6462493)
-- Speed bump has broken up., 11th September :- [https://www.fixmystreet.com/report/6462475](https://www.fixmystreet.com/report/6462475)
-- Street light between 99 and 101 Cirencester road is permanently on, 11th September :- [https://www.fixmystreet.com/report/6462398](https://www.fixmystreet.com/report/6462398)
 
 <!-- fix_marker ends -->
