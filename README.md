@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flickering street light, 14th September :- [https://www.fixmystreet.com/report/6470440](https://www.fixmystreet.com/report/6470440)
+- Metal, half marathon sign needs collecting, 13th September :- [https://www.fixmystreet.com/report/6470261](https://www.fixmystreet.com/report/6470261)
+- Metal, half marathon sign needs collecting, 13th September :- [https://www.fixmystreet.com/report/6470260](https://www.fixmystreet.com/report/6470260)
+- Half marathon sign needs collecting, 13th September :- [https://www.fixmystreet.com/report/6470252](https://www.fixmystreet.com/report/6470252)
 - Large pot hole in road causing loud noise as cars drive over, 13th September :- [https://www.fixmystreet.com/report/6469872](https://www.fixmystreet.com/report/6469872)
 - Absolutely no signage from Charlton kings end of Greenway lane to say road is closed., 13th September :- [https://www.fixmystreet.com/report/6469614](https://www.fixmystreet.com/report/6469614)
 - No entry sign obscured by hedge, 13th September :- [https://www.fixmystreet.com/report/6469479](https://www.fixmystreet.com/report/6469479)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Outsid6 41, 13th September :- [https://www.fixmystreet.com/report/6467315](https://www.fixmystreet.com/report/6467315)
 - The sign pointing towards Woodlands Road, sited above the double sign showing Cheltenham and Stroud, is completely hidden by the tree., 13th September :- [https://www.fixmystreet.com/report/6467249](https://www.fixmystreet.com/report/6467249)
 - White line worn out drivers cut corner and fail to stop, 13th September :- [https://www.fixmystreet.com/report/6467144](https://www.fixmystreet.com/report/6467144)
-- Street light not working on Washpool Road, 12th September :- [https://www.fixmystreet.com/report/6466985](https://www.fixmystreet.com/report/6466985)
-- Recurrence of previous problem, 12th September :- [https://www.fixmystreet.com/report/6466520](https://www.fixmystreet.com/report/6466520)
-- Sunken manhole/drain cover in road, 12th September :- [https://www.fixmystreet.com/report/6466464](https://www.fixmystreet.com/report/6466464)
-- Water seeping through road surface., 12th September :- [https://www.fixmystreet.com/report/6466409](https://www.fixmystreet.com/report/6466409)
 
 <!-- fix_marker ends -->
