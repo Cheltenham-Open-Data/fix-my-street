@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Numerous potholes, 14th September :- [https://www.fixmystreet.com/report/6472350](https://www.fixmystreet.com/report/6472350)
 - Kissing gate blocked by fallen tree, 14th September :- [https://www.fixmystreet.com/report/6471909](https://www.fixmystreet.com/report/6471909)
 - Unable to access accessible footpath, 14th September :- [https://www.fixmystreet.com/report/6471843](https://www.fixmystreet.com/report/6471843)
 - Dangerous manhole cover. Rattling and making a right racket!!!, 14th September :- [https://www.fixmystreet.com/report/6471793](https://www.fixmystreet.com/report/6471793)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - No entry sign obscured by hedge, 13th September :- [https://www.fixmystreet.com/report/6469479](https://www.fixmystreet.com/report/6469479)
 - 2 potholes near the traffic calming, 13th September :- [https://www.fixmystreet.com/report/6469446](https://www.fixmystreet.com/report/6469446)
 - The drain is blocked and overflows in recent heavy rain, sending all water cascading down Bournside Road, 13th September :- [https://www.fixmystreet.com/report/6469365](https://www.fixmystreet.com/report/6469365)
-- Loose/rattling cover/ironwork problem, 13th September :- [https://www.fixmystreet.com/report/6469222](https://www.fixmystreet.com/report/6469222)
 
 <!-- fix_marker ends -->
