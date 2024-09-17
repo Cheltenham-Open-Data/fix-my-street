@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Loose and Noisy Fire Hydrant Cover After Second Replacement, 17th September :- [https://www.fixmystreet.com/report/6479777](https://www.fixmystreet.com/report/6479777)
+- TTLs on green for 2 directions at the same time, 17th September :- [https://www.fixmystreet.com/report/6479627](https://www.fixmystreet.com/report/6479627)
+- Flytip on Cleeve Common Road - Pylons Butterfly Field Gate area, 17th September :- [https://www.fixmystreet.com/report/6479615](https://www.fixmystreet.com/report/6479615)
+- Gate fell when opening, very heavy could have caused injury, needs to be repaired as hinges appear broken, 16th September :- [https://www.fixmystreet.com/report/6478855](https://www.fixmystreet.com/report/6478855)
 - Loose/rattling cover/ironwork problem, 16th September :- [https://www.fixmystreet.com/report/6477847](https://www.fixmystreet.com/report/6477847)
 - Loose/rattling cover/ironwork problem, 16th September :- [https://www.fixmystreet.com/report/6477846](https://www.fixmystreet.com/report/6477846)
 - Road markings on Elmbridge roundabout faint., 16th September :- [https://www.fixmystreet.com/report/6477688](https://www.fixmystreet.com/report/6477688)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - An on-street parking meter appears to be damaged and leaning at an angle., 16th September :- [https://www.fixmystreet.com/report/6476169](https://www.fixmystreet.com/report/6476169)
 - Pathing area uneven, 16th September :- [https://www.fixmystreet.com/report/6475916](https://www.fixmystreet.com/report/6475916)
 - The sign is illegible problem, 16th September :- [https://www.fixmystreet.com/report/6475885](https://www.fixmystreet.com/report/6475885)
-- No u turn sign missing, 16th September :- [https://www.fixmystreet.com/report/6475625](https://www.fixmystreet.com/report/6475625)
-- Damage caused to cycle rail, 16th September :- [https://www.fixmystreet.com/report/6475521](https://www.fixmystreet.com/report/6475521)
-- Large pothole on narrow bit of road by dog waste bin, 16th September :- [https://www.fixmystreet.com/report/6475477](https://www.fixmystreet.com/report/6475477)
-- Sunken man hole cover, 16th September :- [https://www.fixmystreet.com/report/6475393](https://www.fixmystreet.com/report/6475393)
 
 <!-- fix_marker ends -->
