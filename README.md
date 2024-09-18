@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lack of yellow box means all backed up traffic into Cheltenham on the A40 stops southbound traffic trying to pass through roundabout, 17th September :- [https://www.fixmystreet.com/report/6483501](https://www.fixmystreet.com/report/6483501)
+- Ambiguous Road markings after road layout change, 17th September :- [https://www.fixmystreet.com/report/6483485](https://www.fixmystreet.com/report/6483485)
+- I imagine travelling to space is more comfortable than driving along this road in a car., 17th September :- [https://www.fixmystreet.com/report/6483458](https://www.fixmystreet.com/report/6483458)
 - Inkerman Lane street sign is missing, 17th September :- [https://www.fixmystreet.com/report/6482915](https://www.fixmystreet.com/report/6482915)
 - Near bridge, 17th September :- [https://www.fixmystreet.com/report/6482650](https://www.fixmystreet.com/report/6482650)
 - Loose drain cover - securing bolt is broken/missing and is loudly clanking when vehicles are driven over it. On northbound side of road., 17th September :- [https://www.fixmystreet.com/report/6482535](https://www.fixmystreet.com/report/6482535)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TTLs on green for 2 directions at the same time, 17th September :- [https://www.fixmystreet.com/report/6479627](https://www.fixmystreet.com/report/6479627)
 - Flytip on Cleeve Common Road - Pylons Butterfly Field Gate area, 17th September :- [https://www.fixmystreet.com/report/6479615](https://www.fixmystreet.com/report/6479615)
 - Gate fell when opening, very heavy could have caused injury, needs to be repaired as hinges appear broken, 16th September :- [https://www.fixmystreet.com/report/6478855](https://www.fixmystreet.com/report/6478855)
-- Loose/rattling cover/ironwork problem, 16th September :- [https://www.fixmystreet.com/report/6477847](https://www.fixmystreet.com/report/6477847)
-- Loose/rattling cover/ironwork problem, 16th September :- [https://www.fixmystreet.com/report/6477846](https://www.fixmystreet.com/report/6477846)
-- Road markings on Elmbridge roundabout faint., 16th September :- [https://www.fixmystreet.com/report/6477688](https://www.fixmystreet.com/report/6477688)
 
 <!-- fix_marker ends -->
