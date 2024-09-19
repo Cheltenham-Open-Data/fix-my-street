@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Deep pot hole on the edge of the second speed bump as you come off PE way, 19th September :- [https://www.fixmystreet.com/report/6488360](https://www.fixmystreet.com/report/6488360)
+- Pothole, 18th September :- [https://www.fixmystreet.com/report/6487816](https://www.fixmystreet.com/report/6487816)
+- Sign misaligned, 18th September :- [https://www.fixmystreet.com/report/6487684](https://www.fixmystreet.com/report/6487684)
 - Overgrown trees on lane blocking sunlight on allotment area, 18th September :- [https://www.fixmystreet.com/report/6487314](https://www.fixmystreet.com/report/6487314)
 - Tree is damaged problem, 18th September :- [https://www.fixmystreet.com/report/6486374](https://www.fixmystreet.com/report/6486374)
 - Overgrown trees and grass, 18th September :- [https://www.fixmystreet.com/report/6485861](https://www.fixmystreet.com/report/6485861)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The cycle lane on Cirencester hill has never been cleaned and is full of debris, 18th September :- [https://www.fixmystreet.com/report/6484503](https://www.fixmystreet.com/report/6484503)
 - Foul water leaking from old landfill site !, 18th September :- [https://www.fixmystreet.com/report/6484467](https://www.fixmystreet.com/report/6484467)
 - The sign is illegible problem, 18th September :- [https://www.fixmystreet.com/report/6484415](https://www.fixmystreet.com/report/6484415)
-- Lack of yellow box means all backed up traffic into Cheltenham on the A40 stops southbound traffic trying to pass through roundabout, 17th September :- [https://www.fixmystreet.com/report/6483501](https://www.fixmystreet.com/report/6483501)
-- Ambiguous Road markings after road layout change, 17th September :- [https://www.fixmystreet.com/report/6483485](https://www.fixmystreet.com/report/6483485)
-- I imagine travelling to space is more comfortable than driving along this road in a car., 17th September :- [https://www.fixmystreet.com/report/6483458](https://www.fixmystreet.com/report/6483458)
 
 <!-- fix_marker ends -->
