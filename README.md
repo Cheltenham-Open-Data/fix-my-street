@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Narrow but deep pothole about 1ft away from pavement, 19th September :- [https://www.fixmystreet.com/report/6492346](https://www.fixmystreet.com/report/6492346)
+- Pot hole near junction Bafford approach/ Cirenceter RD, 19th September :- [https://www.fixmystreet.com/report/6492169](https://www.fixmystreet.com/report/6492169)
+- Collapsed road edge in 2 places on New Road, near Two Hedges., 19th September :- [https://www.fixmystreet.com/report/6492007](https://www.fixmystreet.com/report/6492007)
+- 4 inch deep by 10 inch wide pot hole on New Road, near Two Hedges, 19th September :- [https://www.fixmystreet.com/report/6491988](https://www.fixmystreet.com/report/6491988)
+- Street light was permanently on, now it is permanently off, 19th September :- [https://www.fixmystreet.com/report/6491957](https://www.fixmystreet.com/report/6491957)
+- Unnecessary temp lights, 19th September :- [https://www.fixmystreet.com/report/6491955](https://www.fixmystreet.com/report/6491955)
 - Bridleway blocked by maize crop, 19th September :- [https://www.fixmystreet.com/report/6491335](https://www.fixmystreet.com/report/6491335)
 - Cluster of potholes on Church lane stanley pontlarge. Road is crumbling., 19th September :- [https://www.fixmystreet.com/report/6490957](https://www.fixmystreet.com/report/6490957)
 - Tree is damaged problem, 19th September :- [https://www.fixmystreet.com/report/6490976](https://www.fixmystreet.com/report/6490976)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree overhanging property and footpaths, 19th September :- [https://www.fixmystreet.com/report/6489336](https://www.fixmystreet.com/report/6489336)
 - Tree is damaged problem, 19th September :- [https://www.fixmystreet.com/report/6489171](https://www.fixmystreet.com/report/6489171)
 - The sign is illegible problem, 19th September :- [https://www.fixmystreet.com/report/6489004](https://www.fixmystreet.com/report/6489004)
-- Overhanging trees length of Brockworth Road, 19th September :- [https://www.fixmystreet.com/report/6488876](https://www.fixmystreet.com/report/6488876)
-- Deep pot hole on the edge of the second speed bump as you come off PE way, 19th September :- [https://www.fixmystreet.com/report/6488360](https://www.fixmystreet.com/report/6488360)
-- Pothole, 18th September :- [https://www.fixmystreet.com/report/6487816](https://www.fixmystreet.com/report/6487816)
-- Sign misaligned, 18th September :- [https://www.fixmystreet.com/report/6487684](https://www.fixmystreet.com/report/6487684)
-- Overgrown trees on lane blocking sunlight on allotment area, 18th September :- [https://www.fixmystreet.com/report/6487314](https://www.fixmystreet.com/report/6487314)
-- Tree is damaged problem, 18th September :- [https://www.fixmystreet.com/report/6486374](https://www.fixmystreet.com/report/6486374)
 
 <!-- fix_marker ends -->
