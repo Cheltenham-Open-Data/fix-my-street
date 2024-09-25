@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree has consumed all light from lamp post due to encroachment, 25th September :- [https://www.fixmystreet.com/report/6512611](https://www.fixmystreet.com/report/6512611)
+- Tree debris on cycle path, 24th September :- [https://www.fixmystreet.com/report/6512230](https://www.fixmystreet.com/report/6512230)
+- Road floods when it rains moderately. There is one road side drain but it doesn’t seem to drain. It’s been like this for at least two years., 24th September :- [https://www.fixmystreet.com/report/6512178](https://www.fixmystreet.com/report/6512178)
+- Street lights are not working in Lypiatt Street and Tivoli Street, 24th September :- [https://www.fixmystreet.com/report/6511955](https://www.fixmystreet.com/report/6511955)
+- I have been contacted by local residents over a long time about this issue. An example is pasted here., 24th September :- [https://www.fixmystreet.com/report/6511934](https://www.fixmystreet.com/report/6511934)
 - Verge not cut this year, 24th September :- [https://www.fixmystreet.com/report/6511621](https://www.fixmystreet.com/report/6511621)
 - This pot hole is huge if you are following are car you may be unaware of it as I was and smashed my alloy/ popped my tyre., 24th September :- [https://www.fixmystreet.com/report/6511469](https://www.fixmystreet.com/report/6511469)
 - Pothole near junction, 24th September :- [https://www.fixmystreet.com/report/6511411](https://www.fixmystreet.com/report/6511411)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Loose/rattling cover/ironwork problem, 24th September :- [https://www.fixmystreet.com/report/6510267](https://www.fixmystreet.com/report/6510267)
 - Loose/rattling cover/ironwork problem, 24th September :- [https://www.fixmystreet.com/report/6510097](https://www.fixmystreet.com/report/6510097)
 - Drain overflowing, grill sticking up flooding road, 24th September :- [https://www.fixmystreet.com/report/6509858](https://www.fixmystreet.com/report/6509858)
-- Pedestrian lights changing continuously when there is no one there, 24th September :- [https://www.fixmystreet.com/report/6509856](https://www.fixmystreet.com/report/6509856)
-- Road gully blocked at end of Oakland Avenue. First reported in April 2024 and nothing has deen done, 24th September :- [https://www.fixmystreet.com/report/6509682](https://www.fixmystreet.com/report/6509682)
-- Loose/rattling cover/ironwork problem, 24th September :- [https://www.fixmystreet.com/report/6509710](https://www.fixmystreet.com/report/6509710)
-- Drain has debris in blocking flow of water, 24th September :- [https://www.fixmystreet.com/report/6509617](https://www.fixmystreet.com/report/6509617)
-- Drains blocked, 24th September :- [https://www.fixmystreet.com/report/6509566](https://www.fixmystreet.com/report/6509566)
 
 <!-- fix_marker ends -->
