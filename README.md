@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Open storm ditch blocked, 28th September :- [https://www.fixmystreet.com/report/6527817](https://www.fixmystreet.com/report/6527817)
+- Raised drain cover, 28th September :- [https://www.fixmystreet.com/report/6527696](https://www.fixmystreet.com/report/6527696)
+- Drsin blocked, 28th September :- [https://www.fixmystreet.com/report/6526923](https://www.fixmystreet.com/report/6526923)
+- Tarmac missing, 28th September :- [https://www.fixmystreet.com/report/6526368](https://www.fixmystreet.com/report/6526368)
+- Pothole on pavement near driveway of number 31, 28th September :- [https://www.fixmystreet.com/report/6526164](https://www.fixmystreet.com/report/6526164)
+- Large sunken area of pavement that pools with water and is a trip hazard, 28th September :- [https://www.fixmystreet.com/report/6526161](https://www.fixmystreet.com/report/6526161)
 - Sofas dumped, 28th September :- [https://www.fixmystreet.com/report/6525827](https://www.fixmystreet.com/report/6525827)
 - The whole of lannsdown road cycleway is full of pot holes and bumps. This is dangerous for pedestrians as cyclist swerve to avoid craked pavement and cyclists at risk of injury from falls and punctures., 27th September :- [https://www.fixmystreet.com/report/6525641](https://www.fixmystreet.com/report/6525641)
 - Pothole made worse by flooded road with drainage issues caused by home developer submitting incorrect drainage report., 27th September :- [https://www.fixmystreet.com/report/6525597](https://www.fixmystreet.com/report/6525597)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 12 inch potholes approx 2 1/2 deep lower part of athelney way, 27th September :- [https://www.fixmystreet.com/report/6525064](https://www.fixmystreet.com/report/6525064)
 - Large pot hole, 27th September :- [https://www.fixmystreet.com/report/6525032](https://www.fixmystreet.com/report/6525032)
 - Portholes, 27th September :- [https://www.fixmystreet.com/report/6525023](https://www.fixmystreet.com/report/6525023)
-- Large volume of water due to drain, 27th September :- [https://www.fixmystreet.com/report/6524817](https://www.fixmystreet.com/report/6524817)
-- Loose/rattling cover/ironwork problem, 27th September :- [https://www.fixmystreet.com/report/6524709](https://www.fixmystreet.com/report/6524709)
-- 100metre long, 35-40cm wide and 15cm deep pothole around a gulley., 27th September :- [https://www.fixmystreet.com/report/6524523](https://www.fixmystreet.com/report/6524523)
-- Drains in Liddington Close, 27th September :- [https://www.fixmystreet.com/report/6524493](https://www.fixmystreet.com/report/6524493)
-- Bin urgent needs emptying, 27th September :- [https://www.fixmystreet.com/report/6524346](https://www.fixmystreet.com/report/6524346)
-- Tree is damaged problem, 27th September :- [https://www.fixmystreet.com/report/6524286](https://www.fixmystreet.com/report/6524286)
 
 <!-- fix_marker ends -->
