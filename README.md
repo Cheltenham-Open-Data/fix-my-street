@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sofas dumped, 28th September :- [https://www.fixmystreet.com/report/6525827](https://www.fixmystreet.com/report/6525827)
+- The whole of lannsdown road cycleway is full of pot holes and bumps. This is dangerous for pedestrians as cyclist swerve to avoid craked pavement and cyclists at risk of injury from falls and punctures., 27th September :- [https://www.fixmystreet.com/report/6525641](https://www.fixmystreet.com/report/6525641)
+- Pothole made worse by flooded road with drainage issues caused by home developer submitting incorrect drainage report., 27th September :- [https://www.fixmystreet.com/report/6525597](https://www.fixmystreet.com/report/6525597)
+- Blocked drain inbetween Clean Linen and Windermere Road, 27th September :- [https://www.fixmystreet.com/report/6525553](https://www.fixmystreet.com/report/6525553)
+- 4 potholes in a row, 27th September :- [https://www.fixmystreet.com/report/6525507](https://www.fixmystreet.com/report/6525507)
 - Blocked drain causing flooding down carriageway, 27th September :- [https://www.fixmystreet.com/report/6525362](https://www.fixmystreet.com/report/6525362)
 - Large pothole on road, 27th September :- [https://www.fixmystreet.com/report/6525353](https://www.fixmystreet.com/report/6525353)
 - This gully backs up during storms and floods surrounding houses, 27th September :- [https://www.fixmystreet.com/report/6525251](https://www.fixmystreet.com/report/6525251)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drains in Liddington Close, 27th September :- [https://www.fixmystreet.com/report/6524493](https://www.fixmystreet.com/report/6524493)
 - Bin urgent needs emptying, 27th September :- [https://www.fixmystreet.com/report/6524346](https://www.fixmystreet.com/report/6524346)
 - Tree is damaged problem, 27th September :- [https://www.fixmystreet.com/report/6524286](https://www.fixmystreet.com/report/6524286)
-- Blocked drain outside 250 Hatherley Road, 27th September :- [https://www.fixmystreet.com/report/6524105](https://www.fixmystreet.com/report/6524105)
-- Abandoned and burned red barriers, 27th September :- [https://www.fixmystreet.com/report/6524080](https://www.fixmystreet.com/report/6524080)
-- Blocked drain - water flowing straight over the top and onto Princess Elizabeth way, 27th September :- [https://www.fixmystreet.com/report/6523986](https://www.fixmystreet.com/report/6523986)
-- Fence/gate, 27th September :- [https://www.fixmystreet.com/report/6523929](https://www.fixmystreet.com/report/6523929)
-- A pothole in road problem, 27th September :- [https://www.fixmystreet.com/report/6523979](https://www.fixmystreet.com/report/6523979)
 
 <!-- fix_marker ends -->
