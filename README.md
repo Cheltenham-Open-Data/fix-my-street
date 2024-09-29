@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole, 29th September :- [https://www.fixmystreet.com/report/6528236](https://www.fixmystreet.com/report/6528236)
 - Open storm ditch blocked, 28th September :- [https://www.fixmystreet.com/report/6527817](https://www.fixmystreet.com/report/6527817)
 - Raised drain cover, 28th September :- [https://www.fixmystreet.com/report/6527696](https://www.fixmystreet.com/report/6527696)
 - Drsin blocked, 28th September :- [https://www.fixmystreet.com/report/6526923](https://www.fixmystreet.com/report/6526923)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road flooding, 27th September :- [https://www.fixmystreet.com/report/6525152](https://www.fixmystreet.com/report/6525152)
 - 12 inch potholes approx 2 1/2 deep lower part of athelney way, 27th September :- [https://www.fixmystreet.com/report/6525064](https://www.fixmystreet.com/report/6525064)
 - Large pot hole, 27th September :- [https://www.fixmystreet.com/report/6525032](https://www.fixmystreet.com/report/6525032)
-- Portholes, 27th September :- [https://www.fixmystreet.com/report/6525023](https://www.fixmystreet.com/report/6525023)
 
 <!-- fix_marker ends -->
