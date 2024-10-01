@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping various Marle Hill Parade, 1st October :- [https://www.fixmystreet.com/report/6536049](https://www.fixmystreet.com/report/6536049)
+- Mattress left on pavement, 1st October :- [https://www.fixmystreet.com/report/6535921](https://www.fixmystreet.com/report/6535921)
+- Street lights out on village road, 30th September :- [https://www.fixmystreet.com/report/6535597](https://www.fixmystreet.com/report/6535597)
 - This is absolutely ridiculous. Carnage around Cheltenham is unacceptable. Stressful and causing misery., 30th September :- [https://www.fixmystreet.com/report/6534840](https://www.fixmystreet.com/report/6534840)
 - 40mph sign is on floor. Pole has completed rusted through, 30th September :- [https://www.fixmystreet.com/report/6534829](https://www.fixmystreet.com/report/6534829)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 30th September :- [https://www.fixmystreet.com/report/6534533](https://www.fixmystreet.com/report/6534533)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Drain cover raised, 30th September :- [https://www.fixmystreet.com/report/6533147](https://www.fixmystreet.com/report/6533147)
 - Following last night's wing tree branch overhanging path at head height., 30th September :- [https://www.fixmystreet.com/report/6532913](https://www.fixmystreet.com/report/6532913)
 - Kerb stone has come away from the path, 30th September :- [https://www.fixmystreet.com/report/6532853](https://www.fixmystreet.com/report/6532853)
-- Loose/rattling cover/ironwork problem, 30th September :- [https://www.fixmystreet.com/report/6532902](https://www.fixmystreet.com/report/6532902)
-- Loose/rattling cover/ironwork problem, 30th September :- [https://www.fixmystreet.com/report/6532687](https://www.fixmystreet.com/report/6532687)
-- Pot hole with large stones dislodged regularly and getting bigger., 30th September :- [https://www.fixmystreet.com/report/6532533](https://www.fixmystreet.com/report/6532533)
 
 <!-- fix_marker ends -->
