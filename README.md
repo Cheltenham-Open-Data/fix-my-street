@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flytipping, 2nd October :- [https://www.fixmystreet.com/report/6540695](https://www.fixmystreet.com/report/6540695)
+- No street light in Kingsmead Avenue, 1st October :- [https://www.fixmystreet.com/report/6540323](https://www.fixmystreet.com/report/6540323)
+- Dangerous overhanging trees need polling, 1st October :- [https://www.fixmystreet.com/report/6540078](https://www.fixmystreet.com/report/6540078)
+- Lots of potholes, 1st October :- [https://www.fixmystreet.com/report/6540071](https://www.fixmystreet.com/report/6540071)
 - Loose/rattling cover/ironwork problem, 1st October :- [https://www.fixmystreet.com/report/6539226](https://www.fixmystreet.com/report/6539226)
 - Loose/rattling cover/ironwork problem, 1st October :- [https://www.fixmystreet.com/report/6539225](https://www.fixmystreet.com/report/6539225)
 - Loose/rattling cover/ironwork problem, 1st October :- [https://www.fixmystreet.com/report/6539084](https://www.fixmystreet.com/report/6539084)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole marked as complete although still there, 1st October :- [https://www.fixmystreet.com/report/6537376](https://www.fixmystreet.com/report/6537376)
 - Drain full of dirt and sand, 1st October :- [https://www.fixmystreet.com/report/6536803](https://www.fixmystreet.com/report/6536803)
 - Pothole in road, 1st October :- [https://www.fixmystreet.com/report/6536374](https://www.fixmystreet.com/report/6536374)
-- Poo bin full, 1st October :- [https://www.fixmystreet.com/report/6536328](https://www.fixmystreet.com/report/6536328)
-- Loose/rattling cover/ironwork problem, 1st October :- [https://www.fixmystreet.com/report/6536392](https://www.fixmystreet.com/report/6536392)
-- Opposite the church permenant large puddle, 1st October :- [https://www.fixmystreet.com/report/6536275](https://www.fixmystreet.com/report/6536275)
-- Just past 31 towards the chruch block drain, 1st October :- [https://www.fixmystreet.com/report/6536243](https://www.fixmystreet.com/report/6536243)
 
 <!-- fix_marker ends -->
