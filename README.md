@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes where previous repairs breaking down, 3rd October :- [https://www.fixmystreet.com/report/6545414](https://www.fixmystreet.com/report/6545414)
+- Two drain holes totally blocked as per photo, 3rd October :- [https://www.fixmystreet.com/report/6545355](https://www.fixmystreet.com/report/6545355)
+- Street light not working outside 53 Burnet Drive, 2nd October :- [https://www.fixmystreet.com/report/6544974](https://www.fixmystreet.com/report/6544974)
+- New big pothole on the road before traffic light., 2nd October :- [https://www.fixmystreet.com/report/6544968](https://www.fixmystreet.com/report/6544968)
+- Drain by the bus stop is completely blocked, water to the brim of the grill., 2nd October :- [https://www.fixmystreet.com/report/6544935](https://www.fixmystreet.com/report/6544935)
+- Potholes on edge of roundabout, 2nd October :- [https://www.fixmystreet.com/report/6544854](https://www.fixmystreet.com/report/6544854)
+- Flooding has washed away sand under slabs, now uneven and wobbly. Unsafe for elderly resident., 2nd October :- [https://www.fixmystreet.com/report/6544826](https://www.fixmystreet.com/report/6544826)
 - Square-ish pothole on innsworth lane just before coriander drive, 2nd October :- [https://www.fixmystreet.com/report/6544534](https://www.fixmystreet.com/report/6544534)
 - Out side 69 and all along until 115, 2nd October :- [https://www.fixmystreet.com/report/6544394](https://www.fixmystreet.com/report/6544394)
 - Raised pavement uneaven snd large hole, 2nd October :- [https://www.fixmystreet.com/report/6544382](https://www.fixmystreet.com/report/6544382)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large tree limb overhanging in road, 2nd October :- [https://www.fixmystreet.com/report/6544009](https://www.fixmystreet.com/report/6544009)
 - Pothole filled in the past few days on Finlay way has immediately sunk, 2nd October :- [https://www.fixmystreet.com/report/6543983](https://www.fixmystreet.com/report/6543983)
 - Blocked drain outside 25/23 GWT, 2nd October :- [https://www.fixmystreet.com/report/6543982](https://www.fixmystreet.com/report/6543982)
-- 3 x recently filled potholes sunk on B4063, 2nd October :- [https://www.fixmystreet.com/report/6543969](https://www.fixmystreet.com/report/6543969)
-- The footpath is not usable after rain because of standing water in potholes along 100m of Everest Road from Old Bath Road. Mud that washed down from Hillary Road needs to be removed from the road in front of 2a Everest Road., 2nd October :- [https://www.fixmystreet.com/report/6543901](https://www.fixmystreet.com/report/6543901)
-- Blocked convert causing excess of surface water, 2nd October :- [https://www.fixmystreet.com/report/6543807](https://www.fixmystreet.com/report/6543807)
-- 10 houses flooding regularly in heavy rain, 2nd October :- [https://www.fixmystreet.com/report/6543766](https://www.fixmystreet.com/report/6543766)
-- Manhole cover displaced in heavy rain, 2nd October :- [https://www.fixmystreet.com/report/6543746](https://www.fixmystreet.com/report/6543746)
-- Disgusting lazy dog owners, 2nd October :- [https://www.fixmystreet.com/report/6543643](https://www.fixmystreet.com/report/6543643)
-- Mattress, 2nd October :- [https://www.fixmystreet.com/report/6543607](https://www.fixmystreet.com/report/6543607)
 
 <!-- fix_marker ends -->
