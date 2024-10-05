@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light number 3 in St marys Minster not illuminated, 5th October :- [https://www.fixmystreet.com/report/6553709](https://www.fixmystreet.com/report/6553709)
+- Dog fouling on New Street, Cheltenham., 4th October :- [https://www.fixmystreet.com/report/6553505](https://www.fixmystreet.com/report/6553505)
+- Pothole on carriageway towards Birdlip hill, 4th October :- [https://www.fixmystreet.com/report/6553455](https://www.fixmystreet.com/report/6553455)
+- Large pothole in centre of carriageway, 4th October :- [https://www.fixmystreet.com/report/6553451](https://www.fixmystreet.com/report/6553451)
+- Uneven road due to poor pothole filling, 4th October :- [https://www.fixmystreet.com/report/6553345](https://www.fixmystreet.com/report/6553345)
 - Wide potholes and poor road condition, 4th October :- [https://www.fixmystreet.com/report/6553099](https://www.fixmystreet.com/report/6553099)
 - No access to footpath, 4th October :- [https://www.fixmystreet.com/report/6553003](https://www.fixmystreet.com/report/6553003)
 - Fallen trees blocking Gloucestershire Way, 4th October :- [https://www.fixmystreet.com/report/6552954](https://www.fixmystreet.com/report/6552954)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 x potholes, 4th October :- [https://www.fixmystreet.com/report/6551307](https://www.fixmystreet.com/report/6551307)
 - To underscore the points that you have been making about the awful condition of Daisybank Road, I am about to ask Gloucester Highways to visit for the third time in eighteen months to repair the road outside our property (Underscar, Daisybank Road, GL53 9QQ). The condition of this section of the public highway is so poor that it is nearly impossible for some vehicles to enter or leave our property without incurring damage, 4th October :- [https://www.fixmystreet.com/report/6551068](https://www.fixmystreet.com/report/6551068)
 - General road marking and stud issues problem, 4th October :- [https://www.fixmystreet.com/report/6551160](https://www.fixmystreet.com/report/6551160)
-- The verge to the north outside The Croft is blocked, 4th October :- [https://www.fixmystreet.com/report/6551026](https://www.fixmystreet.com/report/6551026)
-- Erosion of the road with multiple potholes, 4th October :- [https://www.fixmystreet.com/report/6551012](https://www.fixmystreet.com/report/6551012)
-- Entrance to new caravan park on blind bend, 4th October :- [https://www.fixmystreet.com/report/6550989](https://www.fixmystreet.com/report/6550989)
-- Carriageway deteriorated into several potholes, 4th October :- [https://www.fixmystreet.com/report/6550966](https://www.fixmystreet.com/report/6550966)
-- Cluster of potholes. Road surface is failing, 4th October :- [https://www.fixmystreet.com/report/6550948](https://www.fixmystreet.com/report/6550948)
 
 <!-- fix_marker ends -->
