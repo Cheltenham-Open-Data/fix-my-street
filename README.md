@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Lots of litter, 5th October :- [https://www.fixmystreet.com/report/6555737](https://www.fixmystreet.com/report/6555737)
+- Drain cover has been either removed or been damaged, 5th October :- [https://www.fixmystreet.com/report/6555666](https://www.fixmystreet.com/report/6555666)
+- Collapsed drain under the lane. Drain clearing crew discovered it. Major problem as rainwater is backing up into our house drains ss it has nowhere to go, 5th October :- [https://www.fixmystreet.com/report/6555619](https://www.fixmystreet.com/report/6555619)
+- One of many pot holes directly beside the street lamp, 5th October :- [https://www.fixmystreet.com/report/6555615](https://www.fixmystreet.com/report/6555615)
+- Abandoned small van, drivers window permanently openopen, 5th October :- [https://www.fixmystreet.com/report/6555356](https://www.fixmystreet.com/report/6555356)
+- Large pothole in pavement and cast iron drain sunk, 5th October :- [https://www.fixmystreet.com/report/6555341](https://www.fixmystreet.com/report/6555341)
+- Possible diseased tree, 5th October :- [https://www.fixmystreet.com/report/6555200](https://www.fixmystreet.com/report/6555200)
+- Pothole opening up in road following flood, 5th October :- [https://www.fixmystreet.com/report/6555135](https://www.fixmystreet.com/report/6555135)
+- Barriers in water, 5th October :- [https://www.fixmystreet.com/report/6554756](https://www.fixmystreet.com/report/6554756)
+- Enormous pothole that can’t be avoided on narrow strip of cudnall st, 5th October :- [https://www.fixmystreet.com/report/6554677](https://www.fixmystreet.com/report/6554677)
+- Overgrown road gully and drainage, 5th October :- [https://www.fixmystreet.com/report/6554417](https://www.fixmystreet.com/report/6554417)
+- Entire stretch of pavement along Bisley Road and Farmington Road are uneven and a serious trip hazard., 5th October :- [https://www.fixmystreet.com/report/6553971](https://www.fixmystreet.com/report/6553971)
 - Street light number 3 in St marys Minster not illuminated, 5th October :- [https://www.fixmystreet.com/report/6553709](https://www.fixmystreet.com/report/6553709)
 - Dog fouling on New Street, Cheltenham., 4th October :- [https://www.fixmystreet.com/report/6553505](https://www.fixmystreet.com/report/6553505)
 - Pothole on carriageway towards Birdlip hill, 4th October :- [https://www.fixmystreet.com/report/6553455](https://www.fixmystreet.com/report/6553455)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Wide potholes and poor road condition, 4th October :- [https://www.fixmystreet.com/report/6553099](https://www.fixmystreet.com/report/6553099)
 - No access to footpath, 4th October :- [https://www.fixmystreet.com/report/6553003](https://www.fixmystreet.com/report/6553003)
 - Fallen trees blocking Gloucestershire Way, 4th October :- [https://www.fixmystreet.com/report/6552954](https://www.fixmystreet.com/report/6552954)
-- Deep hole, fell and twisted my ankle getting out of car, 4th October :- [https://www.fixmystreet.com/report/6552868](https://www.fixmystreet.com/report/6552868)
-- Large deep pothole, 4th October :- [https://www.fixmystreet.com/report/6552780](https://www.fixmystreet.com/report/6552780)
-- Pothole before bridge, 4th October :- [https://www.fixmystreet.com/report/6552564](https://www.fixmystreet.com/report/6552564)
-- New Road marking, 4th October :- [https://www.fixmystreet.com/report/6552458](https://www.fixmystreet.com/report/6552458)
-- The vacuum tanker team worked on several drains in Royal Well Lane on 2nd October. On 3rd of October 3 out of 6 drains I looked at were still blocked. I measured the levels of all 7. 4 drains were 40+ inches to the water level, 1 at 25 inches, 1 at 17 inches and 1 at 11 inches. Today's observations show minimal change if any. Well and truly blocked I think. Vacuum Tanker not able to lift compacted stuff? Needs high pressure or digging out?, 4th October :- [https://www.fixmystreet.com/report/6552347](https://www.fixmystreet.com/report/6552347)
-- Tree across public footpath, 4th October :- [https://www.fixmystreet.com/report/6552320](https://www.fixmystreet.com/report/6552320)
-- Large blocks of tarmac dumped on pavement, 4th October :- [https://www.fixmystreet.com/report/6551660](https://www.fixmystreet.com/report/6551660)
-- Trench repair by utility company breaking down causing a ridge, 4th October :- [https://www.fixmystreet.com/report/6551654](https://www.fixmystreet.com/report/6551654)
-- General road marking and stud issues problem, 4th October :- [https://www.fixmystreet.com/report/6551648](https://www.fixmystreet.com/report/6551648)
-- 2 x potholes, 4th October :- [https://www.fixmystreet.com/report/6551307](https://www.fixmystreet.com/report/6551307)
-- To underscore the points that you have been making about the awful condition of Daisybank Road, I am about to ask Gloucester Highways to visit for the third time in eighteen months to repair the road outside our property (Underscar, Daisybank Road, GL53 9QQ). The condition of this section of the public highway is so poor that it is nearly impossible for some vehicles to enter or leave our property without incurring damage, 4th October :- [https://www.fixmystreet.com/report/6551068](https://www.fixmystreet.com/report/6551068)
-- General road marking and stud issues problem, 4th October :- [https://www.fixmystreet.com/report/6551160](https://www.fixmystreet.com/report/6551160)
 
 <!-- fix_marker ends -->
