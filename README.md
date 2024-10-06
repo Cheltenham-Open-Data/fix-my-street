@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tarmac pulling way from water hydrant, leaving a trip hazard., 5th October :- [https://www.fixmystreet.com/report/6555972](https://www.fixmystreet.com/report/6555972)
+- Lights out - AGAIN, 5th October :- [https://www.fixmystreet.com/report/6555971](https://www.fixmystreet.com/report/6555971)
+- Multiple potholes in road, very poor quality, 5th October :- [https://www.fixmystreet.com/report/6555924](https://www.fixmystreet.com/report/6555924)
 - Lots of litter, 5th October :- [https://www.fixmystreet.com/report/6555737](https://www.fixmystreet.com/report/6555737)
 - Drain cover has been either removed or been damaged, 5th October :- [https://www.fixmystreet.com/report/6555666](https://www.fixmystreet.com/report/6555666)
 - Collapsed drain under the lane. Drain clearing crew discovered it. Major problem as rainwater is backing up into our house drains ss it has nowhere to go, 5th October :- [https://www.fixmystreet.com/report/6555619](https://www.fixmystreet.com/report/6555619)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole on carriageway towards Birdlip hill, 4th October :- [https://www.fixmystreet.com/report/6553455](https://www.fixmystreet.com/report/6553455)
 - Large pothole in centre of carriageway, 4th October :- [https://www.fixmystreet.com/report/6553451](https://www.fixmystreet.com/report/6553451)
 - Uneven road due to poor pothole filling, 4th October :- [https://www.fixmystreet.com/report/6553345](https://www.fixmystreet.com/report/6553345)
-- Wide potholes and poor road condition, 4th October :- [https://www.fixmystreet.com/report/6553099](https://www.fixmystreet.com/report/6553099)
-- No access to footpath, 4th October :- [https://www.fixmystreet.com/report/6553003](https://www.fixmystreet.com/report/6553003)
-- Fallen trees blocking Gloucestershire Way, 4th October :- [https://www.fixmystreet.com/report/6552954](https://www.fixmystreet.com/report/6552954)
 
 <!-- fix_marker ends -->
