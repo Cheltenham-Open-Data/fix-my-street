@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked drain on corner near pedestrian drop kerb, 8th October :- [https://www.fixmystreet.com/report/6564148](https://www.fixmystreet.com/report/6564148)
+- Not turning green, 8th October :- [https://www.fixmystreet.com/report/6563973](https://www.fixmystreet.com/report/6563973)
+- Street lights not working in Fairfield RD, Cheltenham, 8th October :- [https://www.fixmystreet.com/report/6563922](https://www.fixmystreet.com/report/6563922)
+- Recently resurfaced patch appears to be breaking down, 7th October :- [https://www.fixmystreet.com/report/6563686](https://www.fixmystreet.com/report/6563686)
+- PROW ASM15 is obstructed by a high palisade steel gate, 7th October :- [https://www.fixmystreet.com/report/6563638](https://www.fixmystreet.com/report/6563638)
+- Pavement from Coombe Hill to The Leigh, 7th October :- [https://www.fixmystreet.com/report/6563292](https://www.fixmystreet.com/report/6563292)
 - Overflowing waste bin, 7th October :- [https://www.fixmystreet.com/report/6563038](https://www.fixmystreet.com/report/6563038)
 - Flytipping, 7th October :- [https://www.fixmystreet.com/report/6562968](https://www.fixmystreet.com/report/6562968)
 - Pavement needing repair, 7th October :- [https://www.fixmystreet.com/report/6562846](https://www.fixmystreet.com/report/6562846)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Recently filled potholes sunk on B4063, 7th October :- [https://www.fixmystreet.com/report/6561936](https://www.fixmystreet.com/report/6561936)
 - Pothole, 7th October :- [https://www.fixmystreet.com/report/6561923](https://www.fixmystreet.com/report/6561923)
 - Large stones placed along roadside verge, 7th October :- [https://www.fixmystreet.com/report/6561883](https://www.fixmystreet.com/report/6561883)
-- Loose/rattling cover/ironwork problem, 7th October :- [https://www.fixmystreet.com/report/6561814](https://www.fixmystreet.com/report/6561814)
-- Fallen Tree blocking pavement, 7th October :- [https://www.fixmystreet.com/report/6561637](https://www.fixmystreet.com/report/6561637)
-- Tree is damaged problem, 7th October :- [https://www.fixmystreet.com/report/6561443](https://www.fixmystreet.com/report/6561443)
-- Drains on pavement blocked, 7th October :- [https://www.fixmystreet.com/report/6561264](https://www.fixmystreet.com/report/6561264)
-- A pothole in road problem, 7th October :- [https://www.fixmystreet.com/report/6561278](https://www.fixmystreet.com/report/6561278)
-- Pothole on left hand lane of dual carriageway, 7th October :- [https://www.fixmystreet.com/report/6561133](https://www.fixmystreet.com/report/6561133)
 
 <!-- fix_marker ends -->
