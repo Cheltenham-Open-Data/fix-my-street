@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 10” pothole in road - recurrent problem, 9th October :- [https://www.fixmystreet.com/report/6568961](https://www.fixmystreet.com/report/6568961)
+- Most of drains blocked down road, 9th October :- [https://www.fixmystreet.com/report/6568950](https://www.fixmystreet.com/report/6568950)
+- One bollard missing completely, one bollard down, 8th October :- [https://www.fixmystreet.com/report/6568714](https://www.fixmystreet.com/report/6568714)
+- No proper street lighting in my road. Only 2 strret lights one at the start and other at the end of road is in working condition. The road is too dark in the night to walk., 8th October :- [https://www.fixmystreet.com/report/6568707](https://www.fixmystreet.com/report/6568707)
+- Drain blocked from run off water from the side of 12 bells pub at telephone exchange. this is an ongoing problem that despite being informed drains would be cleared, even with light rain it pours down the road bringing debris and sewage from flooded septic tanks and quickly blocking the four drains closest to our property, 8th October :- [https://www.fixmystreet.com/report/6568256](https://www.fixmystreet.com/report/6568256)
+- Deep and wide pothole near gateway on left hand side of the road., 8th October :- [https://www.fixmystreet.com/report/6568125](https://www.fixmystreet.com/report/6568125)
 - Entire carriageway flooded, 8th October :- [https://www.fixmystreet.com/report/6568099](https://www.fixmystreet.com/report/6568099)
 - The drains in the road can’t cope with the rain and are backing up causing water to come out of the rain water drain in our property, 8th October :- [https://www.fixmystreet.com/report/6568066](https://www.fixmystreet.com/report/6568066)
 - Drain blocked, street flooded, 8th October :- [https://www.fixmystreet.com/report/6567833](https://www.fixmystreet.com/report/6567833)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drains allowing run off water from farm and rd to run over the cirencester rd and then blocking drainage outside woodligh Cirencester rd with soil and straw, 8th October :- [https://www.fixmystreet.com/report/6567461](https://www.fixmystreet.com/report/6567461)
 - Flooded again ! Drain is blocked again!, 8th October :- [https://www.fixmystreet.com/report/6567330](https://www.fixmystreet.com/report/6567330)
 - Raised wobbly slabs, 8th October :- [https://www.fixmystreet.com/report/6567296](https://www.fixmystreet.com/report/6567296)
-- Flooding in Moselle drive, 8th October :- [https://www.fixmystreet.com/report/6567232](https://www.fixmystreet.com/report/6567232)
-- A telecommunications cabinet was damaged and leaning several months ago. After a couple of weeks red plastic barriers were placed round it but it has remained untouched since., 8th October :- [https://www.fixmystreet.com/report/6567179](https://www.fixmystreet.com/report/6567179)
-- Drain blocked, 8th October :- [https://www.fixmystreet.com/report/6567149](https://www.fixmystreet.com/report/6567149)
-- Tree is damaged problem, 8th October :- [https://www.fixmystreet.com/report/6567340](https://www.fixmystreet.com/report/6567340)
-- Trench reinstatement requires repairs, 8th October :- [https://www.fixmystreet.com/report/6567039](https://www.fixmystreet.com/report/6567039)
-- Possible subsidence - not really potholes, 8th October :- [https://www.fixmystreet.com/report/6566948](https://www.fixmystreet.com/report/6566948)
 
 <!-- fix_marker ends -->
