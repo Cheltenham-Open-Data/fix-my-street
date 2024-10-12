@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Could the Avenue go on the list for the road to be resurfaced at some point please as road quite bumpy, 12th October :- [https://www.fixmystreet.com/report/6607544](https://www.fixmystreet.com/report/6607544)
+- Large Pothole out the front of 46 Oakland Ave, 12th October :- [https://www.fixmystreet.com/report/6607311](https://www.fixmystreet.com/report/6607311)
+- Pothole in road, 12th October :- [https://www.fixmystreet.com/report/6607210](https://www.fixmystreet.com/report/6607210)
+- Big pot holes, 12th October :- [https://www.fixmystreet.com/report/6607127](https://www.fixmystreet.com/report/6607127)
+- Pot hole or sunken area, 12th October :- [https://www.fixmystreet.com/report/6606947](https://www.fixmystreet.com/report/6606947)
+- Mattress left on street, 12th October :- [https://www.fixmystreet.com/report/6606467](https://www.fixmystreet.com/report/6606467)
+- Van parked blocking pavement., 12th October :- [https://www.fixmystreet.com/report/6606230](https://www.fixmystreet.com/report/6606230)
+- Dangerous flyposting, 12th October :- [https://www.fixmystreet.com/report/6606158](https://www.fixmystreet.com/report/6606158)
+- Flytipped items, 12th October :- [https://www.fixmystreet.com/report/6606086](https://www.fixmystreet.com/report/6606086)
 - Street lighting out on Granley Road, 11th October :- [https://www.fixmystreet.com/report/6605644](https://www.fixmystreet.com/report/6605644)
 - Culvert blocked and risk of flooding, 11th October :- [https://www.fixmystreet.com/report/6605453](https://www.fixmystreet.com/report/6605453)
 - Streetlight, 11th October :- [https://www.fixmystreet.com/report/6605310](https://www.fixmystreet.com/report/6605310)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Multiple potholes, 11th October :- [https://www.fixmystreet.com/report/6591396](https://www.fixmystreet.com/report/6591396)
 - Cardboard box and possibly clothing, 11th October :- [https://www.fixmystreet.com/report/6591344](https://www.fixmystreet.com/report/6591344)
 - 10 by 15 inch pothole in centre of Southfield Approach road, 11th October :- [https://www.fixmystreet.com/report/6587637](https://www.fixmystreet.com/report/6587637)
-- 8 inch wide by apos 2 inch high, two of them, 11th October :- [https://www.fixmystreet.com/report/6586792](https://www.fixmystreet.com/report/6586792)
-- Drain floods, kerb seems to have dropped possibly causing my front lawn to flood, 11th October :- [https://www.fixmystreet.com/report/6586114](https://www.fixmystreet.com/report/6586114)
-- Overhanging DEAD branch with main telephone thick wire hanging on top of it, It is going to break off soon and could drop on a passerby or cause a terible car accident if it falls on roof of a car or thru windscreen, 11th October :- [https://www.fixmystreet.com/report/6584152](https://www.fixmystreet.com/report/6584152)
-- All three drains, at 1, 8 and 15 Clarence Square are either fully or partially blocked. They overspill in normal rain and the water runs down the road and pools at the western end., 11th October :- [https://www.fixmystreet.com/report/6579192](https://www.fixmystreet.com/report/6579192)
-- Tree is damaged problem, 11th October :- [https://www.fixmystreet.com/report/6579199](https://www.fixmystreet.com/report/6579199)
-- Graffiti on the brick wall, 11th October :- [https://www.fixmystreet.com/report/6579088](https://www.fixmystreet.com/report/6579088)
-- The sign is illegible problem, 11th October :- [https://www.fixmystreet.com/report/6578850](https://www.fixmystreet.com/report/6578850)
-- Sustained damage problem, 11th October :- [https://www.fixmystreet.com/report/6578679](https://www.fixmystreet.com/report/6578679)
-- Several drains down Gloucester rd are blocked/not functioning, 11th October :- [https://www.fixmystreet.com/report/6578590](https://www.fixmystreet.com/report/6578590)
 
 <!-- fix_marker ends -->
