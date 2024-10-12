@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lighting out on Granley Road, 11th October :- [https://www.fixmystreet.com/report/6605644](https://www.fixmystreet.com/report/6605644)
+- Culvert blocked and risk of flooding, 11th October :- [https://www.fixmystreet.com/report/6605453](https://www.fixmystreet.com/report/6605453)
+- Streetlight, 11th October :- [https://www.fixmystreet.com/report/6605310](https://www.fixmystreet.com/report/6605310)
 - '50' speed limit signs both sides sprayed with grey spray paint., 11th October :- [https://www.fixmystreet.com/report/6605264](https://www.fixmystreet.com/report/6605264)
 - Pothole around manhole cover., 11th October :- [https://www.fixmystreet.com/report/6605224](https://www.fixmystreet.com/report/6605224)
 - Moon crater of a pothole., 11th October :- [https://www.fixmystreet.com/report/6605183](https://www.fixmystreet.com/report/6605183)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The sign is illegible problem, 11th October :- [https://www.fixmystreet.com/report/6578850](https://www.fixmystreet.com/report/6578850)
 - Sustained damage problem, 11th October :- [https://www.fixmystreet.com/report/6578679](https://www.fixmystreet.com/report/6578679)
 - Several drains down Gloucester rd are blocked/not functioning, 11th October :- [https://www.fixmystreet.com/report/6578590](https://www.fixmystreet.com/report/6578590)
-- A pothole in road problem, 11th October :- [https://www.fixmystreet.com/report/6578537](https://www.fixmystreet.com/report/6578537)
-- Abandoned road/footpath signage, 11th October :- [https://www.fixmystreet.com/report/6578074](https://www.fixmystreet.com/report/6578074)
-- Very badly damaged road surface over a large area, 11th October :- [https://www.fixmystreet.com/report/6577987](https://www.fixmystreet.com/report/6577987)
 
 <!-- fix_marker ends -->
