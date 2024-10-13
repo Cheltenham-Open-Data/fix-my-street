@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- There are multiple potholes in this area and when you drive into the avenue, around the middle of the road, ans to the right, and all of the way up until around halfway up.the road., 13th October :- [https://www.fixmystreet.com/report/6610054](https://www.fixmystreet.com/report/6610054)
+- Multiple potholes along Castle Hill Drive the last one near the turning to Guise Avenue is about 2 ft wide and quite deep, 13th October :- [https://www.fixmystreet.com/report/6609688](https://www.fixmystreet.com/report/6609688)
+- Large pot hole near to level crossing and lights, 13th October :- [https://www.fixmystreet.com/report/6609634](https://www.fixmystreet.com/report/6609634)
+- Pothole opposite ash close, 13th October :- [https://www.fixmystreet.com/report/6609233](https://www.fixmystreet.com/report/6609233)
+- Potholes, 13th October :- [https://www.fixmystreet.com/report/6609226](https://www.fixmystreet.com/report/6609226)
+- Speed bump scattered with potholes on banks, 13th October :- [https://www.fixmystreet.com/report/6608875](https://www.fixmystreet.com/report/6608875)
+- Sign damaged, 13th October :- [https://www.fixmystreet.com/report/6608680](https://www.fixmystreet.com/report/6608680)
+- Not an actual pothole, it's an uneven step more than 20mm., 13th October :- [https://www.fixmystreet.com/report/6608373](https://www.fixmystreet.com/report/6608373)
+- Drain sunken in road, 13th October :- [https://www.fixmystreet.com/report/6608351](https://www.fixmystreet.com/report/6608351)
+- In the midle of the road large pot hole when mopeds go over it can cause an crash, 13th October :- [https://www.fixmystreet.com/report/6608306](https://www.fixmystreet.com/report/6608306)
+- Deep pothole in the road, 13th October :- [https://www.fixmystreet.com/report/6608273](https://www.fixmystreet.com/report/6608273)
 - Blocked or damaged drain, 13th October :- [https://www.fixmystreet.com/report/6608038](https://www.fixmystreet.com/report/6608038)
 - Water is bubbling out of the ground, 12th October :- [https://www.fixmystreet.com/report/6607902](https://www.fixmystreet.com/report/6607902)
 - Sustained broken and wide pothole outside cottage., 12th October :- [https://www.fixmystreet.com/report/6607901](https://www.fixmystreet.com/report/6607901)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Big pot holes, 12th October :- [https://www.fixmystreet.com/report/6607127](https://www.fixmystreet.com/report/6607127)
 - Pot hole or sunken area, 12th October :- [https://www.fixmystreet.com/report/6606947](https://www.fixmystreet.com/report/6606947)
 - Mattress left on street, 12th October :- [https://www.fixmystreet.com/report/6606467](https://www.fixmystreet.com/report/6606467)
-- Van parked blocking pavement., 12th October :- [https://www.fixmystreet.com/report/6606230](https://www.fixmystreet.com/report/6606230)
-- Dangerous flyposting, 12th October :- [https://www.fixmystreet.com/report/6606158](https://www.fixmystreet.com/report/6606158)
-- Flytipped items, 12th October :- [https://www.fixmystreet.com/report/6606086](https://www.fixmystreet.com/report/6606086)
-- Street lighting out on Granley Road, 11th October :- [https://www.fixmystreet.com/report/6605644](https://www.fixmystreet.com/report/6605644)
-- Culvert blocked and risk of flooding, 11th October :- [https://www.fixmystreet.com/report/6605453](https://www.fixmystreet.com/report/6605453)
-- Streetlight, 11th October :- [https://www.fixmystreet.com/report/6605310](https://www.fixmystreet.com/report/6605310)
-- '50' speed limit signs both sides sprayed with grey spray paint., 11th October :- [https://www.fixmystreet.com/report/6605264](https://www.fixmystreet.com/report/6605264)
-- Pothole around manhole cover., 11th October :- [https://www.fixmystreet.com/report/6605224](https://www.fixmystreet.com/report/6605224)
-- Moon crater of a pothole., 11th October :- [https://www.fixmystreet.com/report/6605183](https://www.fixmystreet.com/report/6605183)
-- Priority Sign wording has been reversed, 11th October :- [https://www.fixmystreet.com/report/6604900](https://www.fixmystreet.com/report/6604900)
-- Blocked drain, 11th October :- [https://www.fixmystreet.com/report/6602939](https://www.fixmystreet.com/report/6602939)
 
 <!-- fix_marker ends -->
