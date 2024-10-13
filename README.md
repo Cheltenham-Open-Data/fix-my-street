@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Blocked or damaged drain, 13th October :- [https://www.fixmystreet.com/report/6608038](https://www.fixmystreet.com/report/6608038)
+- Water is bubbling out of the ground, 12th October :- [https://www.fixmystreet.com/report/6607902](https://www.fixmystreet.com/report/6607902)
+- Sustained broken and wide pothole outside cottage., 12th October :- [https://www.fixmystreet.com/report/6607901](https://www.fixmystreet.com/report/6607901)
 - Could the Avenue go on the list for the road to be resurfaced at some point please as road quite bumpy, 12th October :- [https://www.fixmystreet.com/report/6607544](https://www.fixmystreet.com/report/6607544)
 - Large Pothole out the front of 46 Oakland Ave, 12th October :- [https://www.fixmystreet.com/report/6607311](https://www.fixmystreet.com/report/6607311)
 - Pothole in road, 12th October :- [https://www.fixmystreet.com/report/6607210](https://www.fixmystreet.com/report/6607210)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Moon crater of a pothole., 11th October :- [https://www.fixmystreet.com/report/6605183](https://www.fixmystreet.com/report/6605183)
 - Priority Sign wording has been reversed, 11th October :- [https://www.fixmystreet.com/report/6604900](https://www.fixmystreet.com/report/6604900)
 - Blocked drain, 11th October :- [https://www.fixmystreet.com/report/6602939](https://www.fixmystreet.com/report/6602939)
-- Multiple potholes, 11th October :- [https://www.fixmystreet.com/report/6591396](https://www.fixmystreet.com/report/6591396)
-- Cardboard box and possibly clothing, 11th October :- [https://www.fixmystreet.com/report/6591344](https://www.fixmystreet.com/report/6591344)
-- 10 by 15 inch pothole in centre of Southfield Approach road, 11th October :- [https://www.fixmystreet.com/report/6587637](https://www.fixmystreet.com/report/6587637)
 
 <!-- fix_marker ends -->
