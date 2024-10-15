@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain blockage or restriction, 15th October :- [https://www.fixmystreet.com/report/6615387](https://www.fixmystreet.com/report/6615387)
 - Tree overhanging footpath. Adults have to bend awkwardly to get under it and for those of us with back/spinal problems, it is a risky move. I am really worried it could damage my back further. I walk to improve my mobility and so I want to keep walking up this beautiful footpath which is parallel to the main road. The overhanging tree is near the top of the footpath which ends opposite Daisy Bank Road., 14th October :- [https://www.fixmystreet.com/report/6614648](https://www.fixmystreet.com/report/6614648)
 - Rattling drain, 14th October :- [https://www.fixmystreet.com/report/6614100](https://www.fixmystreet.com/report/6614100)
 - Large pothole outside Chapel Close, 14th October :- [https://www.fixmystreet.com/report/6613920](https://www.fixmystreet.com/report/6613920)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 14th October :- [https://www.fixmystreet.com/report/6612472](https://www.fixmystreet.com/report/6612472)
 - A pothole in road problem, 14th October :- [https://www.fixmystreet.com/report/6614023](https://www.fixmystreet.com/report/6614023)
 - Multiple deep potholes on slip road, 14th October :- [https://www.fixmystreet.com/report/6611761](https://www.fixmystreet.com/report/6611761)
-- Pathing uneven, 14th October :- [https://www.fixmystreet.com/report/6611594](https://www.fixmystreet.com/report/6611594)
 
 <!-- fix_marker ends -->
