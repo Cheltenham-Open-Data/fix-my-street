@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Light sensor is not detecting vehicles problem, 17th October :- [https://www.fixmystreet.com/report/6625392](https://www.fixmystreet.com/report/6625392)
+- Streetlight is out on Parnall Close, 17th October :- [https://www.fixmystreet.com/report/6625131](https://www.fixmystreet.com/report/6625131)
+- Entrance unsafe, 16th October :- [https://www.fixmystreet.com/report/6624697](https://www.fixmystreet.com/report/6624697)
 - Tree roots thru tarmac raised footpath danger to pedestrians, 16th October :- [https://www.fixmystreet.com/report/6623914](https://www.fixmystreet.com/report/6623914)
 - Tree branches falling off on highway, 16th October :- [https://www.fixmystreet.com/report/6623657](https://www.fixmystreet.com/report/6623657)
 - The traffic light on the opposite road of Greyhound gardens doesnt turn to red and allow the cars on nine elms road turn right toward to A40, 16th October :- [https://www.fixmystreet.com/report/6623627](https://www.fixmystreet.com/report/6623627)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Red light not working, 16th October :- [https://www.fixmystreet.com/report/6621344](https://www.fixmystreet.com/report/6621344)
 - Breaking up of upper tarmac, 16th October :- [https://www.fixmystreet.com/report/6621178](https://www.fixmystreet.com/report/6621178)
 - Deep hole on high traffic road and bus route, 16th October :- [https://www.fixmystreet.com/report/6621153](https://www.fixmystreet.com/report/6621153)
-- Blocked drain, 16th October :- [https://www.fixmystreet.com/report/6620887](https://www.fixmystreet.com/report/6620887)
-- Very large tree, leaning at an angle, moves a lot when windy. Needs trimming/ removing., 16th October :- [https://www.fixmystreet.com/report/6620883](https://www.fixmystreet.com/report/6620883)
-- These lights should only go red when a pedestrian is crossing. Turning left off of Gloucester road on to Whittington road lights turn red when traffic is coming out of Telstar way, which doesn't affect Whittington road. Causing a lot of unnecessary car idling, 16th October :- [https://www.fixmystreet.com/report/6620856](https://www.fixmystreet.com/report/6620856)
 
 <!-- fix_marker ends -->
