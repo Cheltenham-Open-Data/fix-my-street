@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lights obscured by tree growth, 18th October :- [https://www.fixmystreet.com/report/6633216](https://www.fixmystreet.com/report/6633216)
+- Water flowing down footpath and across road, 18th October :- [https://www.fixmystreet.com/report/6633164](https://www.fixmystreet.com/report/6633164)
 - Drainage under bridge still blocked, 18th October :- [https://www.fixmystreet.com/report/6633023](https://www.fixmystreet.com/report/6633023)
 - Tarmac on pavement uneven and breaking up., 18th October :- [https://www.fixmystreet.com/report/6632461](https://www.fixmystreet.com/report/6632461)
 - All drains are blocked below the surface level with grit, leaves etc and water runs over the top and causes flooding, 18th October :- [https://www.fixmystreet.com/report/6632222](https://www.fixmystreet.com/report/6632222)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Old road repair collapsing, 18th October :- [https://www.fixmystreet.com/report/6629577](https://www.fixmystreet.com/report/6629577)
 - Pothole outside Monkscroft entrance, 17th October :- [https://www.fixmystreet.com/report/6629395](https://www.fixmystreet.com/report/6629395)
 - Pothole outside #44, 17th October :- [https://www.fixmystreet.com/report/6629391](https://www.fixmystreet.com/report/6629391)
-- Pothole outside #50, 17th October :- [https://www.fixmystreet.com/report/6629390](https://www.fixmystreet.com/report/6629390)
-- Pothole outside #54, 17th October :- [https://www.fixmystreet.com/report/6629388](https://www.fixmystreet.com/report/6629388)
 
 <!-- fix_marker ends -->
