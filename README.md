@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Significant deep pothole, 19th October :- [https://www.fixmystreet.com/report/6635659](https://www.fixmystreet.com/report/6635659)
 - Max, there are potholes all the way up Leckhampton hill. Massively bad ride up to the top. All this focus on re-surfacing back streets in Cheltenham but when is this main road going to get attention?, 19th October :- [https://www.fixmystreet.com/report/6635509](https://www.fixmystreet.com/report/6635509)
 - Covert Blocked, 19th October :- [https://www.fixmystreet.com/report/6635438](https://www.fixmystreet.com/report/6635438)
 - Pothole on junction, 19th October :- [https://www.fixmystreet.com/report/6635225](https://www.fixmystreet.com/report/6635225)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Duncroft Park (off Duncroft Rd, Hucclecote) Tree branch laying in the open space, 19th October :- [https://www.fixmystreet.com/report/6633685](https://www.fixmystreet.com/report/6633685)
 - Pothole on welch road, 19th October :- [https://www.fixmystreet.com/report/6633646](https://www.fixmystreet.com/report/6633646)
 - Pothole on welch road, 19th October :- [https://www.fixmystreet.com/report/6633645](https://www.fixmystreet.com/report/6633645)
-- Street lights obscured by tree growth, 18th October :- [https://www.fixmystreet.com/report/6633216](https://www.fixmystreet.com/report/6633216)
 
 <!-- fix_marker ends -->
