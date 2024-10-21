@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Streetlight not working, 20th October :- [https://www.fixmystreet.com/report/6638575](https://www.fixmystreet.com/report/6638575)
+- Pothole in centre of carriageway, 20th October :- [https://www.fixmystreet.com/report/6638472](https://www.fixmystreet.com/report/6638472)
+- Stree lights, 20th October :- [https://www.fixmystreet.com/report/6638462](https://www.fixmystreet.com/report/6638462)
 - Blocked stream with overgrowth, 20th October :- [https://www.fixmystreet.com/report/6638057](https://www.fixmystreet.com/report/6638057)
 - Large trench across the whole width of the road .deep .makes car suspension bash !, 20th October :- [https://www.fixmystreet.com/report/6637929](https://www.fixmystreet.com/report/6637929)
 - Injuries sustained through tree root through tarmac unmarked, 20th October :- [https://www.fixmystreet.com/report/6637910](https://www.fixmystreet.com/report/6637910)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain, 20th October :- [https://www.fixmystreet.com/report/6637042](https://www.fixmystreet.com/report/6637042)
 - Water across primary route, 20th October :- [https://www.fixmystreet.com/report/6636908](https://www.fixmystreet.com/report/6636908)
 - Blocked pavement gully drain, 20th October :- [https://www.fixmystreet.com/report/6636814](https://www.fixmystreet.com/report/6636814)
-- Please empty the bin, 20th October :- [https://www.fixmystreet.com/report/6636533](https://www.fixmystreet.com/report/6636533)
-- Flytipping of a large piece of carpet, 20th October :- [https://www.fixmystreet.com/report/6636154](https://www.fixmystreet.com/report/6636154)
-- Patch of tarmac under the bridge heading from walls roundabout to c and g roundabout. Very dangerous as cars doing 50mph +, 20th October :- [https://www.fixmystreet.com/report/6636124](https://www.fixmystreet.com/report/6636124)
 
 <!-- fix_marker ends -->
