@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooding issue, 21st October :- [https://www.fixmystreet.com/report/6642943](https://www.fixmystreet.com/report/6642943)
 - Half of a bed base, 21st October :- [https://www.fixmystreet.com/report/6642552](https://www.fixmystreet.com/report/6642552)
 - Manhole not properly seated in hole, 21st October :- [https://www.fixmystreet.com/report/6642460](https://www.fixmystreet.com/report/6642460)
 - Fly tipped rubbish outside 2 Oldfield Crescent, 21st October :- [https://www.fixmystreet.com/report/6642239](https://www.fixmystreet.com/report/6642239)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 21st October :- [https://www.fixmystreet.com/report/6640160](https://www.fixmystreet.com/report/6640160)
 - Tree is damaged problem, 21st October :- [https://www.fixmystreet.com/report/6640159](https://www.fixmystreet.com/report/6640159)
 - The sign is illegible problem, 21st October :- [https://www.fixmystreet.com/report/6640158](https://www.fixmystreet.com/report/6640158)
-- Tree is damaged problem, 21st October :- [https://www.fixmystreet.com/report/6639959](https://www.fixmystreet.com/report/6639959)
 
 <!-- fix_marker ends -->
