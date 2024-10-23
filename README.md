@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole outside #38, 23rd October :- [https://www.fixmystreet.com/report/6647707](https://www.fixmystreet.com/report/6647707)
+- Pothole outside #24, 23rd October :- [https://www.fixmystreet.com/report/6647705](https://www.fixmystreet.com/report/6647705)
+- Pothole outside #14, 23rd October :- [https://www.fixmystreet.com/report/6647702](https://www.fixmystreet.com/report/6647702)
+- TURBO tags, 22nd October :- [https://www.fixmystreet.com/report/6647479](https://www.fixmystreet.com/report/6647479)
+- TURBO tag on Heritage site, 22nd October :- [https://www.fixmystreet.com/report/6647474](https://www.fixmystreet.com/report/6647474)
+- Loud and rattling manhole every time a car drives over, 22nd October :- [https://www.fixmystreet.com/report/6647247](https://www.fixmystreet.com/report/6647247)
+- Service (?) boxes covered in grafiiti, 22nd October :- [https://www.fixmystreet.com/report/6647223](https://www.fixmystreet.com/report/6647223)
+- Beg button on pedestrian crossing not working, 22nd October :- [https://www.fixmystreet.com/report/6647183](https://www.fixmystreet.com/report/6647183)
 - Dumped ‘road ahead closed’ sign, 22nd October :- [https://www.fixmystreet.com/report/6647069](https://www.fixmystreet.com/report/6647069)
 - Deeper than golf ball. Real clunk if you drive over it, 22nd October :- [https://www.fixmystreet.com/report/6646816](https://www.fixmystreet.com/report/6646816)
 - 45cm x 75cm pothole., 22nd October :- [https://www.fixmystreet.com/report/6646631](https://www.fixmystreet.com/report/6646631)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Rainwater pipe blocked and water seeping into property at 253 Gloucester Road, Cheltenham,instead of running down to pipe in road, 22nd October :- [https://www.fixmystreet.com/report/6645660](https://www.fixmystreet.com/report/6645660)
 - A pothole in road problem, 22nd October :- [https://www.fixmystreet.com/report/6645761](https://www.fixmystreet.com/report/6645761)
 - A pothole in road problem, 22nd October :- [https://www.fixmystreet.com/report/6645600](https://www.fixmystreet.com/report/6645600)
-- Abandoned traffic cones and signs, 22nd October :- [https://www.fixmystreet.com/report/6645549](https://www.fixmystreet.com/report/6645549)
-- Railway Foot Bridge Vandalised with Grafitti, 22nd October :- [https://www.fixmystreet.com/report/6645502](https://www.fixmystreet.com/report/6645502)
-- Graffiti on Street Cabinet, 22nd October :- [https://www.fixmystreet.com/report/6645482](https://www.fixmystreet.com/report/6645482)
-- Metal cover is loose and the frame has broken and will not stay on. There is a 3 foot drop under the cover. Plant pots and Hi-Vis have been left on the cover to avoid vehicles hitting this., 22nd October :- [https://www.fixmystreet.com/report/6645417](https://www.fixmystreet.com/report/6645417)
-- Steep ramp in pavement, 22nd October :- [https://www.fixmystreet.com/report/6645322](https://www.fixmystreet.com/report/6645322)
-- No cycling signs missing on footpath entrances, 22nd October :- [https://www.fixmystreet.com/report/6645211](https://www.fixmystreet.com/report/6645211)
-- Several potholes in the road, 22nd October :- [https://www.fixmystreet.com/report/6645134](https://www.fixmystreet.com/report/6645134)
-- Pothole opposite Star College entrance, 22nd October :- [https://www.fixmystreet.com/report/6645124](https://www.fixmystreet.com/report/6645124)
 
 <!-- fix_marker ends -->
