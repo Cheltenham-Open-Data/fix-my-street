@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 2" deep he, 15" wide adjacent to Corndean Hall entrance, 26th October :- [https://www.fixmystreet.com/report/6661868](https://www.fixmystreet.com/report/6661868)
+- Deep & wide pothole - dangerous part of carriageway, 26th October :- [https://www.fixmystreet.com/report/6661861](https://www.fixmystreet.com/report/6661861)
+- Deep & wide pothole - dangerous part of carriageway, 26th October :- [https://www.fixmystreet.com/report/6661855](https://www.fixmystreet.com/report/6661855)
+- Long pothole by lamppost 34, 26th October :- [https://www.fixmystreet.com/report/6661421](https://www.fixmystreet.com/report/6661421)
+- 2 potholes in the road, 26th October :- [https://www.fixmystreet.com/report/6661318](https://www.fixmystreet.com/report/6661318)
+- Trolley blocking the brook, 26th October :- [https://www.fixmystreet.com/report/6660586](https://www.fixmystreet.com/report/6660586)
+- Blocked drain, 26th October :- [https://www.fixmystreet.com/report/6660499](https://www.fixmystreet.com/report/6660499)
+- Trip hazard: dangerously raised paving slab St Paul’s Road, 26th October :- [https://www.fixmystreet.com/report/6660447](https://www.fixmystreet.com/report/6660447)
+- Drainage ditch opposite Sarnia is completely blocked and totally overgrown. Land owner has moved out of the area and has failed to clear the ditch and maintain hedgerow for several years. Vegetation now covers tarmac by more than 0.5m, 26th October :- [https://www.fixmystreet.com/report/6660099](https://www.fixmystreet.com/report/6660099)
 - Tree at front of 58 Moorend Park Road, 25th October :- [https://www.fixmystreet.com/report/6659901](https://www.fixmystreet.com/report/6659901)
 - Massive and numerous potholes spread across the entire road, 25th October :- [https://www.fixmystreet.com/report/6659842](https://www.fixmystreet.com/report/6659842)
 - Road Closed Due To Floods Sign Obscured/Wrong Location, 25th October :- [https://www.fixmystreet.com/report/6659420](https://www.fixmystreet.com/report/6659420)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659104](https://www.fixmystreet.com/report/6659104)
 - Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659093](https://www.fixmystreet.com/report/6659093)
 - Glass in road, 25th October :- [https://www.fixmystreet.com/report/6659090](https://www.fixmystreet.com/report/6659090)
-- Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659082](https://www.fixmystreet.com/report/6659082)
-- Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659069](https://www.fixmystreet.com/report/6659069)
-- Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659061](https://www.fixmystreet.com/report/6659061)
-- Blocked drains, 25th October :- [https://www.fixmystreet.com/report/6659047](https://www.fixmystreet.com/report/6659047)
-- Unfixed bollard and temp fences., 25th October :- [https://www.fixmystreet.com/report/6659022](https://www.fixmystreet.com/report/6659022)
-- Dinner plate size pothole, 25th October :- [https://www.fixmystreet.com/report/6658931](https://www.fixmystreet.com/report/6658931)
-- A Number of Potholes have opened up and are quite deep., 25th October :- [https://www.fixmystreet.com/report/6658915](https://www.fixmystreet.com/report/6658915)
-- The sign is illegible problem, 25th October :- [https://www.fixmystreet.com/report/6658780](https://www.fixmystreet.com/report/6658780)
-- Impacting sleep, 25th October :- [https://www.fixmystreet.com/report/6658695](https://www.fixmystreet.com/report/6658695)
 
 <!-- fix_marker ends -->
