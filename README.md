@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- A pothole that is increasing in size. It is from work carried out by water company in the past year., 27th October :- [https://www.fixmystreet.com/report/6662467](https://www.fixmystreet.com/report/6662467)
+- Loose and broken slab on pedestrian crossing, 26th October :- [https://www.fixmystreet.com/report/6662195](https://www.fixmystreet.com/report/6662195)
 - 2" deep he, 15" wide adjacent to Corndean Hall entrance, 26th October :- [https://www.fixmystreet.com/report/6661868](https://www.fixmystreet.com/report/6661868)
 - Deep & wide pothole - dangerous part of carriageway, 26th October :- [https://www.fixmystreet.com/report/6661861](https://www.fixmystreet.com/report/6661861)
 - Deep & wide pothole - dangerous part of carriageway, 26th October :- [https://www.fixmystreet.com/report/6661855](https://www.fixmystreet.com/report/6661855)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659128](https://www.fixmystreet.com/report/6659128)
 - Locked drain, 25th October :- [https://www.fixmystreet.com/report/6659120](https://www.fixmystreet.com/report/6659120)
 - Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659104](https://www.fixmystreet.com/report/6659104)
-- Blocked drain, 25th October :- [https://www.fixmystreet.com/report/6659093](https://www.fixmystreet.com/report/6659093)
-- Glass in road, 25th October :- [https://www.fixmystreet.com/report/6659090](https://www.fixmystreet.com/report/6659090)
 
 <!-- fix_marker ends -->
