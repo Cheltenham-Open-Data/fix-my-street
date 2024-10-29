@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken BT cover, 29th October :- [https://www.fixmystreet.com/report/6669799](https://www.fixmystreet.com/report/6669799)
+- Traffic lights at Sainsbury's not working some red one way is green, 28th October :- [https://www.fixmystreet.com/report/6669133](https://www.fixmystreet.com/report/6669133)
 - 2 street lights permanently shut off on Kingsmead Avenue, 28th October :- [https://www.fixmystreet.com/report/6668877](https://www.fixmystreet.com/report/6668877)
 - Recent repair is not good enough. Complete resurface required. I am sure that my need for a new car tyre was due to those pothole Some of us now prefer to park on the highway rather than risk more expense !, 28th October :- [https://www.fixmystreet.com/report/6668818](https://www.fixmystreet.com/report/6668818)
 - Large and deep pothole, 28th October :- [https://www.fixmystreet.com/report/6668256](https://www.fixmystreet.com/report/6668256)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 28th October :- [https://www.fixmystreet.com/report/6667020](https://www.fixmystreet.com/report/6667020)
 - Temporary Crossing In Possibly Dangerous State, 28th October :- [https://www.fixmystreet.com/report/6666619](https://www.fixmystreet.com/report/6666619)
 - This was only repaired last week and has already failed, 28th October :- [https://www.fixmystreet.com/report/6666402](https://www.fixmystreet.com/report/6666402)
-- Very large deep pothole in road, 28th October :- [https://www.fixmystreet.com/report/6666223](https://www.fixmystreet.com/report/6666223)
-- Loose/rattling cover/ironwork problem, 28th October :- [https://www.fixmystreet.com/report/6668056](https://www.fixmystreet.com/report/6668056)
 
 <!-- fix_marker ends -->
