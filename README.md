@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cider cans and cigarette butts left by arle court underpass again, 30th October :- [https://www.fixmystreet.com/report/6677848](https://www.fixmystreet.com/report/6677848)
+- Streetlight number 30 not working, 30th October :- [https://www.fixmystreet.com/report/6677412](https://www.fixmystreet.com/report/6677412)
 - Advanced stop line markings almost disappeared, 30th October :- [https://www.fixmystreet.com/report/6677122](https://www.fixmystreet.com/report/6677122)
 - Blocked Drain causes road to flood, 30th October :- [https://www.fixmystreet.com/report/6676998](https://www.fixmystreet.com/report/6676998)
 - A Light sensor is not detecting vehicles problem has been found, 30th October :- [https://www.fixmystreet.com/report/6676761](https://www.fixmystreet.com/report/6676761)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipped wooden boards, 30th October :- [https://www.fixmystreet.com/report/6675033](https://www.fixmystreet.com/report/6675033)
 - Tarmac missing surrounding drain, 30th October :- [https://www.fixmystreet.com/report/6673995](https://www.fixmystreet.com/report/6673995)
 - Road sweeping needed, 30th October :- [https://www.fixmystreet.com/report/6673973](https://www.fixmystreet.com/report/6673973)
-- Pavement causes rainwater to run towards house not toward kerb and road, 29th October :- [https://www.fixmystreet.com/report/6673697](https://www.fixmystreet.com/report/6673697)
-- Loose manhole cover causing noise issues when vehicle goes over it, 29th October :- [https://www.fixmystreet.com/report/6673538](https://www.fixmystreet.com/report/6673538)
 
 <!-- fix_marker ends -->
