@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gullys damaged, 31st October :- [https://www.fixmystreet.com/report/6681910](https://www.fixmystreet.com/report/6681910)
+- Clanking 'Highways Agency' manhole cover., 31st October :- [https://www.fixmystreet.com/report/6681762](https://www.fixmystreet.com/report/6681762)
+- Clanking 'Highways Agency' manhole cover., 31st October :- [https://www.fixmystreet.com/report/6681554](https://www.fixmystreet.com/report/6681554)
 - Road is disintegrating and you have to avoid, 31st October :- [https://www.fixmystreet.com/report/6681445](https://www.fixmystreet.com/report/6681445)
 - Pothole was fixed today. HOWEVER all the rubble from the pothole was left in the gutter. Please can it be removed before it blocks the drain at the bottom of the road causing a flooding issue. Thank you, 31st October :- [https://www.fixmystreet.com/report/6680948](https://www.fixmystreet.com/report/6680948)
 - Tree is damaged problem, 31st October :- [https://www.fixmystreet.com/report/6680983](https://www.fixmystreet.com/report/6680983)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Streetlight number 30 not working, 30th October :- [https://www.fixmystreet.com/report/6677412](https://www.fixmystreet.com/report/6677412)
 - Advanced stop line markings almost disappeared, 30th October :- [https://www.fixmystreet.com/report/6677122](https://www.fixmystreet.com/report/6677122)
 - Blocked Drain causes road to flood, 30th October :- [https://www.fixmystreet.com/report/6676998](https://www.fixmystreet.com/report/6676998)
-- A Light sensor is not detecting vehicles problem has been found, 30th October :- [https://www.fixmystreet.com/report/6676761](https://www.fixmystreet.com/report/6676761)
-- Flytipping of carpet on the open space at the end of Thomond Close, 30th October :- [https://www.fixmystreet.com/report/6676619](https://www.fixmystreet.com/report/6676619)
-- Tree is damaged problem, 30th October :- [https://www.fixmystreet.com/report/6676632](https://www.fixmystreet.com/report/6676632)
 
 <!-- fix_marker ends -->
