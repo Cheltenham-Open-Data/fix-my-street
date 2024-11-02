@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- No street lights, 2nd November :- [https://www.fixmystreet.com/report/6685813](https://www.fixmystreet.com/report/6685813)
+- Gullies Need Clearing, 1st November :- [https://www.fixmystreet.com/report/6685587](https://www.fixmystreet.com/report/6685587)
+- Disconnected Drain, 1st November :- [https://www.fixmystreet.com/report/6685585](https://www.fixmystreet.com/report/6685585)
 - No need for temporary light which is causing huge delays, 1st November :- [https://www.fixmystreet.com/report/6684847](https://www.fixmystreet.com/report/6684847)
 - Noise Manhole Cover, 1st November :- [https://www.fixmystreet.com/report/6684624](https://www.fixmystreet.com/report/6684624)
 - Very deep pothole around drain., 1st November :- [https://www.fixmystreet.com/report/6684222](https://www.fixmystreet.com/report/6684222)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A Information board identifying emergency contact company/number not displayed problem has been found, 1st November :- [https://www.fixmystreet.com/report/6683132](https://www.fixmystreet.com/report/6683132)
 - Blocked drain, 1st November :- [https://www.fixmystreet.com/report/6683099](https://www.fixmystreet.com/report/6683099)
 - Yet another blocked drain, 1st November :- [https://www.fixmystreet.com/report/6682894](https://www.fixmystreet.com/report/6682894)
-- Another blocked drain, 1st November :- [https://www.fixmystreet.com/report/6682876](https://www.fixmystreet.com/report/6682876)
-- Road sign for Goodrich Road is in a hedge, 1st November :- [https://www.fixmystreet.com/report/6682832](https://www.fixmystreet.com/report/6682832)
-- Blocked drains, 1st November :- [https://www.fixmystreet.com/report/6682778](https://www.fixmystreet.com/report/6682778)
 
 <!-- fix_marker ends -->
