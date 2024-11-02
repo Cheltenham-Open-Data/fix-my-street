@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Acacia shooting from base of main tree. Very prickly and could be dangerous if someone walked into it at night, 2nd November :- [https://www.fixmystreet.com/report/6687480](https://www.fixmystreet.com/report/6687480)
+- Very Large Deep collection of potholes, 2nd November :- [https://www.fixmystreet.com/report/6686977](https://www.fixmystreet.com/report/6686977)
+- Damaged/sunken man-hole cover., 2nd November :- [https://www.fixmystreet.com/report/6686879](https://www.fixmystreet.com/report/6686879)
+- Fly-tipping beside the dustbins next to the electricity substation on Lansdown Place Lane., 2nd November :- [https://www.fixmystreet.com/report/6686702](https://www.fixmystreet.com/report/6686702)
+- Blocked drain, 2nd November :- [https://www.fixmystreet.com/report/6686426](https://www.fixmystreet.com/report/6686426)
+- Drain full of detritus and gravel, 2nd November :- [https://www.fixmystreet.com/report/6686387](https://www.fixmystreet.com/report/6686387)
+- Traffic lights stuck on red at elmbridge court roundabout when coming from longford, 2nd November :- [https://www.fixmystreet.com/report/6686056](https://www.fixmystreet.com/report/6686056)
 - No street lights, 2nd November :- [https://www.fixmystreet.com/report/6685813](https://www.fixmystreet.com/report/6685813)
 - Gullies Need Clearing, 1st November :- [https://www.fixmystreet.com/report/6685587](https://www.fixmystreet.com/report/6685587)
 - Disconnected Drain, 1st November :- [https://www.fixmystreet.com/report/6685585](https://www.fixmystreet.com/report/6685585)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Illegal freestanding sign, 1st November :- [https://www.fixmystreet.com/report/6683844](https://www.fixmystreet.com/report/6683844)
 - Road never been resurfaced, 1st November :- [https://www.fixmystreet.com/report/6683605](https://www.fixmystreet.com/report/6683605)
 - Blocked drain, 1st November :- [https://www.fixmystreet.com/report/6683583](https://www.fixmystreet.com/report/6683583)
-- Better street signage really needed, 1st November :- [https://www.fixmystreet.com/report/6683455](https://www.fixmystreet.com/report/6683455)
-- A pothole in pavement problem, 1st November :- [https://www.fixmystreet.com/report/6683640](https://www.fixmystreet.com/report/6683640)
-- The drain cover close to 290 London Road is loose, 1st November :- [https://www.fixmystreet.com/report/6683325](https://www.fixmystreet.com/report/6683325)
-- Tree is damaged problem, 1st November :- [https://www.fixmystreet.com/report/6683447](https://www.fixmystreet.com/report/6683447)
-- A Information board identifying emergency contact company/number not displayed problem has been found, 1st November :- [https://www.fixmystreet.com/report/6683132](https://www.fixmystreet.com/report/6683132)
-- Blocked drain, 1st November :- [https://www.fixmystreet.com/report/6683099](https://www.fixmystreet.com/report/6683099)
-- Yet another blocked drain, 1st November :- [https://www.fixmystreet.com/report/6682894](https://www.fixmystreet.com/report/6682894)
 
 <!-- fix_marker ends -->
