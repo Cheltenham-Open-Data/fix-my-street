@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole in road, next to driveway, 2nd November :- [https://www.fixmystreet.com/report/6687930](https://www.fixmystreet.com/report/6687930)
+- Just off dropped kerb, 2nd November :- [https://www.fixmystreet.com/report/6687763](https://www.fixmystreet.com/report/6687763)
+- Pothole at bus stop, 2nd November :- [https://www.fixmystreet.com/report/6687708](https://www.fixmystreet.com/report/6687708)
 - Acacia shooting from base of main tree. Very prickly and could be dangerous if someone walked into it at night, 2nd November :- [https://www.fixmystreet.com/report/6687480](https://www.fixmystreet.com/report/6687480)
 - Very Large Deep collection of potholes, 2nd November :- [https://www.fixmystreet.com/report/6686977](https://www.fixmystreet.com/report/6686977)
 - Damaged/sunken man-hole cover., 2nd November :- [https://www.fixmystreet.com/report/6686879](https://www.fixmystreet.com/report/6686879)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Shopping trolley dumped on Verge, 1st November :- [https://www.fixmystreet.com/report/6683926](https://www.fixmystreet.com/report/6683926)
 - The sign is illegible problem, 1st November :- [https://www.fixmystreet.com/report/6683935](https://www.fixmystreet.com/report/6683935)
 - Temporary barriers seem the be a permanent fixture but sometimes move and encroach the road causing an issue on a dark bend, 1st November :- [https://www.fixmystreet.com/report/6683909](https://www.fixmystreet.com/report/6683909)
-- Illegal freestanding sign, 1st November :- [https://www.fixmystreet.com/report/6683844](https://www.fixmystreet.com/report/6683844)
-- Road never been resurfaced, 1st November :- [https://www.fixmystreet.com/report/6683605](https://www.fixmystreet.com/report/6683605)
-- Blocked drain, 1st November :- [https://www.fixmystreet.com/report/6683583](https://www.fixmystreet.com/report/6683583)
 
 <!-- fix_marker ends -->
