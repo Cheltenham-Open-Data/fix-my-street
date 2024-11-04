@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Water covering 1/2 west bound carriageway, 3rd November :- [https://www.fixmystreet.com/report/6690519](https://www.fixmystreet.com/report/6690519)
+- Large pothole under water, 3rd November :- [https://www.fixmystreet.com/report/6690502](https://www.fixmystreet.com/report/6690502)
+- Kerb loose, 3rd November :- [https://www.fixmystreet.com/report/6690343](https://www.fixmystreet.com/report/6690343)
+- Two drains blocked at top of bridge, 3rd November :- [https://www.fixmystreet.com/report/6689790](https://www.fixmystreet.com/report/6689790)
 - Road closure sign absndoned, 3rd November :- [https://www.fixmystreet.com/report/6689668](https://www.fixmystreet.com/report/6689668)
 - Damaged fence along watercourse, 3rd November :- [https://www.fixmystreet.com/report/6689560](https://www.fixmystreet.com/report/6689560)
 - Traffic lights stuck on red, apparently this is an emergency, but no other way to report than phone., 3rd November :- [https://www.fixmystreet.com/report/6689523](https://www.fixmystreet.com/report/6689523)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Massive pothole - Destroyed my tyre, 3rd November :- [https://www.fixmystreet.com/report/6688181](https://www.fixmystreet.com/report/6688181)
 - Pothole in road, next to driveway, 2nd November :- [https://www.fixmystreet.com/report/6687930](https://www.fixmystreet.com/report/6687930)
 - Just off dropped kerb, 2nd November :- [https://www.fixmystreet.com/report/6687763](https://www.fixmystreet.com/report/6687763)
-- Pothole at bus stop, 2nd November :- [https://www.fixmystreet.com/report/6687708](https://www.fixmystreet.com/report/6687708)
-- Acacia shooting from base of main tree. Very prickly and could be dangerous if someone walked into it at night, 2nd November :- [https://www.fixmystreet.com/report/6687480](https://www.fixmystreet.com/report/6687480)
-- Very Large Deep collection of potholes, 2nd November :- [https://www.fixmystreet.com/report/6686977](https://www.fixmystreet.com/report/6686977)
-- Damaged/sunken man-hole cover., 2nd November :- [https://www.fixmystreet.com/report/6686879](https://www.fixmystreet.com/report/6686879)
 
 <!-- fix_marker ends -->
