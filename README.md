@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pothole on road towards Birdlip, 5th November :- [https://www.fixmystreet.com/report/6695156](https://www.fixmystreet.com/report/6695156)
+- Low hanging laurel branches, 4th November :- [https://www.fixmystreet.com/report/6694862](https://www.fixmystreet.com/report/6694862)
+- Large pothole in the road, 4th November :- [https://www.fixmystreet.com/report/6694852](https://www.fixmystreet.com/report/6694852)
+- All 6 drains are blocked in Manor Road, 4th November :- [https://www.fixmystreet.com/report/6694574](https://www.fixmystreet.com/report/6694574)
 - The bushes have tot been cut like they have been cu across the street, 4th November :- [https://www.fixmystreet.com/report/6693929](https://www.fixmystreet.com/report/6693929)
 - Blue paint markings left outside houses., 4th November :- [https://www.fixmystreet.com/report/6693707](https://www.fixmystreet.com/report/6693707)
 - Badly broken pavement slab outside 12 Coltham Road, 4th November :- [https://www.fixmystreet.com/report/6693625](https://www.fixmystreet.com/report/6693625)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - I've been witnessing the builders dumping waste down drains, 4th November :- [https://www.fixmystreet.com/report/6691643](https://www.fixmystreet.com/report/6691643)
 - General road marking and stud issues problem, 4th November :- [https://www.fixmystreet.com/report/6691753](https://www.fixmystreet.com/report/6691753)
 - Various holes and trenches in the road, 4th November :- [https://www.fixmystreet.com/report/6691536](https://www.fixmystreet.com/report/6691536)
-- Path as been 80% given to cycle lane, 4th November :- [https://www.fixmystreet.com/report/6691403](https://www.fixmystreet.com/report/6691403)
-- Footpath blocked by trees and locked gate, 4th November :- [https://www.fixmystreet.com/report/6691013](https://www.fixmystreet.com/report/6691013)
-- Rattling manhole cover, 4th November :- [https://www.fixmystreet.com/report/6690965](https://www.fixmystreet.com/report/6690965)
-- Dug up and replacement bit adequate, 4th November :- [https://www.fixmystreet.com/report/6690812](https://www.fixmystreet.com/report/6690812)
 
 <!-- fix_marker ends -->
