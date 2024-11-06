@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Banging every time driven over, 6th November :- [https://www.fixmystreet.com/report/6699284](https://www.fixmystreet.com/report/6699284)
+- Roundabout sign light working intermittently., 5th November :- [https://www.fixmystreet.com/report/6699037](https://www.fixmystreet.com/report/6699037)
+- No road markings at junction. Delivery pulled out without stopping, looking or slowing down, 5th November :- [https://www.fixmystreet.com/report/6698775](https://www.fixmystreet.com/report/6698775)
+- Street light outside 36 Henley road been out for a week, 5th November :- [https://www.fixmystreet.com/report/6698681](https://www.fixmystreet.com/report/6698681)
 - Traffic light stuck on red, 5th November :- [https://www.fixmystreet.com/report/6698425](https://www.fixmystreet.com/report/6698425)
 - Temporary Ramp has come loose from mounting stakes., 5th November :- [https://www.fixmystreet.com/report/6698289](https://www.fixmystreet.com/report/6698289)
 - Clanking 'Highways Agency' manhole cover., 5th November :- [https://www.fixmystreet.com/report/6697566](https://www.fixmystreet.com/report/6697566)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Light sensor is not detecting vehicles problem, 5th November :- [https://www.fixmystreet.com/report/6695683](https://www.fixmystreet.com/report/6695683)
 - Lights sequenced incorrectly causing problems, 5th November :- [https://www.fixmystreet.com/report/6695585](https://www.fixmystreet.com/report/6695585)
 - Noisy fire hydrant cover - not resolved, 5th November :- [https://www.fixmystreet.com/report/6695332](https://www.fixmystreet.com/report/6695332)
-- Pothole on road towards Birdlip, 5th November :- [https://www.fixmystreet.com/report/6695156](https://www.fixmystreet.com/report/6695156)
-- Low hanging laurel branches, 4th November :- [https://www.fixmystreet.com/report/6694862](https://www.fixmystreet.com/report/6694862)
-- Large pothole in the road, 4th November :- [https://www.fixmystreet.com/report/6694852](https://www.fixmystreet.com/report/6694852)
-- All 6 drains are blocked in Manor Road, 4th November :- [https://www.fixmystreet.com/report/6694574](https://www.fixmystreet.com/report/6694574)
 
 <!-- fix_marker ends -->
