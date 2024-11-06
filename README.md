@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Noise waking residents up, 6th November :- [https://www.fixmystreet.com/report/6702269](https://www.fixmystreet.com/report/6702269)
+- Green man symbol does on illuminated on central control box., 6th November :- [https://www.fixmystreet.com/report/6702167](https://www.fixmystreet.com/report/6702167)
+- Potholes still there despite saying fixed, 6th November :- [https://www.fixmystreet.com/report/6701958](https://www.fixmystreet.com/report/6701958)
+- Large patch of repaired road breaking down again. 1 metre square?, 6th November :- [https://www.fixmystreet.com/report/6700846](https://www.fixmystreet.com/report/6700846)
+- A pothole in road problem, 6th November :- [https://www.fixmystreet.com/report/6700358](https://www.fixmystreet.com/report/6700358)
+- Loose/rattling cover/ironwork problem, 6th November :- [https://www.fixmystreet.com/report/6700166](https://www.fixmystreet.com/report/6700166)
+- Potholes near the edge of the road, 6th November :- [https://www.fixmystreet.com/report/6699855](https://www.fixmystreet.com/report/6699855)
+- 2 potholes near the edge of the road, 1 outside no. 200 and the other outside no. 202, 6th November :- [https://www.fixmystreet.com/report/6699628](https://www.fixmystreet.com/report/6699628)
 - Banging every time driven over, 6th November :- [https://www.fixmystreet.com/report/6699284](https://www.fixmystreet.com/report/6699284)
 - Roundabout sign light working intermittently., 5th November :- [https://www.fixmystreet.com/report/6699037](https://www.fixmystreet.com/report/6699037)
 - No road markings at junction. Delivery pulled out without stopping, looking or slowing down, 5th November :- [https://www.fixmystreet.com/report/6698775](https://www.fixmystreet.com/report/6698775)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Bus Shelter Graffiti, 5th November :- [https://www.fixmystreet.com/report/6697252](https://www.fixmystreet.com/report/6697252)
 - Loose/rattling cover/ironwork problem, 5th November :- [https://www.fixmystreet.com/report/6696920](https://www.fixmystreet.com/report/6696920)
 - Bike in river Chelt, 5th November :- [https://www.fixmystreet.com/report/6696693](https://www.fixmystreet.com/report/6696693)
-- Abandoned roadworks, 5th November :- [https://www.fixmystreet.com/report/6696285](https://www.fixmystreet.com/report/6696285)
-- On corner of tanners road/bramly road overgrown tree blockiig pavement, 5th November :- [https://www.fixmystreet.com/report/6696255](https://www.fixmystreet.com/report/6696255)
-- More dog fouling, 5th November :- [https://www.fixmystreet.com/report/6696169](https://www.fixmystreet.com/report/6696169)
-- Tree is damaged problem, 5th November :- [https://www.fixmystreet.com/report/6697091](https://www.fixmystreet.com/report/6697091)
-- Street light is permanently out problem, 5th November :- [https://www.fixmystreet.com/report/6695874](https://www.fixmystreet.com/report/6695874)
-- Light sensor is not detecting vehicles problem, 5th November :- [https://www.fixmystreet.com/report/6695683](https://www.fixmystreet.com/report/6695683)
-- Lights sequenced incorrectly causing problems, 5th November :- [https://www.fixmystreet.com/report/6695585](https://www.fixmystreet.com/report/6695585)
-- Noisy fire hydrant cover - not resolved, 5th November :- [https://www.fixmystreet.com/report/6695332](https://www.fixmystreet.com/report/6695332)
 
 <!-- fix_marker ends -->
