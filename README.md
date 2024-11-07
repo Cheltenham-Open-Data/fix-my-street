@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large crater, 7th November :- [https://www.fixmystreet.com/report/6703761](https://www.fixmystreet.com/report/6703761)
+- Plenty of Potholes around this area. This are accident prone area for cyclist and kids riding a bicycle., 7th November :- [https://www.fixmystreet.com/report/6703699](https://www.fixmystreet.com/report/6703699)
+- Abandoned barriers in Minster Churchyard, 6th November :- [https://www.fixmystreet.com/report/6703498](https://www.fixmystreet.com/report/6703498)
+- Street light not working, 6th November :- [https://www.fixmystreet.com/report/6703025](https://www.fixmystreet.com/report/6703025)
 - Noise waking residents up, 6th November :- [https://www.fixmystreet.com/report/6702269](https://www.fixmystreet.com/report/6702269)
 - Green man symbol does on illuminated on central control box., 6th November :- [https://www.fixmystreet.com/report/6702167](https://www.fixmystreet.com/report/6702167)
 - Potholes still there despite saying fixed, 6th November :- [https://www.fixmystreet.com/report/6701958](https://www.fixmystreet.com/report/6701958)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Temporary Ramp has come loose from mounting stakes., 5th November :- [https://www.fixmystreet.com/report/6698289](https://www.fixmystreet.com/report/6698289)
 - Clanking 'Highways Agency' manhole cover., 5th November :- [https://www.fixmystreet.com/report/6697566](https://www.fixmystreet.com/report/6697566)
 - The sign is illegible problem, 5th November :- [https://www.fixmystreet.com/report/6697661](https://www.fixmystreet.com/report/6697661)
-- Substation Graffiti, 5th November :- [https://www.fixmystreet.com/report/6697285](https://www.fixmystreet.com/report/6697285)
-- Bus Shelter Graffiti, 5th November :- [https://www.fixmystreet.com/report/6697252](https://www.fixmystreet.com/report/6697252)
-- Loose/rattling cover/ironwork problem, 5th November :- [https://www.fixmystreet.com/report/6696920](https://www.fixmystreet.com/report/6696920)
-- Bike in river Chelt, 5th November :- [https://www.fixmystreet.com/report/6696693](https://www.fixmystreet.com/report/6696693)
 
 <!-- fix_marker ends -->
