@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light not working, 7th November :- [https://www.fixmystreet.com/report/6707674](https://www.fixmystreet.com/report/6707674)
+- Lamp column no2 is off permanently, 7th November :- [https://www.fixmystreet.com/report/6707028](https://www.fixmystreet.com/report/6707028)
 - Bock gutter box in pavement, 7th November :- [https://www.fixmystreet.com/report/6706432](https://www.fixmystreet.com/report/6706432)
 - A broadband connection box (potentially Virgin Media) is partially blocking the entrance to 19 Whitecross Square, 7th November :- [https://www.fixmystreet.com/report/6706088](https://www.fixmystreet.com/report/6706088)
 - Signage, 7th November :- [https://www.fixmystreet.com/report/6705444](https://www.fixmystreet.com/report/6705444)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Potholes still there despite saying fixed, 6th November :- [https://www.fixmystreet.com/report/6701958](https://www.fixmystreet.com/report/6701958)
 - Large patch of repaired road breaking down again. 1 metre square?, 6th November :- [https://www.fixmystreet.com/report/6700846](https://www.fixmystreet.com/report/6700846)
 - A pothole in road problem, 6th November :- [https://www.fixmystreet.com/report/6700358](https://www.fixmystreet.com/report/6700358)
-- Loose/rattling cover/ironwork problem, 6th November :- [https://www.fixmystreet.com/report/6700166](https://www.fixmystreet.com/report/6700166)
-- Potholes near the edge of the road, 6th November :- [https://www.fixmystreet.com/report/6699855](https://www.fixmystreet.com/report/6699855)
 
 <!-- fix_marker ends -->
