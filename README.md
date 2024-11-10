@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Remnants of a car fire and possible melted tarmac, 10th November :- [https://www.fixmystreet.com/report/6715162](https://www.fixmystreet.com/report/6715162)
+- Pavement totally inaccessible for wheelchair, 10th November :- [https://www.fixmystreet.com/report/6714874](https://www.fixmystreet.com/report/6714874)
+- Continued Filthy Flooding, 10th November :- [https://www.fixmystreet.com/report/6714729](https://www.fixmystreet.com/report/6714729)
+- Multiple potholes, 10th November :- [https://www.fixmystreet.com/report/6714689](https://www.fixmystreet.com/report/6714689)
+- The signage says Road closed after red lion, but the flooding cleared over 2 weeks ago, 10th November :- [https://www.fixmystreet.com/report/6714431](https://www.fixmystreet.com/report/6714431)
+- Large disintegrated area of road surface, 10th November :- [https://www.fixmystreet.com/report/6714362](https://www.fixmystreet.com/report/6714362)
 - Very dangerous twin roundabouts., 9th November :- [https://www.fixmystreet.com/report/6713662](https://www.fixmystreet.com/report/6713662)
 - Poor road repair on Farmfield Road, 9th November :- [https://www.fixmystreet.com/report/6713377](https://www.fixmystreet.com/report/6713377)
 - Bed dumped on corner of Green Lane, 9th November :- [https://www.fixmystreet.com/report/6713373](https://www.fixmystreet.com/report/6713373)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Please clear grass cuttings from verge, 9th November :- [https://www.fixmystreet.com/report/6712172](https://www.fixmystreet.com/report/6712172)
 - Choked up drain grate, 9th November :- [https://www.fixmystreet.com/report/6712154](https://www.fixmystreet.com/report/6712154)
 - Flytipped mattresses, 9th November :- [https://www.fixmystreet.com/report/6712138](https://www.fixmystreet.com/report/6712138)
-- HGV weight limits, safe crossings and speed reductions, 9th November :- [https://www.fixmystreet.com/report/6711942](https://www.fixmystreet.com/report/6711942)
-- Persistent blockages on Townsend Street drainage, 9th November :- [https://www.fixmystreet.com/report/6711924](https://www.fixmystreet.com/report/6711924)
-- Pothole reappeared on corner and general poor condition of road, 9th November :- [https://www.fixmystreet.com/report/6711456](https://www.fixmystreet.com/report/6711456)
-- Sunken manhole cover - been here for, 9th November :- [https://www.fixmystreet.com/report/6711455](https://www.fixmystreet.com/report/6711455)
-- Cycleway covered in Debris, 8th November :- [https://www.fixmystreet.com/report/6711254](https://www.fixmystreet.com/report/6711254)
-- Pothole forming again, 8th November :- [https://www.fixmystreet.com/report/6710777](https://www.fixmystreet.com/report/6710777)
 
 <!-- fix_marker ends -->
