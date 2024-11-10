@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very dangerous twin roundabouts., 9th November :- [https://www.fixmystreet.com/report/6713662](https://www.fixmystreet.com/report/6713662)
+- Poor road repair on Farmfield Road, 9th November :- [https://www.fixmystreet.com/report/6713377](https://www.fixmystreet.com/report/6713377)
+- Bed dumped on corner of Green Lane, 9th November :- [https://www.fixmystreet.com/report/6713373](https://www.fixmystreet.com/report/6713373)
 - Rubbish all along Kingsditch Lane, 9th November :- [https://www.fixmystreet.com/report/6713180](https://www.fixmystreet.com/report/6713180)
 - Abandoned road closed sign, being miss used, please collect., 9th November :- [https://www.fixmystreet.com/report/6713079](https://www.fixmystreet.com/report/6713079)
 - Drain is full and blocked with soil/debris and needs to be cleaned., 9th November :- [https://www.fixmystreet.com/report/6713058](https://www.fixmystreet.com/report/6713058)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Sunken manhole cover - been here for, 9th November :- [https://www.fixmystreet.com/report/6711455](https://www.fixmystreet.com/report/6711455)
 - Cycleway covered in Debris, 8th November :- [https://www.fixmystreet.com/report/6711254](https://www.fixmystreet.com/report/6711254)
 - Pothole forming again, 8th November :- [https://www.fixmystreet.com/report/6710777](https://www.fixmystreet.com/report/6710777)
-- Cracked and uneven tarmac filled pavement and water leaking from it, 8th November :- [https://www.fixmystreet.com/report/6710440](https://www.fixmystreet.com/report/6710440)
-- Loose/rattling cover/ironwork problem, 8th November :- [https://www.fixmystreet.com/report/6710105](https://www.fixmystreet.com/report/6710105)
-- Mattress on side of the road, 8th November :- [https://www.fixmystreet.com/report/6709788](https://www.fixmystreet.com/report/6709788)
 
 <!-- fix_marker ends -->
