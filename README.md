@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Long and wide area down to previous level of the road surface, 11th November :- [https://www.fixmystreet.com/report/6716320](https://www.fixmystreet.com/report/6716320)
+- Pothole between junction 9-10 m5, 11th November :- [https://www.fixmystreet.com/report/6716319](https://www.fixmystreet.com/report/6716319)
+- 12 inch pothole, 10th November :- [https://www.fixmystreet.com/report/6715992](https://www.fixmystreet.com/report/6715992)
+- 18 inch pothole on back lane, 10th November :- [https://www.fixmystreet.com/report/6715757](https://www.fixmystreet.com/report/6715757)
 - Remnants of a car fire and possible melted tarmac, 10th November :- [https://www.fixmystreet.com/report/6715162](https://www.fixmystreet.com/report/6715162)
 - Pavement totally inaccessible for wheelchair, 10th November :- [https://www.fixmystreet.com/report/6714874](https://www.fixmystreet.com/report/6714874)
 - Continued Filthy Flooding, 10th November :- [https://www.fixmystreet.com/report/6714729](https://www.fixmystreet.com/report/6714729)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road surface erosion, 9th November :- [https://www.fixmystreet.com/report/6712770](https://www.fixmystreet.com/report/6712770)
 - Large sofa and other items, 9th November :- [https://www.fixmystreet.com/report/6712532](https://www.fixmystreet.com/report/6712532)
 - Broken and raised slab, 9th November :- [https://www.fixmystreet.com/report/6712387](https://www.fixmystreet.com/report/6712387)
-- Dangerous dead boughs in tree., 9th November :- [https://www.fixmystreet.com/report/6712253](https://www.fixmystreet.com/report/6712253)
-- Please clear grass cuttings from verge, 9th November :- [https://www.fixmystreet.com/report/6712172](https://www.fixmystreet.com/report/6712172)
-- Choked up drain grate, 9th November :- [https://www.fixmystreet.com/report/6712154](https://www.fixmystreet.com/report/6712154)
-- Flytipped mattresses, 9th November :- [https://www.fixmystreet.com/report/6712138](https://www.fixmystreet.com/report/6712138)
 
 <!-- fix_marker ends -->
