@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Very poor road condition, 12th November :- [https://www.fixmystreet.com/report/6720924](https://www.fixmystreet.com/report/6720924)
+- A46 roadworks, 12th November :- [https://www.fixmystreet.com/report/6720911](https://www.fixmystreet.com/report/6720911)
+- A Nitrous oxide bottle discarded on grass verge, 11th November :- [https://www.fixmystreet.com/report/6720426](https://www.fixmystreet.com/report/6720426)
+- Nitrous oxide bottles discarded in verge, 11th November :- [https://www.fixmystreet.com/report/6720422](https://www.fixmystreet.com/report/6720422)
 - Cycle lane markings faded completely, 11th November :- [https://www.fixmystreet.com/report/6719997](https://www.fixmystreet.com/report/6719997)
 - Hedgerow beginning to overgrow carriageway, 11th November :- [https://www.fixmystreet.com/report/6719921](https://www.fixmystreet.com/report/6719921)
 - Lots of accumulated litter, 11th November :- [https://www.fixmystreet.com/report/6719712](https://www.fixmystreet.com/report/6719712)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 5-10 potholes on B4079, on bend near junction witih A435, 11th November :- [https://www.fixmystreet.com/report/6718394](https://www.fixmystreet.com/report/6718394)
 - Tree is damaged problem, 11th November :- [https://www.fixmystreet.com/report/6718275](https://www.fixmystreet.com/report/6718275)
 - Loose/rattling cover/ironwork problem, 11th November :- [https://www.fixmystreet.com/report/6718080](https://www.fixmystreet.com/report/6718080)
-- Street light is permanently out problem, 11th November :- [https://www.fixmystreet.com/report/6717862](https://www.fixmystreet.com/report/6717862)
-- Signage ambiguous., 11th November :- [https://www.fixmystreet.com/report/6717605](https://www.fixmystreet.com/report/6717605)
-- Cars going through on green man, 11th November :- [https://www.fixmystreet.com/report/6716861](https://www.fixmystreet.com/report/6716861)
-- Long and wide area down to previous level of the road surface, 11th November :- [https://www.fixmystreet.com/report/6716320](https://www.fixmystreet.com/report/6716320)
 
 <!-- fix_marker ends -->
