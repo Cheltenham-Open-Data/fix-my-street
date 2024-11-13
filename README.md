@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- 3 glass panes missing in pavement skylight (?), 12th November :- [https://www.fixmystreet.com/report/6724556](https://www.fixmystreet.com/report/6724556)
+- Previous repair breaking down again., 12th November :- [https://www.fixmystreet.com/report/6724158](https://www.fixmystreet.com/report/6724158)
 - All 3 drains near junction of Glebe Rs and Prestbury Road are blocked, 12th November :- [https://www.fixmystreet.com/report/6724054](https://www.fixmystreet.com/report/6724054)
 - Pothole in pavement out the front of hotel chocolat. I was tipped out of my wheelchair, 12th November :- [https://www.fixmystreet.com/report/6723844](https://www.fixmystreet.com/report/6723844)
 - Traffic cones and barriers erected 10 days ago in the middle of a busy junction and left untouched, 12th November :- [https://www.fixmystreet.com/report/6723692](https://www.fixmystreet.com/report/6723692)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 12th November :- [https://www.fixmystreet.com/report/6721358](https://www.fixmystreet.com/report/6721358)
 - The 30 sign is old and discoloured, 12th November :- [https://www.fixmystreet.com/report/6721163](https://www.fixmystreet.com/report/6721163)
 - The 30 signs on Quat Goose Lane are discoloured and no longer visible, 12th November :- [https://www.fixmystreet.com/report/6721147](https://www.fixmystreet.com/report/6721147)
-- Very poor road condition, 12th November :- [https://www.fixmystreet.com/report/6720924](https://www.fixmystreet.com/report/6720924)
-- A46 roadworks, 12th November :- [https://www.fixmystreet.com/report/6720911](https://www.fixmystreet.com/report/6720911)
 
 <!-- fix_marker ends -->
