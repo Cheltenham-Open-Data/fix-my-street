@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Mud on road, 14th November :- [https://www.fixmystreet.com/report/6729136](https://www.fixmystreet.com/report/6729136)
+- The entire pavement from Pegasus Ct to the junction with Hatherley Court Road is dangerously patched and uneven, so surfaces are worn away., 14th November :- [https://www.fixmystreet.com/report/6729102](https://www.fixmystreet.com/report/6729102)
+- Hole, 14th November :- [https://www.fixmystreet.com/report/6729096](https://www.fixmystreet.com/report/6729096)
+- Barriers, no sign of work., 14th November :- [https://www.fixmystreet.com/report/6729089](https://www.fixmystreet.com/report/6729089)
+- Mini unlit roundabout in the Park at junction with St Stephen's Rd., 14th November :- [https://www.fixmystreet.com/report/6729079](https://www.fixmystreet.com/report/6729079)
+- Saplings thriving by light post, sign, bus stop. All have very deep roots and are more than a year old. They are growing and will become trees!, 14th November :- [https://www.fixmystreet.com/report/6729074](https://www.fixmystreet.com/report/6729074)
+- 8-10inch wide pothole, 13th November :- [https://www.fixmystreet.com/report/6728761](https://www.fixmystreet.com/report/6728761)
 - Street lights, 13th November :- [https://www.fixmystreet.com/report/6728076](https://www.fixmystreet.com/report/6728076)
 - Potholes both sides of the ford, 13th November :- [https://www.fixmystreet.com/report/6727876](https://www.fixmystreet.com/report/6727876)
 - Oversized tree within 5 metres of property, 13th November :- [https://www.fixmystreet.com/report/6727836](https://www.fixmystreet.com/report/6727836)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Uneven and broken slabs, 13th November :- [https://www.fixmystreet.com/report/6727219](https://www.fixmystreet.com/report/6727219)
 - TMC - Defects - Other FW6  Surface problem, 13th November :- [https://www.fixmystreet.com/report/6727251](https://www.fixmystreet.com/report/6727251)
 - TMC - Defects - Other FW6  Surface problem, 13th November :- [https://www.fixmystreet.com/report/6727252](https://www.fixmystreet.com/report/6727252)
-- Large and deep potholes in road, 13th November :- [https://www.fixmystreet.com/report/6727019](https://www.fixmystreet.com/report/6727019)
-- TMC - Defects - Footways Slabs problem, 13th November :- [https://www.fixmystreet.com/report/6727095](https://www.fixmystreet.com/report/6727095)
-- TMC - Defects - Footways Slabs problem, 13th November :- [https://www.fixmystreet.com/report/6727094](https://www.fixmystreet.com/report/6727094)
-- A pothole in road problem, 13th November :- [https://www.fixmystreet.com/report/6727087](https://www.fixmystreet.com/report/6727087)
-- No visibility to cycle and pedestrian path to come onto the road, 13th November :- [https://www.fixmystreet.com/report/6726900](https://www.fixmystreet.com/report/6726900)
-- A number of large rocks and boulders have been placed along the grass verge. There is no pavement and the rocks constitute a public hazard., 13th November :- [https://www.fixmystreet.com/report/6726853](https://www.fixmystreet.com/report/6726853)
-- TMC - Defects - Other FW6  Surface problem, 13th November :- [https://www.fixmystreet.com/report/6726750](https://www.fixmystreet.com/report/6726750)
 
 <!-- fix_marker ends -->
