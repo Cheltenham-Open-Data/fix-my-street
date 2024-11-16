@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bath dumped today, 16th November :- [https://www.fixmystreet.com/report/6751370](https://www.fixmystreet.com/report/6751370)
+- Rattling utility cover, 16th November :- [https://www.fixmystreet.com/report/6751256](https://www.fixmystreet.com/report/6751256)
+- Reinstatement not as per section 56, 16th November :- [https://www.fixmystreet.com/report/6751195](https://www.fixmystreet.com/report/6751195)
+- Crossing audible sound too loud/soft problem, 16th November :- [https://www.fixmystreet.com/report/6750979](https://www.fixmystreet.com/report/6750979)
+- The wooden deck of the footbridge has rotted and started to split., 16th November :- [https://www.fixmystreet.com/report/6750733](https://www.fixmystreet.com/report/6750733)
+- Damage to culvert approach wall and fence, 16th November :- [https://www.fixmystreet.com/report/6750372](https://www.fixmystreet.com/report/6750372)
+- Flytipping at Viewing Point, 16th November :- [https://www.fixmystreet.com/report/6750317](https://www.fixmystreet.com/report/6750317)
+- Road needs cleaning sweeper lorry, 16th November :- [https://www.fixmystreet.com/report/6750218](https://www.fixmystreet.com/report/6750218)
 - Pavement damaged, 15th November :- [https://www.fixmystreet.com/report/6749765](https://www.fixmystreet.com/report/6749765)
 - Large pothole next to Cricket Club Entrance, 15th November :- [https://www.fixmystreet.com/report/6749700](https://www.fixmystreet.com/report/6749700)
 - Give way markings have completely worn away, 15th November :- [https://www.fixmystreet.com/report/6749563](https://www.fixmystreet.com/report/6749563)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - All the tarmac has lifted between 24, 28 and 26 abbotswood Road dangerous and unsightley and at least 20 pot holes, 15th November :- [https://www.fixmystreet.com/report/6748643](https://www.fixmystreet.com/report/6748643)
 - TMC - Defects -other CW6 problem, 15th November :- [https://www.fixmystreet.com/report/6748001](https://www.fixmystreet.com/report/6748001)
 - Unlevel and broken paving slab., 15th November :- [https://www.fixmystreet.com/report/6747800](https://www.fixmystreet.com/report/6747800)
-- Dangerous raised paving slap (not the only one). Trip hazard and have tripped and fallen. If an elderly person was to do this they’d quite likely sustain a broken bone. This is not acceptable and the same issue has been reported previously!, 15th November :- [https://www.fixmystreet.com/report/6747590](https://www.fixmystreet.com/report/6747590)
-- TMC - Defects -CW6 Potholes  problem, 15th November :- [https://www.fixmystreet.com/report/6747726](https://www.fixmystreet.com/report/6747726)
-- TMC - Defects -CW6 Potholes  problem, 15th November :- [https://www.fixmystreet.com/report/6747727](https://www.fixmystreet.com/report/6747727)
-- TMC - Defects - Vegetation problem, 15th November :- [https://www.fixmystreet.com/report/6747725](https://www.fixmystreet.com/report/6747725)
-- TMC - Defects - Vegetation problem, 15th November :- [https://www.fixmystreet.com/report/6747541](https://www.fixmystreet.com/report/6747541)
-- Other damage to pavement i.e. cobbles, raised mound/surface problem, 15th November :- [https://www.fixmystreet.com/report/6747539](https://www.fixmystreet.com/report/6747539)
-- TMC - Defects -CW6 Potholes  problem, 15th November :- [https://www.fixmystreet.com/report/6747359](https://www.fixmystreet.com/report/6747359)
-- TMC - Defects - Other FW6  Surface problem, 15th November :- [https://www.fixmystreet.com/report/6747355](https://www.fixmystreet.com/report/6747355)
 
 <!-- fix_marker ends -->
