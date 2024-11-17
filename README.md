@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- General detritus and leaves in underpass, 16th November :- [https://www.fixmystreet.com/report/6751772](https://www.fixmystreet.com/report/6751772)
+- The manhole covers on the large ‘speed bump’ are very wobbly and make a loud noise every time a vehicle goes over it. Keeping my toddler awake at bedtime., 16th November :- [https://www.fixmystreet.com/report/6751735](https://www.fixmystreet.com/report/6751735)
+- Street lights does not work, 16th November :- [https://www.fixmystreet.com/report/6751706](https://www.fixmystreet.com/report/6751706)
+- 4 bags of rubble/hardcore left after work carried out to install electric car charging, 16th November :- [https://www.fixmystreet.com/report/6751647](https://www.fixmystreet.com/report/6751647)
 - Bath dumped today, 16th November :- [https://www.fixmystreet.com/report/6751370](https://www.fixmystreet.com/report/6751370)
 - Rattling utility cover, 16th November :- [https://www.fixmystreet.com/report/6751256](https://www.fixmystreet.com/report/6751256)
 - Reinstatement not as per section 56, 16th November :- [https://www.fixmystreet.com/report/6751195](https://www.fixmystreet.com/report/6751195)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Damaged road surface causing house vibrations and internal house damage from traffic, 15th November :- [https://www.fixmystreet.com/report/6749082](https://www.fixmystreet.com/report/6749082)
 - Graffiti on phone cabinet, 15th November :- [https://www.fixmystreet.com/report/6748880](https://www.fixmystreet.com/report/6748880)
 - Bed dumped in car park on Bushcombe Lane Woodmancote, 15th November :- [https://www.fixmystreet.com/report/6748798](https://www.fixmystreet.com/report/6748798)
-- The water running down north road west is getting worse., 15th November :- [https://www.fixmystreet.com/report/6748731](https://www.fixmystreet.com/report/6748731)
-- All the tarmac has lifted between 24, 28 and 26 abbotswood Road dangerous and unsightley and at least 20 pot holes, 15th November :- [https://www.fixmystreet.com/report/6748643](https://www.fixmystreet.com/report/6748643)
-- TMC - Defects -other CW6 problem, 15th November :- [https://www.fixmystreet.com/report/6748001](https://www.fixmystreet.com/report/6748001)
-- Unlevel and broken paving slab., 15th November :- [https://www.fixmystreet.com/report/6747800](https://www.fixmystreet.com/report/6747800)
 
 <!-- fix_marker ends -->
