@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooded Garagw, 17th November :- [https://www.fixmystreet.com/report/6754127](https://www.fixmystreet.com/report/6754127)
+- Kerbing dislodged, is now an obstruction, 17th November :- [https://www.fixmystreet.com/report/6753815](https://www.fixmystreet.com/report/6753815)
 - The audible sound for this crossing isn’t working, 17th November :- [https://www.fixmystreet.com/report/6753676](https://www.fixmystreet.com/report/6753676)
 - Iron works from overflowing drain some weeks ago just appears abandoned, 17th November :- [https://www.fixmystreet.com/report/6753493](https://www.fixmystreet.com/report/6753493)
 - PROW is blocked by locked gate and heavily overgrown with shrubbery, 17th November :- [https://www.fixmystreet.com/report/6753481](https://www.fixmystreet.com/report/6753481)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole on Pennsylvania Avenue, 17th November :- [https://www.fixmystreet.com/report/6752395](https://www.fixmystreet.com/report/6752395)
 - Flyposting, 17th November :- [https://www.fixmystreet.com/report/6752188](https://www.fixmystreet.com/report/6752188)
 - Multiple potholes/poorly patched bits of road which are dangerous enough to cause a cyclist to come off bike. Also, if try and get round them have to pull right into the middle of road with danger as a result from cars from behind. Potholes can't be seen at all in the dark!, 17th November :- [https://www.fixmystreet.com/report/6752183](https://www.fixmystreet.com/report/6752183)
-- Sink hole in road, 17th November :- [https://www.fixmystreet.com/report/6752176](https://www.fixmystreet.com/report/6752176)
-- Raised ironwork and sunken tarmac around it in middle of lane going South. Very dangerous as very narrow road at blind junction and cars swing out to avoid it, crossing the white line. Very dangerous junction anyway. Not just bad for cars but lethal for cyclists!, 17th November :- [https://www.fixmystreet.com/report/6752170](https://www.fixmystreet.com/report/6752170)
 
 <!-- fix_marker ends -->
