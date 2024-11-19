@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The street light end of Elmfield Road and all street lights in Elmfield Avenue are out. Very dangerous to elderly and all pedestrians. This is an ongoing issue and needs urgent attention please., 18th November :- [https://www.fixmystreet.com/report/6757797](https://www.fixmystreet.com/report/6757797)
 - Series of uneven paving slabs, 18th November :- [https://www.fixmystreet.com/report/6757528](https://www.fixmystreet.com/report/6757528)
 - Scaffolding Truck Lifted Slab by bollard now raised and trip hazard, 18th November :- [https://www.fixmystreet.com/report/6757059](https://www.fixmystreet.com/report/6757059)
 - TMC - Defects - Other FW6  Surface problem, 18th November :- [https://www.fixmystreet.com/report/6757173](https://www.fixmystreet.com/report/6757173)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Vegetation problem, 18th November :- [https://www.fixmystreet.com/report/6755938](https://www.fixmystreet.com/report/6755938)
 - Blocked road drains, 18th November :- [https://www.fixmystreet.com/report/6755684](https://www.fixmystreet.com/report/6755684)
 - Footbridge undermined by river, 18th November :- [https://www.fixmystreet.com/report/6755356](https://www.fixmystreet.com/report/6755356)
-- Tree is damaged problem, 18th November :- [https://www.fixmystreet.com/report/6755166](https://www.fixmystreet.com/report/6755166)
 
 <!-- fix_marker ends -->
