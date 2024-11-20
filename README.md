@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Awful road condition outside 187/185 Gloucester Road, 20th November :- [https://www.fixmystreet.com/report/6762097](https://www.fixmystreet.com/report/6762097)
+- Surface water, 19th November :- [https://www.fixmystreet.com/report/6761841](https://www.fixmystreet.com/report/6761841)
+- 3 way temporary lights -, 19th November :- [https://www.fixmystreet.com/report/6761822](https://www.fixmystreet.com/report/6761822)
+- Missing junction on signage, 19th November :- [https://www.fixmystreet.com/report/6761558](https://www.fixmystreet.com/report/6761558)
+- Abandoned road closed sign needs collecting and removing., 19th November :- [https://www.fixmystreet.com/report/6761487](https://www.fixmystreet.com/report/6761487)
 - Idiots parked on the junction and pavement., 19th November :- [https://www.fixmystreet.com/report/6761299](https://www.fixmystreet.com/report/6761299)
 - Bus stop lines are faded on pennine road, 19th November :- [https://www.fixmystreet.com/report/6761275](https://www.fixmystreet.com/report/6761275)
 - Manhole cover on Cyclepath Collapsing, 19th November :- [https://www.fixmystreet.com/report/6761127](https://www.fixmystreet.com/report/6761127)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole in centre of 'turn right' carriage way in centre of A40, 19th November :- [https://www.fixmystreet.com/report/6760144](https://www.fixmystreet.com/report/6760144)
 - No through road sign, 19th November :- [https://www.fixmystreet.com/report/6759989](https://www.fixmystreet.com/report/6759989)
 - Light sensor is not detecting vehicles problem, 19th November :- [https://www.fixmystreet.com/report/6759908](https://www.fixmystreet.com/report/6759908)
-- TMC - Defects -CW6 Potholes  problem, 19th November :- [https://www.fixmystreet.com/report/6759911](https://www.fixmystreet.com/report/6759911)
-- TMC - Defects - Kerbs and Channels problem, 19th November :- [https://www.fixmystreet.com/report/6759767](https://www.fixmystreet.com/report/6759767)
-- Highly Dangerous Pothole in left lane, 19th November :- [https://www.fixmystreet.com/report/6759734](https://www.fixmystreet.com/report/6759734)
-- Holes in the road near bus stop - getting progressively worse, 19th November :- [https://www.fixmystreet.com/report/6759679](https://www.fixmystreet.com/report/6759679)
-- TMC - Defects - Kerbs and Channels problem, 19th November :- [https://www.fixmystreet.com/report/6759762](https://www.fixmystreet.com/report/6759762)
 
 <!-- fix_marker ends -->
