@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lamp no5 still not working, 20th November :- [https://www.fixmystreet.com/report/6765428](https://www.fixmystreet.com/report/6765428)
 - The trees along this road are particularly big, 20th November :- [https://www.fixmystreet.com/report/6765239](https://www.fixmystreet.com/report/6765239)
 - Tree is leaning into the narrow road forcing drivers to swerve, 20th November :- [https://www.fixmystreet.com/report/6765152](https://www.fixmystreet.com/report/6765152)
 - Pot holes at junction of croft street, 20th November :- [https://www.fixmystreet.com/report/6764943](https://www.fixmystreet.com/report/6764943)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -other CW6 problem, 20th November :- [https://www.fixmystreet.com/report/6763710](https://www.fixmystreet.com/report/6763710)
 - TMC - Defects -other CW6 problem, 20th November :- [https://www.fixmystreet.com/report/6763709](https://www.fixmystreet.com/report/6763709)
 - TMC - Defects -other CW6 problem, 20th November :- [https://www.fixmystreet.com/report/6763706](https://www.fixmystreet.com/report/6763706)
-- TMC - Defects -other CW6 problem, 20th November :- [https://www.fixmystreet.com/report/6763705](https://www.fixmystreet.com/report/6763705)
 
 <!-- fix_marker ends -->
