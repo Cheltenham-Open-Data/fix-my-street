@@ -2,6 +2,16 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gully blocked, footpath flooded, 23rd November :- [https://www.fixmystreet.com/report/6774536](https://www.fixmystreet.com/report/6774536)
+- Dog fouling, 23rd November :- [https://www.fixmystreet.com/report/6774244](https://www.fixmystreet.com/report/6774244)
+- Bin not emptied, 23rd November :- [https://www.fixmystreet.com/report/6773977](https://www.fixmystreet.com/report/6773977)
+- Loose noisy drain manhole cover, 23rd November :- [https://www.fixmystreet.com/report/6773733](https://www.fixmystreet.com/report/6773733)
+- Tree down on Charlton Park Drive. Road not completely blocked - traffic can get around it., 23rd November :- [https://www.fixmystreet.com/report/6773431](https://www.fixmystreet.com/report/6773431)
+- Addition to previously reported issue, 23rd November :- [https://www.fixmystreet.com/report/6773384](https://www.fixmystreet.com/report/6773384)
+- All 4 drop kerbs are damaged and unusable by wheelchairs, 23rd November :- [https://www.fixmystreet.com/report/6773366](https://www.fixmystreet.com/report/6773366)
+- Worst road in the county award, 23rd November :- [https://www.fixmystreet.com/report/6773363](https://www.fixmystreet.com/report/6773363)
+- Terrible road, 23rd November :- [https://www.fixmystreet.com/report/6773361](https://www.fixmystreet.com/report/6773361)
+- Fix this road, 23rd November :- [https://www.fixmystreet.com/report/6773359](https://www.fixmystreet.com/report/6773359)
 - Blocked drain, 23rd November :- [https://www.fixmystreet.com/report/6773237](https://www.fixmystreet.com/report/6773237)
 - Pavement is in pieces, 23rd November :- [https://www.fixmystreet.com/report/6773228](https://www.fixmystreet.com/report/6773228)
 - Paving stones at the pedestrian access to the car park are broken, and yellow paint warning treatment has been removed. nt to, 22nd November :- [https://www.fixmystreet.com/report/6773066](https://www.fixmystreet.com/report/6773066)
@@ -12,15 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Yellow lines on Merestones Road worn out, 22nd November :- [https://www.fixmystreet.com/report/6772429](https://www.fixmystreet.com/report/6772429)
 - Overgrown trees forcing kerb stones into road in Kensington Ave. damage to cars occurring, 22nd November :- [https://www.fixmystreet.com/report/6772427](https://www.fixmystreet.com/report/6772427)
 - Bridge purposely damaged, 22nd November :- [https://www.fixmystreet.com/report/6772405](https://www.fixmystreet.com/report/6772405)
-- Dangerous trees Kensington Ave, 22nd November :- [https://www.fixmystreet.com/report/6772328](https://www.fixmystreet.com/report/6772328)
-- Contaminated water is leaking from old top site and entering i to ditches, 22nd November :- [https://www.fixmystreet.com/report/6772314](https://www.fixmystreet.com/report/6772314)
-- Blocked Drains in Kensington Ave, 22nd November :- [https://www.fixmystreet.com/report/6772308](https://www.fixmystreet.com/report/6772308)
-- Dangerous trees, need to be pollarded, 22nd November :- [https://www.fixmystreet.com/report/6772282](https://www.fixmystreet.com/report/6772282)
-- More KFC litter left in Arle Court underpass, 22nd November :- [https://www.fixmystreet.com/report/6772094](https://www.fixmystreet.com/report/6772094)
-- TMC - Defects -CW6 Potholes  problem, 22nd November :- [https://www.fixmystreet.com/report/6771758](https://www.fixmystreet.com/report/6771758)
-- TMC - Defects -CW6 Potholes  problem, 22nd November :- [https://www.fixmystreet.com/report/6771759](https://www.fixmystreet.com/report/6771759)
-- Noisy manhole cover rattling every time traffic drives over it, 22nd November :- [https://www.fixmystreet.com/report/6771655](https://www.fixmystreet.com/report/6771655)
-- 16" pothole in road, getting bigger daily, 22nd November :- [https://www.fixmystreet.com/report/6771639](https://www.fixmystreet.com/report/6771639)
-- Pedestrian crosding not working, 22nd November :- [https://www.fixmystreet.com/report/6771558](https://www.fixmystreet.com/report/6771558)
 
 <!-- fix_marker ends -->
