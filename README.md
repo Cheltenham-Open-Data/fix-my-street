@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Fallen tree blocking road, 24th November :- [https://www.fixmystreet.com/report/6775226](https://www.fixmystreet.com/report/6775226)
+- Slan in3 pieces on pavement, replaced as best as possible, 24th November :- [https://www.fixmystreet.com/report/6775181](https://www.fixmystreet.com/report/6775181)
+- Quite a lot potholes, 23rd November :- [https://www.fixmystreet.com/report/6774929](https://www.fixmystreet.com/report/6774929)
 - Gully blocked, footpath flooded, 23rd November :- [https://www.fixmystreet.com/report/6774536](https://www.fixmystreet.com/report/6774536)
 - Dog fouling, 23rd November :- [https://www.fixmystreet.com/report/6774244](https://www.fixmystreet.com/report/6774244)
 - Bin not emptied, 23rd November :- [https://www.fixmystreet.com/report/6773977](https://www.fixmystreet.com/report/6773977)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Not just one potholes, must be over 10??, 22nd November :- [https://www.fixmystreet.com/report/6772750](https://www.fixmystreet.com/report/6772750)
 - When turning left into Nine Elms Road from the direction of Elmbridge Court, 22nd November :- [https://www.fixmystreet.com/report/6772611](https://www.fixmystreet.com/report/6772611)
 - Rocking kerb stone, 22nd November :- [https://www.fixmystreet.com/report/6772434](https://www.fixmystreet.com/report/6772434)
-- Yellow lines on Merestones Road worn out, 22nd November :- [https://www.fixmystreet.com/report/6772429](https://www.fixmystreet.com/report/6772429)
-- Overgrown trees forcing kerb stones into road in Kensington Ave. damage to cars occurring, 22nd November :- [https://www.fixmystreet.com/report/6772427](https://www.fixmystreet.com/report/6772427)
-- Bridge purposely damaged, 22nd November :- [https://www.fixmystreet.com/report/6772405](https://www.fixmystreet.com/report/6772405)
 
 <!-- fix_marker ends -->
