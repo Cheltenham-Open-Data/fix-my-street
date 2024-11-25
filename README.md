@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Route 41 - tree down, 25th November :- [https://www.fixmystreet.com/report/6778973](https://www.fixmystreet.com/report/6778973)
+- Route 41 flooded, 25th November :- [https://www.fixmystreet.com/report/6778972](https://www.fixmystreet.com/report/6778972)
+- Street light not working in Farm Close, 25th November :- [https://www.fixmystreet.com/report/6778887](https://www.fixmystreet.com/report/6778887)
+- Street light not working, 24th November :- [https://www.fixmystreet.com/report/6778585](https://www.fixmystreet.com/report/6778585)
+- No tree has been replaced after the last one fell down, 24th November :- [https://www.fixmystreet.com/report/6778470](https://www.fixmystreet.com/report/6778470)
+- Street light out, 24th November :- [https://www.fixmystreet.com/report/6778380](https://www.fixmystreet.com/report/6778380)
+- Tree fallen in wind, 24th November :- [https://www.fixmystreet.com/report/6778305](https://www.fixmystreet.com/report/6778305)
+- Tree fallen and leaning on lampost, 24th November :- [https://www.fixmystreet.com/report/6778173](https://www.fixmystreet.com/report/6778173)
+- Every time there is rain water runs on Old Road from Sunset Lane and then creates a large pool at the top of Southam Lane outside the house named Springbank on Old Road, Southam. This has been reported before, but no action taken. When cold weather comes, this will form ice and the treacherous at a busy road junction,, 24th November :- [https://www.fixmystreet.com/report/6778078](https://www.fixmystreet.com/report/6778078)
 - Drains unable to cope with flash flooding, 24th November :- [https://www.fixmystreet.com/report/6777966](https://www.fixmystreet.com/report/6777966)
 - Large branch fallen o to garden path, 24th November :- [https://www.fixmystreet.com/report/6777673](https://www.fixmystreet.com/report/6777673)
 - A46 Main Road Shurdington Flooded next to Ham Brook, 24th November :- [https://www.fixmystreet.com/report/6777457](https://www.fixmystreet.com/report/6777457)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flood causing accidents, 24th November :- [https://www.fixmystreet.com/report/6776683](https://www.fixmystreet.com/report/6776683)
 - Tree fallen blocking the road just past the community centre, 24th November :- [https://www.fixmystreet.com/report/6776625](https://www.fixmystreet.com/report/6776625)
 - Tree has partially falled in Storm, 24th November :- [https://www.fixmystreet.com/report/6776564](https://www.fixmystreet.com/report/6776564)
-- Tree down behind 4 Mimosa Avenue, 24th November :- [https://www.fixmystreet.com/report/6776533](https://www.fixmystreet.com/report/6776533)
-- A tree has blown over blocking a path, 24th November :- [https://www.fixmystreet.com/report/6776510](https://www.fixmystreet.com/report/6776510)
-- Blocked gulleys, 24th November :- [https://www.fixmystreet.com/report/6776498](https://www.fixmystreet.com/report/6776498)
-- Fallen tree by lych gate, 24th November :- [https://www.fixmystreet.com/report/6776466](https://www.fixmystreet.com/report/6776466)
-- Noisey manhole cover over sewer, 24th November :- [https://www.fixmystreet.com/report/6776440](https://www.fixmystreet.com/report/6776440)
-- Fallen ash tree blocking the road, 24th November :- [https://www.fixmystreet.com/report/6776409](https://www.fixmystreet.com/report/6776409)
-- Street Cabinet Gafiiti, 24th November :- [https://www.fixmystreet.com/report/6776408](https://www.fixmystreet.com/report/6776408)
-- Street Cabinet Graffiti, 24th November :- [https://www.fixmystreet.com/report/6776386](https://www.fixmystreet.com/report/6776386)
-- Part fallen tree blocking the pavement near to Henley Bank High School, 24th November :- [https://www.fixmystreet.com/report/6776380](https://www.fixmystreet.com/report/6776380)
 
 <!-- fix_marker ends -->
