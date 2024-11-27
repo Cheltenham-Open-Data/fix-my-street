@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic light keeps going red, 26th November :- [https://www.fixmystreet.com/report/6788846](https://www.fixmystreet.com/report/6788846)
+- Temporary lights, 26th November :- [https://www.fixmystreet.com/report/6788806](https://www.fixmystreet.com/report/6788806)
+- Street light not working, 26th November :- [https://www.fixmystreet.com/report/6788661](https://www.fixmystreet.com/report/6788661)
+- 20cms pothole on Naunton Park Road, an 'ankle breaker', 26th November :- [https://www.fixmystreet.com/report/6788479](https://www.fixmystreet.com/report/6788479)
+- Vehicle parked on end of road obstructing view and inhibiting emergency vehicle access. It has been parked there for 5 days., 26th November :- [https://www.fixmystreet.com/report/6788372](https://www.fixmystreet.com/report/6788372)
 - Oxstalls lane closed, 26th November :- [https://www.fixmystreet.com/report/6788311](https://www.fixmystreet.com/report/6788311)
 - FLytipping in Horsbere Brook, 26th November :- [https://www.fixmystreet.com/report/6788135](https://www.fixmystreet.com/report/6788135)
 - Various forgotten road signs & portals after road works have finished, 26th November :- [https://www.fixmystreet.com/report/6788017](https://www.fixmystreet.com/report/6788017)
@@ -17,10 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other problem, 26th November :- [https://www.fixmystreet.com/report/6787724](https://www.fixmystreet.com/report/6787724)
 - Very large potholes at Whitefriars car park and health centre entrance., 26th November :- [https://www.fixmystreet.com/report/6787610](https://www.fixmystreet.com/report/6787610)
 - TMC - Defects - Vegetation problem, 26th November :- [https://www.fixmystreet.com/report/6787570](https://www.fixmystreet.com/report/6787570)
-- TMC - Defects - Road Markings problem, 26th November :- [https://www.fixmystreet.com/report/6787396](https://www.fixmystreet.com/report/6787396)
-- Lots of rubbished dumped from a residential refuse bin onto the pavement, 26th November :- [https://www.fixmystreet.com/report/6787168](https://www.fixmystreet.com/report/6787168)
-- TMC - Defects - Vegetation problem, 26th November :- [https://www.fixmystreet.com/report/6787202](https://www.fixmystreet.com/report/6787202)
-- A pothole in road problem, 26th November :- [https://www.fixmystreet.com/report/6787197](https://www.fixmystreet.com/report/6787197)
-- TMC - Defects - Vegetation problem, 26th November :- [https://www.fixmystreet.com/report/6787200](https://www.fixmystreet.com/report/6787200)
 
 <!-- fix_marker ends -->
