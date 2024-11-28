@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain and run off blockage, 27th November :- [https://www.fixmystreet.com/report/6794187](https://www.fixmystreet.com/report/6794187)
+- Two potholes close together, just after railway bridge, northbound, 27th November :- [https://www.fixmystreet.com/report/6794180](https://www.fixmystreet.com/report/6794180)
+- Roadworks on Innsworth Lane, 27th November :- [https://www.fixmystreet.com/report/6793765](https://www.fixmystreet.com/report/6793765)
+- Temp lights on Innsworth Lane, 27th November :- [https://www.fixmystreet.com/report/6793758](https://www.fixmystreet.com/report/6793758)
+- Running water, 27th November :- [https://www.fixmystreet.com/report/6793699](https://www.fixmystreet.com/report/6793699)
+- Area is subsiding, 27th November :- [https://www.fixmystreet.com/report/6793489](https://www.fixmystreet.com/report/6793489)
+- Pothole AGAIN, 27th November :- [https://www.fixmystreet.com/report/6793441](https://www.fixmystreet.com/report/6793441)
+- Damaged road surface, 27th November :- [https://www.fixmystreet.com/report/6793431](https://www.fixmystreet.com/report/6793431)
 - Leaves and soil covering footpath and cycle path making it dangerous and slippery, 27th November :- [https://www.fixmystreet.com/report/6793199](https://www.fixmystreet.com/report/6793199)
 - Pothole on left side of the road as you enter the junction, 27th November :- [https://www.fixmystreet.com/report/6792899](https://www.fixmystreet.com/report/6792899)
 - Road needs sweeping, 27th November :- [https://www.fixmystreet.com/report/6792802](https://www.fixmystreet.com/report/6792802)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Big branch on verge, 27th November :- [https://www.fixmystreet.com/report/6792297](https://www.fixmystreet.com/report/6792297)
 - TMC - Defects -CW6 Potholes  problem, 27th November :- [https://www.fixmystreet.com/report/6792558](https://www.fixmystreet.com/report/6792558)
 - Manhole cover has a crack in it, 27th November :- [https://www.fixmystreet.com/report/6792209](https://www.fixmystreet.com/report/6792209)
-- Bag of rubbish with sharp metal spikes, 27th November :- [https://www.fixmystreet.com/report/6792195](https://www.fixmystreet.com/report/6792195)
-- Street needs cleaning of leaves. The parking lines are not visible, it is incredibly slippy and become a thick mulch and with any rain all these leaves will go into the drains potentially blocking them., 27th November :- [https://www.fixmystreet.com/report/6792145](https://www.fixmystreet.com/report/6792145)
-- Drain cover is sunken at lights - there was a cone there presumably to fix it but its now been there for over a month. The cone is now on side of road with a roadworks sign leaning up nowhere near the actual problem. Drain full of leaves., 27th November :- [https://www.fixmystreet.com/report/6792121](https://www.fixmystreet.com/report/6792121)
-- Mud on road from building site, 27th November :- [https://www.fixmystreet.com/report/6791959](https://www.fixmystreet.com/report/6791959)
-- TMC - Defects -CW10 Potholes problem, 27th November :- [https://www.fixmystreet.com/report/6791912](https://www.fixmystreet.com/report/6791912)
-- Series of dropped service drains across Station Road, 27th November :- [https://www.fixmystreet.com/report/6791391](https://www.fixmystreet.com/report/6791391)
-- Double drain gully is simply not working. It does not appear to be a question of leaves and believe gully was pumped very recently. Think this is a known problem as we have seen more than one work crews but clearly there is a fundamental problem., 27th November :- [https://www.fixmystreet.com/report/6791246](https://www.fixmystreet.com/report/6791246)
-- Most of the road has failed, 27th November :- [https://www.fixmystreet.com/report/6790944](https://www.fixmystreet.com/report/6790944)
 
 <!-- fix_marker ends -->
