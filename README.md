@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Bike rack outside Tennyson stores is damaged, 1st December :- [https://www.fixmystreet.com/report/6804834](https://www.fixmystreet.com/report/6804834)
+- Footpath and bridleway by ponds becoming impassable due to deep mud surface, 30th November :- [https://www.fixmystreet.com/report/6804497](https://www.fixmystreet.com/report/6804497)
+- Used by motorcycles - no signage that it is a restricted byway, 30th November :- [https://www.fixmystreet.com/report/6804482](https://www.fixmystreet.com/report/6804482)
+- Overgrown vegetation meaning gate impassable on horseback, 30th November :- [https://www.fixmystreet.com/report/6804475](https://www.fixmystreet.com/report/6804475)
 - 2 tonne backs left with rubbish and soil, 30th November :- [https://www.fixmystreet.com/report/6804274](https://www.fixmystreet.com/report/6804274)
 - Long pothole at edge of road at entrance to Moat Cottage., 30th November :- [https://www.fixmystreet.com/report/6804202](https://www.fixmystreet.com/report/6804202)
 - Pothole next to recent repair, 30th November :- [https://www.fixmystreet.com/report/6804177](https://www.fixmystreet.com/report/6804177)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Fly tipping, 30th November :- [https://www.fixmystreet.com/report/6802877](https://www.fixmystreet.com/report/6802877)
 - Road sweeping needed after storm, 30th November :- [https://www.fixmystreet.com/report/6802824](https://www.fixmystreet.com/report/6802824)
 - Water leak across road, 30th November :- [https://www.fixmystreet.com/report/6802407](https://www.fixmystreet.com/report/6802407)
-- Roadworks you undertook this year, 30th November :- [https://www.fixmystreet.com/report/6802384](https://www.fixmystreet.com/report/6802384)
-- Bridge is damaged/missing problem, 29th November :- [https://www.fixmystreet.com/report/6801522](https://www.fixmystreet.com/report/6801522)
-- Dip in path needs cleaning and levelling tarmac. See photo., 29th November :- [https://www.fixmystreet.com/report/6801236](https://www.fixmystreet.com/report/6801236)
-- Repeat report: Path needs levelling tamac, 29th November :- [https://www.fixmystreet.com/report/6801219](https://www.fixmystreet.com/report/6801219)
 
 <!-- fix_marker ends -->
