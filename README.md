@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Step free access at bus stop no longer, 2nd December :- [https://www.fixmystreet.com/report/6807341](https://www.fixmystreet.com/report/6807341)
+- Large potholes all the way down lane, 2nd December :- [https://www.fixmystreet.com/report/6807255](https://www.fixmystreet.com/report/6807255)
+- Drains completely blocked, 1st December :- [https://www.fixmystreet.com/report/6807179](https://www.fixmystreet.com/report/6807179)
+- Missing sign, 1st December :- [https://www.fixmystreet.com/report/6806912](https://www.fixmystreet.com/report/6806912)
+- The jutting out pedestrian crossing kerb not seen in dark, 1st December :- [https://www.fixmystreet.com/report/6806891](https://www.fixmystreet.com/report/6806891)
+- Dog dirt still present, 1st December :- [https://www.fixmystreet.com/report/6806812](https://www.fixmystreet.com/report/6806812)
+- Dog dirt and possibly a dead frog?!, 1st December :- [https://www.fixmystreet.com/report/6806794](https://www.fixmystreet.com/report/6806794)
 - Pothole - re-opened, 1st December :- [https://www.fixmystreet.com/report/6806656](https://www.fixmystreet.com/report/6806656)
 - Pot hole outside the entrance to Hazeldene Langley road, 1st December :- [https://www.fixmystreet.com/report/6806599](https://www.fixmystreet.com/report/6806599)
 - Standing water, 1st December :- [https://www.fixmystreet.com/report/6806542](https://www.fixmystreet.com/report/6806542)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A sinkhole occurred in March 2024 and is still not repaired., 1st December :- [https://www.fixmystreet.com/report/6805659](https://www.fixmystreet.com/report/6805659)
 - Large section of rd edge damaged as approach cross roads from southam, 1st December :- [https://www.fixmystreet.com/report/6805658](https://www.fixmystreet.com/report/6805658)
 - Pothole down road, 1st December :- [https://www.fixmystreet.com/report/6805648](https://www.fixmystreet.com/report/6805648)
-- Several potholes along first part of Robert’s Road, 1st December :- [https://www.fixmystreet.com/report/6805277](https://www.fixmystreet.com/report/6805277)
-- Secerely rotten decking on wooden footbridge, 1st December :- [https://www.fixmystreet.com/report/6805184](https://www.fixmystreet.com/report/6805184)
-- Dirty sign and poor lighting, 1st December :- [https://www.fixmystreet.com/report/6804973](https://www.fixmystreet.com/report/6804973)
-- Land drain under road is blocked, 1st December :- [https://www.fixmystreet.com/report/6804927](https://www.fixmystreet.com/report/6804927)
-- Bike rack outside Tennyson stores is damaged, 1st December :- [https://www.fixmystreet.com/report/6804834](https://www.fixmystreet.com/report/6804834)
-- Footpath and bridleway by ponds becoming impassable due to deep mud surface, 30th November :- [https://www.fixmystreet.com/report/6804497](https://www.fixmystreet.com/report/6804497)
-- Used by motorcycles - no signage that it is a restricted byway, 30th November :- [https://www.fixmystreet.com/report/6804482](https://www.fixmystreet.com/report/6804482)
 
 <!-- fix_marker ends -->
