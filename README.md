@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain at back of 3 Greenwood drive is blocked, 3rd December :- [https://www.fixmystreet.com/report/6816508](https://www.fixmystreet.com/report/6816508)
+- Drain is filled with silt about 6-8 inches from grate, 3rd December :- [https://www.fixmystreet.com/report/6816499](https://www.fixmystreet.com/report/6816499)
+- Crashed car blocking pavement, 3rd December :- [https://www.fixmystreet.com/report/6816312](https://www.fixmystreet.com/report/6816312)
+- Drain blocked, 3rd December :- [https://www.fixmystreet.com/report/6816123](https://www.fixmystreet.com/report/6816123)
+- Middle of road by traffic lights, 3rd December :- [https://www.fixmystreet.com/report/6815947](https://www.fixmystreet.com/report/6815947)
 - Road still partially flooded, 3rd December :- [https://www.fixmystreet.com/report/6815645](https://www.fixmystreet.com/report/6815645)
 - Pothole with jagged edges on Pilley Lane, 3rd December :- [https://www.fixmystreet.com/report/6815568](https://www.fixmystreet.com/report/6815568)
 - Tree canopy remains below height of bin and delivery vehicles. Tree branches still regularly falling into road/footpath - risk of injury to pedestrians and damage to vehicles/3rd party property. The tree needs to be maintained to control canopy extents and remove dead branches. Land owner is unknown but trees overhanging carriageway need attention.., 3rd December :- [https://www.fixmystreet.com/report/6815551](https://www.fixmystreet.com/report/6815551)
@@ -16,11 +21,6 @@ Fix my street items within 10km of Cheltenham centre
 - Numerous potholes here, 3rd December :- [https://www.fixmystreet.com/report/6814646](https://www.fixmystreet.com/report/6814646)
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [https://www.fixmystreet.com/report/6814673](https://www.fixmystreet.com/report/6814673)
 - TMC - Defects - Vegetation problem, 3rd December :- [https://www.fixmystreet.com/report/6814487](https://www.fixmystreet.com/report/6814487)
-- TMC - Defects - Footways Slabs problem, 3rd December :- [https://www.fixmystreet.com/report/6814485](https://www.fixmystreet.com/report/6814485)
-- TMC - Defects - Footways Slabs problem, 3rd December :- [https://www.fixmystreet.com/report/6814484](https://www.fixmystreet.com/report/6814484)
 - TMC - Defects - Footways Slabs problem, 3rd December :- [https://www.fixmystreet.com/report/6814486](https://www.fixmystreet.com/report/6814486)
-- TMC - Defects -CW10 Potholes problem, 3rd December :- [https://www.fixmystreet.com/report/6814483](https://www.fixmystreet.com/report/6814483)
-- TMC - Defects -CW10 Potholes problem, 3rd December :- [https://www.fixmystreet.com/report/6814482](https://www.fixmystreet.com/report/6814482)
-- Large pothole on left hand side of road as heading up to top of lane, 3rd December :- [https://www.fixmystreet.com/report/6814352](https://www.fixmystreet.com/report/6814352)
 
 <!-- fix_marker ends -->
