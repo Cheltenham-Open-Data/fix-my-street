@@ -2,6 +2,11 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Cracked and mildly hazardous paving slab outside 23 Bloomsbury St, 5th December :- [https://www.fixmystreet.com/report/6825463](https://www.fixmystreet.com/report/6825463)
+- Pothole, 5th December :- [https://www.fixmystreet.com/report/6825339](https://www.fixmystreet.com/report/6825339)
+- Bridge is still flooding easily. Build up of mud. 4 hours rain today and it is was backing up. For those of us living on the other side of the lane this is the only way out. There are times when it’s not possible to get kids to school., 5th December :- [https://www.fixmystreet.com/report/6825265](https://www.fixmystreet.com/report/6825265)
+- Large potholes appearing again. Hard to see due to water on road., 5th December :- [https://www.fixmystreet.com/report/6825239](https://www.fixmystreet.com/report/6825239)
+- Large unavoidable immortal pothole, 5th December :- [https://www.fixmystreet.com/report/6825225](https://www.fixmystreet.com/report/6825225)
 - Yet another flytip, 5th December :- [https://www.fixmystreet.com/report/6824639](https://www.fixmystreet.com/report/6824639)
 - Road is flooded during and after rain, 5th December :- [https://www.fixmystreet.com/report/6824524](https://www.fixmystreet.com/report/6824524)
 - The drainge blocked and causing flooding, 5th December :- [https://www.fixmystreet.com/report/6824090](https://www.fixmystreet.com/report/6824090)
@@ -16,11 +21,6 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW6 Potholes  problem, 5th December :- [https://www.fixmystreet.com/report/6823628](https://www.fixmystreet.com/report/6823628)
 - Overflow drain is completely blocked, 5th December :- [https://www.fixmystreet.com/report/6823531](https://www.fixmystreet.com/report/6823531)
 - Flytipped waste in bags and items, 5th December :- [https://www.fixmystreet.com/report/6823508](https://www.fixmystreet.com/report/6823508)
-- TMC - Defects - Footways Slabs problem, 5th December :- [https://www.fixmystreet.com/report/6823466](https://www.fixmystreet.com/report/6823466)
-- TMC - Defects - Footways Slabs problem, 5th December :- [https://www.fixmystreet.com/report/6823465](https://www.fixmystreet.com/report/6823465)
-- TMC - Defects - Other FW6  Surface problem, 5th December :- [https://www.fixmystreet.com/report/6823462](https://www.fixmystreet.com/report/6823462)
-- TMC - Defects - Footways Slabs problem, 5th December :- [https://www.fixmystreet.com/report/6823467](https://www.fixmystreet.com/report/6823467)
 - TMC - Defects - Other FW6  Surface problem, 5th December :- [https://www.fixmystreet.com/report/6823463](https://www.fixmystreet.com/report/6823463)
-- TMC - Defects - Kerbs and Channels problem, 5th December :- [https://www.fixmystreet.com/report/6823469](https://www.fixmystreet.com/report/6823469)
 
 <!-- fix_marker ends -->
