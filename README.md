@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light not working, 8th December :- [https://www.fixmystreet.com/report/6833347](https://www.fixmystreet.com/report/6833347)
+- Neighbours leaving rubbish from bins that have not been collected, 8th December :- [https://www.fixmystreet.com/report/6833270](https://www.fixmystreet.com/report/6833270)
+- Debris from roof damage on the pavement directly below and some in the road., 8th December :- [https://www.fixmystreet.com/report/6833269](https://www.fixmystreet.com/report/6833269)
+- No drain where water pools, 7th December :- [https://www.fixmystreet.com/report/6832909](https://www.fixmystreet.com/report/6832909)
 - Blocked drain, 7th December :- [https://www.fixmystreet.com/report/6832333](https://www.fixmystreet.com/report/6832333)
 - Gl51 6pn, 7th December :- [https://www.fixmystreet.com/report/6832064](https://www.fixmystreet.com/report/6832064)
 - Dog poo on pavement, 7th December :- [https://www.fixmystreet.com/report/6831619](https://www.fixmystreet.com/report/6831619)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large branch hanging in rosf, 7th December :- [https://www.fixmystreet.com/report/6829723](https://www.fixmystreet.com/report/6829723)
 - Lights staying on green no time at all , lets 2/3 cars through, 6th December :- [https://www.fixmystreet.com/report/6829664](https://www.fixmystreet.com/report/6829664)
 - Recent repair already half disintegrated, 6th December :- [https://www.fixmystreet.com/report/6829617](https://www.fixmystreet.com/report/6829617)
-- Pothole in the regular spot (been 'fixed' a number of times), 6th December :- [https://www.fixmystreet.com/report/6829403](https://www.fixmystreet.com/report/6829403)
-- Huge potholes & road surface washed away due to a constant water leak under the road., 6th December :- [https://www.fixmystreet.com/report/6829269](https://www.fixmystreet.com/report/6829269)
-- Road was re surfaced but due to damaged pavement drains in road was left in complete., 6th December :- [https://www.fixmystreet.com/report/6828999](https://www.fixmystreet.com/report/6828999)
-- Parked car, 6th December :- [https://www.fixmystreet.com/report/6828960](https://www.fixmystreet.com/report/6828960)
 
 <!-- fix_marker ends -->
