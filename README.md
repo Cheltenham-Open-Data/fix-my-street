@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Double manhole cover outside 146 rattling, 8th December :- [https://www.fixmystreet.com/report/6836105](https://www.fixmystreet.com/report/6836105)
+- Dangerous Tree- branches landing on cars and pedestrians, 8th December :- [https://www.fixmystreet.com/report/6835966](https://www.fixmystreet.com/report/6835966)
+- Bed frame on pavement, 8th December :- [https://www.fixmystreet.com/report/6835954](https://www.fixmystreet.com/report/6835954)
+- Flytipped furniture on pavement, 8th December :- [https://www.fixmystreet.com/report/6835943](https://www.fixmystreet.com/report/6835943)
 - Tree down blocking footpath at end of gotherington lane where it meets station road, 8th December :- [https://www.fixmystreet.com/report/6835627](https://www.fixmystreet.com/report/6835627)
 - Tree damaged by wind, 8th December :- [https://www.fixmystreet.com/report/6835605](https://www.fixmystreet.com/report/6835605)
 - Greese on floor making pavements dangerous, 8th December :- [https://www.fixmystreet.com/report/6835497](https://www.fixmystreet.com/report/6835497)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Tree down, 8th December :- [https://www.fixmystreet.com/report/6833425](https://www.fixmystreet.com/report/6833425)
 - Street light not working, 8th December :- [https://www.fixmystreet.com/report/6833347](https://www.fixmystreet.com/report/6833347)
 - Neighbours leaving rubbish from bins that have not been collected, 8th December :- [https://www.fixmystreet.com/report/6833270](https://www.fixmystreet.com/report/6833270)
-- Debris from roof damage on the pavement directly below and some in the road., 8th December :- [https://www.fixmystreet.com/report/6833269](https://www.fixmystreet.com/report/6833269)
-- No drain where water pools, 7th December :- [https://www.fixmystreet.com/report/6832909](https://www.fixmystreet.com/report/6832909)
-- Blocked drain, 7th December :- [https://www.fixmystreet.com/report/6832333](https://www.fixmystreet.com/report/6832333)
-- Gl51 6pn, 7th December :- [https://www.fixmystreet.com/report/6832064](https://www.fixmystreet.com/report/6832064)
 
 <!-- fix_marker ends -->
