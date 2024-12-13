@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- This was an existing repair that has come away, 13th December :- [https://www.fixmystreet.com/report/6856488](https://www.fixmystreet.com/report/6856488)
+- Continued noise from ironwork, 13th December :- [https://www.fixmystreet.com/report/6856486](https://www.fixmystreet.com/report/6856486)
+- Temporary crossing lights too near to Temporary roundabout, 12th December :- [https://www.fixmystreet.com/report/6856311](https://www.fixmystreet.com/report/6856311)
+- Faded road markings, 12th December :- [https://www.fixmystreet.com/report/6856291](https://www.fixmystreet.com/report/6856291)
+- Flood blocking properties, 12th December :- [https://www.fixmystreet.com/report/6856235](https://www.fixmystreet.com/report/6856235)
+- Light box not illuminating, 12th December :- [https://www.fixmystreet.com/report/6856229](https://www.fixmystreet.com/report/6856229)
+- Poor road markings and limited visibility in all the roadworks., 12th December :- [https://www.fixmystreet.com/report/6856203](https://www.fixmystreet.com/report/6856203)
+- Pothole on the roundabout that has the petrol station on it, 12th December :- [https://www.fixmystreet.com/report/6855910](https://www.fixmystreet.com/report/6855910)
+- Large dip in road inside lane northbound, 12th December :- [https://www.fixmystreet.com/report/6855887](https://www.fixmystreet.com/report/6855887)
 - 3 street lights not working, 12th December :- [https://www.fixmystreet.com/report/6855682](https://www.fixmystreet.com/report/6855682)
 - Cones and temporary signage - still required, 12th December :- [https://www.fixmystreet.com/report/6855642](https://www.fixmystreet.com/report/6855642)
 - Poor ‘repair’ a few weeks ago has been washed away and problem remains, 12th December :- [https://www.fixmystreet.com/report/6854998](https://www.fixmystreet.com/report/6854998)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [https://www.fixmystreet.com/report/6855065](https://www.fixmystreet.com/report/6855065)
 - Series of potholes in Dog Lane, 12th December :- [https://www.fixmystreet.com/report/6854868](https://www.fixmystreet.com/report/6854868)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [https://www.fixmystreet.com/report/6854895](https://www.fixmystreet.com/report/6854895)
-- TMC - Defects -CW6 Potholes  problem, 12th December :- [https://www.fixmystreet.com/report/6854893](https://www.fixmystreet.com/report/6854893)
-- TMC - Defects -other CW6 problem, 12th December :- [https://www.fixmystreet.com/report/6854887](https://www.fixmystreet.com/report/6854887)
-- TMC - Defects -other CW6 problem, 12th December :- [https://www.fixmystreet.com/report/6854886](https://www.fixmystreet.com/report/6854886)
-- TMC - Defects - Covers, Gratings & Frames problem, 12th December :- [https://www.fixmystreet.com/report/6854885](https://www.fixmystreet.com/report/6854885)
-- TMC - Defects -CW6 Potholes  problem, 12th December :- [https://www.fixmystreet.com/report/6854884](https://www.fixmystreet.com/report/6854884)
-- TMC - Defects -other CW6 problem, 12th December :- [https://www.fixmystreet.com/report/6854891](https://www.fixmystreet.com/report/6854891)
-- TMC - Defects -other CW6 problem, 12th December :- [https://www.fixmystreet.com/report/6854889](https://www.fixmystreet.com/report/6854889)
-- TMC - Defects -other CW6 problem, 12th December :- [https://www.fixmystreet.com/report/6854890](https://www.fixmystreet.com/report/6854890)
-- TMC - Defects -CW6 Potholes  problem, 12th December :- [https://www.fixmystreet.com/report/6854883](https://www.fixmystreet.com/report/6854883)
 
 <!-- fix_marker ends -->
