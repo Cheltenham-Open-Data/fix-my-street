@@ -2,6 +2,17 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooding across road, 15th December :- [https://www.fixmystreet.com/report/6864672](https://www.fixmystreet.com/report/6864672)
+- Nasty pothole on inner carriageway just after lay-by, 15th December :- [https://www.fixmystreet.com/report/6864667](https://www.fixmystreet.com/report/6864667)
+- Intermittent failure, 15th December :- [https://www.fixmystreet.com/report/6864382](https://www.fixmystreet.com/report/6864382)
+- Bin overflowing in play area, 15th December :- [https://www.fixmystreet.com/report/6863393](https://www.fixmystreet.com/report/6863393)
+- Bins full and not fit for purpose, 15th December :- [https://www.fixmystreet.com/report/6863378](https://www.fixmystreet.com/report/6863378)
+- Large amount of plastic stuck in hedge, 15th December :- [https://www.fixmystreet.com/report/6863316](https://www.fixmystreet.com/report/6863316)
+- Double manhole cover, 15th December :- [https://www.fixmystreet.com/report/6863144](https://www.fixmystreet.com/report/6863144)
+- Fallen Tree on Cycle Route in Unsafe Position., 15th December :- [https://www.fixmystreet.com/report/6863051](https://www.fixmystreet.com/report/6863051)
+- Broken concrete manhole, 15th December :- [https://www.fixmystreet.com/report/6862911](https://www.fixmystreet.com/report/6862911)
+- There are multiple potholes on the street and is dangerous for walking and driving, 15th December :- [https://www.fixmystreet.com/report/6862896](https://www.fixmystreet.com/report/6862896)
+- Bin outside wok express and Tesco, 15th December :- [https://www.fixmystreet.com/report/6862843](https://www.fixmystreet.com/report/6862843)
 - Traffic lights keep going red, 14th December :- [https://www.fixmystreet.com/report/6862379](https://www.fixmystreet.com/report/6862379)
 - Pothole and loose Tactile Slab, 14th December :- [https://www.fixmystreet.com/report/6862283](https://www.fixmystreet.com/report/6862283)
 - Car battery fly tipped, 14th December :- [https://www.fixmystreet.com/report/6862028](https://www.fixmystreet.com/report/6862028)
@@ -11,16 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A damaged repair, 13th December :- [https://www.fixmystreet.com/report/6860073](https://www.fixmystreet.com/report/6860073)
 - Raised paving slab outside Mandarin Stone, 13th December :- [https://www.fixmystreet.com/report/6860029](https://www.fixmystreet.com/report/6860029)
 - 16 inch pothole middle of road., 13th December :- [https://www.fixmystreet.com/report/6859939](https://www.fixmystreet.com/report/6859939)
-- The kerb is loose and rocking., 13th December :- [https://www.fixmystreet.com/report/6859835](https://www.fixmystreet.com/report/6859835)
-- Large pothole by junction, 13th December :- [https://www.fixmystreet.com/report/6859742](https://www.fixmystreet.com/report/6859742)
-- Long stretch of road outside the st marks community centre, 13th December :- [https://www.fixmystreet.com/report/6859668](https://www.fixmystreet.com/report/6859668)
-- On the road nr the few shops.opp the train station, 13th December :- [https://www.fixmystreet.com/report/6859659](https://www.fixmystreet.com/report/6859659)
-- On the road nr the few shops.opp the train station, 13th December :- [https://www.fixmystreet.com/report/6859658](https://www.fixmystreet.com/report/6859658)
-- Trench across the road is getting deeper, 13th December :- [https://www.fixmystreet.com/report/6859653](https://www.fixmystreet.com/report/6859653)
-- Light sensor is not detecting vehicles problem, 13th December :- [https://www.fixmystreet.com/report/6859529](https://www.fixmystreet.com/report/6859529)
-- Tree is damaged problem, 13th December :- [https://www.fixmystreet.com/report/6859528](https://www.fixmystreet.com/report/6859528)
-- Large deep pothole close to speedbump near Coronation flats at bottom of Beaufort Rd, 13th December :- [https://www.fixmystreet.com/report/6859230](https://www.fixmystreet.com/report/6859230)
-- Stop sign where Churchill Drive joins Oak Ave is leaning over & bollard has disappeared, 13th December :- [https://www.fixmystreet.com/report/6859212](https://www.fixmystreet.com/report/6859212)
-- Blocked drain by construction traffic, 13th December :- [https://www.fixmystreet.com/report/6859192](https://www.fixmystreet.com/report/6859192)
 
 <!-- fix_marker ends -->
