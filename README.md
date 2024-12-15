@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Traffic lights keep going red, 14th December :- [https://www.fixmystreet.com/report/6862379](https://www.fixmystreet.com/report/6862379)
+- Pothole and loose Tactile Slab, 14th December :- [https://www.fixmystreet.com/report/6862283](https://www.fixmystreet.com/report/6862283)
 - Car battery fly tipped, 14th December :- [https://www.fixmystreet.com/report/6862028](https://www.fixmystreet.com/report/6862028)
 - Another report on an ongoing problem, 14th December :- [https://www.fixmystreet.com/report/6860782](https://www.fixmystreet.com/report/6860782)
 - Large part of tree felled, 14th December :- [https://www.fixmystreet.com/report/6860759](https://www.fixmystreet.com/report/6860759)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large deep pothole close to speedbump near Coronation flats at bottom of Beaufort Rd, 13th December :- [https://www.fixmystreet.com/report/6859230](https://www.fixmystreet.com/report/6859230)
 - Stop sign where Churchill Drive joins Oak Ave is leaning over & bollard has disappeared, 13th December :- [https://www.fixmystreet.com/report/6859212](https://www.fixmystreet.com/report/6859212)
 - Blocked drain by construction traffic, 13th December :- [https://www.fixmystreet.com/report/6859192](https://www.fixmystreet.com/report/6859192)
-- TMC - Defects -CW6 Potholes  problem, 13th December :- [https://www.fixmystreet.com/report/6859261](https://www.fixmystreet.com/report/6859261)
-- TMC - Defects -CW6 Potholes  problem, 13th December :- [https://www.fixmystreet.com/report/6859258](https://www.fixmystreet.com/report/6859258)
 
 <!-- fix_marker ends -->
