@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Abandon trailer ouside flats .meaning vehicles park on grass verges opposite . damage to verge mud on path. slip hazard to elderly residents, 19th December :- [https://www.fixmystreet.com/report/6883258](https://www.fixmystreet.com/report/6883258)
+- Traffic lights facing wrong way Albion Street, 19th December :- [https://www.fixmystreet.com/report/6883004](https://www.fixmystreet.com/report/6883004)
+- Burnt out car, 19th December :- [https://www.fixmystreet.com/report/6883003](https://www.fixmystreet.com/report/6883003)
+- 'Parton Road' street sign has been completely smashed and damaged by a recent car accident, 19th December :- [https://www.fixmystreet.com/report/6882824](https://www.fixmystreet.com/report/6882824)
 - Unclear signage for temporary roundabout, 19th December :- [https://www.fixmystreet.com/report/6882532](https://www.fixmystreet.com/report/6882532)
 - 300mm x 400mm x70 deep hole, 19th December :- [https://www.fixmystreet.com/report/6882473](https://www.fixmystreet.com/report/6882473)
 - Tree slowly toppling onto path, 19th December :- [https://www.fixmystreet.com/report/6882327](https://www.fixmystreet.com/report/6882327)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 3 large potholes, 19th December :- [https://www.fixmystreet.com/report/6881700](https://www.fixmystreet.com/report/6881700)
 - 2 large potholes near to railway bridge, only repaired a few weeks ago & tarmac washed away !, 19th December :- [https://www.fixmystreet.com/report/6881696](https://www.fixmystreet.com/report/6881696)
 - Sink hole not, 19th December :- [https://www.fixmystreet.com/report/6881678](https://www.fixmystreet.com/report/6881678)
-- The same old set of potholes that have been there for months and joined up to make a trench, 19th December :- [https://www.fixmystreet.com/report/6881628](https://www.fixmystreet.com/report/6881628)
-- Crossing audible sound too loud/soft problem, 19th December :- [https://www.fixmystreet.com/report/6881668](https://www.fixmystreet.com/report/6881668)
-- Three people have fallen in the past fortnight, one leading to a severe head injury, 19th December :- [https://www.fixmystreet.com/report/6881585](https://www.fixmystreet.com/report/6881585)
-- C]], 19th December :- [https://www.fixmystreet.com/report/6881544](https://www.fixmystreet.com/report/6881544)
 
 <!-- fix_marker ends -->
