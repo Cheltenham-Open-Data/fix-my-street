@@ -2,6 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street Light Out (again), 21st December :- [https://www.fixmystreet.com/report/6889598](https://www.fixmystreet.com/report/6889598)
+- Broken pedestrian crossing sensor causing needless red lights on Benhall sliproad, 21st December :- [https://www.fixmystreet.com/report/6889546](https://www.fixmystreet.com/report/6889546)
+- There may be no problem but tree looks to be leaning quite a bit so I thought it might be worth someone checking it!, 21st December :- [https://www.fixmystreet.com/report/6889436](https://www.fixmystreet.com/report/6889436)
+- Street Light not working, 21st December :- [https://www.fixmystreet.com/report/6889351](https://www.fixmystreet.com/report/6889351)
+- Two storm/surface water drains at the roadside in lower Naunton Lane are blocked with tree/leaf debris. This area has been subjected to 2 insurance claim losses in the recent past,, 21st December :- [https://www.fixmystreet.com/report/6889350](https://www.fixmystreet.com/report/6889350)
+- Several potholes in edge of road., 21st December :- [https://www.fixmystreet.com/report/6889322](https://www.fixmystreet.com/report/6889322)
 - Footpath impassable, 21st December :- [https://www.fixmystreet.com/report/6889213](https://www.fixmystreet.com/report/6889213)
 - 3 roadside drains appeared blocked in the area outside 15 Porchester Road. Leaves from trees by Wotton brook have caused blockages previously, gutters are rarely cleaned and perpetuate problem., 21st December :- [https://www.fixmystreet.com/report/6889139](https://www.fixmystreet.com/report/6889139)
 - Broken glass in park area, 21st December :- [https://www.fixmystreet.com/report/6889134](https://www.fixmystreet.com/report/6889134)
@@ -16,11 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped items, 21st December :- [https://www.fixmystreet.com/report/6888350](https://www.fixmystreet.com/report/6888350)
 - Flytipped furniture, 21st December :- [https://www.fixmystreet.com/report/6888344](https://www.fixmystreet.com/report/6888344)
 - Abandoned trolley, 21st December :- [https://www.fixmystreet.com/report/6888334](https://www.fixmystreet.com/report/6888334)
-- Pavement bollard has broken away from pavement, 21st December :- [https://www.fixmystreet.com/report/6888320](https://www.fixmystreet.com/report/6888320)
-- Broken footpath item, 21st December :- [https://www.fixmystreet.com/report/6888231](https://www.fixmystreet.com/report/6888231)
-- Flytipped Furniture, 21st December :- [https://www.fixmystreet.com/report/6888188](https://www.fixmystreet.com/report/6888188)
-- Rubbish mounting by footpath, 21st December :- [https://www.fixmystreet.com/report/6888041](https://www.fixmystreet.com/report/6888041)
-- Flytipped Furniture, 21st December :- [https://www.fixmystreet.com/report/6887942](https://www.fixmystreet.com/report/6887942)
-- Road sign for traffic lights both supporting uprights are corroded the leg nearest footpath is extremely corroded, 21st December :- [https://www.fixmystreet.com/report/6887914](https://www.fixmystreet.com/report/6887914)
 
 <!-- fix_marker ends -->
