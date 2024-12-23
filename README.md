@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street Light not working on Parnall Close, 23rd December :- [https://www.fixmystreet.com/report/6891797](https://www.fixmystreet.com/report/6891797)
+- Gully blocked with gravel, leaves etc, 22nd December :- [https://www.fixmystreet.com/report/6891780](https://www.fixmystreet.com/report/6891780)
+- Muddy Alleyway next to School, 22nd December :- [https://www.fixmystreet.com/report/6891333](https://www.fixmystreet.com/report/6891333)
+- 2 street lights permanently out on path from Asda, 22nd December :- [https://www.fixmystreet.com/report/6891316](https://www.fixmystreet.com/report/6891316)
 - Multiple potholes outside 12 Keswick Road, 22nd December :- [https://www.fixmystreet.com/report/6891263](https://www.fixmystreet.com/report/6891263)
 - Bin needs emptying, 22nd December :- [https://www.fixmystreet.com/report/6890965](https://www.fixmystreet.com/report/6890965)
 - Street light out in 5 prince regent avenue also other lights out in street, 22nd December :- [https://www.fixmystreet.com/report/6890876](https://www.fixmystreet.com/report/6890876)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Road and Pavement flooding, 22nd December :- [https://www.fixmystreet.com/report/6889864](https://www.fixmystreet.com/report/6889864)
 - Road and pavement potholes, 22nd December :- [https://www.fixmystreet.com/report/6889790](https://www.fixmystreet.com/report/6889790)
 - Potholes, 22nd December :- [https://www.fixmystreet.com/report/6889788](https://www.fixmystreet.com/report/6889788)
-- Blocked drain, 22nd December :- [https://www.fixmystreet.com/report/6889772](https://www.fixmystreet.com/report/6889772)
-- Street Light Out (again), 21st December :- [https://www.fixmystreet.com/report/6889598](https://www.fixmystreet.com/report/6889598)
-- Broken pedestrian crossing sensor causing needless red lights on Benhall sliproad, 21st December :- [https://www.fixmystreet.com/report/6889546](https://www.fixmystreet.com/report/6889546)
-- There may be no problem but tree looks to be leaning quite a bit so I thought it might be worth someone checking it!, 21st December :- [https://www.fixmystreet.com/report/6889436](https://www.fixmystreet.com/report/6889436)
 
 <!-- fix_marker ends -->
