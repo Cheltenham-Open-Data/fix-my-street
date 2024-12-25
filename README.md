@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Large pot hole on brooklyn road, 25th December :- [https://www.fixmystreet.com/report/6897780](https://www.fixmystreet.com/report/6897780)
 - Tree split badly next to pathway/road., 24th December :- [https://www.fixmystreet.com/report/6897296](https://www.fixmystreet.com/report/6897296)
 - Graffiti on Pittville Pump Room column, 24th December :- [https://www.fixmystreet.com/report/6897137](https://www.fixmystreet.com/report/6897137)
 - TMC - Defects -CW6 Potholes  problem, 24th December :- [https://www.fixmystreet.com/report/6896722](https://www.fixmystreet.com/report/6896722)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other problem, 24th December :- [https://www.fixmystreet.com/report/6896354](https://www.fixmystreet.com/report/6896354)
 - TMC - Defects -other CW6 problem, 24th December :- [https://www.fixmystreet.com/report/6896353](https://www.fixmystreet.com/report/6896353)
 - Dangerous footpath drop kerbs, 24th December :- [https://www.fixmystreet.com/report/6896239](https://www.fixmystreet.com/report/6896239)
-- Street light permanently not working, 24th December :- [https://www.fixmystreet.com/report/6896181](https://www.fixmystreet.com/report/6896181)
 
 <!-- fix_marker ends -->
