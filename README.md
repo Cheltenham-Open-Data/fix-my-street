@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dead roe deer on outside edge of east bound A40, 28th December :- [https://www.fixmystreet.com/report/6905684](https://www.fixmystreet.com/report/6905684)
+- Road issues, 28th December :- [https://www.fixmystreet.com/report/6905675](https://www.fixmystreet.com/report/6905675)
+- Very large pothole, caused flat tyre., 28th December :- [https://www.fixmystreet.com/report/6905526](https://www.fixmystreet.com/report/6905526)
 - From bafford approach all the way to the national speed limit going up the hill. Cirencester road is in an appalling state. Continuous surface imperfections, bodged previous repairs. It needs fully resurfacing. Utter embarrassment p, 28th December :- [https://www.fixmystreet.com/report/6905199](https://www.fixmystreet.com/report/6905199)
 - Hanging metal sign on railway bridge above the road, 28th December :- [https://www.fixmystreet.com/report/6905062](https://www.fixmystreet.com/report/6905062)
 - Dead fox and a deer. They've been there for a couple of weeks!, 28th December :- [https://www.fixmystreet.com/report/6904946](https://www.fixmystreet.com/report/6904946)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Blocked Drain, 28th December :- [https://www.fixmystreet.com/report/6904221](https://www.fixmystreet.com/report/6904221)
 - Blocked drain, 28th December :- [https://www.fixmystreet.com/report/6904203](https://www.fixmystreet.com/report/6904203)
 - Dumped rubbish outside 8 St Paul’s north, 28th December :- [https://www.fixmystreet.com/report/6904100](https://www.fixmystreet.com/report/6904100)
-- Rubbish drumped outside 20 St Paul’s north, 28th December :- [https://www.fixmystreet.com/report/6904075](https://www.fixmystreet.com/report/6904075)
-- Smashed recycling bins need reemoving, 28th December :- [https://www.fixmystreet.com/report/6904060](https://www.fixmystreet.com/report/6904060)
-- Rubbish and cigarette ends outside 29/31 St Paul’s North, 28th December :- [https://www.fixmystreet.com/report/6904033](https://www.fixmystreet.com/report/6904033)
 
 <!-- fix_marker ends -->
