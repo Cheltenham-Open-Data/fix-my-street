@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Uncollected red pedestrian access signs left by contractor, 29th December :- [https://www.fixmystreet.com/report/6908155](https://www.fixmystreet.com/report/6908155)
+- Recycling plastic bottles etc all along the kerb by bookers, 29th December :- [https://www.fixmystreet.com/report/6908144](https://www.fixmystreet.com/report/6908144)
+- Potentially loose or damaged manhole cover makes loud noise every time a vehicle passes over it. Noise happens twice with every passing vehicle, once due to its front wheels and once due to rear., 29th December :- [https://www.fixmystreet.com/report/6908140](https://www.fixmystreet.com/report/6908140)
+- One of the covers has sunk and is rattling as people driver over, 29th December :- [https://www.fixmystreet.com/report/6907909](https://www.fixmystreet.com/report/6907909)
+- Pavement obstructed by left behind road barriers and sand bags, 29th December :- [https://www.fixmystreet.com/report/6907850](https://www.fixmystreet.com/report/6907850)
+- Prow inaccessible due to flooding/lack of maintenance, 29th December :- [https://www.fixmystreet.com/report/6907723](https://www.fixmystreet.com/report/6907723)
+- Fly tipped rubbish, 29th December :- [https://www.fixmystreet.com/report/6907348](https://www.fixmystreet.com/report/6907348)
+- Pavement issues, 29th December :- [https://www.fixmystreet.com/report/6906981](https://www.fixmystreet.com/report/6906981)
+- Foothpath obstructed with thick undergrowth & metal object, 29th December :- [https://www.fixmystreet.com/report/6906884](https://www.fixmystreet.com/report/6906884)
+- Footpath sign posted from road but start of route obstructed, 29th December :- [https://www.fixmystreet.com/report/6906857](https://www.fixmystreet.com/report/6906857)
+- Significant ablation and two deeper potholes, 29th December :- [https://www.fixmystreet.com/report/6906735](https://www.fixmystreet.com/report/6906735)
+- Overflowing bin, people using public bin for household waste, 29th December :- [https://www.fixmystreet.com/report/6906604](https://www.fixmystreet.com/report/6906604)
 - Dead roe deer on outside edge of east bound A40, 28th December :- [https://www.fixmystreet.com/report/6905684](https://www.fixmystreet.com/report/6905684)
 - Road issues, 28th December :- [https://www.fixmystreet.com/report/6905675](https://www.fixmystreet.com/report/6905675)
 - Very large pothole, caused flat tyre., 28th December :- [https://www.fixmystreet.com/report/6905526](https://www.fixmystreet.com/report/6905526)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Dead fox and a deer. They've been there for a couple of weeks!, 28th December :- [https://www.fixmystreet.com/report/6904946](https://www.fixmystreet.com/report/6904946)
 - Noisy manhole cover, been steadily getting worse for months. Was fixed temporarily a few years ago and again when the road was re-surfaced, but problem has returned. Sounds like gun fire and can be continuous during busy periods. The buses going by every 10mins is like a bomb going off. Making our lives a misery, please help., 28th December :- [https://www.fixmystreet.com/report/6904877](https://www.fixmystreet.com/report/6904877)
 - Dumped old fish tank, 28th December :- [https://www.fixmystreet.com/report/6904613](https://www.fixmystreet.com/report/6904613)
-- Broken repair from 2 weeks ago, 28th December :- [https://www.fixmystreet.com/report/6904608](https://www.fixmystreet.com/report/6904608)
-- Large pothole opposite entrance to drive., 28th December :- [https://www.fixmystreet.com/report/6904547](https://www.fixmystreet.com/report/6904547)
-- Pothole, 28th December :- [https://www.fixmystreet.com/report/6904538](https://www.fixmystreet.com/report/6904538)
-- Pothole, 28th December :- [https://www.fixmystreet.com/report/6904535](https://www.fixmystreet.com/report/6904535)
-- Pothole, 28th December :- [https://www.fixmystreet.com/report/6904529](https://www.fixmystreet.com/report/6904529)
-- Pothole, 28th December :- [https://www.fixmystreet.com/report/6904524](https://www.fixmystreet.com/report/6904524)
-- Bins Rubbish Bags & Cage, 28th December :- [https://www.fixmystreet.com/report/6904318](https://www.fixmystreet.com/report/6904318)
-- Burgage Stores, 28th December :- [https://www.fixmystreet.com/report/6904253](https://www.fixmystreet.com/report/6904253)
-- Blocked drain by entrance to old Idsal Drive Car Park, 28th December :- [https://www.fixmystreet.com/report/6904235](https://www.fixmystreet.com/report/6904235)
-- Blocked Drain, 28th December :- [https://www.fixmystreet.com/report/6904221](https://www.fixmystreet.com/report/6904221)
-- Blocked drain, 28th December :- [https://www.fixmystreet.com/report/6904203](https://www.fixmystreet.com/report/6904203)
-- Dumped rubbish outside 8 St Paul’s north, 28th December :- [https://www.fixmystreet.com/report/6904100](https://www.fixmystreet.com/report/6904100)
 
 <!-- fix_marker ends -->
