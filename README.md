@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- All of Hobby Close paving is a health & safety hazard; full of pot holes and uneven/ destroyed surfaces., 30th December :- [https://www.fixmystreet.com/report/6909030](https://www.fixmystreet.com/report/6909030)
+- Very deep pothole, previously filled in, 29th December :- [https://www.fixmystreet.com/report/6908426](https://www.fixmystreet.com/report/6908426)
+- Very deep pothole, previously filled in, 29th December :- [https://www.fixmystreet.com/report/6908425](https://www.fixmystreet.com/report/6908425)
 - Uncollected red pedestrian access signs left by contractor, 29th December :- [https://www.fixmystreet.com/report/6908155](https://www.fixmystreet.com/report/6908155)
 - Recycling plastic bottles etc all along the kerb by bookers, 29th December :- [https://www.fixmystreet.com/report/6908144](https://www.fixmystreet.com/report/6908144)
 - Potentially loose or damaged manhole cover makes loud noise every time a vehicle passes over it. Noise happens twice with every passing vehicle, once due to its front wheels and once due to rear., 29th December :- [https://www.fixmystreet.com/report/6908140](https://www.fixmystreet.com/report/6908140)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Very large pothole, caused flat tyre., 28th December :- [https://www.fixmystreet.com/report/6905526](https://www.fixmystreet.com/report/6905526)
 - From bafford approach all the way to the national speed limit going up the hill. Cirencester road is in an appalling state. Continuous surface imperfections, bodged previous repairs. It needs fully resurfacing. Utter embarrassment p, 28th December :- [https://www.fixmystreet.com/report/6905199](https://www.fixmystreet.com/report/6905199)
 - Hanging metal sign on railway bridge above the road, 28th December :- [https://www.fixmystreet.com/report/6905062](https://www.fixmystreet.com/report/6905062)
-- Dead fox and a deer. They've been there for a couple of weeks!, 28th December :- [https://www.fixmystreet.com/report/6904946](https://www.fixmystreet.com/report/6904946)
-- Noisy manhole cover, been steadily getting worse for months. Was fixed temporarily a few years ago and again when the road was re-surfaced, but problem has returned. Sounds like gun fire and can be continuous during busy periods. The buses going by every 10mins is like a bomb going off. Making our lives a misery, please help., 28th December :- [https://www.fixmystreet.com/report/6904877](https://www.fixmystreet.com/report/6904877)
-- Dumped old fish tank, 28th December :- [https://www.fixmystreet.com/report/6904613](https://www.fixmystreet.com/report/6904613)
 
 <!-- fix_marker ends -->
