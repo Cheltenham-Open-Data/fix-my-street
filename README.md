@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Protected post box graffiti, 31st December :- [https://www.fixmystreet.com/report/6916713](https://www.fixmystreet.com/report/6916713)
+- Pothole in middle of road, 31st December :- [https://www.fixmystreet.com/report/6916613](https://www.fixmystreet.com/report/6916613)
 - Graffiti on road sign, 31st December :- [https://www.fixmystreet.com/report/6916357](https://www.fixmystreet.com/report/6916357)
 - More fly tipping, 31st December :- [https://www.fixmystreet.com/report/6916300](https://www.fixmystreet.com/report/6916300)
 - Tree is damaged problem, 31st December :- [https://www.fixmystreet.com/report/6915878](https://www.fixmystreet.com/report/6915878)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -other CW6 problem, 31st December :- [https://www.fixmystreet.com/report/6913798](https://www.fixmystreet.com/report/6913798)
 - Broken and missing swings, 30th December :- [https://www.fixmystreet.com/report/6912533](https://www.fixmystreet.com/report/6912533)
 - Pot hole in middle of the road that’s hard to avoid as cars are parked on the side of the road so when you pass you have to swerve past to avoid hole, 30th December :- [https://www.fixmystreet.com/report/6912201](https://www.fixmystreet.com/report/6912201)
-- Dead fox, 30th December :- [https://www.fixmystreet.com/report/6912137](https://www.fixmystreet.com/report/6912137)
-- Electrified fence, 30th December :- [https://www.fixmystreet.com/report/6911948](https://www.fixmystreet.com/report/6911948)
 
 <!-- fix_marker ends -->
