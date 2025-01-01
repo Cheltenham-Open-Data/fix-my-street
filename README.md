@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Iron work exposed in the road, 1st January :- [https://www.fixmystreet.com/report/6918647](https://www.fixmystreet.com/report/6918647)
+- Road is covered in shallow, wide potholes, 1st January :- [https://www.fixmystreet.com/report/6917672](https://www.fixmystreet.com/report/6917672)
+- Obstruction caused by wall/building problem, 1st January :- [https://www.fixmystreet.com/report/6917609](https://www.fixmystreet.com/report/6917609)
+- Tree fallen and blocking pavement, 1st January :- [https://www.fixmystreet.com/report/6917217](https://www.fixmystreet.com/report/6917217)
 - Protected post box graffiti, 31st December :- [https://www.fixmystreet.com/report/6916713](https://www.fixmystreet.com/report/6916713)
 - Pothole in middle of road, 31st December :- [https://www.fixmystreet.com/report/6916613](https://www.fixmystreet.com/report/6916613)
 - Graffiti on road sign, 31st December :- [https://www.fixmystreet.com/report/6916357](https://www.fixmystreet.com/report/6916357)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped bedding and mattress, 31st December :- [https://www.fixmystreet.com/report/6914651](https://www.fixmystreet.com/report/6914651)
 - Pothole surrounding manhole cover, 31st December :- [https://www.fixmystreet.com/report/6914382](https://www.fixmystreet.com/report/6914382)
 - Street light is permanently out problem, 31st December :- [https://www.fixmystreet.com/report/6914106](https://www.fixmystreet.com/report/6914106)
-- Tarmac collapsing around a drain/manhole cover, 31st December :- [https://www.fixmystreet.com/report/6913919](https://www.fixmystreet.com/report/6913919)
-- TMC - Defects -other CW6 problem, 31st December :- [https://www.fixmystreet.com/report/6913798](https://www.fixmystreet.com/report/6913798)
-- Broken and missing swings, 30th December :- [https://www.fixmystreet.com/report/6912533](https://www.fixmystreet.com/report/6912533)
-- Pot hole in middle of the road that’s hard to avoid as cars are parked on the side of the road so when you pass you have to swerve past to avoid hole, 30th December :- [https://www.fixmystreet.com/report/6912201](https://www.fixmystreet.com/report/6912201)
 
 <!-- fix_marker ends -->
