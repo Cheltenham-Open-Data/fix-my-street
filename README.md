@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Tree fallen., 2nd January :- [https://www.fixmystreet.com/report/6919464](https://www.fixmystreet.com/report/6919464)
 - Iron work exposed in the road, 1st January :- [https://www.fixmystreet.com/report/6918647](https://www.fixmystreet.com/report/6918647)
 - Road is covered in shallow, wide potholes, 1st January :- [https://www.fixmystreet.com/report/6917672](https://www.fixmystreet.com/report/6917672)
 - Obstruction caused by wall/building problem, 1st January :- [https://www.fixmystreet.com/report/6917609](https://www.fixmystreet.com/report/6917609)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Light sensor is not detecting vehicles problem, 31st December :- [https://www.fixmystreet.com/report/6914883](https://www.fixmystreet.com/report/6914883)
 - Flytipped bedding and mattress, 31st December :- [https://www.fixmystreet.com/report/6914651](https://www.fixmystreet.com/report/6914651)
 - Pothole surrounding manhole cover, 31st December :- [https://www.fixmystreet.com/report/6914382](https://www.fixmystreet.com/report/6914382)
-- Street light is permanently out problem, 31st December :- [https://www.fixmystreet.com/report/6914106](https://www.fixmystreet.com/report/6914106)
 
 <!-- fix_marker ends -->
