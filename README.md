@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The road surface in the dip is breaking down again, 4th January :- [https://www.fixmystreet.com/report/6931396](https://www.fixmystreet.com/report/6931396)
+- Large pothole rising up the hill towards the houses at the top, 4th January :- [https://www.fixmystreet.com/report/6931387](https://www.fixmystreet.com/report/6931387)
+- A hole has appeared in the footpath it could be linked to the verge sinking., 4th January :- [https://www.fixmystreet.com/report/6931328](https://www.fixmystreet.com/report/6931328)
+- We moved to We’ll Place in October and find that the rotting leaf fall and overflowing drains have never been attended to. Particularly outside the entrance to Lancaster Court, 4th January :- [https://www.fixmystreet.com/report/6931278](https://www.fixmystreet.com/report/6931278)
+- Footpath obstructed intentionally, 4th January :- [https://www.fixmystreet.com/report/6930653](https://www.fixmystreet.com/report/6930653)
+- Potholes scattered along whole street, 4th January :- [https://www.fixmystreet.com/report/6930343](https://www.fixmystreet.com/report/6930343)
+- Three pothole on Montpellier retreat, 4th January :- [https://www.fixmystreet.com/report/6929534](https://www.fixmystreet.com/report/6929534)
+- A tree on Highways land has fallen onto 5 Clarence Square and blocked the pavement, 4th January :- [https://www.fixmystreet.com/report/6929198](https://www.fixmystreet.com/report/6929198)
+- Pothole im road. Surface damage, 4th January :- [https://www.fixmystreet.com/report/6928930](https://www.fixmystreet.com/report/6928930)
 - Street light on hedgerow close is not working, 3rd January :- [https://www.fixmystreet.com/report/6928156](https://www.fixmystreet.com/report/6928156)
 - Rubbish and fire extinguisher behind bin, 3rd January :- [https://www.fixmystreet.com/report/6928142](https://www.fixmystreet.com/report/6928142)
 - Number 2 street light in Pecked Lane is not working., 3rd January :- [https://www.fixmystreet.com/report/6928140](https://www.fixmystreet.com/report/6928140)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Footpath off gotherington lane leading to playing fields, 3rd January :- [https://www.fixmystreet.com/report/6927735](https://www.fixmystreet.com/report/6927735)
 - Crossing audible sound too loud/soft problem, 3rd January :- [https://www.fixmystreet.com/report/6927675](https://www.fixmystreet.com/report/6927675)
 - Broken tarmacadam surface from snowshill drive thru' stoke road, 3rd January :- [https://www.fixmystreet.com/report/6927468](https://www.fixmystreet.com/report/6927468)
-- Large branch fallen into pavement, 3rd January :- [https://www.fixmystreet.com/report/6927329](https://www.fixmystreet.com/report/6927329)
-- Trip hazard hole in path, 3rd January :- [https://www.fixmystreet.com/report/6927295](https://www.fixmystreet.com/report/6927295)
-- TMC - Defects - Vegetation problem, 3rd January :- [https://www.fixmystreet.com/report/6927310](https://www.fixmystreet.com/report/6927310)
-- TMC - Defects - Vegetation problem, 3rd January :- [https://www.fixmystreet.com/report/6927307](https://www.fixmystreet.com/report/6927307)
-- Graffiti on column worse, 3rd January :- [https://www.fixmystreet.com/report/6927266](https://www.fixmystreet.com/report/6927266)
-- TMC - Defects -CW6 Potholes  problem, 3rd January :- [https://www.fixmystreet.com/report/6927304](https://www.fixmystreet.com/report/6927304)
-- Roadwork furniture blocking pavement, 3rd January :- [https://www.fixmystreet.com/report/6927130](https://www.fixmystreet.com/report/6927130)
-- TMC - Defects -CW6 Potholes  problem, 3rd January :- [https://www.fixmystreet.com/report/6927147](https://www.fixmystreet.com/report/6927147)
-- The drain is blocked problem, 3rd January :- [https://www.fixmystreet.com/report/6927144](https://www.fixmystreet.com/report/6927144)
 
 <!-- fix_marker ends -->
