@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- The entrance to the car park is dangerous - if private land, should the licence to operate be revoked?, 4th January :- [https://www.fixmystreet.com/report/6932053](https://www.fixmystreet.com/report/6932053)
+- Drain needs unblocking, 4th January :- [https://www.fixmystreet.com/report/6932049](https://www.fixmystreet.com/report/6932049)
+- Non permit parking, 4th January :- [https://www.fixmystreet.com/report/6931730](https://www.fixmystreet.com/report/6931730)
 - The road surface in the dip is breaking down again, 4th January :- [https://www.fixmystreet.com/report/6931396](https://www.fixmystreet.com/report/6931396)
 - Large pothole rising up the hill towards the houses at the top, 4th January :- [https://www.fixmystreet.com/report/6931387](https://www.fixmystreet.com/report/6931387)
 - A hole has appeared in the footpath it could be linked to the verge sinking., 4th January :- [https://www.fixmystreet.com/report/6931328](https://www.fixmystreet.com/report/6931328)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Water running down Collum End Rise, 3rd January :- [https://www.fixmystreet.com/report/6928018](https://www.fixmystreet.com/report/6928018)
 - Outside nos 45 & 47 Snowshill Drive, 3rd January :- [https://www.fixmystreet.com/report/6927857](https://www.fixmystreet.com/report/6927857)
 - Multiple gully drains blocked with debris, 3rd January :- [https://www.fixmystreet.com/report/6927782](https://www.fixmystreet.com/report/6927782)
-- Footpath off gotherington lane leading to playing fields, 3rd January :- [https://www.fixmystreet.com/report/6927735](https://www.fixmystreet.com/report/6927735)
-- Crossing audible sound too loud/soft problem, 3rd January :- [https://www.fixmystreet.com/report/6927675](https://www.fixmystreet.com/report/6927675)
-- Broken tarmacadam surface from snowshill drive thru' stoke road, 3rd January :- [https://www.fixmystreet.com/report/6927468](https://www.fixmystreet.com/report/6927468)
 
 <!-- fix_marker ends -->
