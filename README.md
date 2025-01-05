@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Dropped Ironwork & Holes, 5th January :- [https://www.fixmystreet.com/report/6934316](https://www.fixmystreet.com/report/6934316)
+- The Patchwork Repairs have Failed - Again!, 5th January :- [https://www.fixmystreet.com/report/6934282](https://www.fixmystreet.com/report/6934282)
+- Water pools at pedestrian crossing because drain is not at low ground, 5th January :- [https://www.fixmystreet.com/report/6933778](https://www.fixmystreet.com/report/6933778)
+- Tree fallen and blocking road, 5th January :- [https://www.fixmystreet.com/report/6933642](https://www.fixmystreet.com/report/6933642)
+- Grass verge is being destroyed, 5th January :- [https://www.fixmystreet.com/report/6933232](https://www.fixmystreet.com/report/6933232)
+- The pot holes cover an entrance area into The Holt and Meadow Way, 5th January :- [https://www.fixmystreet.com/report/6933138](https://www.fixmystreet.com/report/6933138)
+- Spray paint over road name, 5th January :- [https://www.fixmystreet.com/report/6932594](https://www.fixmystreet.com/report/6932594)
+- This is an ongoing issue and I was informed that it was resolved back in November, it is impossible for small children to walk through as it is too deep and as you can see the verges are now covered with the water and very slippery. Elderly people are unable to walk through as the potholes under the water are now very dangerous as you cannot see them. Some vehicles cannot drive through for the same reason., 5th January :- [https://www.fixmystreet.com/report/6932352](https://www.fixmystreet.com/report/6932352)
 - The entrance to the car park is dangerous - if private land, should the licence to operate be revoked?, 4th January :- [https://www.fixmystreet.com/report/6932053](https://www.fixmystreet.com/report/6932053)
 - Drain needs unblocking, 4th January :- [https://www.fixmystreet.com/report/6932049](https://www.fixmystreet.com/report/6932049)
 - Non permit parking, 4th January :- [https://www.fixmystreet.com/report/6931730](https://www.fixmystreet.com/report/6931730)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Three pothole on Montpellier retreat, 4th January :- [https://www.fixmystreet.com/report/6929534](https://www.fixmystreet.com/report/6929534)
 - A tree on Highways land has fallen onto 5 Clarence Square and blocked the pavement, 4th January :- [https://www.fixmystreet.com/report/6929198](https://www.fixmystreet.com/report/6929198)
 - Pothole im road. Surface damage, 4th January :- [https://www.fixmystreet.com/report/6928930](https://www.fixmystreet.com/report/6928930)
-- Street light on hedgerow close is not working, 3rd January :- [https://www.fixmystreet.com/report/6928156](https://www.fixmystreet.com/report/6928156)
-- Rubbish and fire extinguisher behind bin, 3rd January :- [https://www.fixmystreet.com/report/6928142](https://www.fixmystreet.com/report/6928142)
-- Number 2 street light in Pecked Lane is not working., 3rd January :- [https://www.fixmystreet.com/report/6928140](https://www.fixmystreet.com/report/6928140)
-- Multiple Potholes, 3rd January :- [https://www.fixmystreet.com/report/6928133](https://www.fixmystreet.com/report/6928133)
-- 20-30 batteries thrown into the river Chelt from Princess Elizabeth Way bridge, 3rd January :- [https://www.fixmystreet.com/report/6928121](https://www.fixmystreet.com/report/6928121)
-- Water running down Collum End Rise, 3rd January :- [https://www.fixmystreet.com/report/6928018](https://www.fixmystreet.com/report/6928018)
-- Outside nos 45 & 47 Snowshill Drive, 3rd January :- [https://www.fixmystreet.com/report/6927857](https://www.fixmystreet.com/report/6927857)
-- Multiple gully drains blocked with debris, 3rd January :- [https://www.fixmystreet.com/report/6927782](https://www.fixmystreet.com/report/6927782)
 
 <!-- fix_marker ends -->
