@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light out, 12th January :- [https://www.fixmystreet.com/report/6967107](https://www.fixmystreet.com/report/6967107)
+- A small fridge has been dumped, 11th January :- [https://www.fixmystreet.com/report/6966853](https://www.fixmystreet.com/report/6966853)
+- Significant pothole on the entry to Nine Elms road, 11th January :- [https://www.fixmystreet.com/report/6966685](https://www.fixmystreet.com/report/6966685)
+- Pothole, 11th January :- [https://www.fixmystreet.com/report/6966580](https://www.fixmystreet.com/report/6966580)
 - Drain totally blocked with road dirt., 11th January :- [https://www.fixmystreet.com/report/6966247](https://www.fixmystreet.com/report/6966247)
 - Pot holes and generally poor surface, 11th January :- [https://www.fixmystreet.com/report/6966192](https://www.fixmystreet.com/report/6966192)
 - Potholes in road, 11th January :- [https://www.fixmystreet.com/report/6966152](https://www.fixmystreet.com/report/6966152)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Pothole edge of carrageway, 11th January :- [https://www.fixmystreet.com/report/6965545](https://www.fixmystreet.com/report/6965545)
 - Pothole at edge of carriage way, 11th January :- [https://www.fixmystreet.com/report/6965540](https://www.fixmystreet.com/report/6965540)
 - Void between carriageway and bank, 11th January :- [https://www.fixmystreet.com/report/6965533](https://www.fixmystreet.com/report/6965533)
-- Series of potholes, with one large pot hole extending circa 30% of lane width, 11th January :- [https://www.fixmystreet.com/report/6965517](https://www.fixmystreet.com/report/6965517)
-- Pothole on centreline of carriageway, 11th January :- [https://www.fixmystreet.com/report/6965503](https://www.fixmystreet.com/report/6965503)
-- Pot hole by back of Aldi, 11th January :- [https://www.fixmystreet.com/report/6965371](https://www.fixmystreet.com/report/6965371)
-- Fly tipping, 11th January :- [https://www.fixmystreet.com/report/6965312](https://www.fixmystreet.com/report/6965312)
 
 <!-- fix_marker ends -->
