@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Gl518hp, 12th January :- [https://www.fixmystreet.com/report/6970267](https://www.fixmystreet.com/report/6970267)
+- Kerb snd pavement dangerous ftom flood damage, 12th January :- [https://www.fixmystreet.com/report/6970239](https://www.fixmystreet.com/report/6970239)
+- Domestic waste, 12th January :- [https://www.fixmystreet.com/report/6970113](https://www.fixmystreet.com/report/6970113)
 - Road Ahead Closed sign has been left on the grass verge, 12th January :- [https://www.fixmystreet.com/report/6969185](https://www.fixmystreet.com/report/6969185)
 - The traffic lights before Gloscat are changing red for no reason, 12th January :- [https://www.fixmystreet.com/report/6969170](https://www.fixmystreet.com/report/6969170)
 - Once again the traffic lights are changing to red frequently for no reason causing delays, 12th January :- [https://www.fixmystreet.com/report/6969165](https://www.fixmystreet.com/report/6969165)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - On speed bump, 12th January :- [https://www.fixmystreet.com/report/6967745](https://www.fixmystreet.com/report/6967745)
 - Single sunken manhole cover, 12th January :- [https://www.fixmystreet.com/report/6967731](https://www.fixmystreet.com/report/6967731)
 - Fly tipping, 12th January :- [https://www.fixmystreet.com/report/6967520](https://www.fixmystreet.com/report/6967520)
-- 8 inch pot hole approx on road outside 103 welch road, 12th January :- [https://www.fixmystreet.com/report/6967514](https://www.fixmystreet.com/report/6967514)
-- Road gulley blocked with debris from overhead coniferous trees, 12th January :- [https://www.fixmystreet.com/report/6967508](https://www.fixmystreet.com/report/6967508)
-- Loose/rattling manhole cover, 12th January :- [https://www.fixmystreet.com/report/6967284](https://www.fixmystreet.com/report/6967284)
 
 <!-- fix_marker ends -->
