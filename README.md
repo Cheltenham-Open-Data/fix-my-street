@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Sharp edged large pothole that is increasingly deep, 18th January :- [https://www.fixmystreet.com/report/6999634](https://www.fixmystreet.com/report/6999634)
+- Deep cut in speed bump near kerb, wheel hits a flat edge causing damage to suspension, 18th January :- [https://www.fixmystreet.com/report/6999633](https://www.fixmystreet.com/report/6999633)
+- Clean Water pouring out of the drain in the kerb on the south side of the road. Directly opposite The Wilson Health Centre., 18th January :- [https://www.fixmystreet.com/report/6999470](https://www.fixmystreet.com/report/6999470)
 - Blocked drain on exit of texaco garage. 2 drains blocked opposite "Willoughby" house, 18th January :- [https://www.fixmystreet.com/report/6999266](https://www.fixmystreet.com/report/6999266)
 - Loose manhole - excessive noise, 18th January :- [https://www.fixmystreet.com/report/6998952](https://www.fixmystreet.com/report/6998952)
 - Tree came down in high winds around Christmas 2024!, 18th January :- [https://www.fixmystreet.com/report/6998948](https://www.fixmystreet.com/report/6998948)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Many many uneven areas of road, 18th January :- [https://www.fixmystreet.com/report/6997192](https://www.fixmystreet.com/report/6997192)
 - Signage required, 18th January :- [https://www.fixmystreet.com/report/6997188](https://www.fixmystreet.com/report/6997188)
 - About 3 street lights out in Fairmount Road, 17th January :- [https://www.fixmystreet.com/report/6996636](https://www.fixmystreet.com/report/6996636)
-- Temporary signs block junction visibility, 17th January :- [https://www.fixmystreet.com/report/6996219](https://www.fixmystreet.com/report/6996219)
-- Cross hatch box is too worn, 17th January :- [https://www.fixmystreet.com/report/6996165](https://www.fixmystreet.com/report/6996165)
-- Road no longer closed., 17th January :- [https://www.fixmystreet.com/report/6995967](https://www.fixmystreet.com/report/6995967)
 
 <!-- fix_marker ends -->
