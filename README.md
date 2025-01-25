@@ -2,6 +2,18 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Approx 50mm deep by 400mm square, 25th January :- [https://www.fixmystreet.com/report/7032273](https://www.fixmystreet.com/report/7032273)
+- Drain cover fallen in, 25th January :- [https://www.fixmystreet.com/report/7032199](https://www.fixmystreet.com/report/7032199)
+- Large potholes in road, 25th January :- [https://www.fixmystreet.com/report/7031812](https://www.fixmystreet.com/report/7031812)
+- Multiple small-medium potholes, 25th January :- [https://www.fixmystreet.com/report/7031808](https://www.fixmystreet.com/report/7031808)
+- Pot hole at drop of curb edge of road. Getting wider daily. Several others forming on this side of finch road too, 25th January :- [https://www.fixmystreet.com/report/7031792](https://www.fixmystreet.com/report/7031792)
+- Ruined road surface, 25th January :- [https://www.fixmystreet.com/report/7031785](https://www.fixmystreet.com/report/7031785)
+- The Highways barriers have all collapsed creating a hazard for cars and pedestrians particularly those using an assistance dog due to blindness, 25th January :- [https://www.fixmystreet.com/report/7031737](https://www.fixmystreet.com/report/7031737)
+- Very deep new pothole, 25th January :- [https://www.fixmystreet.com/report/7030966](https://www.fixmystreet.com/report/7030966)
+- 4 potholes in carriageway, 25th January :- [https://www.fixmystreet.com/report/7030935](https://www.fixmystreet.com/report/7030935)
+- Flytipped mattress & other rubbish, 25th January :- [https://www.fixmystreet.com/report/7030713](https://www.fixmystreet.com/report/7030713)
+- Potholes again poor repair, 25th January :- [https://www.fixmystreet.com/report/7030184](https://www.fixmystreet.com/report/7030184)
+- Broken street lamp corner of Laxton Road, 25th January :- [https://www.fixmystreet.com/report/7030063](https://www.fixmystreet.com/report/7030063)
 - Drain cover loose, 25th January :- [https://www.fixmystreet.com/report/7030016](https://www.fixmystreet.com/report/7030016)
 - Blocked drain, 24th January :- [https://www.fixmystreet.com/report/7029836](https://www.fixmystreet.com/report/7029836)
 - Bollards are not lit - get dirty and present risk to life, 24th January :- [https://www.fixmystreet.com/report/7029788](https://www.fixmystreet.com/report/7029788)
@@ -10,17 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 7-8cm pot hole harp hill near junction to Stanley Road, 24th January :- [https://www.fixmystreet.com/report/7029155](https://www.fixmystreet.com/report/7029155)
 - Crumbling pavement, 24th January :- [https://www.fixmystreet.com/report/7029027](https://www.fixmystreet.com/report/7029027)
 - Iron bollard not replaced after being knocked by a car and taken away, these bollard are necessary to stop vans, cars mounting the pavement to create a sink hole as there are coal sheds situated underneath,, 24th January :- [https://www.fixmystreet.com/report/7028786](https://www.fixmystreet.com/report/7028786)
-- Raised kerbstone block in road, 24th January :- [https://www.fixmystreet.com/report/7028681](https://www.fixmystreet.com/report/7028681)
-- Completely blocked drain, 24th January :- [https://www.fixmystreet.com/report/7028487](https://www.fixmystreet.com/report/7028487)
-- Several smaller potholes and one larger, 24th January :- [https://www.fixmystreet.com/report/7028153](https://www.fixmystreet.com/report/7028153)
-- Post or sign leaning slightly (less than 20 degrees) problem, 24th January :- [https://www.fixmystreet.com/report/7028447](https://www.fixmystreet.com/report/7028447)
-- Fallen tree hanging on telephone line, 24th January :- [https://www.fixmystreet.com/report/7027879](https://www.fixmystreet.com/report/7027879)
-- Mattress dumped., 24th January :- [https://www.fixmystreet.com/report/7027851](https://www.fixmystreet.com/report/7027851)
-- Tree is damaged problem, 24th January :- [https://www.fixmystreet.com/report/7027790](https://www.fixmystreet.com/report/7027790)
-- Abandoned vehicle with no road tax, 24th January :- [https://www.fixmystreet.com/report/7027676](https://www.fixmystreet.com/report/7027676)
-- TMC - Defects - Vegetation problem, 24th January :- [https://www.fixmystreet.com/report/7027807](https://www.fixmystreet.com/report/7027807)
-- Flytipped large sofa cushion, 24th January :- [https://www.fixmystreet.com/report/7027609](https://www.fixmystreet.com/report/7027609)
-- Flytipping outside 13 St George’s Street, 24th January :- [https://www.fixmystreet.com/report/7027480](https://www.fixmystreet.com/report/7027480)
-- Lots of rubbish dumped in river Cheltenham or nearby, including pram, stollen council bin cover and road bollards., 24th January :- [https://www.fixmystreet.com/report/7027476](https://www.fixmystreet.com/report/7027476)
 
 <!-- fix_marker ends -->
