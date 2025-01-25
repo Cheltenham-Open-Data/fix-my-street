@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Drain cover loose, 25th January :- [https://www.fixmystreet.com/report/7030016](https://www.fixmystreet.com/report/7030016)
+- Blocked drain, 24th January :- [https://www.fixmystreet.com/report/7029836](https://www.fixmystreet.com/report/7029836)
+- Bollards are not lit - get dirty and present risk to life, 24th January :- [https://www.fixmystreet.com/report/7029788](https://www.fixmystreet.com/report/7029788)
+- Metal drain cover loose, 24th January :- [https://www.fixmystreet.com/report/7029451](https://www.fixmystreet.com/report/7029451)
 - Drain blocked. 4.05pm 24.1.25, 24th January :- [https://www.fixmystreet.com/report/7029157](https://www.fixmystreet.com/report/7029157)
 - 7-8cm pot hole harp hill near junction to Stanley Road, 24th January :- [https://www.fixmystreet.com/report/7029155](https://www.fixmystreet.com/report/7029155)
 - Crumbling pavement, 24th January :- [https://www.fixmystreet.com/report/7029027](https://www.fixmystreet.com/report/7029027)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Flytipped large sofa cushion, 24th January :- [https://www.fixmystreet.com/report/7027609](https://www.fixmystreet.com/report/7027609)
 - Flytipping outside 13 St George’s Street, 24th January :- [https://www.fixmystreet.com/report/7027480](https://www.fixmystreet.com/report/7027480)
 - Lots of rubbish dumped in river Cheltenham or nearby, including pram, stollen council bin cover and road bollards., 24th January :- [https://www.fixmystreet.com/report/7027476](https://www.fixmystreet.com/report/7027476)
-- TMC - Defects -CW6 Potholes  problem, 24th January :- [https://www.fixmystreet.com/report/7027547](https://www.fixmystreet.com/report/7027547)
-- Traffic lights broken at lower fixing, 24th January :- [https://www.fixmystreet.com/report/7027284](https://www.fixmystreet.com/report/7027284)
-- Tree is damaged problem, 24th January :- [https://www.fixmystreet.com/report/7027789](https://www.fixmystreet.com/report/7027789)
-- ANOTHER trolley, 24th January :- [https://www.fixmystreet.com/report/7026915](https://www.fixmystreet.com/report/7026915)
 
 <!-- fix_marker ends -->
