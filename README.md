@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street light outside 26 Clyde Crescent not working at all., 26th January :- [https://www.fixmystreet.com/report/7036398](https://www.fixmystreet.com/report/7036398)
+- Deep hole bus catches it every 20 mins makes large bang and the house shakes, 26th January :- [https://www.fixmystreet.com/report/7036314](https://www.fixmystreet.com/report/7036314)
+- Drain blocked / insufficient drainage installed, 26th January :- [https://www.fixmystreet.com/report/7036120](https://www.fixmystreet.com/report/7036120)
 - Drains at bottom of Malvern Walk blocked, 26th January :- [https://www.fixmystreet.com/report/7035766](https://www.fixmystreet.com/report/7035766)
 - 0.6m by 1.1m and 5 inches deep. Right after 1 way strip of road where oncoming traffic is waiting. Unavoidable, 26th January :- [https://www.fixmystreet.com/report/7035735](https://www.fixmystreet.com/report/7035735)
 - Drain is blocked so flooding on road at area GL54 5TH, 26th January :- [https://www.fixmystreet.com/report/7035478](https://www.fixmystreet.com/report/7035478)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Litter bin in river Chelt, 26th January :- [https://www.fixmystreet.com/report/7033760](https://www.fixmystreet.com/report/7033760)
 - The 5 street lights on Hatherley Lane have not been working since November 2024!!, 26th January :- [https://www.fixmystreet.com/report/7033372](https://www.fixmystreet.com/report/7033372)
 - Street lights out, 25th January :- [https://www.fixmystreet.com/report/7033121](https://www.fixmystreet.com/report/7033121)
-- Blocked drain. Silted up and weeds growing, 25th January :- [https://www.fixmystreet.com/report/7033007](https://www.fixmystreet.com/report/7033007)
-- Just wondering if this is a permanent or temporary repair as the dip beside the drain cover has increased very noticeably when driving over., 25th January :- [https://www.fixmystreet.com/report/7032976](https://www.fixmystreet.com/report/7032976)
-- Street light at end of Rosehip Court not working, 25th January :- [https://www.fixmystreet.com/report/7032913](https://www.fixmystreet.com/report/7032913)
 
 <!-- fix_marker ends -->
