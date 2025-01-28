@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Flooding coming out of stream that is not flowing into drain, 27th January :- [https://www.fixmystreet.com/report/7043147](https://www.fixmystreet.com/report/7043147)
+- A pothole in road problem, 27th January :- [https://www.fixmystreet.com/report/7042808](https://www.fixmystreet.com/report/7042808)
+- Drain outside no 2 Victoria street is not draining and water is rising above pavement level causing a risk of flooding to no 2 Victoria street. Water levels are rising rapidly., 27th January :- [https://www.fixmystreet.com/report/7042758](https://www.fixmystreet.com/report/7042758)
+- The 2 drains on the left and right at the entrance to the chicane from Birdlip village are blocked, 27th January :- [https://www.fixmystreet.com/report/7042667](https://www.fixmystreet.com/report/7042667)
+- Drain constantly lifting opposite The Hollies, Gretton, 27th January :- [https://www.fixmystreet.com/report/7042548](https://www.fixmystreet.com/report/7042548)
+- Flytipping, 27th January :- [https://www.fixmystreet.com/report/7042511](https://www.fixmystreet.com/report/7042511)
+- Double yellows faded and cars blocking driveways, 27th January :- [https://www.fixmystreet.com/report/7042412](https://www.fixmystreet.com/report/7042412)
+- Please resurface glos road!, 27th January :- [https://www.fixmystreet.com/report/7042359](https://www.fixmystreet.com/report/7042359)
 - Very large pothole and road subsiding, 27th January :- [https://www.fixmystreet.com/report/7042149](https://www.fixmystreet.com/report/7042149)
 - Silver beech on West Drive at an angle, 27th January :- [https://www.fixmystreet.com/report/7041962](https://www.fixmystreet.com/report/7041962)
 - Large pothole in Hazelwood Close, 27th January :- [https://www.fixmystreet.com/report/7041868](https://www.fixmystreet.com/report/7041868)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 27th pothole Hungerford street, 27th January :- [https://www.fixmystreet.com/report/7041240](https://www.fixmystreet.com/report/7041240)
 - 16th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041224](https://www.fixmystreet.com/report/7041224)
 - 15th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041214](https://www.fixmystreet.com/report/7041214)
-- 14th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041206](https://www.fixmystreet.com/report/7041206)
-- 13th pothole Hungerford street, 27th January :- [https://www.fixmystreet.com/report/7041193](https://www.fixmystreet.com/report/7041193)
-- 12th pothole on Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041180](https://www.fixmystreet.com/report/7041180)
-- 11th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041172](https://www.fixmystreet.com/report/7041172)
-- 10th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041163](https://www.fixmystreet.com/report/7041163)
-- Light sensor is not detecting vehicles problem, 27th January :- [https://www.fixmystreet.com/report/7041295](https://www.fixmystreet.com/report/7041295)
-- 9th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041147](https://www.fixmystreet.com/report/7041147)
-- 8th pothole Hungerford Street, 27th January :- [https://www.fixmystreet.com/report/7041138](https://www.fixmystreet.com/report/7041138)
 
 <!-- fix_marker ends -->
