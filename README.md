@@ -2,6 +2,15 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple pot holes each side of road, 31st January :- [https://www.fixmystreet.com/report/7062221](https://www.fixmystreet.com/report/7062221)
+- Straggly branches, 31st January :- [https://www.fixmystreet.com/report/7062121](https://www.fixmystreet.com/report/7062121)
+- Tree has fallen down in the storms, 30th January :- [https://www.fixmystreet.com/report/7062054](https://www.fixmystreet.com/report/7062054)
+- Trees that have been cut back by the horsbere brook obstructing the waterflow., 30th January :- [https://www.fixmystreet.com/report/7062043](https://www.fixmystreet.com/report/7062043)
+- Verge has become so eroded through people parking on it that the Gigaclear cable is now exposed and vulnerable to damage., 30th January :- [https://www.fixmystreet.com/report/7061917](https://www.fixmystreet.com/report/7061917)
+- Fly tipping across the Road from Number 20 Loweswater Road, 30th January :- [https://www.fixmystreet.com/report/7061863](https://www.fixmystreet.com/report/7061863)
+- Pot hole several inches deep, 30th January :- [https://www.fixmystreet.com/report/7061462](https://www.fixmystreet.com/report/7061462)
+- Huge pothole at left edge of road direction cleeve to gotherington. The steering wheel of my car nearly flew out of my hands. Very dangerous one!!!, 30th January :- [https://www.fixmystreet.com/report/7061389](https://www.fixmystreet.com/report/7061389)
+- Continual flooding of section of B4634 close to the Staverton bridge crossroads, 30th January :- [https://www.fixmystreet.com/report/7061340](https://www.fixmystreet.com/report/7061340)
 - Sign left behind approx 4 weeks ago, 30th January :- [https://www.fixmystreet.com/report/7060975](https://www.fixmystreet.com/report/7060975)
 - Pothole, 30th January :- [https://www.fixmystreet.com/report/7060895](https://www.fixmystreet.com/report/7060895)
 - Pothole on road, 30th January :- [https://www.fixmystreet.com/report/7060841](https://www.fixmystreet.com/report/7060841)
@@ -13,14 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A pothole in road problem, 30th January :- [https://www.fixmystreet.com/report/7060504](https://www.fixmystreet.com/report/7060504)
 - Two pot holes on opposite sides of road, unavoidable when busy, 30th January :- [https://www.fixmystreet.com/report/7060286](https://www.fixmystreet.com/report/7060286)
 - Deep pothole almost opposite station entrance, 30th January :- [https://www.fixmystreet.com/report/7060178](https://www.fixmystreet.com/report/7060178)
-- Appalling stretch of road. Totally unsafe. Has been like this for months!!!!, 30th January :- [https://www.fixmystreet.com/report/7060019](https://www.fixmystreet.com/report/7060019)
-- Offensive graffiti, 30th January :- [https://www.fixmystreet.com/report/7059792](https://www.fixmystreet.com/report/7059792)
-- TMC - Defects -CW6 Potholes  problem, 30th January :- [https://www.fixmystreet.com/report/7059895](https://www.fixmystreet.com/report/7059895)
-- TMC - Defects -CW6 Potholes  problem, 30th January :- [https://www.fixmystreet.com/report/7059888](https://www.fixmystreet.com/report/7059888)
-- TMC - Defects -CW6 Potholes  problem, 30th January :- [https://www.fixmystreet.com/report/7059886](https://www.fixmystreet.com/report/7059886)
-- Terrible litter dumped in side of the road and into the wet area....if this is not cleared its bound to cause flooding issues in Bamfurlon Lane, 30th January :- [https://www.fixmystreet.com/report/7059647](https://www.fixmystreet.com/report/7059647)
-- TMC - Defects -CW6 Potholes  problem, 30th January :- [https://www.fixmystreet.com/report/7059690](https://www.fixmystreet.com/report/7059690)
-- TMC - Defects -CW6 Potholes  problem, 30th January :- [https://www.fixmystreet.com/report/7059688](https://www.fixmystreet.com/report/7059688)
-- A pothole in road problem, 30th January :- [https://www.fixmystreet.com/report/7059867](https://www.fixmystreet.com/report/7059867)
 
 <!-- fix_marker ends -->
