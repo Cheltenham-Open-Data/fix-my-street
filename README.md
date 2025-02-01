@@ -2,6 +2,8 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple potholes that cannot be avoided., 31st January :- [https://www.fixmystreet.com/report/7066882](https://www.fixmystreet.com/report/7066882)
+- Light obscured by tree, 31st January :- [https://www.fixmystreet.com/report/7066856](https://www.fixmystreet.com/report/7066856)
 - 2 big pot holes next to each other getting harder to avoid will take a tyre out of not careful, 31st January :- [https://www.fixmystreet.com/report/7066606](https://www.fixmystreet.com/report/7066606)
 - Pothole is back, 31st January :- [https://www.fixmystreet.com/report/7066597](https://www.fixmystreet.com/report/7066597)
 - Pot hole is back, 31st January :- [https://www.fixmystreet.com/report/7066581](https://www.fixmystreet.com/report/7066581)
@@ -20,7 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Covers, Gratings & Frames problem, 31st January :- [https://www.fixmystreet.com/report/7065658](https://www.fixmystreet.com/report/7065658)
 - TMC - Defects -CW6 Potholes  problem, 31st January :- [https://www.fixmystreet.com/report/7065648](https://www.fixmystreet.com/report/7065648)
 - TMC - Defects -CW6 Potholes  problem, 31st January :- [https://www.fixmystreet.com/report/7065649](https://www.fixmystreet.com/report/7065649)
-- TMC - Defects -CW6 Potholes  problem, 31st January :- [https://www.fixmystreet.com/report/7065654](https://www.fixmystreet.com/report/7065654)
-- TMC - Defects - Other FW6  Surface problem, 31st January :- [https://www.fixmystreet.com/report/7065647](https://www.fixmystreet.com/report/7065647)
 
 <!-- fix_marker ends -->
