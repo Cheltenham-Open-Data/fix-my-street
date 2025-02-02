@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Broken and missing raised curb panels along the railing, 1st February :- [https://www.fixmystreet.com/report/7070621](https://www.fixmystreet.com/report/7070621)
 - 2ft x 1ft pothole in single track lane, 1st February :- [https://www.fixmystreet.com/report/7070350](https://www.fixmystreet.com/report/7070350)
 - 15 feet of crumbling roadside, near Chapel Cottage, 1st February :- [https://www.fixmystreet.com/report/7070328](https://www.fixmystreet.com/report/7070328)
 - Deep pothole and damaged ironwork, 1st February :- [https://www.fixmystreet.com/report/7070003](https://www.fixmystreet.com/report/7070003)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A 7" pothole that has become deeper at the junction of Keynshambury Rd & London Rd as a result of trucks associated with road and building works close by along the London Rd, 1st February :- [https://www.fixmystreet.com/report/7068220](https://www.fixmystreet.com/report/7068220)
 - Impassable after heavy rain. Danger to children., 1st February :- [https://www.fixmystreet.com/report/7068195](https://www.fixmystreet.com/report/7068195)
 - Many potholes, 1st February :- [https://www.fixmystreet.com/report/7067810](https://www.fixmystreet.com/report/7067810)
-- Sign saying uneven footpath, 1st February :- [https://www.fixmystreet.com/report/7067796](https://www.fixmystreet.com/report/7067796)
 
 <!-- fix_marker ends -->
