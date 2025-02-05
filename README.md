@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes on roundabout, 5th February :- [https://www.fixmystreet.com/report/7087361](https://www.fixmystreet.com/report/7087361)
+- Rubbish dumped in the layby, 5th February :- [https://www.fixmystreet.com/report/7087332](https://www.fixmystreet.com/report/7087332)
+- Damaged keep left sign, 4th February :- [https://www.fixmystreet.com/report/7086937](https://www.fixmystreet.com/report/7086937)
+- Multiple potholes in this road - it’s like a lunar landscape, 4th February :- [https://www.fixmystreet.com/report/7086896](https://www.fixmystreet.com/report/7086896)
+- Sign has been knocked over, 4th February :- [https://www.fixmystreet.com/report/7086620](https://www.fixmystreet.com/report/7086620)
+- Pothole east of Clean laundry on the laundry side of the road, 4th February :- [https://www.fixmystreet.com/report/7086509](https://www.fixmystreet.com/report/7086509)
+- Another mattress, 4th February :- [https://www.fixmystreet.com/report/7086464](https://www.fixmystreet.com/report/7086464)
+- Pothole in middle of Queens Road at junction of Glencairn Park Road, 4th February :- [https://www.fixmystreet.com/report/7086439](https://www.fixmystreet.com/report/7086439)
 - Deep potholes and trench in middle of carriageway near, 4th February :- [https://www.fixmystreet.com/report/7086294](https://www.fixmystreet.com/report/7086294)
 - Dog mess still not cleaned up after being reported, 4th February :- [https://www.fixmystreet.com/report/7086287](https://www.fixmystreet.com/report/7086287)
 - Dog mess yet again Tensing Rd, 4th February :- [https://www.fixmystreet.com/report/7086274](https://www.fixmystreet.com/report/7086274)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - A second 50mph sign has been pulled from the ground and left beside the road -, 4th February :- [https://www.fixmystreet.com/report/7085890](https://www.fixmystreet.com/report/7085890)
 - Awful potholes, 4th February :- [https://www.fixmystreet.com/report/7085874](https://www.fixmystreet.com/report/7085874)
 - Blocked drain, 4th February :- [https://www.fixmystreet.com/report/7085855](https://www.fixmystreet.com/report/7085855)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [https://www.fixmystreet.com/report/7085356](https://www.fixmystreet.com/report/7085356)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [https://www.fixmystreet.com/report/7085355](https://www.fixmystreet.com/report/7085355)
-- Mulitple pot holes down castle hill & Guise Avenue, 4th February :- [https://www.fixmystreet.com/report/7085268](https://www.fixmystreet.com/report/7085268)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th February :- [https://www.fixmystreet.com/report/7085354](https://www.fixmystreet.com/report/7085354)
-- TMC - Defects - Footways Slabs problem, 4th February :- [https://www.fixmystreet.com/report/7085351](https://www.fixmystreet.com/report/7085351)
-- TMC - Defects - Footways Slabs problem, 4th February :- [https://www.fixmystreet.com/report/7085350](https://www.fixmystreet.com/report/7085350)
-- TMC - Defects - Covers, Gratings & Frames problem, 4th February :- [https://www.fixmystreet.com/report/7085349](https://www.fixmystreet.com/report/7085349)
-- TMC - Defects -CW6 Potholes  problem, 4th February :- [https://www.fixmystreet.com/report/7085352](https://www.fixmystreet.com/report/7085352)
 
 <!-- fix_marker ends -->
