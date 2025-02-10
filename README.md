@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Potholes on roundabout, 10th February :- [https://www.fixmystreet.com/report/7109824](https://www.fixmystreet.com/report/7109824)
+- Broken fence with on foot access to M5, 9th February :- [https://www.fixmystreet.com/report/7109003](https://www.fixmystreet.com/report/7109003)
+- Traffic lights go red for no reason, 9th February :- [https://www.fixmystreet.com/report/7108939](https://www.fixmystreet.com/report/7108939)
 - Several large potholes the at one time were filled in but are now craters, 9th February :- [https://www.fixmystreet.com/report/7108789](https://www.fixmystreet.com/report/7108789)
 - Potholes that have been filled in & now broken out again, 9th February :- [https://www.fixmystreet.com/report/7108772](https://www.fixmystreet.com/report/7108772)
 - A pothole in middle of the road, 9th February :- [https://www.fixmystreet.com/report/7108757](https://www.fixmystreet.com/report/7108757)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two pots holes in road in the entrance to at Johns court, 9th February :- [https://www.fixmystreet.com/report/7107552](https://www.fixmystreet.com/report/7107552)
 - Mattress dumped Arden Road/Hall Road junction, 9th February :- [https://www.fixmystreet.com/report/7107118](https://www.fixmystreet.com/report/7107118)
 - Abandoned signage, 9th February :- [https://www.fixmystreet.com/report/7107064](https://www.fixmystreet.com/report/7107064)
-- Several lots of signage, lights, stands & sandbags left both sides of carriageway between Glos Business Park & Zoons Court roundabout., 9th February :- [https://www.fixmystreet.com/report/7107060](https://www.fixmystreet.com/report/7107060)
-- Variety of left over signs & equipment, 9th February :- [https://www.fixmystreet.com/report/7107008](https://www.fixmystreet.com/report/7107008)
-- Overflowing bin, 9th February :- [https://www.fixmystreet.com/report/7106998](https://www.fixmystreet.com/report/7106998)
 
 <!-- fix_marker ends -->
