@@ -2,6 +2,10 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Street lights out on maple drive for more than 4 weeks making it very dangerous, 16th February :- [https://www.fixmystreet.com/report/7143642](https://www.fixmystreet.com/report/7143642)
+- A 3 meter long stretch of broken tarmac surface outside 1Greenhills Road which has disintegrated, 16th February :- [https://www.fixmystreet.com/report/7143620](https://www.fixmystreet.com/report/7143620)
+- 2 meter strip of tarmac close to payment has disintegrated. And a deep pothole has now appeared in the middle. All traffic goes through it due to narrow road. Dangerous for two wheelers. Outside entrance to 14 Greenhills Road., 16th February :- [https://www.fixmystreet.com/report/7143606](https://www.fixmystreet.com/report/7143606)
+- Pothole in road, 16th February :- [https://www.fixmystreet.com/report/7143196](https://www.fixmystreet.com/report/7143196)
 - Bin overflowing with dog poo & general waste, waste around bin., 16th February :- [https://www.fixmystreet.com/report/7142750](https://www.fixmystreet.com/report/7142750)
 - Multiple pot holes, 16th February :- [https://www.fixmystreet.com/report/7142715](https://www.fixmystreet.com/report/7142715)
 - Large pot hole on railway bridge, 16th February :- [https://www.fixmystreet.com/report/7142703](https://www.fixmystreet.com/report/7142703)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - The tarmac has worn away around a drain. This means a sharp metal edge is protruding. This is likely to damage a tyre, 15th February :- [https://www.fixmystreet.com/report/7139917](https://www.fixmystreet.com/report/7139917)
 - Mud is everywhere due to cars parking on the grass verge causing an obstruction and a hazard for pedestrians walking, 15th February :- [https://www.fixmystreet.com/report/7139854](https://www.fixmystreet.com/report/7139854)
 - Subsiding bridge wall, 15th February :- [https://www.fixmystreet.com/report/7139701](https://www.fixmystreet.com/report/7139701)
-- Large pothole in nearside lane., 15th February :- [https://www.fixmystreet.com/report/7139660](https://www.fixmystreet.com/report/7139660)
-- Reporting what appears to be abandoned caravan, 15th February :- [https://www.fixmystreet.com/report/7139624](https://www.fixmystreet.com/report/7139624)
-- Blocked gully at crossroads, 15th February :- [https://www.fixmystreet.com/report/7139596](https://www.fixmystreet.com/report/7139596)
-- Sunken manhole chamber, 15th February :- [https://www.fixmystreet.com/report/7139583](https://www.fixmystreet.com/report/7139583)
 
 <!-- fix_marker ends -->
