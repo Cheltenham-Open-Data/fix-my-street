@@ -2,8 +2,12 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Several pot holes road breaking up, 19th February :- [https://www.fixmystreet.com/report/7159900](https://www.fixmystreet.com/report/7159900)
+- Footway obstruction due to vehicles over riding the verge have caused a blocking of the footway, 19th February :- [https://www.fixmystreet.com/report/7159558](https://www.fixmystreet.com/report/7159558)
+- Blocked roadside drains, 19th February :- [https://www.fixmystreet.com/report/7159313](https://www.fixmystreet.com/report/7159313)
 - On junction of All Saints Rd and All Saints Villas Road the pavement, kerb line and road is in a bad state., 19th February :- [https://www.fixmystreet.com/report/7158990](https://www.fixmystreet.com/report/7158990)
 - Near junction of All Saints Road and Hewlett Rd is a wet pile of loose cardboard, 19th February :- [https://www.fixmystreet.com/report/7158876](https://www.fixmystreet.com/report/7158876)
+- Flytipping, 19th February :- [https://www.fixmystreet.com/report/7158830](https://www.fixmystreet.com/report/7158830)
 - Road light not working, 19th February :- [https://www.fixmystreet.com/report/7158654](https://www.fixmystreet.com/report/7158654)
 - Pothole next to a small access cover, 19th February :- [https://www.fixmystreet.com/report/7158465](https://www.fixmystreet.com/report/7158465)
 - TMC - Defects -CW6 Potholes  problem, 19th February :- [https://www.fixmystreet.com/report/7158350](https://www.fixmystreet.com/report/7158350)
@@ -18,9 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects - Other FW6  Surface problem, 19th February :- [https://www.fixmystreet.com/report/7157819](https://www.fixmystreet.com/report/7157819)
 - TMC - Defects - Signs & Street Furniture problem, 19th February :- [https://www.fixmystreet.com/report/7157820](https://www.fixmystreet.com/report/7157820)
 - TMC - Defects - Other FW6  Surface problem, 19th February :- [https://www.fixmystreet.com/report/7157814](https://www.fixmystreet.com/report/7157814)
-- TMC - Defects -FW6 Potholes problem, 19th February :- [https://www.fixmystreet.com/report/7157807](https://www.fixmystreet.com/report/7157807)
-- TMC - Defects -FW6 Potholes problem, 19th February :- [https://www.fixmystreet.com/report/7157804](https://www.fixmystreet.com/report/7157804)
-- TMC - Defects -FW6 Potholes problem, 19th February :- [https://www.fixmystreet.com/report/7157802](https://www.fixmystreet.com/report/7157802)
-- A pothole in road problem, 19th February :- [https://www.fixmystreet.com/report/7157766](https://www.fixmystreet.com/report/7157766)
 
 <!-- fix_marker ends -->
