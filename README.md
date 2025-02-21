@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Multiple street lights out, 20th February :- [https://www.fixmystreet.com/report/7164539](https://www.fixmystreet.com/report/7164539)
 - Potholes, 20th February :- [https://www.fixmystreet.com/report/7164335](https://www.fixmystreet.com/report/7164335)
 - Large potholes in junction, 20th February :- [https://www.fixmystreet.com/report/7164125](https://www.fixmystreet.com/report/7164125)
 - Potholes/cracks in road dangerous for cyclist, 20th February :- [https://www.fixmystreet.com/report/7164112](https://www.fixmystreet.com/report/7164112)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - TMC - Defects -CW6 Potholes  problem, 20th February :- [https://www.fixmystreet.com/report/7163387](https://www.fixmystreet.com/report/7163387)
 - Far right graffiti, 20th February :- [https://www.fixmystreet.com/report/7163236](https://www.fixmystreet.com/report/7163236)
 - TMC - Defects -CW6 Potholes  problem, 20th February :- [https://www.fixmystreet.com/report/7163383](https://www.fixmystreet.com/report/7163383)
-- In alley next to 23 Dunalley parade, 20th February :- [https://www.fixmystreet.com/report/7163223](https://www.fixmystreet.com/report/7163223)
 
 <!-- fix_marker ends -->
