@@ -2,6 +2,9 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Pot holes on side of road of army barracks, 1st March :- [https://www.fixmystreet.com/report/7207591](https://www.fixmystreet.com/report/7207591)
+- The valentines heart-shaped pothole is back again., 28th February :- [https://www.fixmystreet.com/report/7207347](https://www.fixmystreet.com/report/7207347)
+- Holes everywhere, 28th February :- [https://www.fixmystreet.com/report/7206922](https://www.fixmystreet.com/report/7206922)
 - Between 11 Moorend Park and the bungalow there are two sleeping policemen. Much of the tarmac has been stripped leaving potholes, 28th February :- [https://www.fixmystreet.com/report/7206332](https://www.fixmystreet.com/report/7206332)
 - Pothole and layer of stripped tarmac on driver side when heading down to the Cirencester Road., 28th February :- [https://www.fixmystreet.com/report/7206273](https://www.fixmystreet.com/report/7206273)
 - Pot holes, 28th February :- [https://www.fixmystreet.com/report/7206191](https://www.fixmystreet.com/report/7206191)
@@ -19,8 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Large pothole in road outside 9 RavensgateRoad., 28th February :- [https://www.fixmystreet.com/report/7205398](https://www.fixmystreet.com/report/7205398)
 - Tree is damaged problem, 28th February :- [https://www.fixmystreet.com/report/7205448](https://www.fixmystreet.com/report/7205448)
 - Large pothole in road outside 28 Beeches Road., 28th February :- [https://www.fixmystreet.com/report/7205388](https://www.fixmystreet.com/report/7205388)
-- Large pothole in road outside 21 Beeches Road., 28th February :- [https://www.fixmystreet.com/report/7205383](https://www.fixmystreet.com/report/7205383)
-- Tree is damaged problem, 28th February :- [https://www.fixmystreet.com/report/7205446](https://www.fixmystreet.com/report/7205446)
-- Holes in middle of road previous repairs complete but now just opening up yet again a poor first repair I think, 28th February :- [https://www.fixmystreet.com/report/7205348](https://www.fixmystreet.com/report/7205348)
 
 <!-- fix_marker ends -->
