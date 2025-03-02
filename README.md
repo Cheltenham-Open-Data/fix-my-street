@@ -2,6 +2,13 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- No street lights in the whole Highwood Avenue, 1st March :- [https://www.fixmystreet.com/report/7210786](https://www.fixmystreet.com/report/7210786)
+- THIS IS DANGEROUS Metal sign saying, I think, Ice' is half on the carriageway. You have to swerve to avoid it., 1st March :- [https://www.fixmystreet.com/report/7210733](https://www.fixmystreet.com/report/7210733)
+- Deep pothole now causing cars to 'crash ' down and a hazard to cyclists and horses, 1st March :- [https://www.fixmystreet.com/report/7210684](https://www.fixmystreet.com/report/7210684)
+- Multiple Potholes with serious potential to cause damage to cars., 1st March :- [https://www.fixmystreet.com/report/7210554](https://www.fixmystreet.com/report/7210554)
+- Street lights 4 & 5 led street lights out of order on footpath between Salvia Close and Cheltenham Road East, 1st March :- [https://www.fixmystreet.com/report/7210545](https://www.fixmystreet.com/report/7210545)
+- Big pothole near junction with court road., 1st March :- [https://www.fixmystreet.com/report/7210459](https://www.fixmystreet.com/report/7210459)
+- Large pothole on Leckhampton Hill, near Springwood, 1st March :- [https://www.fixmystreet.com/report/7210273](https://www.fixmystreet.com/report/7210273)
 - Pothole, 1st March :- [https://www.fixmystreet.com/report/7210178](https://www.fixmystreet.com/report/7210178)
 - Pothole, 1st March :- [https://www.fixmystreet.com/report/7210175](https://www.fixmystreet.com/report/7210175)
 - Graffiti all down pedestrian railway bridge, 1st March :- [https://www.fixmystreet.com/report/7210174](https://www.fixmystreet.com/report/7210174)
@@ -15,12 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Two pot holes in the road, 1st March :- [https://www.fixmystreet.com/report/7209518](https://www.fixmystreet.com/report/7209518)
 - All the way up Arle close are open pot holes, 1st March :- [https://www.fixmystreet.com/report/7209444](https://www.fixmystreet.com/report/7209444)
 - Lack of drainage due to not being filled properly, 1st March :- [https://www.fixmystreet.com/report/7209419](https://www.fixmystreet.com/report/7209419)
-- Street light in Bewley Way is out, 1st March :- [https://www.fixmystreet.com/report/7209216](https://www.fixmystreet.com/report/7209216)
-- Kerb damage pavement damage over 30m both sides, 1st March :- [https://www.fixmystreet.com/report/7208629](https://www.fixmystreet.com/report/7208629)
-- Actually the biggining of a sink hole, 1st March :- [https://www.fixmystreet.com/report/7208603](https://www.fixmystreet.com/report/7208603)
-- Pothole, 1st March :- [https://www.fixmystreet.com/report/7208583](https://www.fixmystreet.com/report/7208583)
-- Pothole, 1st March :- [https://www.fixmystreet.com/report/7208577](https://www.fixmystreet.com/report/7208577)
-- Growing pot hole in middle of road, 1st March :- [https://www.fixmystreet.com/report/7208489](https://www.fixmystreet.com/report/7208489)
-- Large pothole on side of road, 1st March :- [https://www.fixmystreet.com/report/7208465](https://www.fixmystreet.com/report/7208465)
 
 <!-- fix_marker ends -->
