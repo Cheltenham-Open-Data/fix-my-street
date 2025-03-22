@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Ivor Williams Trailer left half on road/half on pavement for 6 mths, 22nd March :- [https://www.fixmystreet.com/report/7319609](https://www.fixmystreet.com/report/7319609)
 - Approaching the roundabout by brizen field from Shurdington road, 22nd March :- [https://www.fixmystreet.com/report/7319597](https://www.fixmystreet.com/report/7319597)
 - Huge pothole just past the bridge heading towards Staverton, 22nd March :- [https://www.fixmystreet.com/report/7319476](https://www.fixmystreet.com/report/7319476)
 - Uprooted and leaning parking restriction sign, 22nd March :- [https://www.fixmystreet.com/report/7319330](https://www.fixmystreet.com/report/7319330)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - 2 10inch potholes either side of the carriageway on Springbank Road opposite Hartbury Close, 21st March :- [https://www.fixmystreet.com/report/7317170](https://www.fixmystreet.com/report/7317170)
 - Recurrent pothole on speedbump, been painted over with whote paint, but getting worse, 21st March :- [https://www.fixmystreet.com/report/7316977](https://www.fixmystreet.com/report/7316977)
 - Double yellow line markings need re painting, 21st March :- [https://www.fixmystreet.com/report/7316966](https://www.fixmystreet.com/report/7316966)
-- Several large potholes on hall road near Moorend road end, 21st March :- [https://www.fixmystreet.com/report/7316957](https://www.fixmystreet.com/report/7316957)
 
 <!-- fix_marker ends -->
