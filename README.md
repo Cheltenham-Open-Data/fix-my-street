@@ -2,6 +2,7 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Approaching the roundabout by brizen field from Shurdington road, 22nd March :- [https://www.fixmystreet.com/report/7319597](https://www.fixmystreet.com/report/7319597)
 - Huge pothole just past the bridge heading towards Staverton, 22nd March :- [https://www.fixmystreet.com/report/7319476](https://www.fixmystreet.com/report/7319476)
 - Uprooted and leaning parking restriction sign, 22nd March :- [https://www.fixmystreet.com/report/7319330](https://www.fixmystreet.com/report/7319330)
 - Poor parking on corner, 22nd March :- [https://www.fixmystreet.com/report/7319223](https://www.fixmystreet.com/report/7319223)
@@ -21,6 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Recurrent pothole on speedbump, been painted over with whote paint, but getting worse, 21st March :- [https://www.fixmystreet.com/report/7316977](https://www.fixmystreet.com/report/7316977)
 - Double yellow line markings need re painting, 21st March :- [https://www.fixmystreet.com/report/7316966](https://www.fixmystreet.com/report/7316966)
 - Several large potholes on hall road near Moorend road end, 21st March :- [https://www.fixmystreet.com/report/7316957](https://www.fixmystreet.com/report/7316957)
-- Blocked drain, 21st March :- [https://www.fixmystreet.com/report/7316791](https://www.fixmystreet.com/report/7316791)
 
 <!-- fix_marker ends -->
