@@ -2,6 +2,14 @@ Fix my street items within 10km of Cheltenham centre
 
 <!-- fix_marker starts -->
 
+- Huge pothole just past the bridge heading towards Staverton, 22nd March :- [https://www.fixmystreet.com/report/7319476](https://www.fixmystreet.com/report/7319476)
+- Uprooted and leaning parking restriction sign, 22nd March :- [https://www.fixmystreet.com/report/7319330](https://www.fixmystreet.com/report/7319330)
+- Poor parking on corner, 22nd March :- [https://www.fixmystreet.com/report/7319223](https://www.fixmystreet.com/report/7319223)
+- Road Closed Signs when road is open., 22nd March :- [https://www.fixmystreet.com/report/7319021](https://www.fixmystreet.com/report/7319021)
+- Utility trench has sunk, 22nd March :- [https://www.fixmystreet.com/report/7318926](https://www.fixmystreet.com/report/7318926)
+- Multiple deep potholes, 22nd March :- [https://www.fixmystreet.com/report/7318896](https://www.fixmystreet.com/report/7318896)
+- Abandoned/flytipped caravan, 22nd March :- [https://www.fixmystreet.com/report/7318767](https://www.fixmystreet.com/report/7318767)
+- Forgotten barriers The Promenade Cheltenham, 22nd March :- [https://www.fixmystreet.com/report/7318033](https://www.fixmystreet.com/report/7318033)
 - Collapsed drain -, 22nd March :- [https://www.fixmystreet.com/report/7317597](https://www.fixmystreet.com/report/7317597)
 - A channel has been dug across the road and poorly filled in Same issue as 300m north, 22nd March :- [https://www.fixmystreet.com/report/7317592](https://www.fixmystreet.com/report/7317592)
 - A channel has been dug across the road and poorly filled in, 22nd March :- [https://www.fixmystreet.com/report/7317588](https://www.fixmystreet.com/report/7317588)
@@ -14,13 +22,5 @@ Fix my street items within 10km of Cheltenham centre
 - Double yellow line markings need re painting, 21st March :- [https://www.fixmystreet.com/report/7316966](https://www.fixmystreet.com/report/7316966)
 - Several large potholes on hall road near Moorend road end, 21st March :- [https://www.fixmystreet.com/report/7316957](https://www.fixmystreet.com/report/7316957)
 - Blocked drain, 21st March :- [https://www.fixmystreet.com/report/7316791](https://www.fixmystreet.com/report/7316791)
-- Street lamp not working, 21st March :- [https://www.fixmystreet.com/report/7316774](https://www.fixmystreet.com/report/7316774)
-- 4 potholes in lane, 21st March :- [https://www.fixmystreet.com/report/7316526](https://www.fixmystreet.com/report/7316526)
-- 3 potholes outside Chapel Close, 21st March :- [https://www.fixmystreet.com/report/7316497](https://www.fixmystreet.com/report/7316497)
-- Footpath obstructed, 21st March :- [https://www.fixmystreet.com/report/7316247](https://www.fixmystreet.com/report/7316247)
-- Drains on both sides of Bushcombe Lane are blocked, 21st March :- [https://www.fixmystreet.com/report/7316027](https://www.fixmystreet.com/report/7316027)
-- Unpermitted roadworks problem, 21st March :- [https://www.fixmystreet.com/report/7315973](https://www.fixmystreet.com/report/7315973)
-- Fly tipping of white goods and household rubbish, 21st March :- [https://www.fixmystreet.com/report/7315905](https://www.fixmystreet.com/report/7315905)
-- Has been mended but worse than ever, 21st March :- [https://www.fixmystreet.com/report/7315900](https://www.fixmystreet.com/report/7315900)
 
 <!-- fix_marker ends -->
